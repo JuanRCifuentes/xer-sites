@@ -51,6 +51,14 @@ h1 {
 h2 {
 	font-size: 2.441em;
 }
+h2#related-blog-post,
+h2#related-metrics,
+.metrics-post-footer h2 {
+	margin-top: 3rem;
+	margin-bottom: 0.75rem;
+	font-size: 1.25rem;
+	line-height: 1.2;
+}
 h3 {
 	font-size: 1.953em;
 }
