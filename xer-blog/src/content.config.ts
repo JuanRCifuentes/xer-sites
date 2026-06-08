@@ -9,18 +9,25 @@ const imageRefSchema = z.object({
 	alt: z.string().optional(),
 }) satisfies z.ZodType<ImageRef>;
 
+const postSchema = z.object({
+	title: z.string(),
+	description: z.string(),
+	// Transform string to Date object
+	pubDate: z.coerce.date(),
+	updatedDate: z.coerce.date().optional(),
+	heroImage: imageRefSchema.optional(),
+});
+
 const blog = defineCollection({
 	// Load Markdown and MDX files in the `src/content/blog/` directory.
 	loader: glob({ base: './src/content/blog', pattern: '**/*.{md,mdx}' }),
 	// Type-check frontmatter using a schema
-	schema: z.object({
-		title: z.string(),
-		description: z.string(),
-		// Transform string to Date object
-		pubDate: z.coerce.date(),
-		updatedDate: z.coerce.date().optional(),
-		heroImage: imageRefSchema.optional(),
-	}),
+	schema: postSchema,
 });
 
-export const collections = { blog };
+const metrics = defineCollection({
+	loader: glob({ base: './src/content/metrics', pattern: '**/*.{md,mdx}' }),
+	schema: postSchema,
+});
+
+export const collections = { blog, metrics };
