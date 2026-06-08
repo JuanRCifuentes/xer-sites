@@ -1,0 +1,18 @@
+{
+  "name": "xer-sites",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev:blog": "pnpm --filter xer-blog dev",
+    "build:blog": "pnpm --filter xer-blog build",
+    "build": "pnpm -r build"
+  },
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "^11.5.2",
+      "onFail": "download"
+    }
+  }
+}

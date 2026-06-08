@@ -1,0 +1,7 @@
+packages:
+  - 'xer-blog'
+
+# Build scripts approved to run during install (consolidated from xer-blog).
+allowBuilds:
+  esbuild: true
+  sharp: true
