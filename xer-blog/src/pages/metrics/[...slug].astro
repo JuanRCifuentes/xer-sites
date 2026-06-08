@@ -1,0 +1,56 @@
+---
+import { type CollectionEntry, getCollection, render } from 'astro:content';
+import BlogPost from '../../layouts/BlogPost.astro';
+
+export async function getStaticPaths() {
+	const posts = await getCollection('metrics');
+	return posts.map((post) => ({
+		params: { slug: post.id },
+		props: post,
+	}));
+}
+type Props = CollectionEntry<'metrics'>;
+
+const post = Astro.props;
+const { Content } = await render(post);
+const relatedPosts = (await getCollection('metrics'))
+	.filter((relatedPost) => relatedPost.id !== post.id)
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<BlogPost {...post.data}>
+	<Content />
+	{
+		relatedPosts.length > 0 && (
+			<nav class="metrics-post-footer" aria-label="Related metrics posts">
+				<h2>Related Metrics</h2>
+				<ul>
+					{relatedPosts.map((relatedPost) => (
+						<li>
+							<a href={`/metrics/${relatedPost.id}/`}>{relatedPost.data.title}</a>
+						</li>
+					))}
+				</ul>
+			</nav>
+		)
+	}
+</BlogPost>
+
+<style>
+	.metrics-post-footer {
+		margin-top: 3rem;
+		padding-top: 1.5rem;
+		border-top: 1px solid rgb(var(--gray-light));
+	}
+	.metrics-post-footer h2 {
+		margin-bottom: 0.75rem;
+		font-size: 1.25rem;
+	}
+	.metrics-post-footer ul {
+		margin: 0;
+		padding-left: 1.5rem;
+	}
+	.metrics-post-footer li {
+		margin-bottom: 0.5rem;
+	}
+</style>
