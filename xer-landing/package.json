@@ -1,5 +1,5 @@
 {
-  "name": "xer-blog",
+  "name": "xer-landing",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -9,11 +9,6 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/mdx": "^6.0.2",
-    "@astrojs/rss": "^4.0.18",
-    "@astrojs/sitemap": "^3.7.3",
-    "astro": "^6.4.5",
-    "mermaid": "^11.15.0",
-    "sharp": "^0.34.3"
+    "astro": "^6.4.5"
   }
 }

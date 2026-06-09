@@ -1,11 +1,12 @@
 packages:
   - 'xer-blog'
+  - 'xer-landing'
 
 # Build scripts approved to run during install (consolidated from xer-blog).
 allowBuilds:
   esbuild: true
   sharp: true
-  workerd: set this to true or false
+  workerd: true
 
 minimumReleaseAgeExclude:
   - '@cloudflare/workerd-darwin-64@1.20260609.1'
@@ -16,3 +17,4 @@ minimumReleaseAgeExclude:
   - miniflare@4.20260609.0
   - workerd@1.20260609.1
   - wrangler@4.99.0
+  - astro@6.4.5

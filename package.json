@@ -11,6 +11,8 @@
   "scripts": {
     "dev:blog": "pnpm --filter xer-blog dev",
     "build:blog": "pnpm --filter xer-blog build",
+    "dev:landing": "pnpm --filter xer-landing dev",
+    "build:landing": "pnpm --filter xer-landing build",
     "build": "pnpm -r build"
   },
   "devDependencies": {
