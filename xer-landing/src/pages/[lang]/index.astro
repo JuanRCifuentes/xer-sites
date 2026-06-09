@@ -1,5 +1,14 @@
 ---
+import { getEntry } from "astro:content";
 import Header from '../../components/Header.astro';
+import AiBanner from "../../components/AiBanner.astro";
+import Hero from '../../components/landing/Hero.astro';
+import LogoCloud from '../../components/landing/LogoCloud.astro';
+import PrimaryFeatures from '../../components/landing/PrimaryFeatures.astro';
+import SecondaryFeatures from '../../components/landing/SecondaryFeatures.astro';
+import Stats from '../../components/landing/Stats.astro';
+import CtaBanner from '../../components/landing/CtaBanner.astro';
+import Footer from '../../components/landing/Footer.astro';
 import { SITE_TITLE } from '../../consts';
 import { LOCALES, STRINGS, type Lang } from '../../i18n';
 import '../../styles/global.css';
@@ -11,6 +20,10 @@ export function getStaticPaths() {
 const lang = Astro.params.lang as Lang;
 const { dir } = LOCALES[lang];
 const t = STRINGS[lang];
+
+const entry = (await getEntry("landing", lang)) ?? (await getEntry("landing", "en"));
+if (!entry) throw new Error("Missing landing content for " + lang);
+const data = entry.data;
 ---
 
 <html lang={lang} dir={dir}>
@@ -19,14 +32,22 @@ const t = STRINGS[lang];
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>{SITE_TITLE}</title>
-		<meta name="description" content={t.description} />
+		<title>{data.meta?.title ?? SITE_TITLE}</title>
+		<meta name="description" content={data.meta?.description ?? t.description} />
 	</head>
-	<body>
+	<body class="bg-white dark:bg-gray-900">
 		<Header lang={lang} />
-		<main>
-			<h1 class="text-4xl font-bold">{SITE_TITLE}</h1>
-			<p class="mt-2 text-lg text-gray-500 dark:text-gray-400">{t.description}</p>
-		</main>
+		<AiBanner lang={lang} />
+		<div class="bg-white dark:bg-gray-900">
+			<main>
+				<Hero section={data.hero} lang={lang} />
+				<LogoCloud section={data.logoCloud} />
+				<PrimaryFeatures section={data.primaryFeatures} lang={lang} />
+				<SecondaryFeatures section={data.secondaryFeatures} />
+				<Stats section={data.stats} />
+				<CtaBanner section={data.cta} lang={lang} />
+			</main>
+			<Footer section={data.footer} />
+		</div>
 	</body>
 </html>

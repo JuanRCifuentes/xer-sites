@@ -1,0 +1,35 @@
+---
+import type { CollectionEntry } from "astro:content";
+
+type Props = {
+	section: CollectionEntry<"landing">["data"]["logoCloud"];
+};
+
+const { section } = Astro.props;
+
+const positional = ["", "", "", "sm:col-start-2", "col-start-2 sm:col-start-auto"];
+---
+
+<div class="mx-auto mt-8 max-w-7xl px-6 sm:mt-16 lg:px-8">
+	<h2 class="text-center text-lg/8 font-semibold text-gray-900 dark:text-white">{section.heading}</h2>
+	<div class="mx-auto mt-10 grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-5">
+		{section.logos.map((logo, i) => (
+			<>
+				<img
+					width="158"
+					height="48"
+					src={logo.light}
+					alt={logo.name}
+					class:list={["col-span-2 max-h-12 w-full object-contain lg:col-span-1 dark:hidden", positional[i] ?? ""]}
+				/>
+				<img
+					width="158"
+					height="48"
+					src={logo.dark}
+					alt={logo.name}
+					class:list={["col-span-2 max-h-12 w-full object-contain not-dark:hidden lg:col-span-1", positional[i] ?? ""]}
+				/>
+			</>
+		))}
+	</div>
+</div>
