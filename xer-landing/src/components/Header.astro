@@ -1,11 +1,20 @@
 ---
 import { BRAND_NAME, SITE_LINKS } from '../consts';
+import { DEFAULT_LANG, LOCALES, type Lang } from '../i18n';
+
+interface Props {
+	lang?: Lang;
+}
+
+const { lang = DEFAULT_LANG } = Astro.props;
 
 // Cross-site links. "Home" is omitted because the brand logo links to it.
+// Links carry the current locale so navigating doesn't reset the language;
+// all three sites share the same locale prefixes.
 const links = [
-	{ label: 'Blog', href: SITE_LINKS.blog, current: false },
-	{ label: 'Metrics', href: `${SITE_LINKS.blog}/en/metrics/`, current: false },
-	{ label: 'Docs', href: SITE_LINKS.docs, current: false },
+	{ label: 'Blog', href: `${SITE_LINKS.blog}/${lang}/`, current: false },
+	{ label: 'Metrics', href: `${SITE_LINKS.blog}/${lang}/metrics/`, current: false },
+	{ label: 'Docs', href: `${SITE_LINKS.docs}/${lang}/`, current: false },
 ];
 
 const desktopBase = 'inline-flex items-center border-b-2 px-1 pt-1 text-sm font-medium';
@@ -28,7 +37,7 @@ const mobileDefault =
 			<div class="flex">
 				<div class="flex shrink-0 items-center">
 					<a
-						href={SITE_LINKS.landing}
+						href={`${SITE_LINKS.landing}/${lang}/`}
 						class="text-lg font-bold text-indigo-600 dark:text-indigo-500">{BRAND_NAME}</a
 					>
 				</div>
@@ -46,14 +55,27 @@ const mobileDefault =
 					}
 				</div>
 			</div>
-			<div class="-mr-2 flex items-center sm:hidden">
+			<div class="-mr-2 flex items-center gap-2">
+				<select
+					id="lang-select"
+					aria-label="Language"
+					class="rounded-md border border-gray-300 bg-white py-1 pr-7 pl-2 text-sm text-gray-700 dark:border-white/10 dark:bg-gray-800 dark:text-gray-300"
+				>
+					{
+						Object.entries(LOCALES).map(([code, locale]) => (
+							<option value={code} selected={code === lang}>
+								{locale.label}
+							</option>
+						))
+					}
+				</select>
 				<!-- Mobile menu button -->
 				<button
 					id="mobile-menu-button"
 					type="button"
 					aria-controls="mobile-menu"
 					aria-expanded="false"
-					class="relative inline-flex items-center justify-center rounded-md p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-2 focus:-outline-offset-1 focus:outline-indigo-600 dark:hover:bg-white/5 dark:hover:text-white dark:focus:outline-indigo-500"
+					class="relative inline-flex items-center justify-center rounded-md p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-2 focus:-outline-offset-1 focus:outline-indigo-600 sm:hidden dark:hover:bg-white/5 dark:hover:text-white dark:focus:outline-indigo-500"
 				>
 					<span class="absolute -inset-0.5"></span>
 					<span class="sr-only">Open main menu</span>
@@ -109,5 +131,10 @@ const mobileDefault =
 		const open = button.getAttribute('aria-expanded') === 'true';
 		button.setAttribute('aria-expanded', String(!open));
 		if (menu) menu.hidden = open;
+	});
+
+	const langSelect = document.getElementById('lang-select') as HTMLSelectElement | null;
+	langSelect?.addEventListener('change', () => {
+		location.href = `/${langSelect.value}/`;
 	});
 </script>

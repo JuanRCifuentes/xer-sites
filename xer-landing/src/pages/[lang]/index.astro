@@ -1,0 +1,32 @@
+---
+import Header from '../../components/Header.astro';
+import { SITE_TITLE } from '../../consts';
+import { LOCALES, STRINGS, type Lang } from '../../i18n';
+import '../../styles/global.css';
+
+export function getStaticPaths() {
+	return Object.keys(LOCALES).map((lang) => ({ params: { lang } }));
+}
+
+const lang = Astro.params.lang as Lang;
+const { dir } = LOCALES[lang];
+const t = STRINGS[lang];
+---
+
+<html lang={lang} dir={dir}>
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{SITE_TITLE}</title>
+		<meta name="description" content={t.description} />
+	</head>
+	<body>
+		<Header lang={lang} />
+		<main>
+			<h1 class="text-4xl font-bold">{SITE_TITLE}</h1>
+			<p class="mt-2 text-lg text-gray-500 dark:text-gray-400">{t.description}</p>
+		</main>
+	</body>
+</html>
