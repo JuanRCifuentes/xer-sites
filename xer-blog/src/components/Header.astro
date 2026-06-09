@@ -2,10 +2,13 @@
 import { BRAND_NAME, SITE_LINKS } from '../consts';
 
 // Cross-site links. "Home" is omitted because the brand logo links to it.
-// This is the blog site, so "Blog" is the current page.
+// Blog and Metrics both live on this site, so the active link is derived from
+// the current path; Docs lives on a separate site and is never active here.
+const pathname = Astro.url.pathname;
+const onMetrics = pathname === '/metrics' || pathname.startsWith('/metrics/');
 const links = [
-	{ label: 'Blog', href: SITE_LINKS.blog, current: true },
-	{ label: 'Metrics', href: `${SITE_LINKS.blog}/metrics`, current: false },
+	{ label: 'Blog', href: SITE_LINKS.blog, current: !onMetrics },
+	{ label: 'Metrics', href: `${SITE_LINKS.blog}/metrics`, current: onMetrics },
 	{ label: 'Docs', href: SITE_LINKS.docs, current: false },
 ];
 
@@ -22,7 +25,7 @@ const mobileDefault =
 ---
 
 <nav
-	class="relative bg-white shadow-sm dark:bg-gray-800/50 dark:shadow-none dark:after:pointer-events-none dark:after:absolute dark:after:inset-x-0 dark:after:bottom-0 dark:after:h-px dark:after:bg-white/10"
+	class="relative bg-white font-sans shadow-sm dark:bg-gray-800/50 dark:shadow-none dark:after:pointer-events-none dark:after:absolute dark:after:inset-x-0 dark:after:bottom-0 dark:after:h-px dark:after:bg-white/10"
 >
 	<div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
 		<div class="flex h-16 justify-between">
