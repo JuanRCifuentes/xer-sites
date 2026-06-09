@@ -1,6 +1,7 @@
 packages:
   - 'xer-blog'
   - 'xer-landing'
+  - 'xer-docs'
 
 # Build scripts approved to run during install (consolidated from xer-blog).
 allowBuilds:
