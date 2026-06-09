@@ -1,6 +1,6 @@
 ---
 title: 'Critical Path'
-description: 'Lorem ipsum dolor sit amet'
+description: 'What the critical path means in Primavera P6, why you should never accept the critical filter blindly, and how to review the path so the forecast can be trusted.'
 pubDate: 'Jul 22 2022'
 heroImage:
   folder: blog

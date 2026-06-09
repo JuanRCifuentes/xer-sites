@@ -1,6 +1,6 @@
 ---
 title: 'Activities Starting on the Data Date with No Driving Logic: Why This Schedule Metric Matters'
-description: 'A practical overview of schedule quality checks'
+description: 'Why activities starting on the Data Date with no driving logic weaken a Primavera P6 schedule, what causes them, and how to fix the metric step by step.'
 pubDate: 'Jun 8 2026'
 heroImage:
   folder: blog

@@ -1,6 +1,6 @@
 ---
 title: 'Activities Starting in dd with no logic driving - Improvement Guide'
-description: 'Lorem ipsum dolor sit amet'
+description: 'Step-by-step guide to eliminating activities that start on the Primavera P6 Data Date without driving logic: diagnose causes, fix logic, validate results.'
 pubDate: 'Jul 15 2022'
 heroImage:
   folder: blog

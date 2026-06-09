@@ -1,6 +1,6 @@
 ---
 title: 'Activities Starting in dd with no logic driving - Overview'
-description: 'TBD'
+description: 'Schedule quality metric: activities starting on the Primavera P6 Data Date with no driving predecessor logic — what it measures, its zero target, and why it matters.'
 pubDate: 'Junio 8, 2026'
 heroImage:
   folder: blog

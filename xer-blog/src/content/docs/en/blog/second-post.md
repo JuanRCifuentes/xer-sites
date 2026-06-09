@@ -1,6 +1,6 @@
 ---
 title: 'Robust Logic'
-description: 'RBD'
+description: 'How robust CPM logic makes a Primavera P6 schedule credible: start drivers for every activity, balanced relationships, and careful use of SS and FF links.'
 pubDate: 'Jul 15 2022'
 heroImage:
   folder: blog
