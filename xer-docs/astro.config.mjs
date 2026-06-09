@@ -10,19 +10,23 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Xer Docs',
-			// English is the default, served from the root path. Spanish is
-			// human-maintained; the remaining locales are AI-translated and get an
-			// "AI Generated" banner (see src/components/Banner.astro).
+			// English is the default locale. Spanish is human-maintained; the
+			// remaining locales are AI-translated and get an "AI Generated" banner
+			// (see src/components/Banner.astro).
 			defaultLocale: 'en',
 			locales: {
 				en: { label: 'English', lang: 'en' },
-				es: { label: 'Español', lang: 'es' },
-				fr: { label: 'Français', lang: 'fr' },
-				it: { label: 'Italiano', lang: 'it' },
-				ru: { label: 'Русский', lang: 'ru' },
+				zh: { label: '中文', lang: 'zh' },
 				ar: { label: 'العربية', lang: 'ar', dir: 'rtl' },
+				hi: { label: 'हिन्दी', lang: 'hi' },
+				es: { label: 'Español', lang: 'es' },
+				pt: { label: 'Português', lang: 'pt' },
+				ru: { label: 'Русский', lang: 'ru' },
+				fr: { label: 'Français', lang: 'fr' },
+				de: { label: 'Deutsch', lang: 'de' },
+				ko: { label: '한국어', lang: 'ko' },
 				ja: { label: '日本語', lang: 'ja' },
-				'zh-cn': { label: '简体中文', lang: 'zh-CN' },
+				it: { label: 'Italiano', lang: 'it' },
 			},
 			components: {
 				SiteTitle: './src/components/SiteTitle.astro',
@@ -33,26 +37,34 @@ export default defineConfig({
 				{
 					label: 'Guides',
 					translations: {
-						es: 'Guías',
-						fr: 'Guides',
-						it: 'Guide',
-						ru: 'Руководства',
+						zh: '指南',
 						ar: 'الأدلة',
+						hi: 'मार्गदर्शिकाएँ',
+						es: 'Guías',
+						pt: 'Guias',
+						ru: 'Руководства',
+						fr: 'Guides',
+						de: 'Anleitungen',
+						ko: '가이드',
 						ja: 'ガイド',
-						'zh-CN': '指南',
+						it: 'Guide',
 					},
 					items: [{ autogenerate: { directory: 'guides' } }],
 				},
 				{
 					label: 'Reference',
 					translations: {
-						es: 'Referencia',
-						fr: 'Référence',
-						it: 'Riferimento',
-						ru: 'Справочник',
+						zh: '参考',
 						ar: 'المرجع',
+						hi: 'संदर्भ',
+						es: 'Referencia',
+						pt: 'Referência',
+						ru: 'Справочник',
+						fr: 'Référence',
+						de: 'Referenz',
+						ko: '참조',
 						ja: 'リファレンス',
-						'zh-CN': '参考',
+						it: 'Riferimento',
 					},
 					items: [{ autogenerate: { directory: 'reference' } }],
 				},

@@ -6,12 +6,16 @@
 //
 // Keys are BCP-47 language tags, matching the `lang` values in astro.config.mjs.
 const AI_WARNINGS: Record<string, string> = {
-	fr: 'Cette page a été traduite automatiquement par une IA et peut contenir des erreurs.',
-	it: 'Questa pagina è stata tradotta automaticamente da un’IA e potrebbe contenere errori.',
-	ru: 'Эта страница была переведена автоматически с помощью ИИ и может содержать ошибки.',
+	zh: '本页面由 AI 自动翻译，可能存在错误。',
 	ar: 'تمت ترجمة هذه الصفحة آلياً بواسطة الذكاء الاصطناعي وقد تحتوي على أخطاء.',
+	hi: 'यह पृष्ठ AI द्वारा स्वचालित रूप से अनुवादित किया गया है और इसमें त्रुटियाँ हो सकती हैं।',
+	pt: 'Esta página foi traduzida automaticamente por IA e pode conter erros.',
+	ru: 'Эта страница была переведена автоматически с помощью ИИ и может содержать ошибки.',
+	fr: 'Cette page a été traduite automatiquement par une IA et peut contenir des erreurs.',
+	de: 'Diese Seite wurde automatisch von einer KI übersetzt und kann Fehler enthalten.',
+	ko: '이 페이지는 AI에 의해 자동 번역되었으며 오류가 있을 수 있습니다.',
 	ja: 'このページは AI によって自動翻訳されているため、誤りが含まれている可能性があります。',
-	'zh-CN': '本页面由 AI 自动翻译，可能存在错误。',
+	it: 'Questa pagina è stata tradotta automaticamente da un’IA e potrebbe contenere errori.',
 };
 
 const { lang } = Astro.locals.starlightRoute;
