@@ -19,7 +19,7 @@ const posts = (await getCollection('blog')).sort(
 	</head>
 	<body>
 		<Header />
-		<main class="mx-auto w-[960px] max-w-[calc(100%-2em)] px-[1em] py-[3em] mobile:py-[1em]">
+		<main class="mx-auto w-240 max-w-[calc(100%-2em)] px-[1em] py-[3em] mobile:py-[1em]">
 			<section>
 				<ul class="m-0 flex list-none flex-wrap gap-8 p-0 mobile:gap-[0.5em]">
 					{
@@ -40,7 +40,7 @@ const posts = (await getCollection('blog')).sort(
 												src={getBucketImageUrl(post.data.heroImage)}
 												alt={post.data.heroImage.alt ?? ''}
 												class:list={[
-													'mb-2 rounded-xl transition-all duration-200 ease-[ease] group-hover:shadow-[var(--box-shadow)]',
+													'mb-2 rounded-xl transition-all duration-200 ease-[ease] group-hover:shadow-(--box-shadow)',
 													featured && 'w-full',
 												]}
 											/>
