@@ -19,7 +19,7 @@ const links = [
 ---
 
 <div class="xer-site-title sl-flex">
-	<a href={SITE_LINKS.landing} class="xer-brand">{BRAND_NAME}</a>
+	<a href={`${SITE_LINKS.landing}/${lang}/`} class="xer-brand">{BRAND_NAME}</a>
 	<nav class="xer-nav sl-hidden md:sl-flex" aria-label="Cross-site navigation">
 		{
 			links.map((link) => (
