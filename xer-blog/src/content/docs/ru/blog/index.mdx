@@ -1,0 +1,25 @@
+---
+title: Блог
+description: Статьи о планировании в Primavera P6, логике МКП и качестве расписаний для плановиков и специалистов по управлению проектами.
+template: splash
+hero:
+  tagline: Статьи о планировании в Primavera P6, логике МКП и качестве расписаний — для инженеров-плановиков, специалистов по управлению проектами и аналитиков ПМО, которым нужны достоверные расписания.
+  actions:
+    - text: Начать с основ
+      link: /ru/blog/what-is-a-project-schedule/
+      icon: right-arrow
+      variant: primary
+    - text: Изучить метрики
+      link: /ru/metrics/
+      variant: minimal
+sidebar:
+  order: 0
+---
+
+import PostCards from '../../../../components/PostCards.astro';
+
+## Последние публикации
+
+<PostCards count={5} seeAllHref="/ru/blog/all-posts/" />
+
+Измеримую сторону качества расписания см. в разделе [Сводка метрик](/ru/metrics/).
