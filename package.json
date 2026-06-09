@@ -12,5 +12,8 @@
     "dev:blog": "pnpm --filter xer-blog dev",
     "build:blog": "pnpm --filter xer-blog build",
     "build": "pnpm -r build"
+  },
+  "devDependencies": {
+    "wrangler": "^4.99.0"
   }
 }
