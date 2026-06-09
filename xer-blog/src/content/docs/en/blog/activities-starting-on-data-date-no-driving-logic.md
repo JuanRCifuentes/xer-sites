@@ -1,5 +1,5 @@
 ---
-title: 'Activities Starting on the Data Date with No Driving Logic: Why This Schedule Metric Matters'
+title: 'Activities Starting on the Data Date with No Driving Logic'
 description: 'Why activities starting on the Data Date with no driving logic weaken a Primavera P6 schedule, what causes them, and how to fix the metric step by step.'
 pubDate: 'Jun 8 2026'
 heroImage:
@@ -143,4 +143,4 @@ Review your latest Primavera P6 schedule update and filter for open or not-start
 
 ## Related Metrics
 
-- [Activities Starting in dd with no logic driving - Overview](/en/metrics/first-post/)
+- [Activities Starting on the Data Date with No Driving Logic — Overview](/en/metrics/data-date-no-driving-logic-overview/)

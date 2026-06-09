@@ -19,7 +19,7 @@ hero:
       </svg>
   actions:
     - text: Explore the first metric
-      link: /en/metrics/first-post/
+      link: /en/metrics/data-date-no-driving-logic-overview/
       icon: right-arrow
       variant: primary
     - text: Read the blog
@@ -33,7 +33,7 @@ sidebar:
 
 This metric identifies open or not-started activities scheduled to start on the Data Date without valid predecessor logic driving that start. Activities collecting at the Data Date boundary without logic distort float, obscure the longest path, and make the forecast unreliable. The target threshold is 0 activities.
 
-- [Overview](/en/metrics/first-post/) — what the metric measures, its threshold, and why it matters for schedule credibility.
-- [Improvement Guide](/en/metrics/second-post/) — how schedulers and project controls teams resolve flagged activities during quality reviews and update cycles.
+- [Overview](/en/metrics/data-date-no-driving-logic-overview/) — what the metric measures, its threshold, and why it matters for schedule credibility.
+- [Improvement Guide](/en/metrics/data-date-no-driving-logic-improvement-guide/) — how schedulers and project controls teams resolve flagged activities during quality reviews and update cycles.
 
-For the narrative version of why this metric matters, read the related blog post: [Activities Starting on the Data Date with No Driving Logic: Why This Schedule Metric Matters](/en/blog/fourth-post/).
+For the narrative version of why this metric matters, read the related blog post: [Activities Starting on the Data Date with No Driving Logic](/en/blog/activities-starting-on-data-date-no-driving-logic/).

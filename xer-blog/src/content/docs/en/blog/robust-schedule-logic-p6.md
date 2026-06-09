@@ -1,5 +1,5 @@
 ---
-title: 'Robust Logic'
+title: 'Robust Logic in Primavera P6: Every Activity Needs a Driver'
 description: 'How robust CPM logic makes a Primavera P6 schedule credible: start drivers for every activity, balanced relationships, and careful use of SS and FF links.'
 pubDate: 'Jul 15 2022'
 heroImage:

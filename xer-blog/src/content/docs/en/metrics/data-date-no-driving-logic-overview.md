@@ -1,5 +1,7 @@
 ---
-title: 'Activities Starting in dd with no logic driving - Overview'
+title: 'Activities Starting on the Data Date with No Driving Logic — Overview'
+sidebar:
+  label: 'No Driving Logic at Data Date — Overview'
 description: 'Schedule quality metric: activities starting on the Primavera P6 Data Date with no driving predecessor logic — what it measures, its zero target, and why it matters.'
 pubDate: 'Junio 8, 2026'
 heroImage:
@@ -30,4 +32,4 @@ For Primavera P6 users, this metric supports better update discipline, stronger 
 
 ## Related Blog Post
 
-- [Activities Starting on the Data Date with No Driving Logic: Why This Schedule Metric Matters](/en/blog/fourth-post/)
+- [Activities Starting on the Data Date with No Driving Logic](/en/blog/activities-starting-on-data-date-no-driving-logic/)
