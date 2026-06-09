@@ -38,6 +38,8 @@ export default defineConfig({
 				SiteTitle: './src/components/SiteTitle.astro',
 				Banner: './src/components/Banner.astro',
 				MarkdownContent: './src/components/MarkdownContent.astro',
+				// Shows an estimated reading time under blog post titles.
+				PageTitle: './src/components/PageTitle.astro',
 			},
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [

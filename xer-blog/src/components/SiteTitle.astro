@@ -5,10 +5,12 @@
 // used on the docs site.
 import { BRAND_NAME, SITE_LINKS } from '../consts';
 
-// Blog is its own site, so "Blog" is always the current section here.
+// Blog and Metrics both live on this site, so pick the current section from
+// the URL: any /<locale>/metrics/ page is Metrics, everything else is Blog.
+const onMetrics = /^\/[^/]+\/metrics(\/|$)/.test(Astro.url.pathname);
 const links = [
-	{ label: 'Blog', href: SITE_LINKS.blog, current: true },
-	{ label: 'Metrics', href: `${SITE_LINKS.blog}/en/metrics/`, current: false },
+	{ label: 'Blog', href: SITE_LINKS.blog, current: !onMetrics },
+	{ label: 'Metrics', href: `${SITE_LINKS.blog}/en/metrics/`, current: onMetrics },
 	{ label: 'Docs', href: SITE_LINKS.docs, current: false },
 ];
 ---

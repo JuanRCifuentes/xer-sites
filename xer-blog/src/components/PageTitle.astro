@@ -1,0 +1,61 @@
+---
+// Wraps Starlight's default PageTitle to show an estimated reading time under
+// the title of blog posts. The estimate is computed at build time from the
+// entry's raw markdown body; a `readingTime` frontmatter value (in minutes)
+// overrides the calculation.
+import Default from '@astrojs/starlight/components/PageTitle.astro';
+
+const WORDS_PER_MINUTE = 200;
+// CJK text has no word spaces, so count characters instead.
+const CJK_CHARS_PER_MINUTE = 500;
+const CJK = /[぀-ヿ㐀-䶿一-鿿豈-﫿가-힯]/g;
+
+const LABELS = {
+	en: (m) => `${m} min read`,
+	es: (m) => `${m} min de lectura`,
+	pt: (m) => `${m} min de leitura`,
+	fr: (m) => `${m} min de lecture`,
+	de: (m) => `${m} Min. Lesezeit`,
+	it: (m) => `${m} min di lettura`,
+	ru: (m) => `${m} мин чтения`,
+	zh: (m) => `阅读时间约 ${m} 分钟`,
+	ja: (m) => `読了時間 約${m}分`,
+	ko: (m) => `약 ${m}분 소요`,
+	ar: (m) => `${m} دقائق قراءة`,
+	hi: (m) => `${m} मिनट में पढ़ें`,
+};
+
+function estimateMinutes(markdown) {
+	const text = markdown
+		.replace(/```[\s\S]*?```/g, ' ') // code fences (incl. mermaid diagrams)
+		.replace(/!\[[^\]]*\]\([^)]*\)/g, ' ') // images
+		.replace(/\[([^\]]*)\]\([^)]*\)/g, '$1') // links → their text
+		.replace(/<[^>]+>/g, ' '); // inline HTML tags
+	const cjkChars = (text.match(CJK) || []).length;
+	const words = text.replace(CJK, ' ').split(/\s+/).filter(Boolean).length;
+	return Math.max(1, Math.round(words / WORDS_PER_MINUTE + cjkChars / CJK_CHARS_PER_MINUTE));
+}
+
+const { entry, locale } = Astro.locals.starlightRoute;
+const isBlogPost = /^[^/]+\/blog\/.+/.test(entry.id);
+
+let minutes;
+if (entry.data.readingTime !== undefined) {
+	minutes = entry.data.readingTime;
+} else if (isBlogPost && entry.body) {
+	minutes = estimateMinutes(entry.body);
+}
+
+const label = minutes !== undefined && (LABELS[locale ?? 'en'] ?? LABELS.en)(minutes);
+---
+
+<Default><slot /></Default>
+{label && <p class="reading-time">{label}</p>}
+
+<style>
+	.reading-time {
+		margin-top: 0.5rem;
+		font-size: var(--sl-text-sm);
+		color: var(--sl-color-gray-3);
+	}
+</style>
