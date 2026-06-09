@@ -37,7 +37,9 @@ function estimateMinutes(markdown) {
 }
 
 const { entry, locale } = Astro.locals.starlightRoute;
-const isBlogPost = /^[^/]+\/blog\/.+/.test(entry.id);
+// Pages under blog/ are posts, except the all-posts archive (a card grid, so
+// a reading-time estimate would be meaningless there).
+const isBlogPost = /^[^/]+\/blog\/(?!all-posts$).+/.test(entry.id);
 
 let minutes;
 if (entry.data.readingTime !== undefined) {

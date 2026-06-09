@@ -1,0 +1,129 @@
+---
+// Renders blog posts as a responsive card grid. The blog index
+// (en/blog/index.mdx) shows the latest posts plus a "See all posts" card;
+// the archive (en/blog/all-posts.mdx) shows every post. Posts come from the
+// docs collection under en/blog/, ordered by pubDate descending; posts
+// without a pubDate sort last.
+import { getCollection } from 'astro:content';
+import { Icon } from '@astrojs/starlight/components';
+
+interface Props {
+	/** Maximum number of post cards to show. Omit to show every post. */
+	count?: number;
+	/** When set, appends a "See all posts" card linking to this page. */
+	seeAllHref?: string;
+}
+
+const { count, seeAllHref } = Astro.props;
+
+const posts = (
+	await getCollection(
+		'docs',
+		(entry) => entry.id.startsWith('en/blog/') && entry.id !== 'en/blog/all-posts',
+	)
+)
+	.sort((a, b) => (b.data.pubDate?.getTime() ?? 0) - (a.data.pubDate?.getTime() ?? 0))
+	.slice(0, count);
+
+const formatter = new Intl.DateTimeFormat('en', { dateStyle: 'medium' });
+
+// pubDate strings like 'Jun 8 2026' parse as local-time midnight, and the
+// formatter above also renders in local time. Build the datetime attribute
+// from local date parts too — toISOString() is UTC and would disagree with
+// the visible date by a day on non-UTC build machines.
+const isoDate = (d: Date) =>
+	`${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+---
+
+{/* role="list" restores list semantics that list-style: none removes in WebKit. */}
+<ul class="post-grid not-content" role="list">
+	{
+		posts.map((post) => (
+			<li class="post-card">
+				<a href={`/${post.id}/`}>{post.data.title}</a>
+				{post.data.pubDate && (
+					<time datetime={isoDate(post.data.pubDate)}>
+						{formatter.format(post.data.pubDate)}
+					</time>
+				)}
+				<p>{post.data.description}</p>
+			</li>
+		))
+	}
+	{
+		seeAllHref && (
+			<li class="post-card see-all">
+				<a href={seeAllHref}>See all posts</a>
+				<Icon name="right-arrow" size="1.333em" class="rtl:flip" />
+			</li>
+		)
+	}
+</ul>
+
+<style>
+	.post-grid {
+		list-style: none;
+		padding: 0;
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(19rem, 1fr));
+		gap: 1rem;
+	}
+
+	.post-card {
+		position: relative;
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+		border: 1px solid var(--sl-color-gray-5);
+		border-radius: 0.5rem;
+		padding: 1rem;
+		box-shadow: var(--sl-shadow-sm);
+	}
+
+	.post-card:hover {
+		background: var(--sl-color-gray-7, var(--sl-color-gray-6));
+		border-color: var(--sl-color-gray-2);
+	}
+
+	.post-card a {
+		color: var(--sl-color-white);
+		font-weight: 600;
+		font-size: var(--sl-text-lg);
+		line-height: var(--sl-line-height-headings);
+		text-decoration: none;
+	}
+
+	/* Make the whole card the link target (same pattern as Starlight's LinkCard). */
+	.post-card a::before {
+		content: '';
+		position: absolute;
+		inset: 0;
+	}
+
+	.post-card time {
+		color: var(--sl-color-gray-3);
+		font-size: var(--sl-text-sm);
+	}
+
+	.post-card p {
+		color: var(--sl-color-gray-3);
+		line-height: 1.5;
+		margin: 0;
+	}
+
+	.see-all {
+		flex-direction: row;
+		align-items: center;
+		justify-content: center;
+		gap: 0.5rem;
+		color: var(--sl-color-gray-3);
+	}
+
+	.see-all a {
+		color: var(--sl-color-accent-high);
+	}
+
+	.see-all:hover {
+		color: var(--sl-color-white);
+	}
+</style>
