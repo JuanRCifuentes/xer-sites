@@ -9,6 +9,7 @@
     "pnpm": "11.5.2"
   },
   "scripts": {
+    "dev": "pnpm -r --parallel run dev",
     "dev:blog": "pnpm --filter xer-blog dev",
     "build:blog": "pnpm --filter xer-blog build",
     "dev:landing": "pnpm --filter xer-landing dev",
