@@ -143,5 +143,5 @@ Review your latest Primavera P6 schedule update and filter for open or not-start
 
 ## Related Metrics
 
-- [Activities Starting in dd with no logic driving - Overview](/metrics/first-post/)
-- [TBD](/metrics/third-post/)
+- [Activities Starting in dd with no logic driving - Overview](/en/metrics/first-post/)
+- [TBD](/en/metrics/third-post/)

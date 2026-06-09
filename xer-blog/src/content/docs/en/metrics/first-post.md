@@ -30,4 +30,4 @@ For Primavera P6 users, this metric supports better update discipline, stronger 
 
 ## Related Blog Post
 
-- [Activities Starting on the Data Date with No Driving Logic: Why This Schedule Metric Matters](/blog/fourth-post/)
+- [Activities Starting on the Data Date with No Driving Logic: Why This Schedule Metric Matters](/en/blog/fourth-post/)

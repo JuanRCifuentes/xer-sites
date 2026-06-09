@@ -11,4 +11,4 @@ TBD
 
 ## Related Blog Post
 
-- [Activities Starting on the Data Date with No Driving Logic: Why This Schedule Metric Matters](/blog/fourth-post/)
+- [Activities Starting on the Data Date with No Driving Logic: Why This Schedule Metric Matters](/en/blog/fourth-post/)
