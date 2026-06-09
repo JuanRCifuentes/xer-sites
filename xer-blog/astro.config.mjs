@@ -1,12 +1,16 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import remarkMermaid from './src/plugins/remark-mermaid.mjs';
 
 // https://astro.build/config
 export default defineConfig({
 	// All locales (including English) live under a path prefix, so send the
 	// bare root to the default locale.
 	redirects: { '/': '/en/' },
+	markdown: {
+		remarkPlugins: [remarkMermaid],
+	},
 	integrations: [
 		starlight({
 			title: 'Xer Blog',
@@ -33,6 +37,7 @@ export default defineConfig({
 			components: {
 				SiteTitle: './src/components/SiteTitle.astro',
 				Banner: './src/components/Banner.astro',
+				MarkdownContent: './src/components/MarkdownContent.astro',
 			},
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [

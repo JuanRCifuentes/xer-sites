@@ -1,0 +1,51 @@
+---
+// Wraps Starlight's default MarkdownContent to render Mermaid diagrams on the
+// client. ```mermaid fences become `<pre class="mermaid">` via the
+// remark-mermaid plugin (see src/plugins/remark-mermaid.mjs); this script
+// renders them in the browser, matching Starlight's light/dark theme.
+import Default from '@astrojs/starlight/components/MarkdownContent.astro';
+---
+
+<Default><slot /></Default>
+
+<script>
+	const diagrams = document.querySelectorAll<HTMLElement>('pre.mermaid');
+
+	// Only pages with diagrams pay for the Mermaid bundle.
+	if (diagrams.length > 0) {
+		const { default: mermaid } = await import('mermaid');
+
+		// Keep the original sources around so diagrams can re-render on theme change.
+		for (const el of diagrams) {
+			el.dataset.source = el.textContent ?? '';
+		}
+
+		const render = async () => {
+			for (const el of diagrams) {
+				el.textContent = el.dataset.source ?? '';
+				el.removeAttribute('data-processed');
+			}
+			mermaid.initialize({
+				startOnLoad: false,
+				theme: document.documentElement.dataset.theme === 'light' ? 'default' : 'dark',
+			});
+			await mermaid.run({ nodes: [...diagrams] });
+		};
+
+		await render();
+
+		// Starlight's theme toggle flips `data-theme` on <html>; follow it.
+		new MutationObserver(render).observe(document.documentElement, {
+			attributeFilter: ['data-theme'],
+		});
+	}
+</script>
+
+<style is:global>
+	pre.mermaid {
+		display: flex;
+		justify-content: center;
+		background: none;
+		border: none;
+	}
+</style>
