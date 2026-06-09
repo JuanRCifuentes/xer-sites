@@ -35,6 +35,5 @@ This metric identifies open or not-started activities scheduled to start on the 
 
 - [Overview](/en/metrics/first-post/) — what the metric measures, its threshold, and why it matters for schedule credibility.
 - [Improvement Guide](/en/metrics/second-post/) — how schedulers and project controls teams resolve flagged activities during quality reviews and update cycles.
-- [Details](/en/metrics/third-post/) — supporting material for this metric (in progress).
 
 For the narrative version of why this metric matters, read the related blog post: [Activities Starting on the Data Date with No Driving Logic: Why This Schedule Metric Matters](/en/blog/fourth-post/).
