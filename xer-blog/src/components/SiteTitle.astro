@@ -7,11 +7,14 @@ import { BRAND_NAME, SITE_LINKS } from '../consts';
 
 // Blog and Metrics both live on this site, so pick the current section from
 // the URL: any /<locale>/metrics/ page is Metrics, everything else is Blog.
+// Links carry the current locale so navigating doesn't reset the language;
+// the blog and docs sites share the same locale prefixes.
 const onMetrics = /^\/[^/]+\/metrics(\/|$)/.test(Astro.url.pathname);
+const lang = Astro.locals.starlightRoute.locale ?? 'en';
 const links = [
-	{ label: 'Blog', href: SITE_LINKS.blog, current: !onMetrics },
-	{ label: 'Metrics', href: `${SITE_LINKS.blog}/en/metrics/`, current: onMetrics },
-	{ label: 'Docs', href: SITE_LINKS.docs, current: false },
+	{ label: 'Blog', href: `${SITE_LINKS.blog}/${lang}/`, current: !onMetrics },
+	{ label: 'Metrics', href: `${SITE_LINKS.blog}/${lang}/metrics/`, current: onMetrics },
+	{ label: 'Docs', href: `${SITE_LINKS.docs}/${lang}/`, current: false },
 ];
 ---
 
