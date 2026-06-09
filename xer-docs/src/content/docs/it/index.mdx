@@ -1,0 +1,40 @@
+---
+title: Benvenuto in Starlight
+description: Inizia a creare il tuo sito di documentazione con Starlight.
+template: splash # Remove or comment out this line to display the site sidebar on this page.
+hero:
+  tagline: Congratulazioni per aver configurato il tuo nuovo progetto Starlight!
+  image:
+    file: ../../../assets/houston.webp
+  actions:
+    - text: Guida di esempio
+      link: /it/guides/example/
+      icon: right-arrow
+    - text: Leggi la documentazione di Starlight
+      link: https://starlight.astro.build
+      icon: external
+      variant: minimal
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## Prossimi passi
+
+<CardGrid stagger>
+	<Card title="Aggiorna i contenuti" icon="pencil">
+		Modifica `src/content/docs/index.mdx` per vedere questa pagina cambiare.
+	</Card>
+	<Card title="Cambia il layout" icon="document">
+		Rimuovi `template: splash` da `src/content/docs/index.mdx` per mostrare una
+		barra laterale in questa pagina.
+	</Card>
+	<Card title="Aggiungi nuovi contenuti" icon="add-document">
+		Aggiungi file Markdown o MDX in `src/content/docs` per creare nuove pagine.
+	</Card>
+	<Card title="Configura il tuo sito" icon="setting">
+		Modifica la `sidebar` e le altre impostazioni in `astro.config.mjs`.
+	</Card>
+	<Card title="Leggi la documentazione" icon="open-book">
+		Scopri di più nella [documentazione di Starlight](https://starlight.astro.build/).
+	</Card>
+</CardGrid>

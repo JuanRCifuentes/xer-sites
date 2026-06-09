@@ -1,0 +1,39 @@
+---
+title: Starlight へようこそ
+description: Starlight でドキュメントサイトの構築を始めましょう。
+template: splash # Remove or comment out this line to display the site sidebar on this page.
+hero:
+  tagline: 新しい Starlight プロジェクトのセットアップ、おめでとうございます！
+  image:
+    file: ../../../assets/houston.webp
+  actions:
+    - text: サンプルガイド
+      link: /ja/guides/example/
+      icon: right-arrow
+    - text: Starlight のドキュメントを読む
+      link: https://starlight.astro.build
+      icon: external
+      variant: minimal
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## 次のステップ
+
+<CardGrid stagger>
+	<Card title="コンテンツを更新する" icon="pencil">
+		`src/content/docs/index.mdx` を編集すると、このページの変更が反映されます。
+	</Card>
+	<Card title="ページレイアウトを変更する" icon="document">
+		このページにサイドバーを表示するには、`src/content/docs/index.mdx` の `template: splash` を削除してください。
+	</Card>
+	<Card title="新しいコンテンツを追加する" icon="add-document">
+		`src/content/docs` に Markdown または MDX ファイルを追加すると、新しいページを作成できます。
+	</Card>
+	<Card title="サイトを設定する" icon="setting">
+		`astro.config.mjs` で `sidebar` やその他の設定を編集してください。
+	</Card>
+	<Card title="ドキュメントを読む" icon="open-book">
+		詳しくは [Starlight のドキュメント](https://starlight.astro.build/) をご覧ください。
+	</Card>
+</CardGrid>

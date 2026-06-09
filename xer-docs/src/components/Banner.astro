@@ -1,0 +1,83 @@
+---
+// Overrides Starlight's default Banner. In addition to rendering any
+// `banner` frontmatter (the stock behaviour), this surfaces a localized
+// "AI Generated" warning on machine-translated locales. English and Spanish
+// are human-maintained, so they get no warning; every other locale does.
+//
+// Keys are BCP-47 language tags, matching the `lang` values in astro.config.mjs.
+const AI_WARNINGS: Record<string, string> = {
+	fr: 'Cette page a été traduite automatiquement par une IA et peut contenir des erreurs.',
+	it: 'Questa pagina è stata tradotta automaticamente da un’IA e potrebbe contenere errori.',
+	ru: 'Эта страница была переведена автоматически с помощью ИИ и может содержать ошибки.',
+	ar: 'تمت ترجمة هذه الصفحة آلياً بواسطة الذكاء الاصطناعي وقد تحتوي على أخطاء.',
+	ja: 'このページは AI によって自動翻訳されているため、誤りが含まれている可能性があります。',
+	'zh-CN': '本页面由 AI 自动翻译，可能存在错误。',
+};
+
+const { lang } = Astro.locals.starlightRoute;
+const { banner } = Astro.locals.starlightRoute.entry.data;
+const aiWarning = AI_WARNINGS[lang];
+---
+
+{
+	aiWarning && (
+		<div class="ai-banner" role="note" data-pagefind-ignore>
+			<svg
+				class="ai-banner-icon"
+				aria-hidden="true"
+				width="16"
+				height="16"
+				viewBox="0 0 24 24"
+				fill="none"
+				stroke="currentColor"
+				stroke-width="2"
+				stroke-linecap="round"
+				stroke-linejoin="round"
+			>
+				<path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0Z" />
+				<line x1="12" y1="9" x2="12" y2="13" />
+				<line x1="12" y1="17" x2="12.01" y2="17" />
+			</svg>
+			<span dir="auto">{aiWarning}</span>
+		</div>
+	)
+}
+
+{banner && <div class="sl-banner" data-pagefind-ignore set:html={banner.content} />}
+
+<style>
+	@layer starlight.core {
+		.ai-banner {
+			display: flex;
+			gap: 0.5em;
+			align-items: center;
+			justify-content: center;
+			padding: var(--sl-nav-pad-y) var(--sl-nav-pad-x);
+			background-color: var(--sl-color-orange-low);
+			color: var(--sl-color-orange-high);
+			border-bottom: 1px solid var(--sl-color-orange);
+			font-size: var(--sl-text-sm);
+			line-height: var(--sl-line-height-headings);
+			text-align: center;
+			text-wrap: balance;
+		}
+		.ai-banner-icon {
+			flex-shrink: 0;
+		}
+
+		/* Match Starlight's default banner styling for any `banner` frontmatter. */
+		.sl-banner {
+			--__sl-banner-text: var(--sl-color-banner-text, var(--sl-color-text-invert));
+			padding: var(--sl-nav-pad-y) var(--sl-nav-pad-x);
+			background-color: var(--sl-color-banner-bg, var(--sl-color-bg-accent));
+			color: var(--__sl-banner-text);
+			line-height: var(--sl-line-height-headings);
+			text-align: center;
+			text-wrap: balance;
+			box-shadow: var(--sl-shadow-sm);
+		}
+		.sl-banner :global(a) {
+			color: var(--__sl-banner-text);
+		}
+	}
+</style>

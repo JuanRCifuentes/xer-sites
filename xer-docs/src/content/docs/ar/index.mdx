@@ -1,0 +1,40 @@
+---
+title: مرحباً بك في Starlight
+description: ابدأ ببناء موقع التوثيق الخاص بك باستخدام Starlight.
+template: splash # Remove or comment out this line to display the site sidebar on this page.
+hero:
+  tagline: تهانينا على إعداد مشروع Starlight جديد!
+  image:
+    file: ../../../assets/houston.webp
+  actions:
+    - text: دليل تطبيقي
+      link: /ar/guides/example/
+      icon: right-arrow
+    - text: اقرأ توثيق Starlight
+      link: https://starlight.astro.build
+      icon: external
+      variant: minimal
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## الخطوات التالية
+
+<CardGrid stagger>
+	<Card title="تحديث المحتوى" icon="pencil">
+		حرّر `src/content/docs/index.mdx` لرؤية التغييرات على هذه الصفحة.
+	</Card>
+	<Card title="تغيير تخطيط الصفحة" icon="document">
+		احذف `template: splash` في `src/content/docs/index.mdx` لعرض شريط
+		جانبي على هذه الصفحة.
+	</Card>
+	<Card title="إضافة محتوى جديد" icon="add-document">
+		أضف ملفات Markdown أو MDX إلى `src/content/docs` لإنشاء صفحات جديدة.
+	</Card>
+	<Card title="ضبط إعدادات موقعك" icon="setting">
+		حرّر `sidebar` وبقية الإعدادات في `astro.config.mjs`.
+	</Card>
+	<Card title="اقرأ التوثيق" icon="open-book">
+		تعرّف على المزيد في [توثيق Starlight](https://starlight.astro.build/).
+	</Card>
+</CardGrid>
