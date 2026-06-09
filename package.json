@@ -3,16 +3,14 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
+  "packageManager": "pnpm@11.5.2",
+  "engines": {
+    "node": ">=24",
+    "pnpm": "11.5.2"
+  },
   "scripts": {
     "dev:blog": "pnpm --filter xer-blog dev",
     "build:blog": "pnpm --filter xer-blog build",
     "build": "pnpm -r build"
-  },
-  "devEngines": {
-    "packageManager": {
-      "name": "pnpm",
-      "version": "^11.5.2",
-      "onFail": "download"
-    }
   }
 }
