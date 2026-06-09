@@ -1,0 +1,64 @@
+---
+// Overrides Starlight's default SiteTitle to render the unified Xer header:
+// the "Xer" brand links back to the landing site, and the cross-site links let
+// users move between Blog, Metrics, and Docs. This is the Starlight-native
+// counterpart to the shared <Header> used on the landing and blog sites.
+import { BRAND_NAME, SITE_LINKS } from '../consts';
+
+// Docs is its own site, so "Docs" is always the current section here.
+const links = [
+	{ label: 'Blog', href: SITE_LINKS.blog, current: false },
+	{ label: 'Metrics', href: `${SITE_LINKS.blog}/metrics`, current: false },
+	{ label: 'Docs', href: SITE_LINKS.docs, current: true },
+];
+---
+
+<div class="xer-site-title sl-flex">
+	<a href={SITE_LINKS.landing} class="xer-brand">{BRAND_NAME}</a>
+	<nav class="xer-nav sl-hidden md:sl-flex" aria-label="Cross-site navigation">
+		{
+			links.map((link) => (
+				<a
+					href={link.href}
+					aria-current={link.current ? 'page' : undefined}
+					class:list={['xer-nav-link', { current: link.current }]}
+				>
+					{link.label}
+				</a>
+			))
+		}
+	</nav>
+</div>
+
+<style>
+	.xer-site-title {
+		align-items: center;
+		gap: var(--sl-nav-gap);
+		min-width: 0;
+	}
+	.xer-brand {
+		font-size: var(--sl-text-h4);
+		font-weight: 600;
+		color: var(--sl-color-text-accent);
+		text-decoration: none;
+		white-space: nowrap;
+	}
+	.xer-nav {
+		align-items: center;
+		gap: 1rem;
+	}
+	.xer-nav-link {
+		font-size: var(--sl-text-sm);
+		font-weight: 500;
+		color: var(--sl-color-gray-2);
+		text-decoration: none;
+		white-space: nowrap;
+	}
+	.xer-nav-link:hover {
+		color: var(--sl-color-white);
+	}
+	.xer-nav-link.current {
+		color: var(--sl-color-text-accent);
+		font-weight: 600;
+	}
+</style>
