@@ -1,10 +1,6 @@
 // Place any global data in this file.
 // You can import this data from anywhere in your site by using the `import` keyword.
 
-export const SITE_TITLE = 'Astro Blog';
-export const SITE_DESCRIPTION = 'Welcome to my website!';
-export const IMAGE_BUCKET_BASE_URL = 'https://pub-e41d555ac3694f6ab48b8772f79a354f.r2.dev';
-
 // Brand shown in the shared header across all Xer sites.
 export const BRAND_NAME = 'Xer';
 
@@ -15,9 +11,4 @@ export const SITE_LINKS = {
 	landing: import.meta.env.PUBLIC_LANDING_URL ?? 'http://localhost:4321',
 	blog: import.meta.env.PUBLIC_BLOG_URL ?? 'http://localhost:4322',
 	docs: import.meta.env.PUBLIC_DOCS_URL ?? 'http://localhost:4323',
-};
-export type ImageRef = {
-	folder: string;
-	fileName: string;
-	alt?: string;
 };
