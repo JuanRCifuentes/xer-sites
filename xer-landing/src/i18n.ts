@@ -19,6 +19,25 @@ export type Lang = keyof typeof LOCALES;
 
 export const DEFAULT_LANG: Lang = 'en';
 
+// Labels for the theme picker (src/components/ThemeSelect.astro).
+export const THEME_STRINGS: Record<
+	Lang,
+	{ theme: string; auto: string; light: string; dark: string }
+> = {
+	en: { theme: 'Theme', auto: 'Auto', light: 'Light', dark: 'Dark' },
+	zh: { theme: '主题', auto: '自动', light: '浅色', dark: '深色' },
+	ar: { theme: 'المظهر', auto: 'تلقائي', light: 'فاتح', dark: 'داكن' },
+	hi: { theme: 'थीम', auto: 'स्वचालित', light: 'हल्का', dark: 'गहरा' },
+	es: { theme: 'Tema', auto: 'Automático', light: 'Claro', dark: 'Oscuro' },
+	pt: { theme: 'Tema', auto: 'Automático', light: 'Claro', dark: 'Escuro' },
+	ru: { theme: 'Тема', auto: 'Авто', light: 'Светлая', dark: 'Тёмная' },
+	fr: { theme: 'Thème', auto: 'Auto', light: 'Clair', dark: 'Obscur' },
+	de: { theme: 'Thema', auto: 'Auto', light: 'Hell', dark: 'Dunkel' },
+	ko: { theme: '테마', auto: '자동', light: '라이트', dark: '다크' },
+	ja: { theme: 'テーマ', auto: '自動', light: 'ライト', dark: 'ダーク' },
+	it: { theme: 'Tema', auto: 'Automatico', light: 'Chiaro', dark: 'Scuro' },
+};
+
 // UI strings per locale. English and Spanish are human-maintained; the rest
 // are AI-translated, mirroring the convention on the blog and docs sites.
 export const STRINGS: Record<Lang, { description: string }> = {

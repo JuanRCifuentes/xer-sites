@@ -10,7 +10,7 @@ import { BRAND_NAME, SITE_LINKS } from '../consts';
 // the blog and docs sites share the same locale prefixes.
 const lang = Astro.locals.starlightRoute.locale ?? 'en';
 const links = [
-	{ label: 'Blog', href: `${SITE_LINKS.blog}/${lang}/`, current: false },
+	{ label: 'Blog', href: `${SITE_LINKS.blog}/${lang}/blog/`, current: false },
 	{ label: 'Metrics', href: `${SITE_LINKS.blog}/${lang}/metrics/`, current: false },
 	{ label: 'Docs', href: `${SITE_LINKS.docs}/${lang}/`, current: true },
 ];

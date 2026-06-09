@@ -1,0 +1,95 @@
+---
+// Theme picker modeled on Starlight's ThemeSelect: Auto / Light / Dark,
+// persisted in localStorage ("theme") and applied as data-theme on <html>.
+// The inline script in src/pages/[lang]/index.astro applies the stored
+// preference before first paint so there is no flash of the wrong scheme.
+import { DEFAULT_LANG, THEME_STRINGS, type Lang } from '../i18n';
+
+interface Props {
+	lang?: Lang;
+}
+
+const { lang = DEFAULT_LANG } = Astro.props;
+const t = THEME_STRINGS[lang];
+---
+
+<theme-select>
+	<div class="relative">
+		<!-- Starlight's "laptop" icon, as used by its ThemeSelect. -->
+		<svg
+			aria-hidden="true"
+			viewBox="0 0 24 24"
+			fill="currentColor"
+			class="pointer-events-none absolute start-2 top-1/2 size-4 -translate-y-1/2 text-gray-500 dark:text-gray-400"
+		>
+			<path
+				d="M21 14h-1V7a3 3 0 0 0-3-3H7a3 3 0 0 0-3 3v7H3a1 1 0 0 0-1 1v2a3 3 0 0 0 3 3h14a3 3 0 0 0 3-3v-2a1 1 0 0 0-1-1ZM6 7a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7H6V7Zm14 10a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-1h16v1Z"
+			></path>
+		</svg>
+		<select
+			aria-label={t.theme}
+			class="appearance-none rounded-md border border-gray-300 bg-white py-1 pe-7 ps-8 text-sm text-gray-700 dark:border-white/10 dark:bg-gray-800 dark:text-gray-300"
+		>
+			<option value="auto">{t.auto}</option>
+			<option value="light">{t.light}</option>
+			<option value="dark">{t.dark}</option>
+		</select>
+		<!-- Starlight's "down-caret" icon, replacing the native select arrow. -->
+		<svg
+			aria-hidden="true"
+			viewBox="0 0 24 24"
+			fill="currentColor"
+			class="pointer-events-none absolute end-1.5 top-1/2 size-4 -translate-y-1/2 text-gray-500 dark:text-gray-400"
+		>
+			<path
+				d="M17 9.17a1 1 0 0 0-1.41 0L12 12.71 8.46 9.17a1 1 0 1 0-1.41 1.42l4.24 4.24a1.002 1.002 0 0 0 1.42 0L17 10.59a1.002 1.002 0 0 0 0-1.42Z"
+			></path>
+		</svg>
+	</div>
+</theme-select>
+
+<script>
+	type Theme = 'auto' | 'light' | 'dark';
+
+	const KEY = 'theme';
+	const media = window.matchMedia('(prefers-color-scheme: dark)');
+
+	const stored = (): Theme => {
+		try {
+			const v = localStorage.getItem(KEY);
+			if (v === 'light' || v === 'dark') return v;
+		} catch {
+			/* localStorage unavailable */
+		}
+		return 'auto';
+	};
+
+	const apply = (pref: Theme) => {
+		document.documentElement.dataset.theme =
+			pref === 'auto' ? (media.matches ? 'dark' : 'light') : pref;
+	};
+
+	class ThemeSelect extends HTMLElement {
+		constructor() {
+			super();
+			const select = this.querySelector('select');
+			if (!select) return;
+			select.value = stored();
+			select.addEventListener('change', () => {
+				const pref = select.value as Theme;
+				try {
+					localStorage.setItem(KEY, pref);
+				} catch {
+					/* localStorage unavailable */
+				}
+				apply(pref);
+			});
+			// Follow OS changes live while in Auto mode.
+			media.addEventListener('change', () => {
+				if (stored() === 'auto') apply('auto');
+			});
+		}
+	}
+
+	customElements.define('theme-select', ThemeSelect);
+</script>

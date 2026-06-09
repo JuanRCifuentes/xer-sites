@@ -10,6 +10,9 @@ export const collections = {
 				// Manual reading time in minutes; overrides the estimate computed
 				// from the markdown body (see src/components/PageTitle.astro).
 				readingTime: z.number().optional(),
+				// Publication date, used to order posts on the blog index
+				// (see src/components/LatestPosts.astro).
+				pubDate: z.coerce.date().optional(),
 			}),
 		}),
 	}),

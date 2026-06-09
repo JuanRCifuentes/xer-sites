@@ -29,6 +29,22 @@ const data = entry.data;
 <html lang={lang} dir={dir}>
 	<head>
 		<meta charset="utf-8" />
+		<script is:inline>
+			// Apply the stored theme before first paint to avoid a flash of the
+			// wrong color scheme. Mirrors the logic in ThemeSelect.astro.
+			(() => {
+				let pref = null;
+				try {
+					pref = localStorage.getItem('theme');
+				} catch {
+					/* localStorage unavailable */
+				}
+				const dark =
+					pref === 'dark' ||
+					(pref !== 'light' && window.matchMedia('(prefers-color-scheme: dark)').matches);
+				document.documentElement.dataset.theme = dark ? 'dark' : 'light';
+			})();
+		</script>
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />

@@ -1,1 +1,14 @@
 @import 'tailwindcss';
+
+/* Dark mode follows the data-theme attribute set by the theme picker
+   (src/components/ThemeSelect.astro) instead of only prefers-color-scheme.
+   The picker's "Auto" option resolves to light/dark from the OS preference. */
+@custom-variant dark (&:where([data-theme='dark'], [data-theme='dark'] *));
+
+:root[data-theme='light'] {
+	color-scheme: light;
+}
+
+:root[data-theme='dark'] {
+	color-scheme: dark;
+}

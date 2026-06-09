@@ -1,7 +1,7 @@
 ---
 title: 'What a Project Schedule Is — and What Makes It Credible'
 description: 'What a project schedule really is: a delivery roadmap built from activities, durations, and CPM logic in Primavera P6 — and what makes its dates credible.'
-pubDate: 'Junio 8, 2026'
+pubDate: 'Jun 8 2026'
 heroImage:
   folder: blog
   fileName: blog-placeholder-3.jpg

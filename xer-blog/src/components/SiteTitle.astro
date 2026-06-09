@@ -12,7 +12,7 @@ import { BRAND_NAME, SITE_LINKS } from '../consts';
 const onMetrics = /^\/[^/]+\/metrics(\/|$)/.test(Astro.url.pathname);
 const lang = Astro.locals.starlightRoute.locale ?? 'en';
 const links = [
-	{ label: 'Blog', href: `${SITE_LINKS.blog}/${lang}/`, current: !onMetrics },
+	{ label: 'Blog', href: `${SITE_LINKS.blog}/${lang}/blog/`, current: !onMetrics },
 	{ label: 'Metrics', href: `${SITE_LINKS.blog}/${lang}/metrics/`, current: onMetrics },
 	{ label: 'Docs', href: `${SITE_LINKS.docs}/${lang}/`, current: false },
 ];
