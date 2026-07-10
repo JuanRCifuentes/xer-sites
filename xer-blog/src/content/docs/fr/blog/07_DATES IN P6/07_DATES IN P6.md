@@ -2,6 +2,7 @@
 title: "Dattes en P6"
 seo_title: "Dattes en P6 - Primavera P6"
 meta_description: "Comprendre Dattes en P6 dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
+description: "Comprendre Dattes en P6 dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-dates-in-p6"
+slug: "fr/blog/dates-in-p6"
 language: "fr"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planification Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/07_DATES IN P6/07_DATES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Dattes en P6
 
@@ -191,6 +194,6 @@ Une révision rigoureuse du calendrier ne demande pas seulement « quelle est l
 
 Lorsque l'équipe de projet comprend la signification de chaque champ de date, le calendrier devient plus facile à expliquer, plus facile à auditer et plus fiable pour le contrôle du projet.
 ## Contenu associé
-- [Dates réelles postérieures à la date des données dans Primavera P6 - Vue d’ensemble](../../08_metrics_fr/12_actual_date_greater_than_data_date/01_overview_template.md)
+- [Dates réelles postérieures à la date des données dans Primavera P6 - Vue d’ensemble](../../metrics/12_actual_date_greater_than_data_date/02_guide_template.md)
 - [Types de durée dans P6](../06_DURATION%20TYPES%20IN%20P6/06_DURATION%20TYPES%20IN%20P6.md)
 - [Calendriers dans P6](../08_CALENDARS%20IN%20P6/08_CALENDARS%20IN%20P6.md)

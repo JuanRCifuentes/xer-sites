@@ -2,6 +2,7 @@
 title: "关键路径"
 seo_title: "关键路径 - Primavera P6"
 meta_description: "了解 Primavera P6 中的“关键路径”，重点关注进度计划、项目控制和进度质量。"
+description: "了解 Primavera P6 中的“关键路径”，重点关注进度计划、项目控制和进度质量。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "项目控制"
   - "CPM逻辑"
   - "进度审查"
-slug: "zh-critical-path-in-primavera-p6"
+slug: "zh/blog/critical-path-in-primavera-p6"
 language: "zh"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 进度计划"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/03_CRITICAL PATH/03_CRITICAL PATH.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # 关键路径
 
@@ -165,6 +168,6 @@ Primavera P6 可以识别关键活动，但该软件无法理解项目意图。�
 
 当这个故事有意义时，关键路径就成为项目控制中最强大的工具之一。如果没有，则表明需要对进度计划进行更多审查才能信任预测。
 ## 相关内容
-- [以约束开始的关键路径或浮时路径 - 概述](../../03_metrics_zh/09_cp_or_浮时_path_starting_with_constraint/01_overview_template.md)
+- [以约束开始的关键路径或浮时路径 - 概述](../../metrics/09_cp_or_浮时_path_starting_with_constraint/02_guide_template.md)
 - [强大的逻辑](../02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)
 - [关键度矩阵](../04_CRITICALITY%20MATRIX/04_CRITICALITY%20MATRIX.md)

@@ -2,6 +2,7 @@
 title: "أنواع الأنشطة في ص6"
 seo_title: "أنواع الأنشطة في ص6 - Primavera P6"
 meta_description: "تعرّف على أنواع الأنشطة في ص6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+description: "تعرّف على أنواع الأنشطة في ص6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "ضبط المشاريع"
   - "منطق CPM"
   - "مراجعة الجدول"
-slug: "ar-activity-types-in-p6"
+slug: "ar/blog/activity-types-in-p6"
 language: "ar"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "الجدولة في Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/05_ACTIVITY TYPES IN P6/05_ACTIVITY TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # أنواع الأنشطة في ص6
 
@@ -204,6 +207,6 @@ flowchart TD
 
 إن اختيار نوع النشاط المناسب يجعل الجدول الزمني أسهل في المراجعة والشرح وأكثر موثوقية بالنسبة لضوابط المشروع. الجدول الزمني القوي لا يحتوي فقط على تواريخ ومنطق جيدين. كما أنه يستخدم النوع المناسب من النشاط للعمل الذي يتم تمثيله.
 ## محتوى ذو صلة
-- [الأنشطة التي تبدأ في تاريخ البيانات بدون المنطق المحرك: لماذا يهم مقياس الجدول هذا - نظرة عامة](../../04_metrics_ar/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [الأنشطة التي تبدأ في تاريخ البيانات بدون المنطق المحرك: لماذا يهم مقياس الجدول هذا - نظرة عامة](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [مصفوفة الأهمية](../04_CRITICALITY%20MATRIX/04_CRITICALITY%20MATRIX.md)
 - [أنواع المدة في P6](../06_DURATION%20TYPES%20IN%20P6/06_DURATION%20TYPES%20IN%20P6.md)

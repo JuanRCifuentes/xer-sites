@@ -2,6 +2,7 @@
 title: "P6 的持续时间"
 seo_title: "P6 的持续时间 - Primavera P6"
 meta_description: "了解 Primavera P6 中的“P6 的持续时间”，重点关注进度计划、项目控制和进度质量。"
+description: "了解 Primavera P6 中的“P6 的持续时间”，重点关注进度计划、项目控制和进度质量。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "项目控制"
   - "CPM逻辑"
   - "进度审查"
-slug: "zh-duration-in-p6"
+slug: "zh/blog/duration-in-p6"
 language: "zh"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 进度计划"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/09_DURATION IN P6/09_DURATION IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6 的持续时间
 
@@ -201,6 +204,6 @@ P6 中的持续时间是工作时间，而不仅仅是经过的日历时间。 P
 
 强大的进度计划人员知道持续时间不仅仅是一个输入。它是计算引擎的一部分。当持续时间、日历和偏好一致时，进度计划变得更容易解释，并且对于项目控制来说更可靠。
 ## 相关内容
-- [从数据日期开始且没有驱动逻辑的活动：为什么此计划指标很重要 - 概述](../../03_metrics_zh/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [从数据日期开始且没有驱动逻辑的活动：为什么此计划指标很重要 - 概述](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [P6 中的日历](../08_CALENDARS%20IN%20P6/08_CALENDARS%20IN%20P6.md)
 - [P6 中完整类型的百分比](../10_PERCENT%20COMPLETION%20TYPES%20IN%20P6/10_PERCENT%20COMPLETION%20TYPES%20IN%20P6.md)

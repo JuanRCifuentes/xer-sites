@@ -2,6 +2,7 @@
 title: "P6のカレンダー"
 seo_title: "P6のカレンダー - Primavera P6"
 meta_description: "Primavera P6における「P6のカレンダー」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+description: "Primavera P6における「P6のカレンダー」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "プロジェクトコントロール"
   - "CPMロジック"
   - "スケジュールレビュー"
-slug: "jp-calendars-in-p6"
-language: "jp"
+slug: "ja/blog/calendars-in-p6"
+language: "ja"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 スケジューリング"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6のカレンダー
 
@@ -205,6 +208,6 @@ P6 のカレンダーは、いつ仕事を開始できるかを定義します�
 
 強力なスケジュールでは、カレンダーを意図的に使用します。各カレンダーには目的があり、それぞれの特別なカレンダーが文書化され、スケジュールが信頼される前にアクティビティとリソースのカレンダーの割り当てがレビューされます。
 ## 関連コンテンツ
-- [Primavera P6 の開始時刻と終了時刻が異なるカレンダー - 概要](../../12_metrics_jp/20_calendars_with_different_start_finish_time_in_day/01_overview_template.md)
+- [Primavera P6 の開始時刻と終了時刻が異なるカレンダー - 概要](../../metrics/20_calendars_with_different_start_finish_time_in_day/02_guide_template.md)
 - [P6の日付](../07_DATES%20IN%20P6/07_DATES%20IN%20P6.md)
 - [P6 の持続時間](../09_DURATION%20IN%20P6/09_DURATION%20IN%20P6.md)

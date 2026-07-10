@@ -2,6 +2,7 @@
 title: "Критический путь"
 seo_title: "Критический путь - Primavera P6"
 meta_description: "Изучите Критический путь в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
+description: "Изучите Критический путь в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "проектный контроль"
   - "CPM-логика"
   - "анализ графика"
-slug: "ru-critical-path-in-primavera-p6"
+slug: "ru/blog/critical-path-in-primavera-p6"
 language: "ru"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Планирование в Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/03_CRITICAL PATH/03_CRITICAL PATH.md"
 canonical_url: ""
 last_проверкуed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Критический путь
 
@@ -165,6 +168,6 @@ Primavera P6 может идентифицировать критические 
 
 Когда эта история обретает смысл, критический путь становится одним из самых мощных инструментов управления проектом. Если этого не происходит, это предупреждение о том, что график требует дополнительной проверки, прежде чем прогнозу можно будет доверять.
 ## Связанные материалы
-- [Критический путь или путь резерва времени, начинающийся с ограничения - Обзор](../../07_metrics_ru/09_cp_or_float_path_starting_with_constraint/01_overview_template.md)
+- [Критический путь или путь резерва времени, начинающийся с ограничения - Обзор](../../metrics/09_cp_or_float_path_starting_with_constraint/02_guide_template.md)
 - [Надежная логика](../02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)
 - [Матрица критичности](../04_CRITICALITY%20MATRIX/04_CRITICALITY%20MATRIX.md)

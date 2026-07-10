@@ -2,6 +2,7 @@
 title: "Durata in P6"
 seo_title: "Durata in P6 - Primavera P6"
 meta_description: "Approfondisci Durata in P6 in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
+description: "Approfondisci Durata in P6 in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "controllo progetto"
   - "logica CPM"
   - "revisione del cronoprogramma"
-slug: "it-duration-in-p6"
+slug: "it/blog/duration-in-p6"
 language: "it"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Pianificazione in Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/09_DURATION IN P6/09_DURATION IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Durata in P6
 
@@ -201,6 +204,6 @@ Ciò significa che la durata deve essere rivista con il contesto. Un valore visu
 
 Un bravo pianificatore capisce che la durata non è solo un input. Fa parte del motore di calcolo. Quando durata, calendari e preferenze sono allineati, la pianificazione diventa più facile da spiegare e più affidabile per il controllo di progetto.
 ## Contenuti correlati
-- [Attività che iniziano alla data di aggiornamento senza alcuna logica guida: perché questa metrica di pianificazione è importante - Panoramica](../../11_metrics_it/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Attività che iniziano alla data di aggiornamento senza alcuna logica guida: perché questa metrica di pianificazione è importante - Panoramica](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Calendari in P6](../08_CALENDARS%20IN%20P6/08_CALENDARS%20IN%20P6.md)
 - [Tipi di completamento percentuale in P6](../10_PERCENT%20COMPLETION%20TYPES%20IN%20P6/10_PERCENT%20COMPLETION%20TYPES%20IN%20P6.md)

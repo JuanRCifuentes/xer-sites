@@ -2,6 +2,7 @@
 title: "أنواع الموارد في ص6"
 seo_title: "أنواع الموارد في ص6 - Primavera P6"
 meta_description: "تعرّف على أنواع الموارد في ص6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+description: "تعرّف على أنواع الموارد في ص6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "ضبط المشاريع"
   - "منطق CPM"
   - "مراجعة الجدول"
-slug: "ar-resource-types-in-p6"
+slug: "ar/blog/resource-types-in-p6"
 language: "ar"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "الجدولة في Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # أنواع الموارد في ص6
 
@@ -217,6 +220,6 @@ flowchart TD
 
 إن الجدول الزمني الجيد المحمّل بالموارد ليس مجرد جدول يتضمن موارد مرفقة. إنه جدول يتم فيه استخدام كل نوع من أنواع الموارد بشكل مقصود ويتم الحفاظ عليه طوال عمر المشروع.
 ## محتوى ذو صلة
-- [بدأت الأنشطة بتقدم 0% في برنامج بريمافيرا P6 - نظرة عامة](../../04_metrics_ar/13_activity_started_progress_zero/01_overview_template.md)
+- [بدأت الأنشطة بتقدم 0% في برنامج بريمافيرا P6 - نظرة عامة](../../metrics/13_activity_started_progress_zero/02_guide_template.md)
 - [أين تعيش التكلفة في P6](../11_WHERE%20THE%20COST%20LIVE%20IN%20P6/11_WHERE%20THE%20COST%20LIVE%20IN%20P6.md)
 - [حدود الموارد في P6](../13_RESOURCES%20LIMITS%20IN%20P6/13_RESOURCES%20LIMITS%20IN%20P6.md)

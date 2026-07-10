@@ -2,6 +2,7 @@
 title: "P6 में संसाधन प्रकार"
 seo_title: "P6 में संसाधन प्रकार - Primavera P6"
 meta_description: "Primavera P6 में P6 में संसाधन प्रकार को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+description: "Primavera P6 में P6 में संसाधन प्रकार को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-resource-types-in-p6"
+slug: "hi/blog/resource-types-in-p6"
 language: "hi"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6 में संसाधन प्रकार
 
@@ -217,6 +220,6 @@ P6 में संसाधन प्रकार यह परिभाषि�
 
 एक अच्छा संसाधन-युक्त शेड्यूल केवल संसाधनों से जुड़ा शेड्यूल नहीं है। यह एक शेड्यूल है जहां प्रत्येक संसाधन प्रकार का जानबूझकर उपयोग किया जाता है और परियोजना के पूरे जीवन तक बनाए रखा जाता है।
 ## संबंधित सामग्री
-- [प्रिमावेरा पी6 में 0% प्रगति के साथ गतिविधियाँ शुरू हुईं - अवलोकन](../../05_metrics_hi/13_activity_started_progress_zero/01_overview_template.md)
+- [प्रिमावेरा पी6 में 0% प्रगति के साथ गतिविधियाँ शुरू हुईं - अवलोकन](../../metrics/13_activity_started_progress_zero/02_guide_template.md)
 - [जहां लागत P6 में रहती है](../11_WHERE%20THE%20COST%20LIVE%20IN%20P6/11_WHERE%20THE%20COST%20LIVE%20IN%20P6.md)
 - [P6 में संसाधन सीमाएँ](../13_RESOURCES%20LIMITS%20IN%20P6/13_RESOURCES%20LIMITS%20IN%20P6.md)

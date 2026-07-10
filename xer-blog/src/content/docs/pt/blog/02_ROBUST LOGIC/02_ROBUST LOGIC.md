@@ -2,6 +2,7 @@
 title: "Lógica Robusta"
 seo_title: "Lógica Robusta - Primavera P6"
 meta_description: "Aprenda Lógica Robusta no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+description: "Aprenda Lógica Robusta no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "controles de projeto"
   - "lógica CPM"
   - "revisão do cronograma"
-slug: "pt-robust-logic-in-primavera-p6"
+slug: "pt/blog/robust-logic-in-primavera-p6"
 language: "pt"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planejamento em Primavera P6"
 audience:
@@ -32,6 +34,7 @@ related_blogs:
 translation_of: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Lógica Robusta
 
@@ -161,7 +164,7 @@ Quando as atividades começam na Data Date sem nenhuma lógica direcionadora, o 
 
 Um cronograma confiável deve responder claramente a essa pergunta. O que permite que este trabalho comece? O que isso permite a seguir? Se o cronograma puder responder a ambos, a lógica estará se tornando robusta. Caso contrário, a equipe do projeto terá mais trabalho de sequenciamento a fazer antes que a previsão possa ser confiável.
 ## Conteúdo relacionado
-- [Dependências ausentes no Primavera P6 - Visão geral](../../06_metrics_pt/21_missing_dependencies/01_overview_template.md)
-- [Lógica redundante em programações do Primavera P6 - Visão geral](../../06_metrics_pt/06_redundant_logic/01_overview_template.md)
+- [Dependências ausentes no Primavera P6 - Visão geral](../../metrics/21_missing_dependencies/02_guide_template.md)
+- [Lógica redundante em programações do Primavera P6 - Visão geral](../../metrics/06_redundant_logic/02_guide_template.md)
 - [O que é um cronograma](../01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Caminho Crítico](../03_CRITICAL%20PATH/03_CRITICAL%20PATH.md)

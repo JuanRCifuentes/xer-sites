@@ -2,6 +2,7 @@
 title: "CPM (Critical Path Method)"
 seo_title: "CPM (Critical Path Method) - Primavera P6"
 meta_description: "Approfondisci CPM (Critical Path Method) in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
+description: "Approfondisci CPM (Critical Path Method) in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "controllo progetto"
   - "logica CPM"
   - "revisione del cronoprogramma"
-slug: "it-critical-path-method-cpm-primavera-p6"
+slug: "it/blog/critical-path-method-cpm-primavera-p6"
 language: "it"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Pianificazione in Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # CPM (Metodo del percorso critico)
 
@@ -144,6 +147,6 @@ Ma il CPM e affidabile quanto il cronoprogramma che calcola. Buone attivita, dur
 
 Il valore del CPM non e solo mostrare una data finale. Il suo vero valore e spiegare perche quella data e controllata, dove esiste flessibilita e dove deve concentrarsi l'attenzione del gestione.
 ## Contenuti correlati
-- [Percorso critico o percorso del margine che inizia con un vincolo - Panoramica](../../11_metrics_it/09_cp_or_float_path_starting_with_constraint/01_overview_template.md)
+- [Percorso critico o percorso del margine che inizia con un vincolo - Panoramica](../../metrics/09_cp_or_float_path_starting_with_constraint/02_guide_template.md)
 - [Relazioni SS e FF](../15_SS%20&%20FF%20RELATIONS/15_SS%20&%20FF%20RELATIONS.md)
 - [Sviluppare un Cronoprogramma di Progetto](../17_DEVELOPE%20A%20PROJECT%20SCHEDULE/17_DEVELOPE%20A%20PROJECT%20SCHEDULE.md)

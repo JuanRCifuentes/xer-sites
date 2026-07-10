@@ -2,6 +2,7 @@
 title: "중요 경로"
 seo_title: "중요 경로 - Primavera P6"
 meta_description: "Primavera P6에서 중요 경로를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+description: "Primavera P6에서 중요 경로를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-critical-path-in-primavera-p6"
+slug: "ko/blog/critical-path-in-primavera-p6"
 language: "ko"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 공정표관리"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/03_CRITICAL PATH/03_CRITICAL PATH.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # 중요 경로
 
@@ -165,6 +168,6 @@ Primavera P6는 중요한 활동을 식별할 수 있지만 소프트웨어는 �
 
 그 이야기가 타당할 때, 요주의 경로는 프로젝트 통제에서 가장 강력한 도구 중 하나가 됩니다. 그렇지 않은 경우 예측을 신뢰할 수 있으려면 일정을 추가로 검토해야 한다는 경고입니다.
 ## 관련 콘텐츠
-- [제약조건으로 시작하는 중요 경로 또는 부동 경로 - 개요](../../10_metrics_ko/09_cp_or_float_path_starting_with_constraint/01_overview_template.md)
+- [제약조건으로 시작하는 중요 경로 또는 부동 경로 - 개요](../../metrics/09_cp_or_float_path_starting_with_constraint/02_guide_template.md)
 - [견고한 논리](../02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)
 - [중요도 매트릭스](../04_CRITICALITY%20MATRIX/04_CRITICALITY%20MATRIX.md)

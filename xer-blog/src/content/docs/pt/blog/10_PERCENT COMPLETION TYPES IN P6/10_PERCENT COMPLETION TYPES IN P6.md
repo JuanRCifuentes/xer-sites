@@ -2,6 +2,7 @@
 title: "Porcentagem de tipos completos em P6"
 seo_title: "Porcentagem de tipos completos em P6 - Primavera P6"
 meta_description: "Aprenda Porcentagem de tipos completos em P6 no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+description: "Aprenda Porcentagem de tipos completos em P6 no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "controles de projeto"
   - "lógica CPM"
   - "revisão do cronograma"
-slug: "pt-percent-complete-types-in-p6"
+slug: "pt/blog/percent-complete-types-in-p6"
 language: "pt"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planejamento em Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/10_PERCENT COMPLETION TYPES IN P6/10_PERCENT COMPLETION TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Porcentagem de tipos completos em P6
 
@@ -191,6 +194,6 @@ Nenhum tipo é melhor para todas as atividades. A escolha certa depende de como 
 
 Uma programação forte usa tipos de porcentagem completa intencionalmente. Quando o método corresponde ao trabalho, as atualizações do progresso tornam-se mais claras, a duração restante torna-se mais confiável e os relatórios do projeto tornam-se mais fáceis de defender.
 ## Conteúdo relacionado
-- [Atividades começando na data dos dados sem nenhuma lógica direcionadora: por que essa métrica de cronograma é importante - Visão geral](../../06_metrics_pt/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Atividades começando na data dos dados sem nenhuma lógica direcionadora: por que essa métrica de cronograma é importante - Visão geral](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Duração em P6](../09_DURATION%20IN%20P6/09_DURATION%20IN%20P6.md)
 - [Onde está o custo em P6](../11_WHERE%20THE%20COST%20LIVE%20IN%20P6/11_WHERE%20THE%20COST%20LIVE%20IN%20P6.md)

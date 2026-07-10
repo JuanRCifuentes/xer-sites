@@ -2,6 +2,7 @@
 title: "SS & FF Relations"
 seo_title: "SS & FF Relations in Primavera P6"
 meta_description: "Learn start-to-start & finish-to-finish relations for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
+description: "Learn start-to-start & finish-to-finish relations for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -12,9 +13,10 @@ keywords:
   - "project controls"
   - "CPM schedule logic"
   - "Primavera P6 blog"
-slug: "ss-and-ff-relations-in-primavera-p6"
+slug: "en/blog/ss-and-ff-relations-in-primavera-p6"
 language: "en"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 Scheduling"
 audience:
@@ -30,6 +32,7 @@ related_blogs:
 translation_of: ""
 canonical_url: ""
 last_reviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
 # SS & FF Relations
 
@@ -126,6 +129,6 @@ SS and FF relationships are useful tools in P6, but they need discipline. Used a
 A reliable CPM schedule should explain both why work can start and what controls its finish. When SS and FF relationships help answer those questions, they strengthen the schedule. When they leave one side of the activity open, they create weak logic that should be reviewed.
 
 ## Related Content
-- [Activities Starting in Data Date with No Logic Driving](../../01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Activities Starting in Data Date with No Logic Driving](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Resource Balancing in P6](../14_RESOURCES%20BALANCING%20IN%20P6/14_RESOURCES%20BALANCING%20IN%20P6.md)
 - [CPM (critical Path Method)](../16_CPM%20(CRITICAL%20PATH%20METHOD)/16_CPM%20(CRITICAL%20PATH%20METHOD).md)

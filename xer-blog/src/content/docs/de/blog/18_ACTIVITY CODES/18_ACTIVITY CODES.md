@@ -2,6 +2,7 @@
 title: "Aktivitätscodes"
 seo_title: "Aktivitätscodes - Primavera P6"
 meta_description: "Lernen Sie Aktivitätscodes in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+description: "Lernen Sie Aktivitätscodes in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-activity-codes-in-primavera-p6"
+slug: "de/blog/activity-codes-in-primavera-p6"
 language: "de"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Terminplanung in Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/18_ACTIVITY CODES/18_ACTIVITY CODES.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Aktivitätscodes
 
@@ -178,6 +181,6 @@ Richtig genutzt machen codes den Terminplan leichter filterbar, gruppierbar, ber
 
 Der bar chart zeigt Zeit. Die Codierung structure zeigt, wie der Terminplan gelesen, geschnitten und genutzt werden kann.
 ## Verwandte Inhalte
-- [Fehlende Abhängigkeiten in Primavera P6 - Überblick](../../09_metrics_de/21_missing_dependencies/01_overview_template.md)
+- [Fehlende Abhängigkeiten in Primavera P6 - Überblick](../../metrics/21_missing_dependencies/02_guide_template.md)
 - [Projektterminplan Entwickeln](../17_DEVELOPE%20A%20PROJECT%20SCHEDULE/17_DEVELOPE%20A%20PROJECT%20SCHEDULE.md)
 - [Schedule Basis](../19_SCHEDULE%20BASIS/19_SCHEDULE%20BASIS.md)

@@ -2,6 +2,7 @@
 title: "Надежная логика"
 seo_title: "Надежная логика - Primavera P6"
 meta_description: "Изучите Надежная логика в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
+description: "Изучите Надежная логика в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "проектный контроль"
   - "CPM-логика"
   - "анализ графика"
-slug: "ru-robust-logic-in-primavera-p6"
+slug: "ru/blog/robust-logic-in-primavera-p6"
 language: "ru"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Планирование в Primavera P6"
 audience:
@@ -32,6 +34,7 @@ related_blogs:
 translation_of: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
 canonical_url: ""
 last_проверкуed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Надежная логика
 
@@ -161,7 +164,7 @@ flowchart TD
 
 Надежный график должен четко ответить на этот вопрос. Что позволяет начать эту работу? Что это дает дальше? Если график может ответить на оба вопроса, логика становится надежной. Если это невозможно, команде проекта придется проделать дополнительную работу по определению последовательности, прежде чем прогнозу можно будет доверять.
 ## Связанные материалы
-- [Отсутствующие зависимости в Primavera P6 - Обзор](../../07_metrics_ru/21_missing_dependencies/01_overview_template.md)
-- [Резервированная логика в графиках Primavera P6 - Обзор](../../07_metrics_ru/06_redundant_logic/01_overview_template.md)
+- [Отсутствующие зависимости в Primavera P6 - Обзор](../../metrics/21_missing_dependencies/02_guide_template.md)
+- [Резервированная логика в графиках Primavera P6 - Обзор](../../metrics/06_redundant_logic/02_guide_template.md)
 - [Что такое график](../01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Критический путь](../03_CRITICAL%20PATH/03_CRITICAL%20PATH.md)

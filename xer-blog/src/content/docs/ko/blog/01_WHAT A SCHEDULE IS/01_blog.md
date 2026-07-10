@@ -2,6 +2,7 @@
 title: "일정이란 무엇입니까?"
 seo_title: "일정이란 무엇입니까? - Primavera P6"
 meta_description: "Primavera P6에서 일정이란 무엇입니까?를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+description: "Primavera P6에서 일정이란 무엇입니까?를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-what-a-schedule-is-in-primavera-p6"
+slug: "ko/blog/what-a-schedule-is-in-primavera-p6"
 language: "ko"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 공정표관리"
 audience:
@@ -30,6 +32,7 @@ related_blogs:
 translation_of: "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # 일정이란 무엇입니까?
 
@@ -125,5 +128,5 @@ P6의 데이터 날짜는 실제 성과와 예측 사이의 경계입니다. 데
 
 이러한 이유로 공정표 품질 검토에서는 항상 간단한 질문을 해야 합니다. 일정은 작업이 시작될 때 왜 시작되는지 설명합니까? 대답이 '예'라면 일정이 제 역할을 하고 있는 것입니다. 대답이 '아니요'인 경우 로드맵을 신뢰할 수 있으려면 더 많은 논리가 필요합니다.
 ## 관련 콘텐츠
-- [주도 로직 없이 데이터 날짜에 시작하는 활동: 이 일정 지표가 중요한 이유 - 개요](../../10_metrics_ko/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [주도 로직 없이 데이터 날짜에 시작하는 활동: 이 일정 지표가 중요한 이유 - 개요](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [견고한 논리](../02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

@@ -2,6 +2,7 @@
 title: "P6의 날짜"
 seo_title: "P6의 날짜 - Primavera P6"
 meta_description: "Primavera P6에서 P6의 날짜를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+description: "Primavera P6에서 P6의 날짜를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-dates-in-p6"
+slug: "ko/blog/dates-in-p6"
 language: "ko"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 공정표관리"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/07_DATES IN P6/07_DATES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6의 날짜
 
@@ -191,6 +194,6 @@ P6의 날짜는 일정 이야기의 다양한 부분을 알려주기 때문에 �
 
 프로젝트 팀이 각 날짜 필드의 의미를 이해하면 일정을 더 쉽게 설명하고, 감사하고, 프로젝트를 더 안정적으로 제어할 수 있습니다.
 ## 관련 콘텐츠
-- [Primavera P6의 데이터 날짜보다 실제 일자가 이후임 - 개요](../../10_metrics_ko/12_actual_date_greater_than_data_date/01_overview_template.md)
+- [Primavera P6의 데이터 날짜보다 실제 일자가 이후임 - 개요](../../metrics/12_actual_date_greater_than_data_date/02_guide_template.md)
 - [P6의 기간 유형](../06_DURATION%20TYPES%20IN%20P6/06_DURATION%20TYPES%20IN%20P6.md)
 - [P6의 캘린더](../08_CALENDARS%20IN%20P6/08_CALENDARS%20IN%20P6.md)

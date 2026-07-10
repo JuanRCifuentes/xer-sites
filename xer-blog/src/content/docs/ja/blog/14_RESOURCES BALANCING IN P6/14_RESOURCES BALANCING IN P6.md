@@ -2,6 +2,7 @@
 title: "P6 でのリソースのバランス"
 seo_title: "P6 でのリソースのバランス - Primavera P6"
 meta_description: "Primavera P6における「P6 でのリソースのバランス」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+description: "Primavera P6における「P6 でのリソースのバランス」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "プロジェクトコントロール"
   - "CPMロジック"
   - "スケジュールレビュー"
-slug: "jp-resource-balancing-in-primavera-p6"
-language: "jp"
+slug: "ja/blog/resource-balancing-in-primavera-p6"
+language: "ja"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 スケジューリング"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/14_RESOURCES BALANCING IN P6/14_RESOURCES BALANCING IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6 でのリソースのバランス
 
@@ -224,6 +227,6 @@ P6 リソースの平準化は、リソースの可用性に基づいてアク�
 
 バランスのとれたスケジュールは、必ずしも完全にスムーズなスケジュールであるとは限りません。これは、リソースの需要が目に見えて現実的で、プロジェクトが実際に提供される方法と一致するスケジュールです。
 ## 関連コンテンツ
-- [Primavera P6 進捗 0% からスタートした活動 - 概要](../../12_metrics_jp/13_activity_started_progress_zero/01_overview_template.md)
+- [Primavera P6 進捗 0% からスタートした活動 - 概要](../../metrics/13_activity_started_progress_zero/02_guide_template.md)
 - [P6 のリソース制限](../13_RESOURCES%20LIMITS%20IN%20P6/13_RESOURCES%20LIMITS%20IN%20P6.md)
 - [SS と FF の関係](../15_SS%20&%20FF%20RELATIONS/15_SS%20&%20FF%20RELATIONS.md)

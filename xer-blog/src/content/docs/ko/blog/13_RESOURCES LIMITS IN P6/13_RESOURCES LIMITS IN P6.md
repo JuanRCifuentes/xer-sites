@@ -2,6 +2,7 @@
 title: "P6의 리소스 제한"
 seo_title: "P6의 리소스 제한 - Primavera P6"
 meta_description: "Primavera P6에서 P6의 리소스 제한를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+description: "Primavera P6에서 P6의 리소스 제한를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-resource-limits-in-primavera-p6"
+slug: "ko/blog/resource-limits-in-primavera-p6"
 language: "ko"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 공정표관리"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/13_RESOURCES LIMITS IN P6/13_RESOURCES LIMITS IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6의 리소스 제한
 
@@ -178,6 +181,6 @@ P6의 리소스 제한은 사용 가능한 용량을 정의합니다. 이를 통
 
 최상의 리소스 제한은 단순하고 의도적이며 실제 프로젝트 결정과 연결됩니다. 이는 하나의 실용적인 질문에 답하는 데 도움이 됩니다. 프로젝트가 실제로 보유한 자원으로 이 계획을 실행할 수 있습니까?
 ## 관련 콘텐츠
-- [Primavera P6에서 0% 진행으로 시작된 활동 - 개요](../../10_metrics_ko/13_activity_started_progress_zero/01_overview_template.md)
+- [Primavera P6에서 0% 진행으로 시작된 활동 - 개요](../../metrics/13_activity_started_progress_zero/02_guide_template.md)
 - [P6의 리소스 유형](../12_RESOURCE%20TYPES%20IN%20P6/12_RESOURCE%20TYPES%20IN%20P6.md)
 - [P6의 리소스 밸런싱](../14_RESOURCES%20BALANCING%20IN%20P6/14_RESOURCES%20BALANCING%20IN%20P6.md)

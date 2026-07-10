@@ -2,6 +2,7 @@
 title: "planning Basis"
 seo_title: "planning Basis - Primavera P6"
 meta_description: "Comprendre planning Basis dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
+description: "Comprendre planning Basis dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-planning-basis-in-primavera-p6"
+slug: "fr/blog/planning-basis-in-primavera-p6"
 language: "fr"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planification Primavera P6"
 audience:
@@ -30,6 +32,7 @@ related_blogs:
 translation_of: "01b_blogs_en/19_SCHEDULE BASIS/19_SCHEDULE BASIS.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # planning Basis
 
@@ -133,5 +136,5 @@ La planning Basis est l'explication derriere le planning. Elle dit ce que le pla
 
 Une bonne Basis of planning rend le fichier P6 plus facile a revoir, defendre, mettre a jour et croire.
 ## Contenu associé
-- [Activités commençant à la date des données sans logique pilotante : pourquoi cette mesure de planification est importante - Vue d’ensemble](../../08_metrics_fr/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Activités commençant à la date des données sans logique pilotante : pourquoi cette mesure de planification est importante - Vue d’ensemble](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [codes d'activité](../18_ACTIVITY%20CODES/18_ACTIVITY%20CODES.md)

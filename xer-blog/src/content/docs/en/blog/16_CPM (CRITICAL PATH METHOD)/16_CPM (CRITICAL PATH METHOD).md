@@ -2,6 +2,7 @@
 title: "Critical Path Method (CPM)"
 seo_title: "Critical Path Method (CPM) in Primavera P6"
 meta_description: "Learn CPM (critical path method) for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
+description: "Learn CPM (critical path method) for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "CPM schedule logic"
   - "critical path and float"
   - "Primavera P6 blog"
-slug: "critical-path-method-cpm-primavera-p6"
+slug: "en/blog/critical-path-method-cpm-primavera-p6"
 language: "en"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Critical Path Method"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: ""
 canonical_url: ""
 last_reviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
 # CPM (Critical Path Method)
 
@@ -145,6 +148,6 @@ But CPM is only as reliable as the schedule it calculates. Good activities, real
 The value of CPM is not only that it shows a project finish date. Its real value is that it explains why that finish date is controlled, where the schedule has flexibility, and where management attention should go next.
 
 ## Related Content
-- [Critical Path or Float Path Starting with Constraint](../../01_metrics_en/09_cp_or_float_path_starting_with_constraint/01_overview_template.md)
+- [Critical Path or Float Path Starting with Constraint](../../metrics/09_cp_or_float_path_starting_with_constraint/02_guide_template.md)
 - [SS & FF Relations](../15_SS%20&%20FF%20RELATIONS/15_SS%20&%20FF%20RELATIONS.md)
 - [Develop a Project Schedule](../17_DEVELOPE%20A%20PROJECT%20SCHEDULE/17_DEVELOPE%20A%20PROJECT%20SCHEDULE.md)

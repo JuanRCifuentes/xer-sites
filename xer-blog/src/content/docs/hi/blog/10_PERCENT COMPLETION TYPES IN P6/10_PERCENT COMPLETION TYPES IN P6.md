@@ -2,6 +2,7 @@
 title: "P6 में प्रतिशत पूर्ण प्रकार"
 seo_title: "P6 में प्रतिशत पूर्ण प्रकार - Primavera P6"
 meta_description: "Primavera P6 में P6 में प्रतिशत पूर्ण प्रकार को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+description: "Primavera P6 में P6 में प्रतिशत पूर्ण प्रकार को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-percent-complete-types-in-p6"
+slug: "hi/blog/percent-complete-types-in-p6"
 language: "hi"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/10_PERCENT COMPLETION TYPES IN P6/10_PERCENT COMPLETION TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6 में प्रतिशत पूर्ण प्रकार
 
@@ -191,6 +194,6 @@ P6 में प्रतिशत पूर्ण प्रकार परि�
 
 एक मजबूत शेड्यूल जानबूझकर प्रतिशत पूर्ण प्रकारों का उपयोग करता है। जब विधि कार्य से मेल खाती है, तो प्रगति अद्यतन स्पष्ट हो जाते हैं, शेष अवधि अधिक विश्वसनीय हो जाती है, और परियोजना रिपोर्टिंग का बचाव करना आसान हो जाता है।
 ## संबंधित सामग्री
-- [बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ: यह शेड्यूल मीट्रिक क्यों मायने रखता है - अवलोकन](../../05_metrics_hi/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ: यह शेड्यूल मीट्रिक क्यों मायने रखता है - अवलोकन](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [P6 में अवधि](../09_DURATION%20IN%20P6/09_DURATION%20IN%20P6.md)
 - [जहां लागत P6 में रहती है](../11_WHERE%20THE%20COST%20LIVE%20IN%20P6/11_WHERE%20THE%20COST%20LIVE%20IN%20P6.md)

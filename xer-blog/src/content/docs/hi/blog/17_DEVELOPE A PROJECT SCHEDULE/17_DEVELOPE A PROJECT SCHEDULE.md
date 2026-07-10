@@ -2,6 +2,7 @@
 title: "प्रोजेक्ट शेड्यूल विकसित करें"
 seo_title: "Primavera P6 में प्रोजेक्ट शेड्यूल विकसित करें"
 meta_description: "Primavera P6 में प्रोजेक्ट शेड्यूल विकसित करने की प्रक्रिया को WBS, गतिविधि, तर्क, अवधि, संसाधन, बेसलाइन और अद्यतन चक्र के संदर्भ में समझें।"
+description: "Primavera P6 में प्रोजेक्ट शेड्यूल विकसित करने की प्रक्रिया को WBS, गतिविधि, तर्क, अवधि, संसाधन, बेसलाइन और अद्यतन चक्र के संदर्भ में समझें।"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -11,9 +12,10 @@ keywords:
   - "शेड्यूल गुणवत्ता"
   - "प्रोजेक्ट नियंत्रण"
   - "CPM शेड्यूल तर्क"
-slug: "hi-develop-a-project-schedule-in-primavera-p6"
+slug: "hi/blog/develop-a-project-schedule-in-primavera-p6"
 language: "hi"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
 audience:
@@ -29,6 +31,7 @@ related_blogs:
 translation_of: "01b_blogs_en/17_DEVELOPE A PROJECT SCHEDULE/17_DEVELOPE A PROJECT SCHEDULE.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # प्रोजेक्ट शेड्यूल विकसित करें
 
@@ -136,6 +139,6 @@ Work Breakdown Structure शेड्यूल का संगठनात्�
 सर्वश्रेष्ठ शेड्यूल P6 जल्दी खोलने से नहीं बनते। वे काम समझने, धारणाओं को चुनौती देने और ऐसा मॉडल बनाने से बनते हैं जिस पर प्रोजेक्ट टीम भरोसा कर सके।
 
 ## संबंधित सामग्री
-- [बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ: यह शेड्यूल मीट्रिक क्यों मायने रखता है - अवलोकन](../../05_metrics_hi/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ: यह शेड्यूल मीट्रिक क्यों मायने रखता है - अवलोकन](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [CPM (क्रिटिकल पाथ मेथड)](../16_CPM%20(CRITICAL%20PATH%20METHOD)/16_CPM%20(CRITICAL%20PATH%20METHOD).md)
 - [गतिविधि कोड](../18_ACTIVITY%20CODES/18_ACTIVITY%20CODES.md)

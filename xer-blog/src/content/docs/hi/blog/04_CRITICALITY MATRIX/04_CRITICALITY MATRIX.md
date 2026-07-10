@@ -2,6 +2,7 @@
 title: "आलोचनात्मकता मैट्रिक्स"
 seo_title: "आलोचनात्मकता मैट्रिक्स - Primavera P6"
 meta_description: "Primavera P6 में आलोचनात्मकता मैट्रिक्स को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+description: "Primavera P6 में आलोचनात्मकता मैट्रिक्स को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-criticality-matrix-in-primavera-p6"
+slug: "hi/blog/criticality-matrix-in-primavera-p6"
 language: "hi"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # आलोचनात्मकता मैट्रिक्स
 
@@ -184,6 +187,6 @@ P6 से गतिविधि डेटा निर्यात करके 
 
 अच्छी तरह से उपयोग किया गया, एक क्रिटिकलिटी मैट्रिक्स प्रोजेक्ट टीम को प्रतिक्रियाशील रिपोर्टिंग से सक्रिय शेड्यूल नियंत्रण की ओर बढ़ने में मदद करता है।
 ## संबंधित सामग्री
-- [एक बाधा से शुरू होने वाला महत्वपूर्ण पथ या फ्लोट पथ - अवलोकन](../../05_metrics_hi/09_cp_or_float_path_starting_with_constraint/01_overview_template.md)
+- [एक बाधा से शुरू होने वाला महत्वपूर्ण पथ या फ्लोट पथ - अवलोकन](../../metrics/09_cp_or_float_path_starting_with_constraint/02_guide_template.md)
 - [गंभीर पथ](../03_CRITICAL%20PATH/03_CRITICAL%20PATH.md)
 - [P6 में गतिविधि प्रकार](../05_ACTIVITY%20TYPES%20IN%20P6/05_ACTIVITY%20TYPES%20IN%20P6.md)

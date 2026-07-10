@@ -2,6 +2,7 @@
 title: "Projektterminplan Entwickeln"
 seo_title: "Projektterminplan Entwickeln - Primavera P6"
 meta_description: "Lernen Sie Projektterminplan Entwickeln in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+description: "Lernen Sie Projektterminplan Entwickeln in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-develop-a-project-schedule-in-primavera-p6"
+slug: "de/blog/develop-a-project-schedule-in-primavera-p6"
 language: "de"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Terminplanung in Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/17_DEVELOPE A PROJECT SCHEDULE/17_DEVELOPE A PROJECT SCHEDULE.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Projektterminplan Entwickeln
 
@@ -137,6 +140,6 @@ Einen Projektterminplan zu entwickeln ist ein strukturierter Prozess. Projekt ve
 
 Die besten Terminplaene entstehen nicht durch schnelles Oeffnen von P6. Sie entstehen durch Verstehen der Arbeit, Hinterfragen von Annahmen und ein Modell, dem das Projektteam vertrauen kann.
 ## Verwandte Inhalte
-- [Aktivitäten, die am Datenstichtag ohne steuernde Logik beginnen: Warum diese Terminplanmetrik wichtig ist - Überblick](../../09_metrics_de/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Aktivitäten, die am Datenstichtag ohne steuernde Logik beginnen: Warum diese Terminplanmetrik wichtig ist - Überblick](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [CPM (Critical Path Method)](../16_CPM%20(CRITICAL%20PATH%20METHOD)/16_CPM%20(CRITICAL%20PATH%20METHOD).md)
 - [Aktivitätscodes](../18_ACTIVITY%20CODES/18_ACTIVITY%20CODES.md)

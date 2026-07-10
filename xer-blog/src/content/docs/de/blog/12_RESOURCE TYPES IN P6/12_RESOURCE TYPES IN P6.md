@@ -2,6 +2,7 @@
 title: "Ressourcentypen in P6"
 seo_title: "Ressourcentypen in P6 - Primavera P6"
 meta_description: "Lernen Sie Ressourcentypen in P6 in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+description: "Lernen Sie Ressourcentypen in P6 in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-resource-types-in-p6"
+slug: "de/blog/resource-types-in-p6"
 language: "de"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Terminplanung in Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Ressourcentypen in P6
 
@@ -217,6 +220,6 @@ Die Auswahl des richtigen Ressourcentyps erleichtert die Analyse des Terminplans
 
 Ein guter ressourcenbelasteter Terminplan ist nicht nur ein Terminplan mit angehängten Ressourcen. Dabei handelt es sich um einen Terminplan, in dem jeder Ressourcentyp gezielt genutzt und während der gesamten Projektlaufzeit beibehalten wird.
 ## Verwandte Inhalte
-- [Aktivitäten begannen mit 0 % Fortschritt in Primavera P6 - Überblick](../../09_metrics_de/13_activity_started_progress_zero/01_overview_template.md)
+- [Aktivitäten begannen mit 0 % Fortschritt in Primavera P6 - Überblick](../../metrics/13_activity_started_progress_zero/02_guide_template.md)
 - [Wo die Kosten in P6 leben](../11_WHERE%20THE%20COST%20LIVE%20IN%20P6/11_WHERE%20THE%20COST%20LIVE%20IN%20P6.md)
 - [Ressourcengrenzen in P6](../13_RESOURCES%20LIMITS%20IN%20P6/13_RESOURCES%20LIMITS%20IN%20P6.md)

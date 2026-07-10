@@ -2,6 +2,7 @@
 title: "पी6 में अवधि प्रकार"
 seo_title: "पी6 में अवधि प्रकार - Primavera P6"
 meta_description: "Primavera P6 में पी6 में अवधि प्रकार को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+description: "Primavera P6 में पी6 में अवधि प्रकार को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-duration-types-in-p6"
+slug: "hi/blog/duration-types-in-p6"
 language: "hi"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/06_DURATION TYPES IN P6/06_DURATION TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # पी6 में अवधि प्रकार
 
@@ -206,6 +209,6 @@ flowchart TD
 
 सही अवधि प्रकार चुनने से शेड्यूल की गणना इस तरह से करने में मदद मिलती है जो प्रोजेक्ट योजना से मेल खाती है। यह संसाधन लोडिंग, प्रगति अपडेट, लागत पूर्वानुमान और शेड्यूल रिपोर्ट को समझने और बचाव करने में भी आसान बनाता है।
 ## संबंधित सामग्री
-- [बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ: यह शेड्यूल मीट्रिक क्यों मायने रखता है - अवलोकन](../../05_metrics_hi/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ: यह शेड्यूल मीट्रिक क्यों मायने रखता है - अवलोकन](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [P6 में गतिविधि प्रकार](../05_ACTIVITY%20TYPES%20IN%20P6/05_ACTIVITY%20TYPES%20IN%20P6.md)
 - [पी6 में तिथियाँ](../07_DATES%20IN%20P6/07_DATES%20IN%20P6.md)

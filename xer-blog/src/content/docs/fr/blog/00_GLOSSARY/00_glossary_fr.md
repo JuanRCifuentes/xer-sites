@@ -2,6 +2,7 @@
 title: "Glossaire de planification et de contrôle de projet pour Primavera P6"
 seo_title: "Glossaire de planification et de contrôle de projet pour Primavera P6"
 meta_description: "Un glossaire pratique des termes Primavera P6, planification CPM, planification de projet et contrôle de projet pour les planificateurs, les planificateurs, les chefs de projet et les équipes PMO."
+description: "Un glossaire pratique des termes Primavera P6, planification CPM, planification de projet et contrôle de projet pour les planificateurs, les planificateurs, les chefs de projet et les équipes PMO."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -14,9 +15,10 @@ keywords:
   - "planifier les conditions de qualité"
   - "Révision du calendrier du PMO"
   - "glossaire de la méthode du chemin critique"
-slug: "fr-primavera-p6-glossary"
+slug: "fr/blog/primavera-p6-glossary"
 language: "fr"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 et contrôles de projet"
 audience:
@@ -33,6 +35,7 @@ related_blogs:
 translation_of: "01b_blogs_en/00_GLOSSARY/00_glossary_en.md"
 canonical_url: ""
 last_reviewed: "2026-07-07"
+pubDate: "2026-07-07"
 ---
 # Glossaire de planification et de contrôle de projet pour Primavera P6
 

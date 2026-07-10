@@ -2,6 +2,7 @@
 title: "علاقات SS و FF"
 seo_title: "علاقات SS و FF - Primavera P6"
 meta_description: "تعرّف على علاقات SS و FF في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+description: "تعرّف على علاقات SS و FF في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "ضبط المشاريع"
   - "منطق CPM"
   - "مراجعة الجدول"
-slug: "ar-ss-and-ff-relations-in-primavera-p6"
+slug: "ar/blog/ss-and-ff-relations-in-primavera-p6"
 language: "ar"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "الجدولة في Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # علاقات SS و FF
 
@@ -122,6 +125,6 @@ flowchart LR
 
 الجدول الموثوق يجب أن يشرح لماذا يمكن للعمل أن يبدأ، وما الذي يتحكم في نهايته. عندما تساعد SS و FF في الإجابة عن ذلك، فهي تقوي الجدول. وعندما تترك أحد الطرفين مفتوحا، فهي تخلق منطقا ضعيفا يحتاج إلى مراجعة.
 ## محتوى ذو صلة
-- [الأنشطة التي تبدأ في تاريخ البيانات بدون المنطق المحرك: لماذا يهم مقياس الجدول هذا - نظرة عامة](../../04_metrics_ar/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [الأنشطة التي تبدأ في تاريخ البيانات بدون المنطق المحرك: لماذا يهم مقياس الجدول هذا - نظرة عامة](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [موازنة الموارد في ص6](../14_RESOURCES%20BALANCING%20IN%20P6/14_RESOURCES%20BALANCING%20IN%20P6.md)
 - [CPM (طريقة المسار الحرج)](../16_CPM%20(CRITICAL%20PATH%20METHOD)/16_CPM%20(CRITICAL%20PATH%20METHOD).md)

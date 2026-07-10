@@ -2,6 +2,7 @@
 title: "Activity Types in P6"
 seo_title: "Activity Types in P6"
 meta_description: "Learn activity types in p6 for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
+description: "Learn activity types in p6 for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -12,9 +13,10 @@ keywords:
   - "project controls"
   - "CPM schedule logic"
   - "Primavera P6 blog"
-slug: "activity-types-in-p6"
+slug: "en/blog/activity-types-in-p6"
 language: "en"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 Scheduling"
 audience:
@@ -30,6 +32,7 @@ related_blogs:
 translation_of: ""
 canonical_url: ""
 last_reviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
 # Activity Types in P6
 
@@ -204,6 +207,6 @@ Task Dependent activities represent most normal work. Resource Dependent activit
 Choosing the right activity type makes the schedule easier to review, easier to explain, and more reliable for project controls. A strong schedule does not only have good dates and logic. It also uses the right kind of activity for the work being represented.
 
 ## Related Content
-- [Activities Starting in Data Date with No Logic Driving](../../01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Activities Starting in Data Date with No Logic Driving](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Criticality Matrix](../04_CRITICALITY%20MATRIX/04_CRITICALITY%20MATRIX.md)
 - [Duration Types in P6](../06_DURATION%20TYPES%20IN%20P6/06_DURATION%20TYPES%20IN%20P6.md)

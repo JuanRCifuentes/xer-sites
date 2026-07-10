@@ -2,6 +2,7 @@
 title: "CPM (Critical Path Method)"
 seo_title: "CPM (Critical Path Method) - Primavera P6"
 meta_description: "Lernen Sie CPM (Critical Path Method) in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+description: "Lernen Sie CPM (Critical Path Method) in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-critical-path-method-cpm-primavera-p6"
+slug: "de/blog/critical-path-method-cpm-primavera-p6"
 language: "de"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Terminplanung in Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # CPM (Critical Path Method)
 
@@ -144,6 +147,6 @@ CPM ist jedoch nur so verlaesslich wie der Terminplan, den es berechnet. Gute Ak
 
 Der Wert von CPM liegt nicht nur in einem Projektenddatum. Der eigentliche Wert liegt darin, zu erklaeren, warum dieses Datum gesteuert wird, wo Flexibilitaet besteht und wo management attention hingehoert.
 ## Verwandte Inhalte
-- [Kritischer Pfad oder Pufferpfad, beginnend mit einer Einschränkung - Überblick](../../09_metrics_de/09_cp_or_float_path_starting_with_constraint/01_overview_template.md)
+- [Kritischer Pfad oder Pufferpfad, beginnend mit einer Einschränkung - Überblick](../../metrics/09_cp_or_float_path_starting_with_constraint/02_guide_template.md)
 - [SS- und FF-Beziehungen](../15_SS%20&%20FF%20RELATIONS/15_SS%20&%20FF%20RELATIONS.md)
 - [Projektterminplan Entwickeln](../17_DEVELOPE%20A%20PROJECT%20SCHEDULE/17_DEVELOPE%20A%20PROJECT%20SCHEDULE.md)

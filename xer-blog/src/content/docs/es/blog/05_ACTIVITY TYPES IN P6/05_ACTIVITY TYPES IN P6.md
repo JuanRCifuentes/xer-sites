@@ -2,6 +2,7 @@
 title: "Tipos de Actividad en P6"
 seo_title: "Tipos de Actividad en P6 - Primavera P6"
 meta_description: "Aprende Tipos de Actividad en P6 en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
+description: "Aprende Tipos de Actividad en P6 en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "control de proyectos"
   - "lógica CPM"
   - "revisión del cronograma"
-slug: "es-activity-types-in-p6"
+slug: "es/blog/activity-types-in-p6"
 language: "es"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planificación en Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/05_ACTIVITY TYPES IN P6/05_ACTIVITY TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Tipos de Actividad en P6
 
@@ -204,6 +207,6 @@ Las actividades Task Dependent representan la mayor parte del trabajo normal. La
 
 Elegir el tipo correcto hace que el cronograma sea mas facil de revisar, explicar y confiar para project controls. Un cronograma fuerte no solo tiene buenas fechas y logica. Tambien usa el tipo correcto de actividad para el trabajo que representa.
 ## Contenido relacionado
-- [Actividades que Comienzan en la fecha de datos sin Lógica Impulsora: Por Qué Importa esta Métrica del Cronograma - Descripción general](../../02_metrics_es/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Actividades que Comienzan en la fecha de datos sin Lógica Impulsora: Por Qué Importa esta Métrica del Cronograma - Descripción general](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Matriz de Criticidad](../04_CRITICALITY%20MATRIX/04_CRITICALITY%20MATRIX.md)
 - [Tipos de Duracion en P6](../06_DURATION%20TYPES%20IN%20P6/06_DURATION%20TYPES%20IN%20P6.md)

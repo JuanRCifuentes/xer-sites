@@ -2,6 +2,7 @@
 title: "CPM（关键路径法）"
 seo_title: "CPM（关键路径法） - Primavera P6"
 meta_description: "了解 Primavera P6 中的“CPM（关键路径法）”，重点关注进度计划、项目控制和进度质量。"
+description: "了解 Primavera P6 中的“CPM（关键路径法）”，重点关注进度计划、项目控制和进度质量。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "项目控制"
   - "CPM逻辑"
   - "进度审查"
-slug: "zh-critical-path-method-cpm-primavera-p6"
+slug: "zh/blog/critical-path-method-cpm-primavera-p6"
 language: "zh"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 进度计划"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # CPM（关键路径法）
 
@@ -140,6 +143,6 @@ CPM 是把 Primavera P6 计划变成项目控制工具的引擎。它从活动�
 
 CPM 的价值不只是给出完成日期。真正的价值是解释为什么这个日期被控制，哪里有弹性，以及管理层应该把注意力放在哪里。
 ## 相关内容
-- [以约束开始的关键路径或浮时路径 - 概述](../../03_metrics_zh/09_cp_or_浮时_path_starting_with_constraint/01_overview_template.md)
+- [以约束开始的关键路径或浮时路径 - 概述](../../metrics/09_cp_or_浮时_path_starting_with_constraint/02_guide_template.md)
 - [SS 与 FF 关系](../15_SS%20&%20FF%20RELATIONS/15_SS%20&%20FF%20RELATIONS.md)
 - [制定项目进度计划](../17_DEVELOPE%20A%20PROJECT%20SCHEDULE/17_DEVELOPE%20A%20PROJECT%20SCHEDULE.md)

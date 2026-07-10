@@ -2,6 +2,7 @@
 title: "Develop a Project Schedule"
 seo_title: "Develop a Project Schedule in Primavera P6"
 meta_description: "Learn develop a project schedule for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
+description: "Learn develop a project schedule for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -12,9 +13,10 @@ keywords:
   - "project controls"
   - "CPM schedule logic"
   - "Primavera P6 blog"
-slug: "develop-a-project-schedule-in-primavera-p6"
+slug: "en/blog/develop-a-project-schedule-in-primavera-p6"
 language: "en"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 Scheduling"
 audience:
@@ -30,6 +32,7 @@ related_blogs:
 translation_of: ""
 canonical_url: ""
 last_reviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
 # Develop a Project Schedule
 
@@ -137,6 +140,6 @@ Developing a project schedule is a structured process. Understand the project, d
 The best schedules are not built by rushing into P6. They are built by understanding the work, challenging assumptions, and creating a model that the project team can trust.
 
 ## Related Content
-- [Activities Starting in Data Date with No Logic Driving](../../01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Activities Starting in Data Date with No Logic Driving](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [CPM (critical Path Method)](../16_CPM%20(CRITICAL%20PATH%20METHOD)/16_CPM%20(CRITICAL%20PATH%20METHOD).md)
 - [Activity Codes](../18_ACTIVITY%20CODES/18_ACTIVITY%20CODES.md)

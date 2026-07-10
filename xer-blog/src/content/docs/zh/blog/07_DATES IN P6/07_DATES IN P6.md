@@ -2,6 +2,7 @@
 title: "P6 中的日期"
 seo_title: "P6 中的日期 - Primavera P6"
 meta_description: "了解 Primavera P6 中的“P6 中的日期”，重点关注进度计划、项目控制和进度质量。"
+description: "了解 Primavera P6 中的“P6 中的日期”，重点关注进度计划、项目控制和进度质量。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "项目控制"
   - "CPM逻辑"
   - "进度审查"
-slug: "zh-dates-in-p6"
+slug: "zh/blog/dates-in-p6"
 language: "zh"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 进度计划"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/07_DATES IN P6/07_DATES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6 中的日期
 
@@ -191,6 +194,6 @@ P6 中的日期非常强大，因为它们讲述了进度计划编制故事的�
 
 当项目团队理解每个日期字段的含义时，进度计划变得更容易解释，更容易审核，项目控制也更可靠。
 ## 相关内容
-- [实际日期晚于 Primavera P6 中的数据日期 - 概述](../../03_metrics_zh/12_actual_date_greater_than_data_date/01_overview_template.md)
+- [实际日期晚于 Primavera P6 中的数据日期 - 概述](../../metrics/12_actual_date_greater_than_data_date/02_guide_template.md)
 - [P6 中的持续时间类型](../06_DURATION%20TYPES%20IN%20P6/06_DURATION%20TYPES%20IN%20P6.md)
 - [P6 中的日历](../08_CALENDARS%20IN%20P6/08_CALENDARS%20IN%20P6.md)

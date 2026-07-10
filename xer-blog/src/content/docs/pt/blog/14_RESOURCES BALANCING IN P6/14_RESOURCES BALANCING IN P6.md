@@ -2,6 +2,7 @@
 title: "Balanceamento de recursos no P6"
 seo_title: "Balanceamento de recursos no P6 - Primavera P6"
 meta_description: "Aprenda Balanceamento de recursos no P6 no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+description: "Aprenda Balanceamento de recursos no P6 no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "controles de projeto"
   - "lógica CPM"
   - "revisão do cronograma"
-slug: "pt-resource-balancing-in-primavera-p6"
+slug: "pt/blog/resource-balancing-in-primavera-p6"
 language: "pt"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planejamento em Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/14_RESOURCES BALANCING IN P6/14_RESOURCES BALANCING IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Balanceamento de recursos no P6
 
@@ -224,6 +227,6 @@ O nivelamento de recursos P6 pode apoiar esta revisão, deslocando atividades co
 
 Um cronograma equilibrado não é necessariamente um cronograma perfeitamente tranquilo. É um cronograma onde a demanda de recursos é visível, realista e alinhada com a forma como o projeto será realmente entregue.
 ## Conteúdo relacionado
-- [Atividades iniciadas com 0% de progresso no Primavera P6 - Visão geral](../../06_metrics_pt/13_activity_started_progress_zero/01_overview_template.md)
+- [Atividades iniciadas com 0% de progresso no Primavera P6 - Visão geral](../../metrics/13_activity_started_progress_zero/02_guide_template.md)
 - [Limites de recursos em P6](../13_RESOURCES%20LIMITS%20IN%20P6/13_RESOURCES%20LIMITS%20IN%20P6.md)
 - [Relacoes SS e FF](../15_SS%20&%20FF%20RELATIONS/15_SS%20&%20FF%20RELATIONS.md)

@@ -2,6 +2,7 @@
 title: "Tipos de duração em P6"
 seo_title: "Tipos de duração em P6 - Primavera P6"
 meta_description: "Aprenda Tipos de duração em P6 no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+description: "Aprenda Tipos de duração em P6 no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "controles de projeto"
   - "lógica CPM"
   - "revisão do cronograma"
-slug: "pt-duration-types-in-p6"
+slug: "pt/blog/duration-types-in-p6"
 language: "pt"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planejamento em Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/06_DURATION TYPES IN P6/06_DURATION TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Tipos de duração em P6
 
@@ -206,6 +209,6 @@ Duração fixa e unidades protegem o tempo e o esforço total. Duração fixa e 
 
 Escolher o tipo de duração correto ajuda o cronograma a ser calculado de maneira que corresponda ao plano do projeto. Também torna o carregamento de recursos, as atualizações de progresso, as previsões de custos e os relatórios de cronograma mais fáceis de entender e defender.
 ## Conteúdo relacionado
-- [Atividades começando na data dos dados sem nenhuma lógica direcionadora: por que essa métrica de cronograma é importante - Visão geral](../../06_metrics_pt/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Atividades começando na data dos dados sem nenhuma lógica direcionadora: por que essa métrica de cronograma é importante - Visão geral](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Tipos de atividades em P6](../05_ACTIVITY%20TYPES%20IN%20P6/05_ACTIVITY%20TYPES%20IN%20P6.md)
 - [Datas em P6](../07_DATES%20IN%20P6/07_DATES%20IN%20P6.md)

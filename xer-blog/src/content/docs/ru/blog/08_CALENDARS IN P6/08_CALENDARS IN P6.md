@@ -2,6 +2,7 @@
 title: "Календари в P6"
 seo_title: "Календари в P6 - Primavera P6"
 meta_description: "Изучите Календари в P6 в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
+description: "Изучите Календари в P6 в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "проектный контроль"
   - "CPM-логика"
   - "анализ графика"
-slug: "ru-calendars-in-p6"
+slug: "ru/blog/calendars-in-p6"
 language: "ru"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Планирование в Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
 canonical_url: ""
 last_проверкуed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Календари в P6
 
@@ -205,6 +208,6 @@ flowchart TD
 
 Строгий график намеренно использует календари. У каждого календаря есть цель, каждый специальный календарь документируется, а назначения календаря действий и ресурсов проверяются, прежде чем график станет надежным.
 ## Связанные материалы
-- [Календари с разным временем начала и окончания в Primavera P6 - Обзор](../../07_metrics_ru/20_calendars_with_different_start_finish_time_in_day/01_overview_template.md)
+- [Календари с разным временем начала и окончания в Primavera P6 - Обзор](../../metrics/20_calendars_with_different_start_finish_time_in_day/02_guide_template.md)
 - [Даты в P6](../07_DATES%20IN%20P6/07_DATES%20IN%20P6.md)
 - [Продолжительность в P6](../09_DURATION%20IN%20P6/09_DURATION%20IN%20P6.md)

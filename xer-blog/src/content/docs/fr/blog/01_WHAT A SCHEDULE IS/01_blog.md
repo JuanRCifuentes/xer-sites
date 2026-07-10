@@ -2,6 +2,7 @@
 title: "Qu'est-ce qu'un horaire"
 seo_title: "Qu'est-ce qu'un horaire - Primavera P6"
 meta_description: "Comprendre Qu'est-ce qu'un horaire dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
+description: "Comprendre Qu'est-ce qu'un horaire dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-what-a-planning-is-in-primavera-p6"
+slug: "fr/blog/what-a-planning-is-in-primavera-p6"
 language: "fr"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planification Primavera P6"
 audience:
@@ -30,6 +32,7 @@ related_blogs:
 translation_of: "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Qu'est-ce qu'un horaire
 
@@ -125,5 +128,5 @@ Lorsqu’il est bien construit, il indique à l’équipe du projet ce qui doit 
 
 Pour cette raison, les examens de la qualité du planning doivent toujours poser une question simple : le calendrier explique-t-il pourquoi les travaux commencent au moment où ils commencent ? Si la réponse est oui, le planning fait son travail. Si la réponse est non, la feuille de route a besoin de plus de logique avant de pouvoir lui faire confiance.
 ## Contenu associé
-- [Activités commençant à la date des données sans logique pilotante : pourquoi cette mesure de planification est importante - Vue d’ensemble](../../08_metrics_fr/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Activités commençant à la date des données sans logique pilotante : pourquoi cette mesure de planification est importante - Vue d’ensemble](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Logique robuste](../02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

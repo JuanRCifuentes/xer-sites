@@ -2,6 +2,7 @@
 title: "Что такое график"
 seo_title: "Что такое график - Primavera P6"
 meta_description: "Изучите Что такое график в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
+description: "Изучите Что такое график в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "проектный контроль"
   - "CPM-логика"
   - "анализ графика"
-slug: "ru-what-a-schedule-is-in-primavera-p6"
+slug: "ru/blog/what-a-schedule-is-in-primavera-p6"
 language: "ru"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Планирование в Primavera P6"
 audience:
@@ -30,6 +32,7 @@ related_blogs:
 translation_of: "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
 canonical_url: ""
 last_проверкуed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Что такое график
 
@@ -125,5 +128,5 @@ flowchart LR
 
 По этой причине при проверке качества графика всегда следует задавать простой вопрос: объясняет ли график, почему работа начинается именно тогда, когда она начинается? Если ответ положительный, график делает свое дело. Если ответ отрицательный, дорожной карте нужно больше логики, прежде чем ей можно будет доверять.
 ## Связанные материалы
-- [Действия, начинающиеся с даты данных, без управляющей логики: почему этот показатель графика имеет значение - Обзор](../../07_metrics_ru/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Действия, начинающиеся с даты данных, без управляющей логики: почему этот показатель графика имеет значение - Обзор](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Надежная логика](../02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

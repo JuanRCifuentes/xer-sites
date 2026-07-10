@@ -2,6 +2,7 @@
 title: "Chemin critique"
 seo_title: "Chemin critique - Primavera P6"
 meta_description: "Comprendre Chemin critique dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
+description: "Comprendre Chemin critique dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-critical-path-in-primavera-p6"
+slug: "fr/blog/critical-path-in-primavera-p6"
 language: "fr"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planification Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/03_CRITICAL PATH/03_CRITICAL PATH.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Chemin critique
 
@@ -165,6 +168,6 @@ Dans un planning chargé, le chemin critique raconte une histoire claire. Il par
 
 Lorsque cette histoire a du sens, le chemin critique devient l’un des outils les plus puissants de contrôle de projet. Dans le cas contraire, cela constitue un avertissement indiquant que le calendrier doit être révisé davantage avant de pouvoir faire confiance aux prévisions.
 ## Contenu associé
-- [Chemin critique ou chemin de marge commençant par une contrainte - Vue d’ensemble](../../08_metrics_fr/09_cp_or_float_path_starting_with_constraint/01_overview_template.md)
+- [Chemin critique ou chemin de marge commençant par une contrainte - Vue d’ensemble](../../metrics/09_cp_or_float_path_starting_with_constraint/02_guide_template.md)
 - [Logique robuste](../02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)
 - [Matrice de criticité](../04_CRITICALITY%20MATRIX/04_CRITICALITY%20MATRIX.md)

@@ -2,6 +2,7 @@
 title: "Sviluppare un Cronoprogramma di Progetto"
 seo_title: "Sviluppare un Cronoprogramma di Progetto - Primavera P6"
 meta_description: "Approfondisci Sviluppare un Cronoprogramma di Progetto in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
+description: "Approfondisci Sviluppare un Cronoprogramma di Progetto in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "controllo progetto"
   - "logica CPM"
   - "revisione del cronoprogramma"
-slug: "it-develop-a-project-schedule-in-primavera-p6"
+slug: "it/blog/develop-a-project-schedule-in-primavera-p6"
 language: "it"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Pianificazione in Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/17_DEVELOPE A PROJECT SCHEDULE/17_DEVELOPE A PROJECT SCHEDULE.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Sviluppare un Cronoprogramma di Progetto
 
@@ -137,6 +140,6 @@ Sviluppare un cronoprogramma di progetto è un processo strutturato. Capire il p
 
 I migliori cronoprogrammi non nascono aprendo P6 in fretta. Nascono capendo il lavoro, sfidando le assunzioni e creando un modello di cui il team possa fidarsi.
 ## Contenuti correlati
-- [Attività che iniziano alla data di aggiornamento senza alcuna logica guida: perché questa metrica di pianificazione è importante - Panoramica](../../11_metrics_it/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Attività che iniziano alla data di aggiornamento senza alcuna logica guida: perché questa metrica di pianificazione è importante - Panoramica](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [CPM (Metodo del percorso critico)](../16_CPM%20(CRITICAL%20PATH%20METHOD)/16_CPM%20(CRITICAL%20PATH%20METHOD).md)
 - [codici attività](../18_ACTIVITY%20CODES/18_ACTIVITY%20CODES.md)

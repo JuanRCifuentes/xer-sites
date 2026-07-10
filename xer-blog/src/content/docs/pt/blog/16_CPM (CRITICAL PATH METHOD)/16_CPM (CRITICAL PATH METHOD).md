@@ -2,6 +2,7 @@
 title: "CPM (Critical Path Method)"
 seo_title: "CPM (Critical Path Method) - Primavera P6"
 meta_description: "Aprenda CPM (Critical Path Method) no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+description: "Aprenda CPM (Critical Path Method) no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "controles de projeto"
   - "lógica CPM"
   - "revisão do cronograma"
-slug: "pt-critical-path-method-cpm-primavera-p6"
+slug: "pt/blog/critical-path-method-cpm-primavera-p6"
 language: "pt"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planejamento em Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # CPM (Critical Path Method)
 
@@ -144,6 +147,6 @@ Mas o CPM é tão confiável quanto o cronograma que calcula. Boas atividades, d
 
 O valor do CPM não é apenas mostrar uma data final. Seu valor real é explicar por que essa data está controlada, onde existe flexibilidade e onde a atenção da gestão deve se concentrar.
 ## Conteúdo relacionado
-- [Caminho crítico ou caminho de folga começando com uma restrição - Visão geral](../../06_metrics_pt/09_cp_or_float_path_starting_with_constraint/01_overview_template.md)
+- [Caminho crítico ou caminho de folga começando com uma restrição - Visão geral](../../metrics/09_cp_or_float_path_starting_with_constraint/02_guide_template.md)
 - [Relações SS e FF](../15_SS%20&%20FF%20RELATIONS/15_SS%20&%20FF%20RELATIONS.md)
 - [Desenvolver um Cronograma de Projeto](../17_DEVELOPE%20A%20PROJECT%20SCHEDULE/17_DEVELOPE%20A%20PROJECT%20SCHEDULE.md)

@@ -2,6 +2,7 @@
 title: "Activity Codes"
 seo_title: "Activity Codes in Primavera P6"
 meta_description: "Learn activity codes for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
+description: "Learn activity codes for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -12,9 +13,10 @@ keywords:
   - "project controls"
   - "CPM schedule logic"
   - "Primavera P6 blog"
-slug: "activity-codes-in-primavera-p6"
+slug: "en/blog/activity-codes-in-primavera-p6"
 language: "en"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 Scheduling"
 audience:
@@ -30,6 +32,7 @@ related_blogs:
 translation_of: ""
 canonical_url: ""
 last_reviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
 # Activity Codes
 
@@ -178,6 +181,6 @@ Used well, codes make the schedule easier to filter, group, report, and analyze.
 The bar chart shows time. The coding structure explains how the schedule can be read, sliced, and used.
 
 ## Related Content
-- [Missing Dependencies](../../01_metrics_en/21_missing_dependencies/01_overview_template.md)
+- [Missing Dependencies](../../metrics/21_missing_dependencies/02_guide_template.md)
 - [Develop a Project Schedule](../17_DEVELOPE%20A%20PROJECT%20SCHEDULE/17_DEVELOPE%20A%20PROJECT%20SCHEDULE.md)
 - [Schedule Basis](../19_SCHEDULE%20BASIS/19_SCHEDULE%20BASIS.md)

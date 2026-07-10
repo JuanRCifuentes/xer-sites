@@ -2,6 +2,7 @@
 title: "Tipos de recursos em P6"
 seo_title: "Tipos de recursos em P6 - Primavera P6"
 meta_description: "Aprenda Tipos de recursos em P6 no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+description: "Aprenda Tipos de recursos em P6 no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "controles de projeto"
   - "lógica CPM"
   - "revisão do cronograma"
-slug: "pt-resource-types-in-p6"
+slug: "pt/blog/resource-types-in-p6"
 language: "pt"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planejamento em Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Tipos de recursos em P6
 
@@ -217,6 +220,6 @@ A escolha do tipo de recurso certo fácilita a análise do cronograma. Ele melho
 
 Um bom cronograma carregado de recursos não é apenas um cronograma com recursos anexados. É um cronograma onde cada tipo de recurso é usado intencionalmente e mantido durante a vida do projeto.
 ## Conteúdo relacionado
-- [Atividades iniciadas com 0% de progresso no Primavera P6 - Visão geral](../../06_metrics_pt/13_activity_started_progress_zero/01_overview_template.md)
+- [Atividades iniciadas com 0% de progresso no Primavera P6 - Visão geral](../../metrics/13_activity_started_progress_zero/02_guide_template.md)
 - [Onde está o custo em P6](../11_WHERE%20THE%20COST%20LIVE%20IN%20P6/11_WHERE%20THE%20COST%20LIVE%20IN%20P6.md)
 - [Limites de recursos em P6](../13_RESOURCES%20LIMITS%20IN%20P6/13_RESOURCES%20LIMITS%20IN%20P6.md)

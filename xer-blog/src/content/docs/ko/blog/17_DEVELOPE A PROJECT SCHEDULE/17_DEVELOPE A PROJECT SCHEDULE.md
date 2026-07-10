@@ -2,6 +2,7 @@
 title: "프로젝트 공정표 개발"
 seo_title: "프로젝트 공정표 개발 - Primavera P6"
 meta_description: "Primavera P6에서 프로젝트 공정표 개발를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+description: "Primavera P6에서 프로젝트 공정표 개발를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-develop-a-project-schedule-in-primavera-p6"
+slug: "ko/blog/develop-a-project-schedule-in-primavera-p6"
 language: "ko"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 공정표관리"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/17_DEVELOPE A PROJECT SCHEDULE/17_DEVELOPE A PROJECT SCHEDULE.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # 프로젝트 공정표 개발
 
@@ -137,6 +140,6 @@ Baseline 승인 전 일정은 기술적으로, 운영적으로 검토되어야 �
 
 좋은 일정은 P6를 빨리 여는 데서 나오지 않습니다. 작업을 이해하고, 가정을 검토하고, 프로젝트 팀이 신뢰할 수 있는 모델을 만드는 데서 나옵니다.
 ## 관련 콘텐츠
-- [주도 로직 없이 데이터 날짜에 시작하는 활동: 이 일정 지표가 중요한 이유 - 개요](../../10_metrics_ko/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [주도 로직 없이 데이터 날짜에 시작하는 활동: 이 일정 지표가 중요한 이유 - 개요](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [CPM (Critical Path Method)](../16_CPM%20(CRITICAL%20PATH%20METHOD)/16_CPM%20(CRITICAL%20PATH%20METHOD).md)
 - [활동 코드](../18_ACTIVITY%20CODES/18_ACTIVITY%20CODES.md)

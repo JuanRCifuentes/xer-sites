@@ -2,6 +2,7 @@
 title: "CPM (क्रिटिकल पाथ मेथड)"
 seo_title: "Primavera P6 में CPM (क्रिटिकल पाथ मेथड)"
 meta_description: "Primavera P6 में CPM, क्रिटिकल पाथ, फ्लोट, शेड्यूल तर्क और प्रोजेक्ट नियंत्रण निर्णयों को व्यावहारिक रूप से समझें।"
+description: "Primavera P6 में CPM, क्रिटिकल पाथ, फ्लोट, शेड्यूल तर्क और प्रोजेक्ट नियंत्रण निर्णयों को व्यावहारिक रूप से समझें।"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -11,9 +12,10 @@ keywords:
   - "क्रिटिकल पाथ और फ्लोट"
   - "शेड्यूल गुणवत्ता"
   - "प्रोजेक्ट नियंत्रण"
-slug: "hi-critical-path-method-cpm-primavera-p6"
+slug: "hi/blog/critical-path-method-cpm-primavera-p6"
 language: "hi"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "क्रिटिकल पाथ मेथड"
 audience:
@@ -29,6 +31,7 @@ related_blogs:
 translation_of: "01b_blogs_en/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # CPM (क्रिटिकल पाथ मेथड)
 
@@ -139,6 +142,6 @@ CPM वह इंजन है जो Primavera P6 शेड्यूल को 
 CPM का मूल्य केवल प्रोजेक्ट समाप्ति तिथि दिखाना नहीं है। असली मूल्य यह समझाना है कि समाप्ति तिथि क्यों नियंत्रित है, लचीलापन कहाँ है और प्रबंधन का ध्यान कहाँ जाना चाहिए।
 
 ## संबंधित सामग्री
-- [एक बाधा से शुरू होने वाला महत्वपूर्ण पथ या फ्लोट पथ - अवलोकन](../../05_metrics_hi/09_cp_or_float_path_starting_with_constraint/01_overview_template.md)
+- [एक बाधा से शुरू होने वाला महत्वपूर्ण पथ या फ्लोट पथ - अवलोकन](../../metrics/09_cp_or_float_path_starting_with_constraint/02_guide_template.md)
 - [SS और FF संबंध](../15_SS%20&%20FF%20RELATIONS/15_SS%20&%20FF%20RELATIONS.md)
 - [प्रोजेक्ट शेड्यूल विकसित करें](../17_DEVELOPE%20A%20PROJECT%20SCHEDULE/17_DEVELOPE%20A%20PROJECT%20SCHEDULE.md)

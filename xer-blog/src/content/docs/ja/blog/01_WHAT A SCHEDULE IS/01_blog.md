@@ -2,6 +2,7 @@
 title: "スケジュールとは"
 seo_title: "スケジュールとは - Primavera P6"
 meta_description: "Primavera P6における「スケジュールとは」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+description: "Primavera P6における「スケジュールとは」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "プロジェクトコントロール"
   - "CPMロジック"
   - "スケジュールレビュー"
-slug: "jp-what-a-schedule-is-in-primavera-p6"
-language: "jp"
+slug: "ja/blog/what-a-schedule-is-in-primavera-p6"
+language: "ja"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 スケジューリング"
 audience:
@@ -30,6 +32,7 @@ related_blogs:
 translation_of: "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # スケジュールとは
 
@@ -125,5 +128,5 @@ P6 のデータ日付は、実績と予測の境界です。データ日付以�
 
 そのため、スケジュールの品質レビューでは、常に単純な質問をする必要があります。「スケジュールは、開始時に作業が開始される理由を説明していますか?」というものです。答えが「はい」の場合、スケジュールは機能しています。答えが「いいえ」の場合、ロードマップを信頼するにはさらに多くのロジックが必要です。
 ## 関連コンテンツ
-- [駆動ロジックなしでデータ日付に開始されるアクティビティ: このスケジュール指標が重要な理由 - 概要](../../12_metrics_jp/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [駆動ロジックなしでデータ日付に開始されるアクティビティ: このスケジュール指標が重要な理由 - 概要](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [堅牢なロジック](../02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

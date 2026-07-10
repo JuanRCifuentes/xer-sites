@@ -2,6 +2,7 @@
 title: "Duracion en P6"
 seo_title: "Duracion en P6 - Primavera P6"
 meta_description: "Aprende Duracion en P6 en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
+description: "Aprende Duracion en P6 en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "control de proyectos"
   - "lógica CPM"
   - "revisión del cronograma"
-slug: "es-duration-in-p6"
+slug: "es/blog/duration-in-p6"
 language: "es"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planificación en Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/09_DURATION IN P6/09_DURATION IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Duracion en P6
 
@@ -201,6 +204,6 @@ Esto significa que la duracion debe revisarse con contexto. Un valor mostrado co
 
 Un buen planificador entiende que la duracion no es solo un dato de entrada. Es parte del motor de calculo. Cuando duracion, calendarios y preferencias estan alineados, el cronograma es mas facil de explicar y mas confiable para project controls.
 ## Contenido relacionado
-- [Actividades que Comienzan en la fecha de datos sin Lógica Impulsora: Por Qué Importa esta Métrica del Cronograma - Descripción general](../../02_metrics_es/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Actividades que Comienzan en la fecha de datos sin Lógica Impulsora: Por Qué Importa esta Métrica del Cronograma - Descripción general](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Calendarios en P6](../08_CALENDARS%20IN%20P6/08_CALENDARS%20IN%20P6.md)
 - [Tipos de Percent Complete en P6](../10_PERCENT%20COMPLETION%20TYPES%20IN%20P6/10_PERCENT%20COMPLETION%20TYPES%20IN%20P6.md)

@@ -2,6 +2,7 @@
 title: "منطق قوي"
 seo_title: "منطق قوي - Primavera P6"
 meta_description: "تعرّف على منطق قوي في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+description: "تعرّف على منطق قوي في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "ضبط المشاريع"
   - "منطق CPM"
   - "مراجعة الجدول"
-slug: "ar-robust-logic-in-primavera-p6"
+slug: "ar/blog/robust-logic-in-primavera-p6"
 language: "ar"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "الجدولة في Primavera P6"
 audience:
@@ -32,6 +34,7 @@ related_blogs:
 translation_of: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # منطق قوي
 
@@ -161,7 +164,7 @@ flowchart TD
 
 يجب أن يجيب الجدول الزمني الموثوق به على هذا السؤال بوضوح. ما الذي يسمح لهذا العمل بالبدء؟ ما الذي يمكن أن يفعله بعد ذلك؟ إذا كان الجدول الزمني قادرا على الإجابة على كليهما، فإن المنطق يصبح قويا. إذا لم يكن الأمر كذلك، فسيكون لدى فريق المشروع المزيد من العمل التسلسلي للقيام به قبل الوثوق بالتنبؤات.
 ## محتوى ذو صلة
-- [التبعيات المفقودة في بريمافيرا P6 - نظرة عامة](../../04_metrics_ar/21_missing_dependencies/01_overview_template.md)
-- [المنطق الزائد في جداول بريمافيرا P6 - نظرة عامة](../../04_metrics_ar/06_redundant_logic/01_overview_template.md)
+- [التبعيات المفقودة في بريمافيرا P6 - نظرة عامة](../../metrics/21_missing_dependencies/02_guide_template.md)
+- [المنطق الزائد في جداول بريمافيرا P6 - نظرة عامة](../../metrics/06_redundant_logic/02_guide_template.md)
 - [ما هو الجدول الزمني](../01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [المسار الحرج](../03_CRITICAL%20PATH/03_CRITICAL%20PATH.md)

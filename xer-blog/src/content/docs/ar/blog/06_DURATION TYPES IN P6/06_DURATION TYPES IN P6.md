@@ -2,6 +2,7 @@
 title: "أنواع المدة في P6"
 seo_title: "أنواع المدة في P6 - Primavera P6"
 meta_description: "تعرّف على أنواع المدة في P6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+description: "تعرّف على أنواع المدة في P6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "ضبط المشاريع"
   - "منطق CPM"
   - "مراجعة الجدول"
-slug: "ar-duration-types-in-p6"
+slug: "ar/blog/duration-types-in-p6"
 language: "ar"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "الجدولة في Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/06_DURATION TYPES IN P6/06_DURATION TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # أنواع المدة في P6
 
@@ -206,6 +209,6 @@ flowchart TD
 
 يساعد اختيار نوع المدة المناسب في حساب الجدول بطريقة تتوافق مع خطة المشروع. كما أنه يجعل تحميل الموارد وتحديثات التقدم وتوقعات التكلفة وتقارير الجدول الزمني أسهل للفهم والدفاع عنها.
 ## محتوى ذو صلة
-- [الأنشطة التي تبدأ في تاريخ البيانات بدون المنطق المحرك: لماذا يهم مقياس الجدول هذا - نظرة عامة](../../04_metrics_ar/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [الأنشطة التي تبدأ في تاريخ البيانات بدون المنطق المحرك: لماذا يهم مقياس الجدول هذا - نظرة عامة](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [أنواع الأنشطة في ص6](../05_ACTIVITY%20TYPES%20IN%20P6/05_ACTIVITY%20TYPES%20IN%20P6.md)
 - [التواريخ في ص6](../07_DATES%20IN%20P6/07_DATES%20IN%20P6.md)

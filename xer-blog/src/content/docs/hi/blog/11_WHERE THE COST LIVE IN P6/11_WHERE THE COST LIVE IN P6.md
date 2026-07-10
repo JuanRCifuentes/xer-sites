@@ -2,6 +2,7 @@
 title: "जहां लागत P6 में रहती है"
 seo_title: "जहां लागत P6 में रहती है - Primavera P6"
 meta_description: "Primavera P6 में जहां लागत P6 में रहती है को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+description: "Primavera P6 में जहां लागत P6 में रहती है को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-where-costs-live-in-primavera-p6"
+slug: "hi/blog/where-costs-live-in-primavera-p6"
 language: "hi"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/11_WHERE THE COST LIVE IN P6/11_WHERE THE COST LIVE IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # जहां लागत P6 में रहती है
 
@@ -234,6 +237,6 @@ P6 प्रोजेक्ट सेटअप के आधार पर अर
 
 एक मजबूत लागत-भारित शेड्यूल संख्याओं को कहीं भी फिट करने से नहीं बनाया जाता है। इसका निर्माण यह तय करके किया जाता है कि प्रत्येक प्रकार की लागत कहां है और प्रत्येक अद्यतन चक्र के माध्यम से उस संरचना को बनाए रखा जाए।
 ## संबंधित सामग्री
-- [बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ: यह शेड्यूल मीट्रिक क्यों मायने रखता है - अवलोकन](../../05_metrics_hi/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ: यह शेड्यूल मीट्रिक क्यों मायने रखता है - अवलोकन](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [P6 में प्रतिशत पूर्ण प्रकार](../10_PERCENT%20COMPLETION%20TYPES%20IN%20P6/10_PERCENT%20COMPLETION%20TYPES%20IN%20P6.md)
 - [P6 में संसाधन प्रकार](../12_RESOURCE%20TYPES%20IN%20P6/12_RESOURCE%20TYPES%20IN%20P6.md)

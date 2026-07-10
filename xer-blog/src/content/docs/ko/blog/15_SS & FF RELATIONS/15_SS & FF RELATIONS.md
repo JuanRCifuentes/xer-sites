@@ -2,6 +2,7 @@
 title: "SS 및 FF 관계"
 seo_title: "SS 및 FF 관계 - Primavera P6"
 meta_description: "Primavera P6에서 SS 및 FF 관계를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+description: "Primavera P6에서 SS 및 FF 관계를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-ss-and-ff-relations-in-primavera-p6"
+slug: "ko/blog/ss-and-ff-relations-in-primavera-p6"
 language: "ko"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 공정표관리"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # SS 및 FF 관계
 
@@ -122,6 +125,6 @@ SS와 FF는 P6에서 유용한 도구이지만 절제가 필요합니다. 단독
 
 신뢰할 수 있는 CPM 공정표은 작업이 왜 시작될 수 있는지, 무엇이 완료를 통제하는지 설명해야 합니다. SS와 FF가 이 질문에 답한다면 일정을 강화합니다. 한쪽 끝을 열어 둔다면 검토가 필요한 약한 논리입니다.
 ## 관련 콘텐츠
-- [주도 로직 없이 데이터 날짜에 시작하는 활동: 이 일정 지표가 중요한 이유 - 개요](../../10_metrics_ko/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [주도 로직 없이 데이터 날짜에 시작하는 활동: 이 일정 지표가 중요한 이유 - 개요](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [P6의 리소스 밸런싱](../14_RESOURCES%20BALANCING%20IN%20P6/14_RESOURCES%20BALANCING%20IN%20P6.md)
 - [CPM (Critical Path Method)](../16_CPM%20(CRITICAL%20PATH%20METHOD)/16_CPM%20(CRITICAL%20PATH%20METHOD).md)

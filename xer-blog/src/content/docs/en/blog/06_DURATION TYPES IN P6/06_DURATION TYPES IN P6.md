@@ -2,6 +2,7 @@
 title: "Duration Types in P6"
 seo_title: "Duration Types in P6"
 meta_description: "Learn duration types in p6 for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
+description: "Learn duration types in p6 for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -12,9 +13,10 @@ keywords:
   - "project controls"
   - "CPM schedule logic"
   - "Primavera P6 blog"
-slug: "duration-types-in-p6"
+slug: "en/blog/duration-types-in-p6"
 language: "en"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 Scheduling"
 audience:
@@ -30,6 +32,7 @@ related_blogs:
 translation_of: ""
 canonical_url: ""
 last_reviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
 # Duration Types in P6
 
@@ -206,6 +209,6 @@ Fixed Duration & Units protects both time and total effort. Fixed Duration & Uni
 Choosing the right Duration Type helps the schedule calculate in a way that matches the project plan. It also makes resource loading, progress updates, cost forecasts, and schedule reports easier to understand and defend.
 
 ## Related Content
-- [Activities Starting in Data Date with No Logic Driving](../../01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Activities Starting in Data Date with No Logic Driving](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Activity Types in P6](../05_ACTIVITY%20TYPES%20IN%20P6/05_ACTIVITY%20TYPES%20IN%20P6.md)
 - [Dates in P6](../07_DATES%20IN%20P6/07_DATES%20IN%20P6.md)

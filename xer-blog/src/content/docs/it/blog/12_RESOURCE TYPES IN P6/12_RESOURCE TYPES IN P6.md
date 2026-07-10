@@ -2,6 +2,7 @@
 title: "Tipi di risorse in P6"
 seo_title: "Tipi di risorse in P6 - Primavera P6"
 meta_description: "Approfondisci Tipi di risorse in P6 in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
+description: "Approfondisci Tipi di risorse in P6 in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "controllo progetto"
   - "logica CPM"
   - "revisione del cronoprogramma"
-slug: "it-resource-types-in-p6"
+slug: "it/blog/resource-types-in-p6"
 language: "it"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Pianificazione in Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Tipi di risorse in P6
 
@@ -217,6 +220,6 @@ La scelta del tipo di risorsa corretto semplifica l'analisi della pianificazione
 
 Una buona pianificazione ricca di risorse non è solo una pianificazione con risorse allegate. Si tratta di una pianificazione in cui ciascun tipo di risorsa viene utilizzato intenzionalmente e mantenuto per tutta la durata del progetto.
 ## Contenuti correlati
-- [Attività iniziate con lo 0% di progressi in Primavera P6 - Panoramica](../../11_metrics_it/13_activity_started_progress_zero/01_overview_template.md)
+- [Attività iniziate con lo 0% di progressi in Primavera P6 - Panoramica](../../metrics/13_activity_started_progress_zero/02_guide_template.md)
 - [Dove vivono i costi in P6](../11_WHERE%20THE%20COST%20LIVE%20IN%20P6/11_WHERE%20THE%20COST%20LIVE%20IN%20P6.md)
 - [Limiti delle risorse in P6](../13_RESOURCES%20LIMITS%20IN%20P6/13_RESOURCES%20LIMITS%20IN%20P6.md)

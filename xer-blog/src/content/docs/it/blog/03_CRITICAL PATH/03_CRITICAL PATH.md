@@ -2,6 +2,7 @@
 title: "Percorso critico"
 seo_title: "Percorso critico - Primavera P6"
 meta_description: "Approfondisci Percorso critico in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
+description: "Approfondisci Percorso critico in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "controllo progetto"
   - "logica CPM"
   - "revisione del cronoprogramma"
-slug: "it-critical-path-in-primavera-p6"
+slug: "it/blog/critical-path-in-primavera-p6"
 language: "it"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Pianificazione in Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/03_CRITICAL PATH/03_CRITICAL PATH.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Percorso critico
 
@@ -165,6 +168,6 @@ In un cronoprogramma forte, il percorso critico racconta una storia chiara. Iniz
 
 Quando quella storia ha senso, il percorso critico diventa uno degli strumenti più potenti nel controllo di progetto. In caso contrario, è un avvertimento che la pianificazione necessita di ulteriore revisione prima che la previsione possa essere considerata attendibile.
 ## Contenuti correlati
-- [Percorso critico o percorso del margine che inizia con un vincolo - Panoramica](../../11_metrics_it/09_cp_or_float_path_starting_with_constraint/01_overview_template.md)
+- [Percorso critico o percorso del margine che inizia con un vincolo - Panoramica](../../metrics/09_cp_or_float_path_starting_with_constraint/02_guide_template.md)
 - [Logica robusta](../02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)
 - [Matrice di criticità](../04_CRITICALITY%20MATRIX/04_CRITICALITY%20MATRIX.md)

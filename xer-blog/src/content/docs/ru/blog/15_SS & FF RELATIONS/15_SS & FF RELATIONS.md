@@ -2,6 +2,7 @@
 title: "Связи SS и FF"
 seo_title: "Связи SS и FF - Primavera P6"
 meta_description: "Изучите Связи SS и FF в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
+description: "Изучите Связи SS и FF в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "проектный контроль"
   - "CPM-логика"
   - "анализ графика"
-slug: "ru-ss-and-ff-relations-in-primavera-p6"
+slug: "ru/blog/ss-and-ff-relations-in-primavera-p6"
 language: "ru"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Планирование в Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
 canonical_url: ""
 last_проверкуed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Связи SS и FF
 
@@ -122,6 +125,6 @@ SS и FF полезны в P6, но требуют дисциплины. При 
 
 Надежное CPM график должно объяснять, почему работа может начаться и что контролирует ее окончание. Если SS и FF помогают ответить на эти вопросы, они усиливают график. Если они оставляют один конец открытым, такую логику нужно проверить.
 ## Связанные материалы
-- [Действия, начинающиеся с даты данных, без управляющей логики: почему этот показатель графика имеет значение - Обзор](../../07_metrics_ru/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Действия, начинающиеся с даты данных, без управляющей логики: почему этот показатель графика имеет значение - Обзор](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Балансировка ресурсов в P6](../14_RESOURCES%20BALANCING%20IN%20P6/14_RESOURCES%20BALANCING%20IN%20P6.md)
 - [CPM (Critical Path Method)](../16_CPM%20(CRITICAL%20PATH%20METHOD)/16_CPM%20(CRITICAL%20PATH%20METHOD).md)

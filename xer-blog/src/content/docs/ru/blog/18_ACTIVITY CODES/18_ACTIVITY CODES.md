@@ -2,6 +2,7 @@
 title: "коды операций"
 seo_title: "коды операций - Primavera P6"
 meta_description: "Изучите Коды операций в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
+description: "Изучите Коды операций в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "проектный контроль"
   - "CPM-логика"
   - "анализ графика"
-slug: "ru-activity-codes-in-primavera-p6"
+slug: "ru/blog/activity-codes-in-primavera-p6"
 language: "ru"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Планирование в Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/18_ACTIVITY CODES/18_ACTIVITY CODES.md"
 canonical_url: ""
 last_проверкуed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Коды Операций
 
@@ -178,6 +181,6 @@ Coding completeness нужно проверять как показатель к
 
 Bar chart показывает время. Coding structure объясняет, как график можно читать, делить и использовать.
 ## Связанные материалы
-- [Отсутствующие зависимости в Primavera P6 - Обзор](../../07_metrics_ru/21_missing_dependencies/01_overview_template.md)
+- [Отсутствующие зависимости в Primavera P6 - Обзор](../../metrics/21_missing_dependencies/02_guide_template.md)
 - [Разработка Проектного Графика](../17_DEVELOPE%20A%20PROJECT%20SCHEDULE/17_DEVELOPE%20A%20PROJECT%20SCHEDULE.md)
 - [Schedule Basis](../19_SCHEDULE%20BASIS/19_SCHEDULE%20BASIS.md)

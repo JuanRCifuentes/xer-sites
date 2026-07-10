@@ -2,6 +2,7 @@
 title: "مصفوفة الأهمية"
 seo_title: "مصفوفة الأهمية - Primavera P6"
 meta_description: "تعرّف على مصفوفة الأهمية في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+description: "تعرّف على مصفوفة الأهمية في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "ضبط المشاريع"
   - "منطق CPM"
   - "مراجعة الجدول"
-slug: "ar-criticality-matrix-in-primavera-p6"
+slug: "ar/blog/criticality-matrix-in-primavera-p6"
 language: "ar"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "الجدولة في Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # مصفوفة الأهمية
 
@@ -184,6 +187,6 @@ quadrantChart
 
 عند استخدامها بشكل جيد، تساعد مصفوفة الأهمية فريق المشروع على الانتقال من إعداد التقارير التفاعلية إلى التحكم الاستباقي في الجدول الزمني.
 ## محتوى ذو صلة
-- [المسار الحرج أو مسار السماحية الزمنية الذي يبدأ بقيد - نظرة عامة](../../04_metrics_ar/09_cp_or_السماحية الزمنية_path_starting_with_constraint/01_overview_template.md)
+- [المسار الحرج أو مسار السماحية الزمنية الذي يبدأ بقيد - نظرة عامة](../../metrics/09_cp_or_السماحية الزمنية_path_starting_with_constraint/02_guide_template.md)
 - [المسار الحرج](../03_CRITICAL%20PATH/03_CRITICAL%20PATH.md)
 - [أنواع الأنشطة في ص6](../05_ACTIVITY%20TYPES%20IN%20P6/05_ACTIVITY%20TYPES%20IN%20P6.md)

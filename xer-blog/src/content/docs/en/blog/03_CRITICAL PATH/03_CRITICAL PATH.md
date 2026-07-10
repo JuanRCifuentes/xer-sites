@@ -2,6 +2,7 @@
 title: "Critical Path"
 seo_title: "Critical Path in Primavera P6"
 meta_description: "Learn critical path for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
+description: "Learn critical path for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "CPM schedule logic"
   - "critical path and float"
   - "Primavera P6 blog"
-slug: "critical-path-in-primavera-p6"
+slug: "en/blog/critical-path-in-primavera-p6"
 language: "en"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Critical Path Method"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: ""
 canonical_url: ""
 last_reviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
 # Critical Path
 
@@ -166,6 +169,6 @@ In a strong schedule, the critical path tells a clear story. It starts from a va
 When that story makes sense, the critical path becomes one of the most powerful tools in project control. When it does not, it is a warning that the schedule needs more review before the forecast can be trusted.
 
 ## Related Content
-- [Critical Path or Float Path Starting with Constraint](../../01_metrics_en/09_cp_or_float_path_starting_with_constraint/01_overview_template.md)
+- [Critical Path or Float Path Starting with Constraint](../../metrics/09_cp_or_float_path_starting_with_constraint/02_guide_template.md)
 - [Robust Logic](../02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)
 - [Criticality Matrix](../04_CRITICALITY%20MATRIX/04_CRITICALITY%20MATRIX.md)

@@ -2,6 +2,7 @@
 title: "Matriz de Criticidade"
 seo_title: "Matriz de Criticidade - Primavera P6"
 meta_description: "Aprenda Matriz de Criticidade no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+description: "Aprenda Matriz de Criticidade no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "controles de projeto"
   - "lógica CPM"
   - "revisão do cronograma"
-slug: "pt-criticality-matrix-in-primavera-p6"
+slug: "pt/blog/criticality-matrix-in-primavera-p6"
 language: "pt"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planejamento em Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Matriz de Criticidade
 
@@ -184,6 +187,6 @@ Para gerentes de projetos e revisores de PMO, a matriz transforma o risco do cro
 
 Bem utilizada, uma matriz de criticidade ajuda a equipe do projeto a passar de relatórios reativos para controle proativo do cronograma.
 ## Conteúdo relacionado
-- [Caminho crítico ou caminho de folga começando com uma restrição - Visão geral](../../06_metrics_pt/09_cp_or_float_path_starting_with_constraint/01_overview_template.md)
+- [Caminho crítico ou caminho de folga começando com uma restrição - Visão geral](../../metrics/09_cp_or_float_path_starting_with_constraint/02_guide_template.md)
 - [Caminho Crítico](../03_CRITICAL%20PATH/03_CRITICAL%20PATH.md)
 - [Tipos de atividades em P6](../05_ACTIVITY%20TYPES%20IN%20P6/05_ACTIVITY%20TYPES%20IN%20P6.md)

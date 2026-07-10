@@ -2,6 +2,7 @@
 title: "शेड्यूल क्या है"
 seo_title: "शेड्यूल क्या है - Primavera P6"
 meta_description: "Primavera P6 में शेड्यूल क्या है को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+description: "Primavera P6 में शेड्यूल क्या है को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-what-a-schedule-is-in-primavera-p6"
+slug: "hi/blog/what-a-schedule-is-in-primavera-p6"
 language: "hi"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
 audience:
@@ -30,6 +32,7 @@ related_blogs:
 translation_of: "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # शेड्यूल क्या है
 
@@ -125,5 +128,5 @@ P6 में डेटा दिनांक वास्तविक प्र�
 
 इस कारण से, शेड्यूल गुणवत्ता समीक्षाओं में हमेशा एक सरल प्रश्न पूछा जाना चाहिए: क्या शेड्यूल बताता है कि काम शुरू होने पर क्यों शुरू होता है? यदि उत्तर हां है, तो शेड्यूल अपना काम कर रहा है। यदि उत्तर नहीं है, तो रोडमैप पर भरोसा करने से पहले अधिक तर्क की आवश्यकता होती है।
 ## संबंधित सामग्री
-- [बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ: यह शेड्यूल मीट्रिक क्यों मायने रखता है - अवलोकन](../../05_metrics_hi/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ: यह शेड्यूल मीट्रिक क्यों मायने रखता है - अवलोकन](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [मजबूत तर्क](../02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

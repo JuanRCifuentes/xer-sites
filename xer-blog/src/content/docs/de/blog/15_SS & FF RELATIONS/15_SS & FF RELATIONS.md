@@ -2,6 +2,7 @@
 title: "SS- und FF-Beziehungen"
 seo_title: "SS- und FF-Beziehungen - Primavera P6"
 meta_description: "Lernen Sie SS- und FF-Beziehungen in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+description: "Lernen Sie SS- und FF-Beziehungen in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-ss-and-ff-relations-in-primavera-p6"
+slug: "de/blog/ss-and-ff-relations-in-primavera-p6"
 language: "de"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Terminplanung in Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # SS- und FF-Beziehungen
 
@@ -122,6 +125,6 @@ SS und FF sind nuetzliche Werkzeuge in P6, erfordern aber Disziplin. Allein verw
 
 Ein verlaesslicher CPM-Terminplan muss erklaeren, warum Arbeit starten kann und was ihr Ende steuert. Wenn SS und FF diese Fragen beantworten, staerken sie den Terminplan. Wenn sie ein Ende offen lassen, entsteht schwache Logik, die geprueft werden sollte.
 ## Verwandte Inhalte
-- [Aktivitäten, die am Datenstichtag ohne steuernde Logik beginnen: Warum diese Terminplanmetrik wichtig ist - Überblick](../../09_metrics_de/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Aktivitäten, die am Datenstichtag ohne steuernde Logik beginnen: Warum diese Terminplanmetrik wichtig ist - Überblick](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Ressourcenausgleich in P6](../14_RESOURCES%20BALANCING%20IN%20P6/14_RESOURCES%20BALANCING%20IN%20P6.md)
 - [CPM (Critical Path Method)](../16_CPM%20(CRITICAL%20PATH%20METHOD)/16_CPM%20(CRITICAL%20PATH%20METHOD).md)

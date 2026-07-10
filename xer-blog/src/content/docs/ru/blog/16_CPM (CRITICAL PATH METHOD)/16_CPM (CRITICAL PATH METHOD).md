@@ -2,6 +2,7 @@
 title: "CPM (Critical Path Method)"
 seo_title: "CPM (Critical Path Method) - Primavera P6"
 meta_description: "Изучите CPM (Critical Path Method) в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
+description: "Изучите CPM (Critical Path Method) в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "проектный контроль"
   - "CPM-логика"
   - "анализ графика"
-slug: "ru-critical-path-method-cpm-primavera-p6"
+slug: "ru/blog/critical-path-method-cpm-primavera-p6"
 language: "ru"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Планирование в Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
 canonical_url: ""
 last_проверкуed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # CPM (Critical Path Method)
 
@@ -144,6 +147,6 @@ CPM это двигатель, который превращает график 
 
 Ценность CPM не только в дате завершения. Его настоящая ценность в том, что он объясняет, почему эта дата контролируется, где есть гибкость и куда руководство должно направить внимание.
 ## Связанные материалы
-- [Критический путь или путь резерва времени, начинающийся с ограничения - Обзор](../../07_metrics_ru/09_cp_or_float_path_starting_with_constraint/01_overview_template.md)
+- [Критический путь или путь резерва времени, начинающийся с ограничения - Обзор](../../metrics/09_cp_or_float_path_starting_with_constraint/02_guide_template.md)
 - [Связи SS и FF](../15_SS%20&%20FF%20RELATIONS/15_SS%20&%20FF%20RELATIONS.md)
 - [Разработка Проектного Графика](../17_DEVELOPE%20A%20PROJECT%20SCHEDULE/17_DEVELOPE%20A%20PROJECT%20SCHEDULE.md)

@@ -2,6 +2,7 @@
 title: "Процент завершенных типов в P6"
 seo_title: "Процент завершенных типов в P6 - Primavera P6"
 meta_description: "Изучите Процент завершенных типов в P6 в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
+description: "Изучите Процент завершенных типов в P6 в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "проектный контроль"
   - "CPM-логика"
   - "анализ графика"
-slug: "ru-percent-complete-types-in-p6"
+slug: "ru/blog/percent-complete-types-in-p6"
 language: "ru"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Планирование в Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/10_PERCENT COMPLETION TYPES IN P6/10_PERCENT COMPLETION TYPES IN P6.md"
 canonical_url: ""
 last_проверкуed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Процент завершенных типов в P6
 
@@ -191,6 +194,6 @@ flowchart TD
 
 В сильном графике намеренно используются типы с процентом завершения. Когда метод соответствует работе, обновления о ходе выполнения становятся более ясными, оставшаяся продолжительность становится более надежной, а отчетность по проекту становится легче защитить.
 ## Связанные материалы
-- [Действия, начинающиеся с даты данных, без управляющей логики: почему этот показатель графика имеет значение - Обзор](../../07_metrics_ru/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Действия, начинающиеся с даты данных, без управляющей логики: почему этот показатель графика имеет значение - Обзор](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Продолжительность в P6](../09_DURATION%20IN%20P6/09_DURATION%20IN%20P6.md)
 - [Где стоимость жизни в P6](../11_WHERE%20THE%20COST%20LIVE%20IN%20P6/11_WHERE%20THE%20COST%20LIVE%20IN%20P6.md)

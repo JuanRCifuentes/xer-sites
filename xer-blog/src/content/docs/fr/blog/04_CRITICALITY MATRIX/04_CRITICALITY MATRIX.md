@@ -2,6 +2,7 @@
 title: "Matrice de criticité"
 seo_title: "Matrice de criticité - Primavera P6"
 meta_description: "Comprendre Matrice de criticité dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
+description: "Comprendre Matrice de criticité dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-criticality-matrix-in-primavera-p6"
+slug: "fr/blog/criticality-matrix-in-primavera-p6"
 language: "fr"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planification Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Matrice de criticité
 
@@ -184,6 +187,6 @@ Pour les chefs de projet et les réviseurs du PMO, la matrice transforme le risq
 
 Bien utilisée, une matrice de criticité aide l’équipe de projet à passer d’un reporting réactif à un contrôle proactif du calendrier.
 ## Contenu associé
-- [Chemin critique ou chemin de marge commençant par une contrainte - Vue d’ensemble](../../08_metrics_fr/09_cp_or_float_path_starting_with_constraint/01_overview_template.md)
+- [Chemin critique ou chemin de marge commençant par une contrainte - Vue d’ensemble](../../metrics/09_cp_or_float_path_starting_with_constraint/02_guide_template.md)
 - [Chemin critique](../03_CRITICAL%20PATH/03_CRITICAL%20PATH.md)
 - [Types d'activités dans P6](../05_ACTIVITY%20TYPES%20IN%20P6/05_ACTIVITY%20TYPES%20IN%20P6.md)

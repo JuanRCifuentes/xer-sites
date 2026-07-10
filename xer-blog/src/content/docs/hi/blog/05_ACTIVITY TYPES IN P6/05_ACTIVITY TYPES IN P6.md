@@ -2,6 +2,7 @@
 title: "P6 में गतिविधि प्रकार"
 seo_title: "P6 में गतिविधि प्रकार - Primavera P6"
 meta_description: "Primavera P6 में P6 में गतिविधि प्रकार को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+description: "Primavera P6 में P6 में गतिविधि प्रकार को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-activity-types-in-p6"
+slug: "hi/blog/activity-types-in-p6"
 language: "hi"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/05_ACTIVITY TYPES IN P6/05_ACTIVITY TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6 में गतिविधि प्रकार
 
@@ -204,6 +207,6 @@ P6 में गतिविधि प्रकार परिभाषित �
 
 सही गतिविधि प्रकार चुनने से शेड्यूल की समीक्षा करना आसान हो जाता है, व्याख्या करना आसान हो जाता है और प्रोजेक्ट नियंत्रण के लिए अधिक विश्वसनीय हो जाता है। एक मजबूत शेड्यूल में केवल अच्छी तारीखें और तर्क ही नहीं होते। यह प्रस्तुत किए जा रहे कार्य के लिए सही प्रकार की गतिविधि का भी उपयोग करता है।
 ## संबंधित सामग्री
-- [बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ: यह शेड्यूल मीट्रिक क्यों मायने रखता है - अवलोकन](../../05_metrics_hi/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ: यह शेड्यूल मीट्रिक क्यों मायने रखता है - अवलोकन](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [आलोचनात्मकता मैट्रिक्स](../04_CRITICALITY%20MATRIX/04_CRITICALITY%20MATRIX.md)
 - [पी6 में अवधि प्रकार](../06_DURATION%20TYPES%20IN%20P6/06_DURATION%20TYPES%20IN%20P6.md)

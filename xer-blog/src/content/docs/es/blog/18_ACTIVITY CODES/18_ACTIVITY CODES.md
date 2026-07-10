@@ -2,6 +2,7 @@
 title: "Activity Codes"
 seo_title: "Activity Codes - Primavera P6"
 meta_description: "Aprende Activity Codes en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
+description: "Aprende Activity Codes en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "control de proyectos"
   - "lógica CPM"
   - "revisión del cronograma"
-slug: "es-activity-codes-in-primavera-p6"
+slug: "es/blog/activity-codes-in-primavera-p6"
 language: "es"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planificación en Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/18_ACTIVITY CODES/18_ACTIVITY CODES.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Activity Codes
 
@@ -178,6 +181,6 @@ Bien usados, hacen que el cronograma sea mas facil de filtrar, agrupar, reportar
 
 El bar chart muestra el tiempo. La estructura de codes explica como el cronograma puede leerse, dividirse y usarse.
 ## Contenido relacionado
-- [Dependencias Faltantes en Primavera P6 - Descripción general](../../02_metrics_es/21_missing_dependencies/01_overview_template.md)
+- [Dependencias Faltantes en Primavera P6 - Descripción general](../../metrics/21_missing_dependencies/02_guide_template.md)
 - [Desarrollar un Cronograma de Proyecto](../17_DEVELOPE%20A%20PROJECT%20SCHEDULE/17_DEVELOPE%20A%20PROJECT%20SCHEDULE.md)
 - [Schedule Basis](../19_SCHEDULE%20BASIS/19_SCHEDULE%20BASIS.md)

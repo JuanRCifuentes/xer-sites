@@ -2,6 +2,7 @@
 title: "مسرد التخطيط وضوابط المشروع لبرنامج Primavera P6"
 seo_title: "مسرد التخطيط وضوابط المشروع لبرنامج Primavera P6"
 meta_description: "مسرد عملي لـ Primavera P6، وجدولة CPM، وتخطيط المشاريع، ومصطلحات التحكم في المشروع للمخططين، والمجدولين، ومديري المشاريع، وفرق PMO."
+description: "مسرد عملي لـ Primavera P6، وجدولة CPM، وتخطيط المشاريع، ومصطلحات التحكم في المشروع للمخططين، والمجدولين، ومديري المشاريع، وفرق PMO."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -14,9 +15,10 @@ keywords:
   - "مصطلحات جودة الجدول الزمني"
   - "مراجعة جدول PMO"
   - "مسرد طريقة المسار الحرج"
-slug: "ar-primavera-p6-glossary"
+slug: "ar/blog/primavera-p6-glossary"
 language: "ar"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "بريمافيرا P6 وضوابط المشروع"
 audience:
@@ -33,6 +35,7 @@ related_blogs:
 translation_of: "01b_blogs_en/00_GLOSSARY/00_glossary_en.md"
 canonical_url: ""
 last_reviewed: "2026-07-07"
+pubDate: "2026-07-07"
 ---
 # مسرد التخطيط وضوابط المشروع لبرنامج Primavera P6
 

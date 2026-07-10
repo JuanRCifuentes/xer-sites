@@ -2,6 +2,7 @@
 title: "Durée en P6"
 seo_title: "Durée en P6 - Primavera P6"
 meta_description: "Comprendre Durée en P6 dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
+description: "Comprendre Durée en P6 dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-duration-in-p6"
+slug: "fr/blog/duration-in-p6"
 language: "fr"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planification Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/09_DURATION IN P6/09_DURATION IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Durée en P6
 
@@ -201,6 +204,6 @@ Cela signifie que la durée doit être revue avec son contexte. Une valeur affic
 
 Un planificateur compétent comprend que la durée n’est pas seulement une entrée. Il fait partie du moteur de calcul. Lorsque la durée, les calendriers et les préférences sont alignés, le calendrier devient plus facile à expliquer et plus fiable pour le contrôle du projet.
 ## Contenu associé
-- [Activités commençant à la date des données sans logique pilotante : pourquoi cette mesure de planification est importante - Vue d’ensemble](../../08_metrics_fr/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Activités commençant à la date des données sans logique pilotante : pourquoi cette mesure de planification est importante - Vue d’ensemble](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Calendriers dans P6](../08_CALENDARS%20IN%20P6/08_CALENDARS%20IN%20P6.md)
 - [Pourcentage de types terminés dans P6](../10_PERCENT%20COMPLETION%20TYPES%20IN%20P6/10_PERCENT%20COMPLETION%20TYPES%20IN%20P6.md)

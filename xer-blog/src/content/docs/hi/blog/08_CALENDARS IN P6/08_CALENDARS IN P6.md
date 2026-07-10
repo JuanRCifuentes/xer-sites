@@ -2,6 +2,7 @@
 title: "P6 में कैलेंडर"
 seo_title: "P6 में कैलेंडर - Primavera P6"
 meta_description: "Primavera P6 में P6 में कैलेंडर को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+description: "Primavera P6 में P6 में कैलेंडर को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-calendars-in-p6"
+slug: "hi/blog/calendars-in-p6"
 language: "hi"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6 में कैलेंडर
 
@@ -205,6 +208,6 @@ P6 में कैलेंडर परिभाषित करते है�
 
 एक मजबूत शेड्यूल जानबूझकर कैलेंडर का उपयोग करता है। प्रत्येक कैलेंडर का एक उद्देश्य होता है, प्रत्येक विशेष कैलेंडर का दस्तावेजीकरण किया जाता है, और शेड्यूल पर भरोसा करने से पहले गतिविधि और संसाधन कैलेंडर असाइनमेंट की समीक्षा की जाती है।
 ## संबंधित सामग्री
-- [प्रिमावेरा पी6 में अलग-अलग प्रारंभ और समाप्ति समय वाले कैलेंडर - अवलोकन](../../05_metrics_hi/20_calendars_with_different_start_finish_time_in_day/01_overview_template.md)
+- [प्रिमावेरा पी6 में अलग-अलग प्रारंभ और समाप्ति समय वाले कैलेंडर - अवलोकन](../../metrics/20_calendars_with_different_start_finish_time_in_day/02_guide_template.md)
 - [पी6 में तिथियाँ](../07_DATES%20IN%20P6/07_DATES%20IN%20P6.md)
 - [P6 में अवधि](../09_DURATION%20IN%20P6/09_DURATION%20IN%20P6.md)

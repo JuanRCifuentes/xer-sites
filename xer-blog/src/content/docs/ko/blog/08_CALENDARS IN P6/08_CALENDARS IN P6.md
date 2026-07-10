@@ -2,6 +2,7 @@
 title: "P6의 캘린더"
 seo_title: "P6의 캘린더 - Primavera P6"
 meta_description: "Primavera P6에서 P6의 캘린더를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+description: "Primavera P6에서 P6의 캘린더를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-calendars-in-p6"
+slug: "ko/blog/calendars-in-p6"
 language: "ko"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 공정표관리"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6의 캘린더
 
@@ -205,6 +208,6 @@ P6의 달력은 작업이 가능한 시기를 정의합니다. 이는 활동 날
 
 강력한 일정은 의도적으로 달력을 사용합니다. 각 달력에는 목적이 있고 각 특수 달력은 문서화되며 일정을 신뢰하기 전에 활동 및 자원 달력 할당이 검토됩니다.
 ## 관련 콘텐츠
-- [Primavera P6에서 시작 및 종료 시간이 다른 달력 - 개요](../../10_metrics_ko/20_calendars_with_different_start_finish_time_in_day/01_overview_template.md)
+- [Primavera P6에서 시작 및 종료 시간이 다른 달력 - 개요](../../metrics/20_calendars_with_different_start_finish_time_in_day/02_guide_template.md)
 - [P6의 날짜](../07_DATES%20IN%20P6/07_DATES%20IN%20P6.md)
 - [P6의 지속 시간](../09_DURATION%20IN%20P6/09_DURATION%20IN%20P6.md)

@@ -2,6 +2,7 @@
 title: "Cos'è un cronoprogramma"
 seo_title: "Cos'è un cronoprogramma - Primavera P6"
 meta_description: "Approfondisci Cos'è un cronoprogramma in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
+description: "Approfondisci Cos'è un cronoprogramma in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "controllo progetto"
   - "logica CPM"
   - "revisione del cronoprogramma"
-slug: "it-what-a-schedule-is-in-primavera-p6"
+slug: "it/blog/what-a-schedule-is-in-primavera-p6"
 language: "it"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Pianificazione in Primavera P6"
 audience:
@@ -30,6 +32,7 @@ related_blogs:
 translation_of: "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Cos'è un cronoprogramma
 
@@ -125,5 +128,5 @@ Se costruito bene, dice al team di progetto cosa deve accadere, quando deve acca
 
 Per questo motivo, le revisioni della qualità del cronoprogramma dovrebbero sempre porre una semplice domanda: la pianificazione spiega perché il lavoro inizia quando inizia? Se la risposta è sì, il cronoprogramma sta facendo il suo lavoro. Se la risposta è no, la tabella di marcia necessita di più logica prima di poter essere considerata attendibile.
 ## Contenuti correlati
-- [Attività che iniziano alla data di aggiornamento senza alcuna logica guida: perché questa metrica di pianificazione è importante - Panoramica](../../11_metrics_it/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Attività che iniziano alla data di aggiornamento senza alcuna logica guida: perché questa metrica di pianificazione è importante - Panoramica](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Logica robusta](../02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

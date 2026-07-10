@@ -2,6 +2,7 @@
 title: "गंभीर पथ"
 seo_title: "गंभीर पथ - Primavera P6"
 meta_description: "Primavera P6 में गंभीर पथ को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+description: "Primavera P6 में गंभीर पथ को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-critical-path-in-primavera-p6"
+slug: "hi/blog/critical-path-in-primavera-p6"
 language: "hi"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/03_CRITICAL PATH/03_CRITICAL PATH.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # गंभीर पथ
 
@@ -165,6 +168,6 @@ flowchart LR
 
 जब वह कहानी समझ में आती है, तो महत्वपूर्ण पथ परियोजना नियंत्रण में सबसे शक्तिशाली उपकरणों में से एक बन जाता है। जब ऐसा नहीं होता है, तो यह एक चेतावनी है कि पूर्वानुमान पर भरोसा करने से पहले शेड्यूल की अधिक समीक्षा की आवश्यकता है।
 ## संबंधित सामग्री
-- [एक बाधा से शुरू होने वाला महत्वपूर्ण पथ या फ्लोट पथ - अवलोकन](../../05_metrics_hi/09_cp_or_float_path_starting_with_constraint/01_overview_template.md)
+- [एक बाधा से शुरू होने वाला महत्वपूर्ण पथ या फ्लोट पथ - अवलोकन](../../metrics/09_cp_or_float_path_starting_with_constraint/02_guide_template.md)
 - [मजबूत तर्क](../02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)
 - [आलोचनात्मकता मैट्रिक्स](../04_CRITICALITY%20MATRIX/04_CRITICALITY%20MATRIX.md)

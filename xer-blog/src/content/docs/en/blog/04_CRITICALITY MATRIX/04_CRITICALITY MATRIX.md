@@ -2,6 +2,7 @@
 title: "Criticality Matrix"
 seo_title: "Criticality Matrix in Primavera P6"
 meta_description: "Learn criticality matrix for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
+description: "Learn criticality matrix for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "CPM schedule logic"
   - "critical path and float"
   - "Primavera P6 blog"
-slug: "criticality-matrix-in-primavera-p6"
+slug: "en/blog/criticality-matrix-in-primavera-p6"
 language: "en"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Critical Path Method"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: ""
 canonical_url: ""
 last_reviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
 # Criticality Matrix
 
@@ -185,6 +188,6 @@ For project managers and PMO reviewers, the matrix turns schedule risk into a cl
 Used well, a criticality matrix helps the project team move from reactive reporting to proactive schedule control.
 
 ## Related Content
-- [Critical Path or Float Path Starting with Constraint](../../01_metrics_en/09_cp_or_float_path_starting_with_constraint/01_overview_template.md)
+- [Critical Path or Float Path Starting with Constraint](../../metrics/09_cp_or_float_path_starting_with_constraint/02_guide_template.md)
 - [Critical Path](../03_CRITICAL%20PATH/03_CRITICAL%20PATH.md)
 - [Activity Types in P6](../05_ACTIVITY%20TYPES%20IN%20P6/05_ACTIVITY%20TYPES%20IN%20P6.md)

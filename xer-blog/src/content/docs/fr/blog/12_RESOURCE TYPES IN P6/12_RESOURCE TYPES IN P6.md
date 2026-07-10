@@ -2,6 +2,7 @@
 title: "Types de ressources dans P6"
 seo_title: "Types de ressources dans P6 - Primavera P6"
 meta_description: "Comprendre Types de ressources dans P6 dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
+description: "Comprendre Types de ressources dans P6 dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-resource-types-in-p6"
+slug: "fr/blog/resource-types-in-p6"
 language: "fr"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planification Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Types de ressources dans P6
 
@@ -217,6 +220,6 @@ Choisir le bon type de ressource facilite l’analyse du planning. Il améliore 
 
 Un bon planning chargé en ressources n’est pas seulement un planning auquel sont attachées des ressources. Il s'agit d'un calendrier dans lequel chaque type de ressource est utilisé intentionnellement et maintenu tout au long de la vie du projet.
 ## Contenu associé
-- [Activités démarrées avec 0 % de progression dans Primavera P6 - Vue d’ensemble](../../08_metrics_fr/13_activity_started_progress_zero/01_overview_template.md)
+- [Activités démarrées avec 0 % de progression dans Primavera P6 - Vue d’ensemble](../../metrics/13_activity_started_progress_zero/02_guide_template.md)
 - [Où vivent les coûts dans P6](../11_WHERE%20THE%20COST%20LIVE%20IN%20P6/11_WHERE%20THE%20COST%20LIVE%20IN%20P6.md)
 - [Limites de ressources dans P6](../13_RESOURCES%20LIMITS%20IN%20P6/13_RESOURCES%20LIMITS%20IN%20P6.md)
