@@ -1,11 +1,10 @@
 ---
 title: "Kritischer Pfad"
-seo_title: "Kritischer Pfad - Primavera P6"
-meta_description: "Lernen Sie Kritischer Pfad in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+seoTitle: "Kritischer Pfad - Primavera P6"
 description: "Lernen Sie Kritischer Pfad in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Kritischer Pfad"
   - "Primavera P6 Kritischer Pfad"
@@ -16,7 +15,7 @@ keywords:
   - "Terminplanprüfung"
 slug: "de/blog/critical-path-in-primavera-p6"
 language: "de"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Terminplanung in Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Lernen Sie Kritischer Pfad in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
-related_metrics:
-  - "09_metrics_de/09_cp_or_float_path_starting_with_constraint/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Lernen Sie Kritischer Pfad in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+relatedMetrics:
+  - "09_metrics_de/09_cp_or_float_path_starting_with_constraint/02_guide_template.md"
+relatedBlogs:
   - "09b_blogs_de/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
   - "09b_blogs_de/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
-translation_of: "01b_blogs_en/03_CRITICAL PATH/03_CRITICAL PATH.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/03_CRITICAL PATH/03_CRITICAL PATH.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Kritischer Pfad
 
 Der kritische Pfad ist die längste Abfolge abhängiger Aktivitäten in einem Terminplan. Es ermittelt die kürzestmögliche Projektdauer und legt direkt den Projektendtermin fest.
 

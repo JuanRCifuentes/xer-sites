@@ -1,10 +1,10 @@
 ---
 title: "Calendários com diferentes horários de início e término no Primavera P6"
-seo_title: "Calendários com diferentes horários de início e término no Primavera P6"
-meta_description: "Veja por que Calendários com diferentes horários de início e término no Primavera P6 afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Calendários com diferentes horários de início e término no Primavera P6"
+description: "Veja por que Calendários com diferentes horários de início e término no Primavera P6 afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Calendários com diferentes horários de início e término no Primavera P6"
   - "Primavera P6 Calendários com diferentes horários de início e término no Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "controles de projeto"
   - "lógica CPM"
   - "revisão do cronograma"
-slug: "pt-blog-article-calendars-with-different-start-finish-time-in-day-primavera-p6"
+slug: "pt/blog/calendars-with-different-start-finish-time-in-day-primavera-p6"
 language: "pt"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Planejamento em Primavera P6"
 audience:
   - "Planejadores"
   - "Schedulers"
   - "Equipes de controles de projeto"
-primary_search_intent: "Veja por que Calendários com diferentes horários de início e término no Primavera P6 afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
-related_metrics:
-  - "06_metrics_pt/20_calendars_with_different_start_finish_time_in_day/01_overview_template.md"
+primarySearchIntent: "Veja por que Calendários com diferentes horários de início e término no Primavera P6 afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
+relatedMetrics:
   - "06_metrics_pt/20_calendars_with_different_start_finish_time_in_day/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "06b_blogs_pt/01_WHAT A SCHEDULE IS/01_blog.md"
   - "06b_blogs_pt/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/20_calendars_with_different_start_finish_time_in_day/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/20_calendars_with_different_start_finish_time_in_day/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Calendários com diferentes horários de início e término no Primavera P6
 
 Os calendários são um dos direcionadores silenciosos da programação do Primavera P6. Eles definem quando o trabalho pode acontecer, como as durações se convertem em datas e como os relacionamentos movem as atividades ao longo do tempo. Como os calendários geralmente ficam nos bastidores, pequenas diferenças nos horários de início e término diários podem criar um comportamento de agendamento que é difícil de ver em layouts normais.
 
@@ -59,7 +63,6 @@ O limite alvo para esta métrica deve ser zero calendários inexplicáveis. Algu
 
 Limpar essa métrica melhora a transparência do cronograma. Ele ajuda as equipes a evitar efeitos ocultos de dias parciais, flutuações enganosas e movimentos inexplicáveis ​​de datas. Isso também fácilita a auditoria do cronograma porque as suposições do calendário não ficam mais ocultas no arquivo. Para as equipes de controle de projeto, essa é uma pequena revisão com grande retorno.
 ## Conteúdo relacionado
-- [Calendários com diferentes horários de início e término no Primavera P6 - Visão geral](01_overview_template.md)
 - [Calendários com diferentes horários de início e término no Primavera P6 - Guia de melhoria](02_guide_template.md)
 - [O que é um cronograma](../../06b_blogs_pt/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Lógica Robusta](../../06b_blogs_pt/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

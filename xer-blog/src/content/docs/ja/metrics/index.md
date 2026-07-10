@@ -19,7 +19,7 @@ hero:
       </svg>
   actions:
     - text: 最初のメトリクスを探索する
-      link: /ja/metrics/data-date-no-driving-logic-overview/
+      link: /ja/metrics/activities-starting-on-the-data-date-with-no-logic-driving-primavera-p6-improvement-guide/
       icon: right-arrow
       variant: primary
     - text: ブログを読む
@@ -28,12 +28,3 @@ hero:
 sidebar:
   order: 0
 ---
-
-## データ日付にドライビングロジックなしで開始する作業
-
-このメトリクスは、有効な先行ロジックなしにデータ日付に開始するようにスケジュールされたオープンまたは未開始の作業を識別します。ロジックなしにデータ日付境界に集まる作業は、フロートを歪め、最長パスを不明瞭にし、予測を信頼性の低いものにします。目標閾値は0作業です。
-
-- [概要](/ja/metrics/data-date-no-driving-logic-overview/) — メトリクスが測定するもの、その閾値、およびスケジュールの信頼性にとってなぜ重要かについて。
-- [改善ガイド](/ja/metrics/data-date-no-driving-logic-improvement-guide/) — スケジューラーおよびプロジェクト管理チームが品質レビューと更新サイクル中にフラグ立てられた作業を解決する方法。
-
-このメトリクスが重要な理由の説明版については、関連ブログ記事をお読みください：[データ日付にドライビングロジックなしで開始する作業](/ja/blog/activities-starting-on-data-date-no-driving-logic/)。

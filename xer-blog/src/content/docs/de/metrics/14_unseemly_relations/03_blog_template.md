@@ -1,10 +1,10 @@
 ---
 title: "Unpassende Beziehungen in Primavera P6"
-seo_title: "Unpassende Beziehungen in Primavera P6"
-meta_description: "Erklärt, warum Unpassende Beziehungen in Primavera P6"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Unpassende Beziehungen in Primavera P6"
+description: "Erklärt, warum Unpassende Beziehungen in Primavera P6"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Unpassende Beziehungen in Primavera P6"
   - "Primavera P6 Unpassende Beziehungen in Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-blog-article-unusual-relationships-primavera-p6"
+slug: "de/blog/unusual-relationships-primavera-p6"
 language: "de"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Terminplanqualität"
 audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Erklärt, warum Unpassende Beziehungen in Primavera P6: Meilensteine, LOE und Beziehungstypprüfungen CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-related_metrics:
-  - "09_metrics_de/14_unusual_relations/01_overview_template.md"
+primarySearchIntent: "Erklärt, warum Unpassende Beziehungen in Primavera P6: Meilensteine, LOE und Beziehungstypprüfungen CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+relatedMetrics:
   - "09_metrics_de/14_unusual_relations/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "09b_blogs_de/01_WHAT A SCHEDULE IS/01_blog.md"
   - "09b_blogs_de/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/14_unseemly_relations/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/14_unseemly_relations/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Unpassende Beziehungen in Primavera P6
 
 Die Beziehungslogik ist einer der am einfachsten schnell zu kopierenden Teile eines Terminplans und einer der am schwierigsten später zu verteidigenden Teile. Eine Beziehung mag in einer P6-Tabelle harmlos aussehen, aber der Aktivitätstyp auf beiden Seiten ist wichtig. Eine sinnvolle Beziehung zwischen zwei normalen Aufgabenaktivitäten kann unangenehm oder irreführend sein, wenn es sich bei einer Seite um einen Startmeilenstein, einen Endmeilenstein oder eine Aufwandsstufenaktivität handelt.
 
@@ -59,7 +63,6 @@ Ein gutes Ziel für diese Kennzahl sind null ungelöste Beziehungen. Das wichtig
 
 Unpassende Beziehungen sind oft kleine Symptome größerer Probleme mit der Terminplanqualität: kopierte Logik, unklare Meilensteindefinitionen, Missbrauch von LOE-Aktivitäten oder die Angewohnheit, Termine durch Beziehungstypen zu erzwingen. Wenn Sie sie bereinigen, verbessert sich mehr als nur eine metrische Punktzahl. Dadurch ist der Terminplan einfacher zu überprüfen, einfacher zu erklären und für die PMO-Governance und Projektentscheidungsfindung zuverlässiger.
 ## Verwandte Inhalte
-- [01_overview_template](../14_unusual_relations/01_overview_template.md)
 - [02_guide_template](../14_unusual_relations/02_guide_template.md)
 - [Was für ein Terminplan ist](../../09b_blogs_de/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robuste Logik](../../09b_blogs_de/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

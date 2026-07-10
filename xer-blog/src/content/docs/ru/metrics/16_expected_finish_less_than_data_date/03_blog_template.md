@@ -1,10 +1,10 @@
 ---
 title: "Ожидаемое завершение до даты данных в Primavera P6"
-seo_title: "Ожидаемое завершение до даты данных в Primavera P6"
-meta_description: "Поясняет, почему Ожидаемое завершение до даты данных в Primavera P6 влияет на CPM-логику, резерв времени и надежность графика в Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Ожидаемое завершение до даты данных в Primavera P6"
+description: "Поясняет, почему Ожидаемое завершение до даты данных в Primavera P6 влияет на CPM-логику, резерв времени и надежность графика в Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Ожидаемое завершение до даты данных в Primavera P6"
   - "Primavera P6 Ожидаемое завершение до даты данных в Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "проектный контроль"
   - "CPM-логика"
   - "анализ графика"
-slug: "ru-blog-article-expected-finish-less-than-data-date-primavera-p6"
+slug: "ru/blog/expected-finish-less-than-data-date-primavera-p6"
 language: "ru"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Качество графика"
 audience:
   - "Планировщики"
   - "Специалисты по графикам"
   - "Команды проектного контроля"
-primary_search_intent: "Поясняет, почему Ожидаемое завершение до даты данных в Primavera P6 влияет на CPM-логику, резерв времени и надежность графика в Primavera P6."
-related_metrics:
-  - "07_metrics_ru/16_expected_finish_less_than_data_date/01_overview_template.md"
+primarySearchIntent: "Поясняет, почему Ожидаемое завершение до даты данных в Primavera P6 влияет на CPM-логику, резерв времени и надежность графика в Primavera P6."
+relatedMetrics:
   - "07_metrics_ru/16_expected_finish_less_than_data_date/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "07b_blogs_ru/01_WHAT A SCHEDULE IS/01_blog.md"
   - "07b_blogs_ru/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/16_expected_finish_less_than_data_date/03_blog_template.md"
-canonical_url: ""
-last_проверкуed: "2026-07-02"
+translationOf: "01_metrics_en/16_expected_finish_less_than_data_date/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Ожидаемое завершение до даты данных в Primavera P6
 
 Дата данных — это грань между тем, что произошло, и тем, что еще прогнозируется. При чистом обновлении графика информация о состоянии до Даты данных должна рассматриваться как фактический прогресс, а оставшаяся работа должна прогнозироваться, начиная с Даты данных. Если действие имеет ожидаемое завершение раньше даты данных, эта граница становится размытой.
 
@@ -59,7 +63,6 @@ last_проверкуed: "2026-07-02"
 
 Очистка этого показателя повышает достоверность графика. Это помогает команде поддерживать четкие границы обновления, отличать фактическую производительность от прогнозной работы и избегать вводящих в заблуждение прогнозных или плавающих результатов. В обзорах PMO также показано, что обновление графика не только рассчитывалось, но и фактически проверялось на согласованность статуса.
 ## Связанные материалы
-- [Ожидаемое завершение до даты данных в Primavera P6 - Обзор](01_overview_template.md)
 - [Ожидаемое завершение до даты данных в Primavera P6 - Руководство по улучшению](02_guide_template.md)
 - [Что такое график](../../07b_blogs_ru/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Надежная логика](../../07b_blogs_ru/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

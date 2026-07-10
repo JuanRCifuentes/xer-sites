@@ -1,37 +1,41 @@
 ---
 title: "Remaining Duration Zero and Progress Not 100% - Improvement Guide"
-seo_title: "How to Fix Remaining Duration Zero and Progress Not 100% in Primavera P6"
-meta_description: "Identify and correct remaining duration zero and progress not 100 percent in Primavera P6 using schedule logic checks, validation, and reassessment steps."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "How to Fix Remaining Duration Zero and Progress Not 100% in Primavera P6"
+description: "Identify and correct remaining duration zero and progress not 100 percent in Primavera P6 using schedule logic checks, validation, and reassessment steps."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Remaining Duration Zero and Progress Not 100%"
   - "Primavera P6 Remaining Duration Zero and Progress Not 100%"
   - "schedule quality"
   - "project controls"
   - "CPM schedule logic"
-slug: "improvement-guide-remaining-duration-zero-progress-not-100-primavera-p6"
+slug: "en/metrics/remaining-duration-zero-progress-not-100-primavera-p6-improvement-guide"
 language: "en"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "Schedule Quality"
 audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "Learn how to improve this Primavera P6 schedule quality result."
-related_metrics:
-  - "01_metrics_en/10_remaining_duration_zero_progress_not_100/01_overview_template.md"
+primarySearchIntent: "Learn how to improve this Primavera P6 schedule quality result."
+relatedMetrics:
   - "01_metrics_en/10_remaining_duration_zero_progress_not_100/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
   - "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: ""
-canonical_url: ""
-last_reviewed: "2026-06-26"
+translationOf: ""
+canonicalUrl: ""
+lastReviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
-# Remaining Duration Zero and Progress Not 100% - Improvement Guide
 ## Purpose
 
 This guide helps schedulers review and correct activities where Remaining Duration equals 0 but progress is not 100%. It supports cleaner Primavera P6 status updates by aligning remaining duration, progress percent, actual finish, and activity status.
@@ -167,7 +171,6 @@ Review this metric during every update cycle before issuing reports. It should b
 - [ ] Next steps documented
 
 ## Related Content
-- [Overview](01_overview_template.md)
 - [Blog Article](03_blog_template.md)
 - [What A Schedule Is](../../01b_blogs_en/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robust Logic](../../01b_blogs_en/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

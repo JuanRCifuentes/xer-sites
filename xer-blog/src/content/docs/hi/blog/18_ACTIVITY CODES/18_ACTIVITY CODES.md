@@ -1,11 +1,10 @@
 ---
 title: "गतिविधि कोड"
-seo_title: "Primavera P6 में गतिविधि कोड"
-meta_description: "Primavera P6 में गतिविधि कोड का उपयोग शेड्यूल को समूहबद्ध, फ़िल्टर, रिपोर्ट और विश्लेषण करने के लिए कैसे करें।"
+seoTitle: "Primavera P6 में गतिविधि कोड"
 description: "Primavera P6 में गतिविधि कोड का उपयोग शेड्यूल को समूहबद्ध, फ़िल्टर, रिपोर्ट और विश्लेषण करने के लिए कैसे करें।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "गतिविधि कोड"
   - "Primavera P6 गतिविधि कोड"
@@ -14,7 +13,7 @@ keywords:
   - "रिपोर्टिंग"
 slug: "hi/blog/activity-codes-in-primavera-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
@@ -22,18 +21,17 @@ audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "Primavera P6 में गतिविधि कोड को समझना और रिपोर्टिंग तथा प्रोजेक्ट नियंत्रण में उनका उपयोग जानना।"
-related_metrics:
-  - "05_metrics_hi/21_missing_dependencies/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6 में गतिविधि कोड को समझना और रिपोर्टिंग तथा प्रोजेक्ट नियंत्रण में उनका उपयोग जानना।"
+relatedMetrics:
+  - "05_metrics_hi/21_missing_dependencies/02_guide_template.md"
+relatedBlogs:
   - "05_blogs_hi/17_DEVELOPE A PROJECT SCHEDULE/17_DEVELOPE A PROJECT SCHEDULE.md"
   - "05_blogs_hi/19_SCHEDULE BASIS/19_SCHEDULE BASIS.md"
-translation_of: "01b_blogs_en/18_ACTIVITY CODES/18_ACTIVITY CODES.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/18_ACTIVITY CODES/18_ACTIVITY CODES.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# गतिविधि कोड
 
 Primavera P6 में गतिविधि कोड वे मुख्य उपकरण हैं जो शेड्यूल को गतिविधियों की सूची से उपयोगी प्रोजेक्ट नियंत्रण डेटाबेस में बदलते हैं। इनके माध्यम से टीम शेड्यूल को अलग-अलग प्रबंधन दृष्टिकोणों से समूहबद्ध, फ़िल्टर, क्रमबद्ध, रिपोर्ट और विश्लेषण कर सकती है।
 

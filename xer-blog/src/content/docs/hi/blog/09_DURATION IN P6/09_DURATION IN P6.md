@@ -1,11 +1,10 @@
 ---
 title: "P6 में अवधि"
-seo_title: "P6 में अवधि - Primavera P6"
-meta_description: "Primavera P6 में P6 में अवधि को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+seoTitle: "P6 में अवधि - Primavera P6"
 description: "Primavera P6 में P6 में अवधि को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "P6 में अवधि"
   - "Primavera P6 P6 में अवधि"
@@ -16,7 +15,7 @@ keywords:
   - "शेड्यूल समीक्षा"
 slug: "hi/blog/duration-in-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
@@ -24,18 +23,17 @@ audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "Primavera P6 में P6 में अवधि को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
-related_metrics:
-  - "05_metrics_hi/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6 में P6 में अवधि को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+relatedMetrics:
+  - "05_metrics_hi/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "05_blogs_hi/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
   - "05_blogs_hi/10_PERCENT COMPLETION TYPES IN P6/10_PERCENT COMPLETION TYPES IN P6.md"
-translation_of: "01b_blogs_en/09_DURATION IN P6/09_DURATION IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/09_DURATION IN P6/09_DURATION IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# P6 में अवधि
 
 प्रिमावेरा पी6 में अवधि पहली बार में सरल लगती है: एक गतिविधि में कुछ निश्चित दिन लगते हैं। व्यवहार में, अवधि किसी शेड्यूल के सबसे महत्वपूर्ण और सबसे गलत समझे जाने वाले हिस्सों में से एक है।
 

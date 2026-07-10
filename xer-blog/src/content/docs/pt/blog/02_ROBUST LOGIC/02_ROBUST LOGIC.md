@@ -1,11 +1,10 @@
 ---
 title: "Lógica Robusta"
-seo_title: "Lógica Robusta - Primavera P6"
-meta_description: "Aprenda Lógica Robusta no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+seoTitle: "Lógica Robusta - Primavera P6"
 description: "Aprenda Lógica Robusta no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Lógica Robusta"
   - "Primavera P6 Lógica Robusta"
@@ -16,7 +15,7 @@ keywords:
   - "revisão do cronograma"
 slug: "pt/blog/robust-logic-in-primavera-p6"
 language: "pt"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Planejamento em Primavera P6"
@@ -24,19 +23,18 @@ audience:
   - "Planejadores"
   - "Schedulers"
   - "Equipes de controles de projeto"
-primary_search_intent: "Aprenda Lógica Robusta no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
-related_metrics:
-  - "06_metrics_pt/21_missing_dependencies/01_overview_template.md"
-  - "06_metrics_pt/06_redundant_logic/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Aprenda Lógica Robusta no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+relatedMetrics:
+  - "06_metrics_pt/21_missing_dependencies/02_guide_template.md"
+  - "06_metrics_pt/06_redundant_logic/02_guide_template.md"
+relatedBlogs:
   - "06b_blogs_pt/01_WHAT A SCHEDULE IS/01_blog.md"
   - "06b_blogs_pt/03_CRITICAL PATH/03_CRITICAL PATH.md"
-translation_of: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Lógica Robusta
 
 Lógica é a representação matemática do sequenciamento e das dependências dentro de um cronograma de projeto. Explica o que deve acontecer antes do quê, quais atividades podem acontecer ao mesmo tempo e como a equipe do projeto pretende passar da primeira atividade até a conclusão final.
 

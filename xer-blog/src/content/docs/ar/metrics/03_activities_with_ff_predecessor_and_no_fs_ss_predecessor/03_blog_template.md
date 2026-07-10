@@ -1,10 +1,10 @@
 ---
 title: "الأنشطة مع أسلاف FF ولا يوجد أسلاف FS أو SS"
-seo_title: "الأنشطة مع أسلاف FF ولا يوجد أسلاف FS أو SS - Primavera P6"
-meta_description: "يوضح لماذا يؤثر الأنشطة مع أسلاف FF ولا يوجد أسلاف FS أو SS على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "الأنشطة مع أسلاف FF ولا يوجد أسلاف FS أو SS - Primavera P6"
+description: "يوضح لماذا يؤثر الأنشطة مع أسلاف FF ولا يوجد أسلاف FS أو SS على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "الأنشطة مع أسلاف FF ولا يوجد أسلاف FS أو SS"
   - "Primavera P6 الأنشطة مع أسلاف FF ولا يوجد أسلاف FS أو SS"
@@ -13,27 +13,31 @@ keywords:
   - "ضبط المشاريع"
   - "منطق CPM"
   - "مراجعة الجدول"
-slug: "ar-blog-article-activities-with-ff-predecessor-and-no-fs-ss-predecessor-primavera-p6"
+slug: "ar/blog/activities-with-ff-predecessor-and-no-fs-ss-predecessor-primavera-p6"
 language: "ar"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "جودة الجدول الزمني"
 audience:
   - "مهندسو التخطيط"
   - "المجدولون"
   - "فرق ضبط المشاريع"
-primary_search_intent: "يوضح لماذا يؤثر الأنشطة مع أسلاف FF ولا يوجد أسلاف FS أو SS على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
-related_metrics:
-  - "04_metrics_ar/03_activities_with_ff_النشاط السابق_and_no_fs_ss_النشاط السابق/01_overview_template.md"
+primarySearchIntent: "يوضح لماذا يؤثر الأنشطة مع أسلاف FF ولا يوجد أسلاف FS أو SS على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
+relatedMetrics:
   - "04_metrics_ar/03_activities_with_ff_النشاط السابق_and_no_fs_ss_النشاط السابق/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "04b_blogs_ar/01_WHAT A SCHEDULE IS/01_blog.md"
   - "04b_blogs_ar/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/03_activities_with_ff_predecessor_and_no_fs_ss_predecessor/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/03_activities_with_ff_predecessor_and_no_fs_ss_predecessor/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# الأنشطة مع أسلاف FF ولا يوجد أسلاف FS أو SS
 
 ## عنوان
 
@@ -146,7 +150,6 @@ last_reviewed: "2026-07-02"
 
 قم بمراجعة الأنشطة مع أسلاف FF وليس مع أسلاف FS أو SS في التحديث التالي لجدول Primavera P6. بالنسبة لكل واحد، اسأل ما إذا كان يجب أن يكون بداية النشاط مدفوعًا بالعمل التمهيدي. إذا كان الأمر كذلك، أضف منطقًا صالحًا لبدء القيادة. إذا لم يكن الأمر كذلك، قم بتوثيق الاستثناء.
 ## محتوى ذو صلة
-- [الأنشطة مع أسلاف FF ولا يوجد أسلاف FS أو SS - نظرة عامة](01_overview_template.md)
 - [الأنشطة مع أسلاف FF ولا يوجد أسلاف FS أو SS - دليل التحسين](02_guide_template.md)
 - [ما هو الجدول الزمني](../../04b_blogs_ar/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [منطق قوي](../../04b_blogs_ar/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

@@ -1,10 +1,10 @@
 ---
 title: "Chemin critique ou chemin de marge commençant par une contrainte - Guide d’amélioration"
-seo_title: "Chemin critique ou chemin de marge commençant par une contrainte - Guide d’amélioration - Primavera P6"
-meta_description: "Apprenez à corriger Chemin critique ou chemin de marge commençant par une contrainte dans Primavera P6 avec des contrôles de logique, de validation et de réévaluation."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Chemin critique ou chemin de marge commençant par une contrainte - Guide d’amélioration - Primavera P6"
+description: "Apprenez à corriger Chemin critique ou chemin de marge commençant par une contrainte dans Primavera P6 avec des contrôles de logique, de validation et de réévaluation."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Chemin critique ou chemin de marge commençant par une contrainte"
   - "Primavera P6 Chemin critique ou chemin de marge commençant par une contrainte"
@@ -13,27 +13,31 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-improvement-guide-cp-or-marge-path-starting-with-constraint-primavera-p6"
+slug: "fr/metrics/cp-or-marge-path-starting-with-constraint-primavera-p6-improvement-guide"
 language: "fr"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "Qualité du planning"
 audience:
   - "Planificateurs"
   - "Ordonnanceurs"
   - "Équipes de contrôle projet"
-primary_search_intent: "Apprenez à corriger Chemin critique ou chemin de marge commençant par une contrainte dans Primavera P6 avec des contrôles de logique, de validation et de réévaluation."
-related_metrics:
-  - "08_metrics_fr/09_cp_or_float_path_starting_with_constraint/01_overview_template.md"
+primarySearchIntent: "Apprenez à corriger Chemin critique ou chemin de marge commençant par une contrainte dans Primavera P6 avec des contrôles de logique, de validation et de réévaluation."
+relatedMetrics:
   - "08_metrics_fr/09_cp_or_float_path_starting_with_constraint/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "08b_blogs_fr/01_WHAT A SCHEDULE IS/01_blog.md"
   - "08b_blogs_fr/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/09_cp_or_float_path_starting_with_constraint/02_guide_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/09_cp_or_float_path_starting_with_constraint/02_guide_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Chemin critique ou chemin de marge commençant par une contrainte - Guide d’amélioration
 
 ## But
 
@@ -172,7 +176,6 @@ Examinez cette mesure lors de chaque mise à jour du calendrier, examen de la li
 - [ ] Évaluation répétée
 - [ ] Prochaines étapes documentées
 ## Contenu associé
-- [Chemin critique ou chemin de marge commençant par une contrainte - Vue d’ensemble](01_overview_template.md)
 - [Modèle de blog](03_blog_template.md)
 - [Qu'est-ce qu'un horaire](../../08b_blogs_fr/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logique robuste](../../08b_blogs_fr/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

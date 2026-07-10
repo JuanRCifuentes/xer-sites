@@ -1,11 +1,10 @@
 ---
 title: "P6 में कैलेंडर"
-seo_title: "P6 में कैलेंडर - Primavera P6"
-meta_description: "Primavera P6 में P6 में कैलेंडर को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+seoTitle: "P6 में कैलेंडर - Primavera P6"
 description: "Primavera P6 में P6 में कैलेंडर को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "P6 में कैलेंडर"
   - "Primavera P6 P6 में कैलेंडर"
@@ -16,7 +15,7 @@ keywords:
   - "शेड्यूल समीक्षा"
 slug: "hi/blog/calendars-in-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
@@ -24,18 +23,17 @@ audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "Primavera P6 में P6 में कैलेंडर को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
-related_metrics:
-  - "05_metrics_hi/20_calendars_with_different_start_finish_time_in_day/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6 में P6 में कैलेंडर को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+relatedMetrics:
+  - "05_metrics_hi/20_calendars_with_different_start_finish_time_in_day/02_guide_template.md"
+relatedBlogs:
   - "05_blogs_hi/07_DATES IN P6/07_DATES IN P6.md"
   - "05_blogs_hi/09_DURATION IN P6/09_DURATION IN P6.md"
-translation_of: "01b_blogs_en/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# P6 में कैलेंडर
 
 कैलेंडर प्राइमेरा पी6 शेड्यूल की शांत नींवों में से एक हैं। वे परिभाषित करते हैं कि काम कब हो सकता है। वे पी6 को बताते हैं कि कौन से दिन कार्य दिवस हैं, कौन से दिन गैर-कार्य दिवस हैं, एक दिन में कितने घंटे उपलब्ध हैं, और दिन के किस समय काम शुरू और खत्म होता है।
 

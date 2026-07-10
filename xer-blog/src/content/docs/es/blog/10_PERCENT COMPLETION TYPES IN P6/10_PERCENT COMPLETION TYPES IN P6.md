@@ -1,11 +1,10 @@
 ---
 title: "Tipos de Percent Complete en P6"
-seo_title: "Tipos de Percent Complete en P6 - Primavera P6"
-meta_description: "Aprende Tipos de Percent Complete en P6 en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
+seoTitle: "Tipos de Percent Complete en P6 - Primavera P6"
 description: "Aprende Tipos de Percent Complete en P6 en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Tipos de Percent Complete en P6"
   - "Primavera P6 Tipos de Percent Complete en P6"
@@ -16,7 +15,7 @@ keywords:
   - "revisión del cronograma"
 slug: "es/blog/percent-complete-types-in-p6"
 language: "es"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Planificación en Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Planificadores"
   - "Schedulers"
   - "Equipos de control de proyectos"
-primary_search_intent: "Aprende Tipos de Percent Complete en P6 en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
-related_metrics:
-  - "02_metrics_es/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Aprende Tipos de Percent Complete en P6 en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
+relatedMetrics:
+  - "02_metrics_es/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "02b_blogs_es/09_DURATION IN P6/09_DURATION IN P6.md"
   - "02b_blogs_es/11_WHERE THE COST LIVE IN P6/11_WHERE THE COST LIVE IN P6.md"
-translation_of: "01b_blogs_en/10_PERCENT COMPLETION TYPES IN P6/10_PERCENT COMPLETION TYPES IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/10_PERCENT COMPLETION TYPES IN P6/10_PERCENT COMPLETION TYPES IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Tipos de Percent Complete en P6
 
 Percent complete es uno de los campos de avance mas visibles en Primavera P6, pero tambien uno de los mas mal entendidos. Un valor de 50% complete puede significar cosas diferentes segun como esta configurada la actividad y como el proyecto mide el avance.
 

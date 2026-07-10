@@ -19,7 +19,7 @@ hero:
       </svg>
   actions:
     - text: Explorer la première métrique
-      link: /fr/metrics/data-date-no-driving-logic-overview/
+      link: /fr/metrics/activities-starting-on-the-data-date-with-no-logic-driving-primavera-p6-improvement-guide/
       icon: right-arrow
       variant: primary
     - text: Lire le blog
@@ -28,12 +28,3 @@ hero:
 sidebar:
   order: 0
 ---
-
-## Activités démarrant à la Date de Référence sans logique pilote
-
-Cette métrique identifie les activités ouvertes ou non démarrées dont le démarrage prévu se situe à la Date de Référence sans logique prédécesseur valide pilotant ce démarrage. Les activités qui s'accumulent à la frontière de la Date de Référence sans logique déforment la marge, obscurcissent le chemin le plus long et rendent la prévision peu fiable. Le seuil cible est de 0 activité.
-
-- [Vue d'ensemble](/fr/metrics/data-date-no-driving-logic-overview/) — ce que la métrique mesure, son seuil et pourquoi elle est importante pour la crédibilité du planning.
-- [Guide d'amélioration](/fr/metrics/data-date-no-driving-logic-improvement-guide/) — comment les planificateurs et les équipes de contrôle de projet résolvent les activités signalées lors des révisions qualité et des cycles de mise à jour.
-
-Pour la version narrative expliquant pourquoi cette métrique est importante, lisez l'article de blog associé : [Activités démarrant à la Date de Référence sans logique pilote](/fr/blog/activities-starting-on-data-date-no-driving-logic/).

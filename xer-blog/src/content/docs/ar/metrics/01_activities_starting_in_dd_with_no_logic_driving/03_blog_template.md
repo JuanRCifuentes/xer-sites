@@ -1,10 +1,10 @@
 ---
 title: "الأنشطة التي تبدأ في تاريخ البيانات بدون المنطق المحرك"
-seo_title: "الأنشطة التي تبدأ في تاريخ البيانات بدون المنطق المحرك - Primavera P6"
-meta_description: "يوضح لماذا يؤثر الأنشطة التي تبدأ في تاريخ البيانات بدون المنطق المحرك"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "الأنشطة التي تبدأ في تاريخ البيانات بدون المنطق المحرك - Primavera P6"
+description: "يوضح لماذا يؤثر الأنشطة التي تبدأ في تاريخ البيانات بدون المنطق المحرك"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "الأنشطة التي تبدأ في تاريخ البيانات بدون المنطق المحرك"
   - "Primavera P6 الأنشطة التي تبدأ في تاريخ البيانات بدون المنطق المحرك"
@@ -13,27 +13,31 @@ keywords:
   - "ضبط المشاريع"
   - "منطق CPM"
   - "مراجعة الجدول"
-slug: "ar-blog-article-activities-starting-on-the-data-date-with-no-logic-driving-primavera-p6"
+slug: "ar/blog/activities-starting-on-the-data-date-with-no-logic-driving-primavera-p6"
 language: "ar"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "جودة الجدول الزمني"
 audience:
   - "مهندسو التخطيط"
   - "المجدولون"
   - "فرق ضبط المشاريع"
-primary_search_intent: "يوضح لماذا يؤثر الأنشطة التي تبدأ في تاريخ البيانات بدون المنطق المحرك: لماذا يهم مقياس الجدول هذا على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
-related_metrics:
-  - "04_metrics_ar/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
+primarySearchIntent: "يوضح لماذا يؤثر الأنشطة التي تبدأ في تاريخ البيانات بدون المنطق المحرك: لماذا يهم مقياس الجدول هذا على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
+relatedMetrics:
   - "04_metrics_ar/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "04b_blogs_ar/01_WHAT A SCHEDULE IS/01_blog.md"
   - "04b_blogs_ar/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# الأنشطة التي تبدأ في تاريخ البيانات بدون المنطق المحرك
 
 ## عنوان
 
@@ -173,7 +177,6 @@ last_reviewed: "2026-07-02"
 
 قم بمراجعة آخر تحديث لجدول Primavera P6 الخاص بك وقم بتصفية الأنشطة المفتوحة أو التي لم تبدأ بدءًا من تاريخ البيانات. ولكل واحد، اطرح سؤالاً بسيطًا: ما الذي يدفعك إلى هذه البداية؟ إذا لم تكن الإجابة واضحة، قم بتصحيح المنطق أو توثيق الاستثناء قبل إصدار الجدول.
 ## محتوى ذو صلة
-- [الأنشطة التي تبدأ في تاريخ البيانات بدون المنطق المحرك: لماذا يهم مقياس الجدول هذا - نظرة عامة](01_overview_template.md)
 - [الأنشطة التي تبدأ في تاريخ البيانات بدون المنطق المحرك: لماذا يهم مقياس الجدول هذا - دليل التحسين](02_guide_template.md)
 - [ما هو الجدول الزمني](../../04b_blogs_ar/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [منطق قوي](../../04b_blogs_ar/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

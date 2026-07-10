@@ -1,10 +1,10 @@
 ---
 title: "선행 기간보다 지연이 큰 SS 관계"
-seo_title: "선행 기간보다 지연이 큰 SS 관계 - Primavera P6"
-meta_description: "선행 기간보다 지연이 큰 SS 관계가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "선행 기간보다 지연이 큰 SS 관계 - Primavera P6"
+description: "선행 기간보다 지연이 큰 SS 관계가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "선행 기간보다 지연이 큰 SS 관계"
   - "Primavera P6 선행 기간보다 지연이 큰 SS 관계"
@@ -13,27 +13,31 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-blog-article-ss-lag-greater-than-predecessor-duration-primavera-p6"
+slug: "ko/blog/ss-lag-greater-than-predecessor-duration-primavera-p6"
 language: "ko"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "공정표 품질"
 audience:
   - "계획 엔지니어"
   - "스케줄러"
   - "프로젝트 통제 팀"
-primary_search_intent: "선행 기간보다 지연이 큰 SS 관계가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
-related_metrics:
-  - "10_metrics_ko/04_ss_lag_greater_than_predecessor_duration/01_overview_template.md"
+primarySearchIntent: "선행 기간보다 지연이 큰 SS 관계가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
+relatedMetrics:
   - "10_metrics_ko/04_ss_lag_greater_than_predecessor_duration/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "10b_blogs_ko/01_WHAT A SCHEDULE IS/01_blog.md"
   - "10b_blogs_ko/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/04_ss_lag_greater_than_predecessor_duration/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/04_ss_lag_greater_than_predecessor_duration/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# 선행 기간보다 지연이 큰 SS 관계
 
 ## 제목
 
@@ -146,7 +150,6 @@ SS 지연이 이전 기간보다 클 때 문제가 나타납니다. 전임자가
 
 다음 Primavera P6 공정표 업데이트에서 지연이 이전 기간보다 큰 SS 관계를 검토하세요. 각각에 대해 관계가 실제로 시작 기반인지 물어보십시오. 그렇지 않은 경우 더 명확한 논리로 바꾸거나 대기 기간을 직접 모델링하십시오.
 ## 관련 콘텐츠
-- [선행 기간보다 지연이 큰 SS 관계 - 개요](01_overview_template.md)
 - [선행 기간보다 지연이 큰 SS 관계 - 개선 가이드](02_guide_template.md)
 - [일정이란 무엇입니까?](../../10b_blogs_ko/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [견고한 논리](../../10b_blogs_ko/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

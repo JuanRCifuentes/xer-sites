@@ -1,10 +1,10 @@
 ---
 title: "SS-Beziehungen mit einer Verzögerung, die größer als die Dauer des Vorgängers ist"
-seo_title: "SS-Beziehungen mit einer Verzögerung, die größer als die Dauer des Vorgängers ist - Primavera P6"
-meta_description: "Erklärt, warum SS-Beziehungen mit einer Verzögerung, die größer als die Dauer des Vorgängers ist CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "SS-Beziehungen mit einer Verzögerung, die größer als die Dauer des Vorgängers ist - Primavera P6"
+description: "Erklärt, warum SS-Beziehungen mit einer Verzögerung, die größer als die Dauer des Vorgängers ist CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "SS-Beziehungen mit einer Verzögerung, die größer als die Dauer des Vorgängers ist"
   - "Primavera P6 SS-Beziehungen mit einer Verzögerung, die größer als die Dauer des Vorgängers ist"
@@ -13,27 +13,31 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-blog-article-ss-lag-greater-than-predecessor-duration-primavera-p6"
+slug: "de/blog/ss-lag-greater-than-predecessor-duration-primavera-p6"
 language: "de"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Terminplanqualität"
 audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Erklärt, warum SS-Beziehungen mit einer Verzögerung, die größer als die Dauer des Vorgängers ist CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-related_metrics:
-  - "09_metrics_de/04_ss_lag_greater_than_predecessor_duration/01_overview_template.md"
+primarySearchIntent: "Erklärt, warum SS-Beziehungen mit einer Verzögerung, die größer als die Dauer des Vorgängers ist CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+relatedMetrics:
   - "09_metrics_de/04_ss_lag_greater_than_predecessor_duration/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "09b_blogs_de/01_WHAT A SCHEDULE IS/01_blog.md"
   - "09b_blogs_de/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/04_ss_lag_greater_than_predecessor_duration/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/04_ss_lag_greater_than_predecessor_duration/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# SS-Beziehungen mit einer Verzögerung, die größer als die Dauer des Vorgängers ist
 
 ## Titel
 
@@ -146,7 +150,6 @@ Die Überprüfung dieser Metrik verbessert die CPM-Klarheit, die Puffer-Zuverlä
 
 Überprüfen Sie SS-Beziehungen, bei denen die Verzögerung größer ist als die Vorgängerdauer, bei Ihrer nächsten Aktualisierung des Primavera P6-Terminplans. Fragen Sie bei jedem einzelnen, ob es sich tatsächlich um eine Anfangsbeziehung handelt. Ist dies nicht der Fall, ersetzen Sie es durch eine klarere Logik oder modellieren Sie die Wartezeit direkt.
 ## Verwandte Inhalte
-- [SS-Beziehungen mit einer Verzögerung, die größer als die Dauer des Vorgängers ist - Überblick](01_overview_template.md)
 - [SS-Beziehungen mit einer Verzögerung, die größer als die Dauer des Vorgängers ist - Verbesserungsleitfaden](02_guide_template.md)
 - [Was für ein Terminplan ist](../../09b_blogs_de/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robuste Logik](../../09b_blogs_de/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

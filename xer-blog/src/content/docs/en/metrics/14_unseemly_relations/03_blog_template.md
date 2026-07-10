@@ -1,10 +1,10 @@
 ---
 title: "Unusual Relationships - Blog Article"
-seo_title: "Unusual Relationships in Primavera P6"
-meta_description: "Learn why unusual relationships in Primavera P6: milestones, loe, and relationship type checks affects Primavera P6 schedule credibility, CPM logic, float."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Unusual Relationships in Primavera P6"
+description: "Learn why unusual relationships in Primavera P6: milestones, loe, and relationship type checks affects Primavera P6 schedule credibility, CPM logic, float."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Unusual Relationships"
   - "Primavera P6 Unusual Relationships"
@@ -12,27 +12,31 @@ keywords:
   - "project controls"
   - "CPM schedule logic"
   - "Primavera P6 blog"
-slug: "blog-article-unusual-relationships-primavera-p6"
+slug: "en/blog/unusual-relationships-primavera-p6"
 language: "en"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Schedule Quality"
 audience:
   - "Planning engineers"
   - "Project managers"
   - "PMO teams"
-primary_search_intent: "Explain this Primavera P6 schedule quality topic in a practical blog format."
-related_metrics:
-  - "01_metrics_en/14_unusual_relations/01_overview_template.md"
+primarySearchIntent: "Explain this Primavera P6 schedule quality topic in a practical blog format."
+relatedMetrics:
   - "01_metrics_en/14_unusual_relations/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
   - "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: ""
-canonical_url: ""
-last_reviewed: "2026-06-26"
+translationOf: ""
+canonicalUrl: ""
+lastReviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
-# Unusual Relationships in Primavera P6: Milestones, LOE, and Relationship Type Checks
 
 Relationship logic is one of the easiest parts of a schedule to copy quickly and one of the hardest parts to defend later. A relationship may look harmless in a P6 table, but the activity type on each side matters. A relationship that makes sense between two normal task activities may be awkward or misleading when one side is a Start Milestone, Finish Milestone, or Level of Effort activity.
 
@@ -59,7 +63,6 @@ A good target for this metric is zero unresolved relationships. The important wo
 Unusual relations are often small symptoms of larger schedule quality problems: copied logic, unclear milestone definitions, misuse of LOE activities, or a habit of forcing dates through relationship types. Cleaning them up improves more than a metric score. It makes the schedule easier to review, easier to explain, and more reliable for PMO governance and project decision-making.
 
 ## Related Content
-- [Overview](01_overview_template.md)
 - [Improvement Guide](02_guide_template.md)
 - [What A Schedule Is](../../01b_blogs_en/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robust Logic](../../01b_blogs_en/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

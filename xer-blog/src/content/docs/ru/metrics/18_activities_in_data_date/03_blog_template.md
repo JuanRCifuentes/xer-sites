@@ -1,10 +1,10 @@
 ---
 title: "Действия с датой данных"
-seo_title: "Действия с датой данных"
-meta_description: "Поясняет, почему Действия с датой данных"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Действия с датой данных"
+description: "Поясняет, почему Действия с датой данных"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Действия с датой данных"
   - "Primavera P6 Действия с датой данных"
@@ -13,27 +13,31 @@ keywords:
   - "проектный контроль"
   - "CPM-логика"
   - "анализ графика"
-slug: "ru-blog-article-activities-on-the-data-date-primavera-p6"
+slug: "ru/blog/activities-on-the-data-date-primavera-p6"
 language: "ru"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Качество графика"
 audience:
   - "Планировщики"
   - "Специалисты по графикам"
   - "Команды проектного контроля"
-primary_search_intent: "Поясняет, почему Действия с датой данных: проверки раннего начала и раннего завершения в Primavera P6 влияет на CPM-логику, резерв времени и надежность графика в Primavera P6."
-related_metrics:
-  - "07_metrics_ru/18_activities_in_data_date/01_overview_template.md"
+primarySearchIntent: "Поясняет, почему Действия с датой данных: проверки раннего начала и раннего завершения в Primavera P6 влияет на CPM-логику, резерв времени и надежность графика в Primavera P6."
+relatedMetrics:
   - "07_metrics_ru/18_activities_in_data_date/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "07b_blogs_ru/01_WHAT A SCHEDULE IS/01_blog.md"
   - "07b_blogs_ru/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/18_activities_in_data_date/03_blog_template.md"
-canonical_url: ""
-last_проверкуed: "2026-07-02"
+translationOf: "01_metrics_en/18_activities_in_data_date/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Действия с датой данных
 
 Дата данных — одна из наиболее важных дат в графике Primavera P6. Он отмечает границу между фактическими показателями и прогнозом на будущее. Работа до Даты данных должна иметь статус. Работы после Даты данных следует прогнозировать. Когда многие действия имеют раннее начало или раннее окончание точно в дату данных, график заслуживает более пристального внимания.
 
@@ -61,7 +65,6 @@ last_проверкуed: "2026-07-02"
 
 Очистка этого показателя повышает достоверность краткосрочного прогноза. Это помогает проектным группам отличать работу, которая действительно готова, от работы, которая просто перенесена на текущую дату обновления. Для отчетов PMO и клиентов это также показывает, что дата данных рассматривалась как реальная граница состояния, а не просто дата, используемая для пересчета файла.
 ## Связанные материалы
-- [Действия с датой данных: проверки раннего начала и раннего завершения в Primavera P6 - Обзор](01_overview_template.md)
 - [Действия с датой данных: проверки раннего начала и раннего завершения в Primavera P6 - Руководство по улучшению](02_guide_template.md)
 - [Что такое график](../../07b_blogs_ru/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Надежная логика](../../07b_blogs_ru/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

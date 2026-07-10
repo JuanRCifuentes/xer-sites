@@ -1,10 +1,10 @@
 ---
 title: "Aufgabenaktivitäten mit SF-Vorgängern in Primavera P6"
-seo_title: "Aufgabenaktivitäten mit SF-Vorgängern in Primavera P6"
-meta_description: "Erklärt, warum Aufgabenaktivitäten mit SF-Vorgängern in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Aufgabenaktivitäten mit SF-Vorgängern in Primavera P6"
+description: "Erklärt, warum Aufgabenaktivitäten mit SF-Vorgängern in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Aufgabenaktivitäten mit SF-Vorgängern in Primavera P6"
   - "Primavera P6 Aufgabenaktivitäten mit SF-Vorgängern in Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-blog-article-task-with-sf-predecessor-primavera-p6"
+slug: "de/blog/task-with-sf-predecessor-primavera-p6"
 language: "de"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Terminplanqualität"
 audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Erklärt, warum Aufgabenaktivitäten mit SF-Vorgängern in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-related_metrics:
-  - "09_metrics_de/15_task_with_sf_predecessor/01_overview_template.md"
+primarySearchIntent: "Erklärt, warum Aufgabenaktivitäten mit SF-Vorgängern in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+relatedMetrics:
   - "09_metrics_de/15_task_with_sf_predecessor/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "09b_blogs_de/01_WHAT A SCHEDULE IS/01_blog.md"
   - "09b_blogs_de/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/15_task_with_sf_predecessor/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/15_task_with_sf_predecessor/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Aufgabenaktivitäten mit SF-Vorgängern in Primavera P6
 
 Anfang-zu-Ende-Beziehungen gehören zu den am wenigsten verbreiteten Beziehungstypen bei der CPM-Planung. In Primavera P6 bedeutet eine SF-Beziehung, dass die Nachfolgeaktivität erst beendet werden kann, wenn die Vorgängeraktivität beginnt. Das kann in Ausnahmefällen zutreffen, ist aber nicht der Ablauf der meisten Projektarbeiten.
 
@@ -63,7 +67,6 @@ Berechnen Sie nach Korrekturen den Terminplan neu und überprüfen Sie den betro
 
 Aufgabenaktivitäten mit SF-Vorgängern sind kleine, aber wichtige Signale. Sie deuten häufig auf kopierte Logik, erzwungene Daten oder unklare Reihenfolgen hin. Ihre Überprüfung hilft dem Projektteam, das Logiknetzwerk zu bereinigen, bevor diese Schwachstellen zu Berichtsproblemen werden.
 ## Verwandte Inhalte
-- [Aufgabenaktivitäten mit SF-Vorgängern in Primavera P6 - Überblick](01_overview_template.md)
 - [Aufgabenaktivitäten mit SF-Vorgängern in Primavera P6 - Verbesserungsleitfaden](02_guide_template.md)
 - [Was für ein Terminplan ist](../../09b_blogs_de/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robuste Logik](../../09b_blogs_de/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

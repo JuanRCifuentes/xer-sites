@@ -1,11 +1,10 @@
 ---
 title: "CPM（Critical Path Method）"
-seo_title: "CPM（Critical Path Method） - Primavera P6"
-meta_description: "Primavera P6における「CPM（Critical Path Method）」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+seoTitle: "CPM（Critical Path Method） - Primavera P6"
 description: "Primavera P6における「CPM（Critical Path Method）」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "CPM（Critical Path Method）"
   - "Primavera P6 CPM（Critical Path Method）"
@@ -16,7 +15,7 @@ keywords:
   - "スケジュールレビュー"
 slug: "ja/blog/critical-path-method-cpm-primavera-p6"
 language: "ja"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 スケジューリング"
@@ -24,18 +23,17 @@ audience:
   - "計画エンジニア"
   - "スケジューラー"
   - "プロジェクトコントロールチーム"
-primary_search_intent: "Primavera P6における「CPM（Critical Path Method）」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
-related_metrics:
-  - "12_metrics_jp/09_cp_or_float_path_starting_with_constraint/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6における「CPM（Critical Path Method）」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+relatedMetrics:
+  - "12_metrics_jp/09_cp_or_float_path_starting_with_constraint/02_guide_template.md"
+relatedBlogs:
   - "12b_blogs_jp/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
   - "12b_blogs_jp/17_DEVELOPE A PROJECT SCHEDULE/17_DEVELOPE A PROJECT SCHEDULE.md"
-translation_of: "01b_blogs_en/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# CPM（Critical Path Method）
 
 Critical Path Method、つまり CPM は、本格的なプロジェクトスケジュールの背後にある基本的な計算方法です。活動リストをロジックでつながったモデルに変え、プロジェクトチームが重要な質問に答えられるようにします。プロジェクトはいつ完了できるのか、どの活動が完了日を管理しているのか、スケジュールのどこに余裕があるのか。
 

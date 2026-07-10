@@ -1,11 +1,10 @@
 ---
 title: "P6のカレンダー"
-seo_title: "P6のカレンダー - Primavera P6"
-meta_description: "Primavera P6における「P6のカレンダー」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+seoTitle: "P6のカレンダー - Primavera P6"
 description: "Primavera P6における「P6のカレンダー」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "P6のカレンダー"
   - "Primavera P6 P6のカレンダー"
@@ -16,7 +15,7 @@ keywords:
   - "スケジュールレビュー"
 slug: "ja/blog/calendars-in-p6"
 language: "ja"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 スケジューリング"
@@ -24,18 +23,17 @@ audience:
   - "計画エンジニア"
   - "スケジューラー"
   - "プロジェクトコントロールチーム"
-primary_search_intent: "Primavera P6における「P6のカレンダー」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
-related_metrics:
-  - "12_metrics_jp/20_calendars_with_different_start_finish_time_in_day/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6における「P6のカレンダー」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+relatedMetrics:
+  - "12_metrics_jp/20_calendars_with_different_start_finish_time_in_day/02_guide_template.md"
+relatedBlogs:
   - "12b_blogs_jp/07_DATES IN P6/07_DATES IN P6.md"
   - "12b_blogs_jp/09_DURATION IN P6/09_DURATION IN P6.md"
-translation_of: "01b_blogs_en/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# P6のカレンダー
 
 カレンダーは、Primavera P6 スケジュールの静かな基盤の 1 つです。作業がいつ行われるかを定義します。彼らは P6 に、どの日が稼働日で、どの日が非稼働日であるか、1 日に利用できる時間は何時間か、および作業の開始時刻と終了時刻を通知します。
 

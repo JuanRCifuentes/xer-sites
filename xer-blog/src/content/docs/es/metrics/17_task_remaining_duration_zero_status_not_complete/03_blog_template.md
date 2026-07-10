@@ -1,10 +1,10 @@
 ---
 title: "Remaining Duration Cero Mientras la Task No Esta Complete"
-seo_title: "Remaining Duration Cero Mientras la Task No Esta Complete - Primavera P6"
-meta_description: "Explica por qué Remaining Duration Cero Mientras la Task No Esta Complete afecta la lógica CPM, la holgura y la confiabilidad del cronograma en Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Remaining Duration Cero Mientras la Task No Esta Complete - Primavera P6"
+description: "Explica por qué Remaining Duration Cero Mientras la Task No Esta Complete afecta la lógica CPM, la holgura y la confiabilidad del cronograma en Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Remaining Duration Cero Mientras la Task No Esta Complete"
   - "Primavera P6 Remaining Duration Cero Mientras la Task No Esta Complete"
@@ -13,27 +13,31 @@ keywords:
   - "control de proyectos"
   - "lógica CPM"
   - "revisión del cronograma"
-slug: "es-blog-article-task-remaining-duration-zero-status-not-complete-primavera-p6"
+slug: "es/blog/task-remaining-duration-zero-status-not-complete-primavera-p6"
 language: "es"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Calidad del cronograma"
 audience:
   - "Planificadores"
   - "Schedulers"
   - "Equipos de control de proyectos"
-primary_search_intent: "Explica por qué Remaining Duration Cero Mientras la Task No Esta Complete afecta la lógica CPM, la holgura y la confiabilidad del cronograma en Primavera P6."
-related_metrics:
-  - "02_metrics_es/17_task_remaining_duration_zero_status_not_complete/01_overview_template.md"
+primarySearchIntent: "Explica por qué Remaining Duration Cero Mientras la Task No Esta Complete afecta la lógica CPM, la holgura y la confiabilidad del cronograma en Primavera P6."
+relatedMetrics:
   - "02_metrics_es/17_task_remaining_duration_zero_status_not_complete/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "02b_blogs_es/01_WHAT A SCHEDULE IS/01_blog.md"
   - "02b_blogs_es/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/17_task_remaining_duration_zero_status_not_complete/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/17_task_remaining_duration_zero_status_not_complete/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Remaining Duration Cero Mientras la Task No Esta Complete
 
 Remaining Duration es uno de los campos de estado mas importantes en una actualizacion de Primavera P6. Indica cuanto tiempo todavia se necesita para terminar la actividad. Cuando una actividad task normal tiene Remaining Duration igual a 0, el mensaje es simple: no queda tiempo por ejecutar. Si esa misma task no esta marcada como Complete, el cronograma esta contando dos historias distintas al mismo tiempo.
 
@@ -61,7 +65,6 @@ Esta metrica tambien ayuda a mejorar la disciplina de actualizacion. Si el mismo
 
 Limpiar esta metrica hace que el cronograma sea mas confiable. Alinea remaining duration, activity status, actual finish dates y valores de progreso. Mas importante aun, ayuda al equipo del proyecto a tomar mejores decisiones sobre que trabajo esta realmente completo y que trabajo todavia necesita atencion.
 ## Contenido relacionado
-- [Remaining Duration Cero Mientras la Task No Esta Complete - Descripción general](01_overview_template.md)
 - [Remaining Duration Cero Mientras la Task No Esta Complete - Guía de mejora](02_guide_template.md)
 - [Que Es Un Cronograma](../../02b_blogs_es/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logica Robusta](../../02b_blogs_es/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

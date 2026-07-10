@@ -1,11 +1,10 @@
 ---
 title: "Primavera P6 计划和项目控制术语表"
-seo_title: "Primavera P6 计划和项目控制术语表"
-meta_description: "面向计划人员、进度计划人员、项目经理和 PMO 团队的 Primavera P6、CPM 进度计划、项目计划和项目控制术语的实用术语表。"
+seoTitle: "Primavera P6 计划和项目控制术语表"
 description: "面向计划人员、进度计划人员、项目经理和 PMO 团队的 Primavera P6、CPM 进度计划、项目计划和项目控制术语的实用术语表。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Primavera P6 术语表"
   - "项目控制术语表"
@@ -17,7 +16,7 @@ keywords:
   - "关键路径法术语表"
 slug: "zh/blog/primavera-p6-glossary"
 language: "zh"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 和项目控制"
@@ -27,17 +26,16 @@ audience:
   - "进度计划人员"
   - "项目经理"
   - "PMO 团队"
-primary_search_intent: "了解常见的 Primavera P6、CPM 进度计划、计划和项目控制术语。"
-related_metrics:
+primarySearchIntent: "了解常见的 Primavera P6、CPM 进度计划、计划和项目控制术语。"
+relatedMetrics:
   - "03_metrics_zh"
-related_blogs:
+relatedBlogs:
   - "03b_blogs_zh"
-translation_of: "01b_blogs_en/00_GLOSSARY/00_glossary_en.md"
-canonical_url: ""
-last_reviewed: "2026-07-07"
+translationOf: "01b_blogs_en/00_GLOSSARY/00_glossary_en.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-07"
 pubDate: "2026-07-07"
 ---
-# Primavera P6 计划和项目控制术语表
 
 本术语表定义了 Primavera P6 进度计划开发、进度计划质量评估、PMO 审查和项目报告中使用的常见计划、进度安排和项目控制术语。这些描述是为不同经验的读者编写的，从初级计划人员到经验丰富的项目控制专业人员。
 

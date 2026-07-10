@@ -1,10 +1,10 @@
 ---
 title: "Actual Date Greater Than Data Date - Improvement Guide"
-seo_title: "How to Fix Actual Date Greater Than Data Date in Primavera P6"
-meta_description: "Identify and correct actual date greater than Data Date in Primavera P6 using schedule logic checks, validation, and reassessment steps."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "How to Fix Actual Date Greater Than Data Date in Primavera P6"
+description: "Identify and correct actual date greater than Data Date in Primavera P6 using schedule logic checks, validation, and reassessment steps."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Actual Date Greater Than Data Date"
   - "Primavera P6 Actual Date Greater Than Data Date"
@@ -12,27 +12,31 @@ keywords:
   - "project controls"
   - "CPM schedule logic"
   - "Primavera P6 Data Date"
-slug: "improvement-guide-actual-date-greater-than-data-date-primavera-p6"
+slug: "en/metrics/actual-date-greater-than-data-date-primavera-p6-improvement-guide"
 language: "en"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "Schedule Quality"
 audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "Learn how to improve this Primavera P6 schedule quality result."
-related_metrics:
-  - "01_metrics_en/12_actual_date_greater_than_data_date/01_overview_template.md"
+primarySearchIntent: "Learn how to improve this Primavera P6 schedule quality result."
+relatedMetrics:
   - "01_metrics_en/12_actual_date_greater_than_data_date/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
   - "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: ""
-canonical_url: ""
-last_reviewed: "2026-06-26"
+translationOf: ""
+canonicalUrl: ""
+lastReviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
-# Actual Date Greater Than Data Date - Improvement Guide
 ## Purpose
 
 This guide helps schedulers review and correct activities with actual dates later than the Primavera P6 Data Date. It supports clean update discipline by keeping actual performance on or before the update boundary.
@@ -169,7 +173,6 @@ Review this metric during every update cycle before issuing reports. It should b
 - [ ] Next steps documented
 
 ## Related Content
-- [Overview](01_overview_template.md)
 - [Blog Article](03_blog_template.md)
 - [What A Schedule Is](../../01b_blogs_en/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robust Logic](../../01b_blogs_en/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

@@ -1,11 +1,10 @@
 ---
 title: "Glossar zur Planung und Projektsteuerung für Primavera P6"
-seo_title: "Glossar zur Planung und Projektsteuerung für Primavera P6"
-meta_description: "Ein praktisches Glossar mit Begriffen aus Primavera P6, CPM-Planung, Projektplanung und Projektsteuerung für Planer, Terminplaner, Projektmanager und PMO-Teams."
+seoTitle: "Glossar zur Planung und Projektsteuerung für Primavera P6"
 description: "Ein praktisches Glossar mit Begriffen aus Primavera P6, CPM-Planung, Projektplanung und Projektsteuerung für Planer, Terminplaner, Projektmanager und PMO-Teams."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Primavera P6-Glossar"
   - "Projektsteuerungs-Glossar"
@@ -17,7 +16,7 @@ keywords:
   - "Glossar zur Methode des kritischen Pfades"
 slug: "de/blog/primavera-p6-glossary"
 language: "de"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 und Projektsteuerung"
@@ -27,17 +26,16 @@ audience:
   - "Planer"
   - "Projektmanager"
   - "PMO-Teams"
-primary_search_intent: "Verstehen Sie die allgemeine Terminologie für Primavera P6, CPM-Planung, Planung und Projektsteuerung."
-related_metrics:
+primarySearchIntent: "Verstehen Sie die allgemeine Terminologie für Primavera P6, CPM-Planung, Planung und Projektsteuerung."
+relatedMetrics:
   - "09_metrics_de"
-related_blogs:
+relatedBlogs:
   - "09b_blogs_de"
-translation_of: "01b_blogs_en/00_GLOSSARY/00_glossary_en.md"
-canonical_url: ""
-last_reviewed: "2026-07-07"
+translationOf: "01b_blogs_en/00_GLOSSARY/00_glossary_en.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-07"
 pubDate: "2026-07-07"
 ---
-# Planungs- und Projektkontroll-Glossar für Primavera P6
 
 Dieses Glossar definiert allgemeine Planungs-, Terminplanungs- und Projektsteuerungsbegriffe, die in der Terminplanungsentwicklung, Terminqualitätsbewertung, PMO-Überprüfungen und Projektberichterstattung von Primavera P6 verwendet werden. Die Beschreibungen richten sich an Leser mit gemischter Erfahrung, vom Nachwuchsplaner bis zum erfahrenen Projektsteuerungsexperten.
 

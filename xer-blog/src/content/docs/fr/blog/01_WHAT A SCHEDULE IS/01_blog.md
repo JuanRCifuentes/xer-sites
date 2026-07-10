@@ -1,11 +1,10 @@
 ---
 title: "Qu'est-ce qu'un horaire"
-seo_title: "Qu'est-ce qu'un horaire - Primavera P6"
-meta_description: "Comprendre Qu'est-ce qu'un horaire dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
+seoTitle: "Qu'est-ce qu'un horaire - Primavera P6"
 description: "Comprendre Qu'est-ce qu'un horaire dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Qu'est-ce qu'un horaire"
   - "Primavera P6 Qu'est-ce qu'un horaire"
@@ -16,7 +15,7 @@ keywords:
   - "revue de planning"
 slug: "fr/blog/what-a-planning-is-in-primavera-p6"
 language: "fr"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Planification Primavera P6"
@@ -24,17 +23,16 @@ audience:
   - "Planificateurs"
   - "Ordonnanceurs"
   - "Équipes de contrôle projet"
-primary_search_intent: "Comprendre Qu'est-ce qu'un horaire dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
-related_metrics:
-  - "08_metrics_fr/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Comprendre Qu'est-ce qu'un horaire dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
+relatedMetrics:
+  - "08_metrics_fr/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "08b_blogs_fr/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Qu'est-ce qu'un horaire
 
 Un calendrier de projet est plus qu’une liste de dates. Il s’agit d’une représentation graphique et logique du plan de livraison du projet. Il explique comment le projet sera exécuté du début à la fin, comment les lots de travaux s'articulent, quand les principales étapes doivent être atteintes et quelles informations l'équipe de projet doit utiliser pour prendre des décisions.
 

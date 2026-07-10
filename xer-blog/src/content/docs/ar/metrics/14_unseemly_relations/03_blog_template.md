@@ -1,10 +1,10 @@
 ---
 title: "العلاقات غير اللائقة في بريمافيرا ص6"
-seo_title: "العلاقات غير اللائقة في بريمافيرا ص6 - Primavera P6"
-meta_description: "يوضح لماذا يؤثر العلاقات غير اللائقة في بريمافيرا ص6"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "العلاقات غير اللائقة في بريمافيرا ص6 - Primavera P6"
+description: "يوضح لماذا يؤثر العلاقات غير اللائقة في بريمافيرا ص6"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "العلاقات غير اللائقة في بريمافيرا ص6"
   - "Primavera P6 العلاقات غير اللائقة في بريمافيرا ص6"
@@ -13,27 +13,31 @@ keywords:
   - "ضبط المشاريع"
   - "منطق CPM"
   - "مراجعة الجدول"
-slug: "ar-blog-article-unusual-relationships-primavera-p6"
+slug: "ar/blog/unusual-relationships-primavera-p6"
 language: "ar"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "جودة الجدول الزمني"
 audience:
   - "مهندسو التخطيط"
   - "المجدولون"
   - "فرق ضبط المشاريع"
-primary_search_intent: "يوضح لماذا يؤثر العلاقات غير اللائقة في بريمافيرا ص6: المعالم الرئيسية، LOE، والتحقق من نوع العلاقة على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
-related_metrics:
-  - "04_metrics_ar/14_unusual_relations/01_overview_template.md"
+primarySearchIntent: "يوضح لماذا يؤثر العلاقات غير اللائقة في بريمافيرا ص6: المعالم الرئيسية، LOE، والتحقق من نوع العلاقة على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
+relatedMetrics:
   - "04_metrics_ar/14_unusual_relations/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "04b_blogs_ar/01_WHAT A SCHEDULE IS/01_blog.md"
   - "04b_blogs_ar/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/14_unseemly_relations/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/14_unseemly_relations/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# العلاقات غير اللائقة في بريمافيرا ص6
 
 يعد منطق العلاقات أحد أسهل أجزاء الجدول الزمني للنسخ بسرعة وأحد أصعب الأجزاء التي يجب الدفاع عنها لاحقًا. قد تبدو العلاقة غير ضارة في جدول P6، ولكن نوع النشاط على كل جانب مهم. قد تكون العلاقة المنطقية بين نشاطين من أنشطة المهام العادية غير ملائمة أو مضللة عندما يكون أحد الجانبين بمثابة نشاط رئيسي أو حدث رئيسي للانتهاء أو مستوى الجهد.
 
@@ -59,7 +63,6 @@ last_reviewed: "2026-07-02"
 
 غالبًا ما تكون العلاقات غير اللائقة أعراضًا صغيرة لمشاكل أكبر في جودة الجدول الزمني: المنطق المنسوخ، أو تعريفات المعالم غير الواضحة، أو إساءة استخدام أنشطة LOE، أو عادة فرض التواريخ من خلال أنواع العلاقات. يؤدي تنظيفها إلى تحسين أكثر من مجرد نتيجة مترية. فهو يجعل الجدول الزمني أسهل للمراجعة، وأسهل للشرح، وأكثر موثوقية لإدارة مكتب إدارة المشاريع واتخاذ القرار في المشروع.
 ## محتوى ذو صلة
-- [01_overview_template](../14_unusual_relations/01_overview_template.md)
 - [02_guide_template](../14_unusual_relations/02_guide_template.md)
 - [ما هو الجدول الزمني](../../04b_blogs_ar/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [منطق قوي](../../04b_blogs_ar/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

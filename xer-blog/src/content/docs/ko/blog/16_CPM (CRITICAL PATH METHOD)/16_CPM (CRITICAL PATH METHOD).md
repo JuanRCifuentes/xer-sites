@@ -1,11 +1,10 @@
 ---
 title: "CPM (Critical Path Method)"
-seo_title: "CPM (Critical Path Method) - Primavera P6"
-meta_description: "Primavera P6에서 CPM (Critical Path Method)를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+seoTitle: "CPM (Critical Path Method) - Primavera P6"
 description: "Primavera P6에서 CPM (Critical Path Method)를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "CPM (Critical Path Method)"
   - "Primavera P6 CPM (Critical Path Method)"
@@ -16,7 +15,7 @@ keywords:
   - "공정표 검토"
 slug: "ko/blog/critical-path-method-cpm-primavera-p6"
 language: "ko"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 공정표관리"
@@ -24,18 +23,17 @@ audience:
   - "계획 엔지니어"
   - "스케줄러"
   - "프로젝트 통제 팀"
-primary_search_intent: "Primavera P6에서 CPM (Critical Path Method)를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
-related_metrics:
-  - "10_metrics_ko/09_cp_or_float_path_starting_with_constraint/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6에서 CPM (Critical Path Method)를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+relatedMetrics:
+  - "10_metrics_ko/09_cp_or_float_path_starting_with_constraint/02_guide_template.md"
+relatedBlogs:
   - "10b_blogs_ko/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
   - "10b_blogs_ko/17_DEVELOPE A PROJECT SCHEDULE/17_DEVELOPE A PROJECT SCHEDULE.md"
-translation_of: "01b_blogs_en/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# CPM (Critical Path Method)
 
 Critical Path Method, 즉 CPM은 진지한 프로젝트 공정표의 핵심 계산 방법입니다. 활동 목록을 논리 기반 네트워크로 바꾸어 프로젝트 팀이 가장 중요한 질문에 답할 수 있게 합니다. 프로젝트는 언제 끝날 수 있는가, 어떤 활동이 완료일을 통제하는가, 일정에는 어디에 여유가 있는가.
 

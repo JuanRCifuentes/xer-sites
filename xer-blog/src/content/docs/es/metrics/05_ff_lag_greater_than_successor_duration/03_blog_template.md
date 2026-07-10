@@ -1,10 +1,10 @@
 ---
 title: "Relaciones FF con Lag Mayor que la Duración del Sucesor"
-seo_title: "Relaciones FF con Lag Mayor que la Duración del Sucesor - Primavera P6"
-meta_description: "Explica por qué Relaciones FF con Lag Mayor que la Duración del Sucesor afecta la lógica CPM, la holgura y la confiabilidad del cronograma en Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Relaciones FF con Lag Mayor que la Duración del Sucesor - Primavera P6"
+description: "Explica por qué Relaciones FF con Lag Mayor que la Duración del Sucesor afecta la lógica CPM, la holgura y la confiabilidad del cronograma en Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Relaciones FF con Lag Mayor que la Duración del Sucesor"
   - "Primavera P6 Relaciones FF con Lag Mayor que la Duración del Sucesor"
@@ -13,27 +13,31 @@ keywords:
   - "control de proyectos"
   - "lógica CPM"
   - "revisión del cronograma"
-slug: "es-blog-article-ff-lag-greater-than-successor-duration-primavera-p6"
+slug: "es/blog/ff-lag-greater-than-successor-duration-primavera-p6"
 language: "es"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Calidad del cronograma"
 audience:
   - "Planificadores"
   - "Schedulers"
   - "Equipos de control de proyectos"
-primary_search_intent: "Explica por qué Relaciones FF con Lag Mayor que la Duración del Sucesor afecta la lógica CPM, la holgura y la confiabilidad del cronograma en Primavera P6."
-related_metrics:
-  - "02_metrics_es/05_ff_lag_greater_than_successor_duration/01_overview_template.md"
+primarySearchIntent: "Explica por qué Relaciones FF con Lag Mayor que la Duración del Sucesor afecta la lógica CPM, la holgura y la confiabilidad del cronograma en Primavera P6."
+relatedMetrics:
   - "02_metrics_es/05_ff_lag_greater_than_successor_duration/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "02b_blogs_es/01_WHAT A SCHEDULE IS/01_blog.md"
   - "02b_blogs_es/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/05_ff_lag_greater_than_successor_duration/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/05_ff_lag_greater_than_successor_duration/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Relaciones FF con Lag Mayor que la Duración del Sucesor
 
 ## Título
 
@@ -146,7 +150,6 @@ Revisar esta métrica mejora la claridad CPM, la confiabilidad de la holgura y l
 
 Revise relaciones FF donde el lag sea mayor que la duración del sucesor en su próxima actualización de Primavera P6. Para cada una, pregunte si la relación es realmente de finalización a finalización. Si no lo es, reemplácela con lógica más clara o modele directamente el periodo de espera.
 ## Contenido relacionado
-- [Relaciones FF con Lag Mayor que la Duración del Sucesor - Descripción general](01_overview_template.md)
 - [Relaciones FF con Lag Mayor que la Duración del Sucesor - Guía de mejora](02_guide_template.md)
 - [Que Es Un Cronograma](../../02b_blogs_es/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logica Robusta](../../02b_blogs_es/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

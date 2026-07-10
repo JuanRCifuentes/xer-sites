@@ -1,10 +1,10 @@
 ---
 title: "Actividades con Remaining Duration 0 y Avance Distinto de 100% - Guía de mejora"
-seo_title: "Actividades con Remaining Duration 0 y Avance Distinto de 100% - Guía de mejora - Primavera P6"
-meta_description: "Aprende a corregir Actividades con Remaining Duration 0 y Avance Distinto de 100% en Primavera P6 con validación de lógica, fechas y control del cronograma."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Actividades con Remaining Duration 0 y Avance Distinto de 100% - Guía de mejora - Primavera P6"
+description: "Aprende a corregir Actividades con Remaining Duration 0 y Avance Distinto de 100% en Primavera P6 con validación de lógica, fechas y control del cronograma."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Actividades con Remaining Duration 0 y Avance Distinto de 100%"
   - "Primavera P6 Actividades con Remaining Duration 0 y Avance Distinto de 100%"
@@ -13,27 +13,31 @@ keywords:
   - "control de proyectos"
   - "lógica CPM"
   - "revisión del cronograma"
-slug: "es-improvement-guide-remaining-duration-zero-progress-not-100-primavera-p6"
+slug: "es/metrics/remaining-duration-zero-progress-not-100-primavera-p6-improvement-guide"
 language: "es"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "Calidad del cronograma"
 audience:
   - "Planificadores"
   - "Schedulers"
   - "Equipos de control de proyectos"
-primary_search_intent: "Aprende a corregir Actividades con Remaining Duration 0 y Avance Distinto de 100% en Primavera P6 con validación de lógica, fechas y control del cronograma."
-related_metrics:
-  - "02_metrics_es/10_remaining_duration_zero_progress_not_100/01_overview_template.md"
+primarySearchIntent: "Aprende a corregir Actividades con Remaining Duration 0 y Avance Distinto de 100% en Primavera P6 con validación de lógica, fechas y control del cronograma."
+relatedMetrics:
   - "02_metrics_es/10_remaining_duration_zero_progress_not_100/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "02b_blogs_es/01_WHAT A SCHEDULE IS/01_blog.md"
   - "02b_blogs_es/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/10_remaining_duration_zero_progress_not_100/02_guide_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/10_remaining_duration_zero_progress_not_100/02_guide_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Actividades con Remaining Duration 0 y Avance Distinto de 100% - Guía de mejora
 
 ## Propósito
 
@@ -169,7 +173,6 @@ Revise esta métrica en cada ciclo de actualización antes de emitir reportes. D
 - [ ] Evaluación repetida
 - [ ] Próximos pasos documentados
 ## Contenido relacionado
-- [Actividades con Remaining Duration 0 y Avance Distinto de 100% - Descripción general](01_overview_template.md)
 - [Plantilla de Blog](03_blog_template.md)
 - [Que Es Un Cronograma](../../02b_blogs_es/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logica Robusta](../../02b_blogs_es/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

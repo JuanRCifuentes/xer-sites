@@ -1,11 +1,10 @@
 ---
 title: "मजबूत तर्क"
-seo_title: "मजबूत तर्क - Primavera P6"
-meta_description: "Primavera P6 में मजबूत तर्क को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+seoTitle: "मजबूत तर्क - Primavera P6"
 description: "Primavera P6 में मजबूत तर्क को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "मजबूत तर्क"
   - "Primavera P6 मजबूत तर्क"
@@ -16,7 +15,7 @@ keywords:
   - "शेड्यूल समीक्षा"
 slug: "hi/blog/robust-logic-in-primavera-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
@@ -24,19 +23,18 @@ audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "Primavera P6 में मजबूत तर्क को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
-related_metrics:
-  - "05_metrics_hi/21_missing_dependencies/01_overview_template.md"
-  - "05_metrics_hi/06_redundant_logic/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6 में मजबूत तर्क को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+relatedMetrics:
+  - "05_metrics_hi/21_missing_dependencies/02_guide_template.md"
+  - "05_metrics_hi/06_redundant_logic/02_guide_template.md"
+relatedBlogs:
   - "05_blogs_hi/01_WHAT A SCHEDULE IS/01_blog.md"
   - "05_blogs_hi/03_CRITICAL PATH/03_CRITICAL PATH.md"
-translation_of: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# मजबूत तर्क
 
 तर्क एक परियोजना अनुसूची के अंदर अनुक्रमण और निर्भरता का गणितीय प्रतिनिधित्व है। यह बताता है कि क्या से पहले क्या होना चाहिए, कौन सी गतिविधियाँ एक ही समय में हो सकती हैं, और प्रोजेक्ट टीम पहली गतिविधि से अंतिम समापन तक कैसे जाने का इरादा रखती है।
 

@@ -1,11 +1,10 @@
 ---
 title: "Dauertypen in P6"
-seo_title: "Dauertypen in P6 - Primavera P6"
-meta_description: "Lernen Sie Dauertypen in P6 in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+seoTitle: "Dauertypen in P6 - Primavera P6"
 description: "Lernen Sie Dauertypen in P6 in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Dauertypen in P6"
   - "Primavera P6 Dauertypen in P6"
@@ -16,7 +15,7 @@ keywords:
   - "Terminplanprüfung"
 slug: "de/blog/duration-types-in-p6"
 language: "de"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Terminplanung in Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Lernen Sie Dauertypen in P6 in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
-related_metrics:
-  - "09_metrics_de/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Lernen Sie Dauertypen in P6 in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+relatedMetrics:
+  - "09_metrics_de/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "09b_blogs_de/05_ACTIVITY TYPES IN P6/05_ACTIVITY TYPES IN P6.md"
   - "09b_blogs_de/07_DATES IN P6/07_DATES IN P6.md"
-translation_of: "01b_blogs_en/06_DURATION TYPES IN P6/06_DURATION TYPES IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/06_DURATION TYPES IN P6/06_DURATION TYPES IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Dauertypen in P6
 
 Der Dauertyp ist eines der Felder in Primavera P6, das steuert, wie sich eine Aktivität verhält, wenn sich Dauer, Einheiten und Ressourcenproduktivität ändern. Es ist leicht zu übersehen, kann sich jedoch auf Terminplandaten, Ressourcenauslastung, Kostenprognosen, Earned Value und Aktualisierungsverhalten auswirken.
 

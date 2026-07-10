@@ -1,11 +1,10 @@
 ---
 title: "أين تعيش التكلفة في P6"
-seo_title: "أين تعيش التكلفة في P6 - Primavera P6"
-meta_description: "تعرّف على أين تعيش التكلفة في P6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+seoTitle: "أين تعيش التكلفة في P6 - Primavera P6"
 description: "تعرّف على أين تعيش التكلفة في P6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "أين تعيش التكلفة في P6"
   - "Primavera P6 أين تعيش التكلفة في P6"
@@ -16,7 +15,7 @@ keywords:
   - "مراجعة الجدول"
 slug: "ar/blog/where-costs-live-in-primavera-p6"
 language: "ar"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "الجدولة في Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "مهندسو التخطيط"
   - "المجدولون"
   - "فرق ضبط المشاريع"
-primary_search_intent: "تعرّف على أين تعيش التكلفة في P6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
-related_metrics:
-  - "04_metrics_ar/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "تعرّف على أين تعيش التكلفة في P6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+relatedMetrics:
+  - "04_metrics_ar/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "04b_blogs_ar/10_PERCENT COMPLETION TYPES IN P6/10_PERCENT COMPLETION TYPES IN P6.md"
   - "04b_blogs_ar/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
-translation_of: "01b_blogs_en/11_WHERE THE COST LIVE IN P6/11_WHERE THE COST LIVE IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/11_WHERE THE COST LIVE IN P6/11_WHERE THE COST LIVE IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# أين تعيش التكلفة في P6
 
 التكلفة في بريمافيرا P6 يمكن أن تعيش في عدة أماكن. وهذا أمر مفيد، ولكنه قد يكون مربكًا أيضًا. قد يُظهر الجدول التكلفة المدرجة في الموازنة، والتكلفة الفعلية، والتكلفة المتبقية، وتكلفة الإكمال، وتكلفة الموارد، وتكلفة الدور، وتكلفة المصروفات، وحقول القيمة المكتسبة، وتكلفة الأساس. هذه القيم مترابطة، لكنها لا تعني جميعها نفس الشيء.
 

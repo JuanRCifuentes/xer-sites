@@ -1,10 +1,10 @@
 ---
 title: "Activités à la date des données - Guide d’amélioration"
-seo_title: "Activités à la date des données - Guide d’amélioration"
-meta_description: "Apprenez à corriger Activités à la date des données"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Activités à la date des données - Guide d’amélioration"
+description: "Apprenez à corriger Activités à la date des données"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Activités à la date des données"
   - "Primavera P6 Activités à la date des données"
@@ -13,27 +13,31 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-improvement-guide-activities-on-the-data-date-primavera-p6"
+slug: "fr/metrics/activities-on-the-data-date-primavera-p6-improvement-guide"
 language: "fr"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "Qualité du planning"
 audience:
   - "Planificateurs"
   - "Ordonnanceurs"
   - "Équipes de contrôle projet"
-primary_search_intent: "Apprenez à corriger Activités à la date des données : contrôles de début et de fin anticipés dans Primavera P6 avec des contrôles de logique, de validation et de réévaluation."
-related_metrics:
-  - "08_metrics_fr/18_activities_in_data_date/01_overview_template.md"
+primarySearchIntent: "Apprenez à corriger Activités à la date des données : contrôles de début et de fin anticipés dans Primavera P6 avec des contrôles de logique, de validation et de réévaluation."
+relatedMetrics:
   - "08_metrics_fr/18_activities_in_data_date/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "08b_blogs_fr/01_WHAT A SCHEDULE IS/01_blog.md"
   - "08b_blogs_fr/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/18_activities_in_data_date/02_guide_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/18_activities_in_data_date/02_guide_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Activités à la date des données - Guide d’amélioration
 
 ## But
 
@@ -174,7 +178,6 @@ Examinez cette mesure à chaque cycle de mise à jour avant de publier des rappo
 - [ ] Évaluation répétée
 - [ ] Prochaines étapes documentées
 ## Contenu associé
-- [Activités à la date des données : contrôles de début et de fin anticipés dans Primavera P6 - Vue d’ensemble](01_overview_template.md)
 - [Activités à la date des données : contrôles de début et de fin anticipés dans Primavera P6](03_blog_template.md)
 - [Qu'est-ce qu'un horaire](../../08b_blogs_fr/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logique robuste](../../08b_blogs_fr/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

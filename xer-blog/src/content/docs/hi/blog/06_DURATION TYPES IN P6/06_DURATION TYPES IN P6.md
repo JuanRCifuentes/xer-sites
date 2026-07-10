@@ -1,11 +1,10 @@
 ---
 title: "पी6 में अवधि प्रकार"
-seo_title: "पी6 में अवधि प्रकार - Primavera P6"
-meta_description: "Primavera P6 में पी6 में अवधि प्रकार को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+seoTitle: "पी6 में अवधि प्रकार - Primavera P6"
 description: "Primavera P6 में पी6 में अवधि प्रकार को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "पी6 में अवधि प्रकार"
   - "Primavera P6 पी6 में अवधि प्रकार"
@@ -16,7 +15,7 @@ keywords:
   - "शेड्यूल समीक्षा"
 slug: "hi/blog/duration-types-in-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
@@ -24,18 +23,17 @@ audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "Primavera P6 में पी6 में अवधि प्रकार को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
-related_metrics:
-  - "05_metrics_hi/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6 में पी6 में अवधि प्रकार को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+relatedMetrics:
+  - "05_metrics_hi/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "05_blogs_hi/05_ACTIVITY TYPES IN P6/05_ACTIVITY TYPES IN P6.md"
   - "05_blogs_hi/07_DATES IN P6/07_DATES IN P6.md"
-translation_of: "01b_blogs_en/06_DURATION TYPES IN P6/06_DURATION TYPES IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/06_DURATION TYPES IN P6/06_DURATION TYPES IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# पी6 में अवधि प्रकार
 
 अवधि प्रकार प्रिमावेरा पी6 में उन क्षेत्रों में से एक है जो यह नियंत्रित करता है कि अवधि, इकाइयों और संसाधन उत्पादकता में परिवर्तन होने पर कोई गतिविधि कैसे व्यवहार करती है। इसे नज़रअंदाज करना आसान है, लेकिन यह शेड्यूल तिथियों, संसाधन लोडिंग, लागत पूर्वानुमान, अर्जित मूल्य और अद्यतन व्यवहार को प्रभावित कर सकता है।
 

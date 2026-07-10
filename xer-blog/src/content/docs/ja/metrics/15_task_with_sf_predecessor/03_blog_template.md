@@ -1,10 +1,10 @@
 ---
 title: "Primavera P6 における SF の先駆者とのタスク アクティビティ"
-seo_title: "Primavera P6 における SF の先駆者とのタスク アクティビティ"
-meta_description: "「Primavera P6 における SF の先駆者とのタスク アクティビティ」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Primavera P6 における SF の先駆者とのタスク アクティビティ"
+description: "「Primavera P6 における SF の先駆者とのタスク アクティビティ」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Primavera P6 における SF の先駆者とのタスク アクティビティ"
   - "Primavera P6 における SF の先駆者とのタスク アクティビティ"
@@ -13,27 +13,31 @@ keywords:
   - "プロジェクトコントロール"
   - "CPMロジック"
   - "スケジュールレビュー"
-slug: "jp-blog-article-task-with-sf-predecessor-primavera-p6"
-language: "jp"
-content_type: "blog"
+slug: "ja/blog/task-with-sf-predecessor-primavera-p6"
+language: "ja"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "スケジュール品質"
 audience:
   - "計画エンジニア"
   - "スケジューラー"
   - "プロジェクトコントロールチーム"
-primary_search_intent: "「Primavera P6 における SF の先駆者とのタスク アクティビティ」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
-related_metrics:
-  - "12_metrics_jp/15_task_with_sf_predecessor/01_overview_template.md"
+primarySearchIntent: "「Primavera P6 における SF の先駆者とのタスク アクティビティ」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
+relatedMetrics:
   - "12_metrics_jp/15_task_with_sf_predecessor/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "12b_blogs_jp/01_WHAT A SCHEDULE IS/01_blog.md"
   - "12b_blogs_jp/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/15_task_with_sf_predecessor/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/15_task_with_sf_predecessor/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Primavera P6 における SF の先駆者とのタスク アクティビティ
 
 開始から終了までの関係は、CPM スケジューリングにおいて最も一般的ではない関係タイプの 1 つです。 Primavera P6 では、SF 関係は、先行アクティビティが開始されるまで後続アクティビティは終了できないことを意味します。まれなケースではこれが当てはまる場合もありますが、ほとんどのプロジェクト作業はこのように順序付けられません。
 
@@ -63,7 +67,6 @@ P6 での最良のレビュー方法は、アクティビティ ID、アクテ�
 
 SF 先行者によるタスク アクティビティは小さいですが重要なシグナルです。多くの場合、コピーされたロジック、強制された日付、または不明確な順序が指摘されます。それらをレビューすることは、プロジェクト チームがそれらの弱点がレポートの問題になる前にロジック ネットワークをクリーンアップするのに役立ちます。
 ## 関連コンテンツ
-- [Primavera P6 における SF の先駆者とのタスク アクティビティ - 概要](01_overview_template.md)
 - [Primavera P6 における SF の先駆者とのタスク アクティビティ - 改善ガイド](02_guide_template.md)
 - [スケジュールとは](../../12b_blogs_jp/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [堅牢なロジック](../../12b_blogs_jp/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

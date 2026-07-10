@@ -1,10 +1,10 @@
 ---
 title: "Conclusão Esperada Antes da Data Date no Primavera P6"
-seo_title: "Conclusão Esperada Antes da Data Date no Primavera P6"
-meta_description: "Veja por que Conclusão Esperada Antes da Data Date no Primavera P6 afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Conclusão Esperada Antes da Data Date no Primavera P6"
+description: "Veja por que Conclusão Esperada Antes da Data Date no Primavera P6 afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Conclusão Esperada Antes da Data Date no Primavera P6"
   - "Primavera P6 Conclusão Esperada Antes da Data Date no Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "controles de projeto"
   - "lógica CPM"
   - "revisão do cronograma"
-slug: "pt-blog-article-expected-finish-less-than-data-date-primavera-p6"
+slug: "pt/blog/expected-finish-less-than-data-date-primavera-p6"
 language: "pt"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Qualidade do cronograma"
 audience:
   - "Planejadores"
   - "Schedulers"
   - "Equipes de controles de projeto"
-primary_search_intent: "Veja por que Conclusão Esperada Antes da Data Date no Primavera P6 afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
-related_metrics:
-  - "06_metrics_pt/16_expected_finish_less_than_data_date/01_overview_template.md"
+primarySearchIntent: "Veja por que Conclusão Esperada Antes da Data Date no Primavera P6 afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
+relatedMetrics:
   - "06_metrics_pt/16_expected_finish_less_than_data_date/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "06b_blogs_pt/01_WHAT A SCHEDULE IS/01_blog.md"
   - "06b_blogs_pt/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/16_expected_finish_less_than_data_date/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/16_expected_finish_less_than_data_date/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Conclusão Esperada Antes da Data Date no Primavera P6
 
 A Data Date é a linha entre o que aconteceu e o que ainda está previsto. Em uma atualização limpa do cronograma, as informações de status antes da Data Date devem ser resolvidas como progresso real, enquanto o trabalho restante deve ser previsto a partir da Data Date. Quando uma atividade tem um término esperado anterior à data dos dados, esse limite fica confuso.
 
@@ -59,7 +63,6 @@ O limite alvo deve ser zero atividades não resolvidas. Isso não significa que 
 
 Limpar essa métrica melhora a credibilidade do cronograma. Ele ajuda a equipe a manter um limite de atualização claro, distinguir o desempenho real do trabalho previsto e evitar resultados antecipados ou de folga enganosos. Nas revisões do PMO, isso também mostra que a atualização do cronograma não foi apenas calculada, mas também verificada quanto à consistência do status.
 ## Conteúdo relacionado
-- [Conclusão Esperada Antes da Data Date no Primavera P6 - Visão geral](01_overview_template.md)
 - [Conclusão Esperada Antes da Data Date no Primavera P6 - Guia de melhoria](02_guide_template.md)
 - [O que é um cronograma](../../06b_blogs_pt/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Lógica Robusta](../../06b_blogs_pt/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

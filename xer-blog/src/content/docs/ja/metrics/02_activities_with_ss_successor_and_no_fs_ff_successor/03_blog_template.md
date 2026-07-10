@@ -1,10 +1,10 @@
 ---
 title: "SS 後継者がいる場合と FS または FF 後継者がいない場合の活動"
-seo_title: "SS 後継者がいる場合と FS または FF 後継者がいない場合の活動 - Primavera P6"
-meta_description: "「SS 後継者がいる場合と FS または FF 後継者がいない場合の活動」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "SS 後継者がいる場合と FS または FF 後継者がいない場合の活動 - Primavera P6"
+description: "「SS 後継者がいる場合と FS または FF 後継者がいない場合の活動」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "SS 後継者がいる場合と FS または FF 後継者がいない場合の活動"
   - "Primavera P6 SS 後継者がいる場合と FS または FF 後継者がいない場合の活動"
@@ -13,27 +13,31 @@ keywords:
   - "プロジェクトコントロール"
   - "CPMロジック"
   - "スケジュールレビュー"
-slug: "jp-blog-article-activities-with-ss-successor-and-no-fs-ff-successor-primavera-p6"
-language: "jp"
-content_type: "blog"
+slug: "ja/blog/activities-with-ss-successor-and-no-fs-ff-successor-primavera-p6"
+language: "ja"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "スケジュール品質"
 audience:
   - "計画エンジニア"
   - "スケジューラー"
   - "プロジェクトコントロールチーム"
-primary_search_intent: "「SS 後継者がいる場合と FS または FF 後継者がいない場合の活動」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
-related_metrics:
-  - "12_metrics_jp/02_activities_with_ss_successor_and_no_fs_ff_successor/01_overview_template.md"
+primarySearchIntent: "「SS 後継者がいる場合と FS または FF 後継者がいない場合の活動」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
+relatedMetrics:
   - "12_metrics_jp/02_activities_with_ss_successor_and_no_fs_ff_successor/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "12b_blogs_jp/01_WHAT A SCHEDULE IS/01_blog.md"
   - "12b_blogs_jp/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/02_activities_with_ss_successor_and_no_fs_ff_successor/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/02_activities_with_ss_successor_and_no_fs_ff_successor/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# SS 後継者がいる場合と FS または FF 後継者がいない場合の活動
 
 ## タイトル
 
@@ -146,7 +150,6 @@ SS サクセサーがあり、FS または FF サクセサーが存在しない�
 
 次回の Primavera P6 スケジュール更新では、SS 後継者を使用し、FS または FF 後継者を使用しないアクティビティを確認してください。それぞれについて、アクティビティの終了によって下流の作業が促進されるかどうかを尋ねます。必要に応じて、有効な終了ベースのロジックを追加します。そうすべきではない場合は、例外を文書化してください。
 ## 関連コンテンツ
-- [SS 後継者がいる場合と FS または FF 後継者がいない場合の活動 - 概要](01_overview_template.md)
 - [SS 後継者がいる場合と FS または FF 後継者がいない場合の活動 - 改善ガイド](02_guide_template.md)
 - [スケジュールとは](../../12b_blogs_jp/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [堅牢なロジック](../../12b_blogs_jp/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

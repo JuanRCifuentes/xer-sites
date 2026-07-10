@@ -1,10 +1,10 @@
 ---
 title: "Primavera P6 における見苦しい関係"
-seo_title: "Primavera P6 における見苦しい関係"
-meta_description: "「Primavera P6 における見苦しい関係"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Primavera P6 における見苦しい関係"
+description: "「Primavera P6 における見苦しい関係"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Primavera P6 における見苦しい関係"
   - "Primavera P6 における見苦しい関係"
@@ -13,27 +13,31 @@ keywords:
   - "プロジェクトコントロール"
   - "CPMロジック"
   - "スケジュールレビュー"
-slug: "jp-blog-article-unusual-relationships-primavera-p6"
-language: "jp"
-content_type: "blog"
+slug: "ja/blog/unusual-relationships-primavera-p6"
+language: "ja"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "スケジュール品質"
 audience:
   - "計画エンジニア"
   - "スケジューラー"
   - "プロジェクトコントロールチーム"
-primary_search_intent: "「Primavera P6 における見苦しい関係: マイルストーン、LOE、および関係タイプのチェック」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
-related_metrics:
-  - "12_metrics_jp/14_unusual_relations/01_overview_template.md"
+primarySearchIntent: "「Primavera P6 における見苦しい関係: マイルストーン、LOE、および関係タイプのチェック」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
+relatedMetrics:
   - "12_metrics_jp/14_unusual_relations/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "12b_blogs_jp/01_WHAT A SCHEDULE IS/01_blog.md"
   - "12b_blogs_jp/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/14_unseemly_relations/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/14_unseemly_relations/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Primavera P6 における見苦しい関係
 
 関係ロジックは、スケジュールの中ですぐにコピーするのが最も簡単な部分の 1 つですが、後で守るのが最も難しい部分の 1 つです。 P6 テーブルでは関係は無害に見えるかもしれませんが、各側のアクティビティ タイプが重要です。 2 つの通常のタスク アクティビティ間の意味のある関係は、一方が開始マイルストーン、終了マイルストーン、または作業レベル アクティビティである場合には、ぎこちない、または誤解を招く可能性があります。
 
@@ -59,7 +63,6 @@ last_reviewed: "2026-07-02"
 
 見苦しい関係は、コピーされたロジック、不明確なマイルストーン定義、LOE アクティビティの誤用、または関係タイプによって日付を強制する習慣など、より大きなスケジュールの品質問題の小さな症状であることがよくあります。それらをクリーンアップすると、メトリクス スコア以上の改善が得られます。これにより、スケジュールの確認と説明が容易になり、PMO のガバナンスとプロジェクトの意思決定の信頼性が高まります。
 ## 関連コンテンツ
-- [01_overview_template](../14_unusual_relations/01_overview_template.md)
 - [02_guide_template](../14_unusual_relations/02_guide_template.md)
 - [スケジュールとは](../../12b_blogs_jp/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [堅牢なロジック](../../12b_blogs_jp/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

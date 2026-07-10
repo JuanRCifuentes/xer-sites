@@ -1,11 +1,10 @@
 ---
 title: "Équilibrage des ressources dans P6"
-seo_title: "Équilibrage des ressources dans P6 - Primavera P6"
-meta_description: "Comprendre Équilibrage des ressources dans P6 dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
+seoTitle: "Équilibrage des ressources dans P6 - Primavera P6"
 description: "Comprendre Équilibrage des ressources dans P6 dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Équilibrage des ressources dans P6"
   - "Primavera P6 Équilibrage des ressources dans P6"
@@ -16,7 +15,7 @@ keywords:
   - "revue de planning"
 slug: "fr/blog/resource-balancing-in-primavera-p6"
 language: "fr"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Planification Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Planificateurs"
   - "Ordonnanceurs"
   - "Équipes de contrôle projet"
-primary_search_intent: "Comprendre Équilibrage des ressources dans P6 dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
-related_metrics:
-  - "08_metrics_fr/13_activity_started_progress_zero/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Comprendre Équilibrage des ressources dans P6 dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
+relatedMetrics:
+  - "08_metrics_fr/13_activity_started_progress_zero/02_guide_template.md"
+relatedBlogs:
   - "08b_blogs_fr/13_RESOURCES LIMITS IN P6/13_RESOURCES LIMITS IN P6.md"
   - "08b_blogs_fr/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
-translation_of: "01b_blogs_en/14_RESOURCES BALANCING IN P6/14_RESOURCES BALANCING IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/14_RESOURCES BALANCING IN P6/14_RESOURCES BALANCING IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Équilibrage des ressources dans P6
 
 L'équilibrage des ressources dans Primavera P6 est le processus d'examen de la demande de ressources par rapport à la capacité disponible et d'ajustement du plan afin que le travail puisse être exécuté avec les ressources disponibles. Cela aide l'équipe de projet à comprendre si le calendrier est seulement logiquement correct ou également pratique du point de vue des ressources.
 

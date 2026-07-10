@@ -1,11 +1,10 @@
 ---
 title: "Kalender in P6"
-seo_title: "Kalender in P6 - Primavera P6"
-meta_description: "Lernen Sie Kalender in P6 in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+seoTitle: "Kalender in P6 - Primavera P6"
 description: "Lernen Sie Kalender in P6 in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Kalender in P6"
   - "Primavera P6 Kalender in P6"
@@ -16,7 +15,7 @@ keywords:
   - "Terminplanprüfung"
 slug: "de/blog/calendars-in-p6"
 language: "de"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Terminplanung in Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Lernen Sie Kalender in P6 in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
-related_metrics:
-  - "09_metrics_de/20_calendars_with_different_start_finish_time_in_day/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Lernen Sie Kalender in P6 in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+relatedMetrics:
+  - "09_metrics_de/20_calendars_with_different_start_finish_time_in_day/02_guide_template.md"
+relatedBlogs:
   - "09b_blogs_de/07_DATES IN P6/07_DATES IN P6.md"
   - "09b_blogs_de/09_DURATION IN P6/09_DURATION IN P6.md"
-translation_of: "01b_blogs_en/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Kalender in P6
 
 Kalender sind eine der stillen Grundlagen eines Primavera P6-Plans. Sie legen fest, wann gearbeitet werden kann. Sie teilen P6 mit, welche Tage Arbeitstage sind, welche Tage arbeitsfreie Tage sind, wie viele Stunden ein Tag zur Verfügung steht und zu welcher Tageszeit die Arbeit beginnt und endet.
 

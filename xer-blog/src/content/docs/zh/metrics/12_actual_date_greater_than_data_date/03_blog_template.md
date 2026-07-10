@@ -1,10 +1,10 @@
 ---
 title: "实际日期晚于 Primavera P6 中的数据日期"
-seo_title: "实际日期晚于 Primavera P6 中的数据日期"
-meta_description: "说明“实际日期晚于 Primavera P6 中的数据日期”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "实际日期晚于 Primavera P6 中的数据日期"
+description: "说明“实际日期晚于 Primavera P6 中的数据日期”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "实际日期晚于 Primavera P6 中的数据日期"
   - "Primavera P6 实际日期晚于 Primavera P6 中的数据日期"
@@ -13,27 +13,31 @@ keywords:
   - "项目控制"
   - "CPM逻辑"
   - "进度审查"
-slug: "zh-blog-article-actual-date-greater-than-data-date-primavera-p6"
+slug: "zh/blog/actual-date-greater-than-data-date-primavera-p6"
 language: "zh"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "进度质量"
 audience:
   - "计划工程师"
   - "进度计划软件人员"
   - "项目控制团队"
-primary_search_intent: "说明“实际日期晚于 Primavera P6 中的数据日期”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
-related_metrics:
-  - "03_metrics_zh/12_actual_date_greater_than_data_date/01_overview_template.md"
+primarySearchIntent: "说明“实际日期晚于 Primavera P6 中的数据日期”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
+relatedMetrics:
   - "03_metrics_zh/12_actual_date_greater_than_data_date/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "03b_blogs_zh/01_WHAT A SCHEDULE IS/01_blog.md"
   - "03b_blogs_zh/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/12_actual_date_greater_than_data_date/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/12_actual_date_greater_than_data_date/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# 实际日期晚于 Primavera P6 中的数据日期
 
 ## 标题
 
@@ -150,7 +154,6 @@ last_reviewed: "2026-07-02"
 
 在发布下一次计划更新之前，请查看数据日期之后的所有实际日期。更正日期、状态或数据日期源问题，以便计划将实际绩效与预测工作清楚地分开。
 ## 相关内容
-- [实际日期晚于 Primavera P6 中的数据日期 - 概述](01_overview_template.md)
 - [实际日期晚于 Primavera P6 中的数据日期 - 改进指南](02_guide_template.md)
 - [什么是进度计划](../../03b_blogs_zh/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [强大的逻辑](../../03b_blogs_zh/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

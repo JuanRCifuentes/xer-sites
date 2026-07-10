@@ -1,10 +1,10 @@
 ---
 title: "Primavera P6의 순서가 잘못된 활동"
-seo_title: "Primavera P6의 순서가 잘못된 활동"
-meta_description: "Primavera P6의 순서가 잘못된 활동가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Primavera P6의 순서가 잘못된 활동"
+description: "Primavera P6의 순서가 잘못된 활동가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Primavera P6의 순서가 잘못된 활동"
   - "Primavera P6의 순서가 잘못된 활동"
@@ -13,27 +13,31 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-blog-article-activities-out-of-sequence-primavera-p6"
+slug: "ko/blog/activities-out-of-sequence-primavera-p6"
 language: "ko"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "공정표 품질"
 audience:
   - "계획 엔지니어"
   - "스케줄러"
   - "프로젝트 통제 팀"
-primary_search_intent: "Primavera P6의 순서가 잘못된 활동가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
-related_metrics:
-  - "10_metrics_ko/08_activities_out_of_sequence/01_overview_template.md"
+primarySearchIntent: "Primavera P6의 순서가 잘못된 활동가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
+relatedMetrics:
   - "10_metrics_ko/08_activities_out_of_sequence/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "10b_blogs_ko/01_WHAT A SCHEDULE IS/01_blog.md"
   - "10b_blogs_ko/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/08_activities_out_of_sequence/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/08_activities_out_of_sequence/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Primavera P6의 순서가 잘못된 활동
 
 ## 제목
 
@@ -149,7 +153,6 @@ Primavera P6에서는 유지된 논리 및 진행률 재정의와 같은 공정�
 
 다음 Primavera P6 업데이트 중에 순서를 벗어난 활동을 검토하세요. 각 항목에 대해 문제가 상태인지, 논리인지, 실제 재배열인지 결정한 다음 보고서를 발행하기 전에 일정을 수정합니다.
 ## 관련 콘텐츠
-- [Primavera P6의 순서가 잘못된 활동 - 개요](01_overview_template.md)
 - [Primavera P6의 순서가 잘못된 활동 - 개선 가이드](02_guide_template.md)
 - [일정이란 무엇입니까?](../../10b_blogs_ko/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [견고한 논리](../../10b_blogs_ko/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

@@ -1,10 +1,10 @@
 ---
 title: "Primavera P6에서 시작 및 종료 시간이 다른 달력"
-seo_title: "Primavera P6에서 시작 및 종료 시간이 다른 달력"
-meta_description: "Primavera P6에서 시작 및 종료 시간이 다른 달력가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Primavera P6에서 시작 및 종료 시간이 다른 달력"
+description: "Primavera P6에서 시작 및 종료 시간이 다른 달력가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Primavera P6에서 시작 및 종료 시간이 다른 달력"
   - "Primavera P6에서 시작 및 종료 시간이 다른 달력"
@@ -13,27 +13,31 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-blog-article-calendars-with-different-start-finish-time-in-day-primavera-p6"
+slug: "ko/blog/calendars-with-different-start-finish-time-in-day-primavera-p6"
 language: "ko"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "공정표 품질"
 audience:
   - "계획 엔지니어"
   - "스케줄러"
   - "프로젝트 통제 팀"
-primary_search_intent: "Primavera P6에서 시작 및 종료 시간이 다른 달력가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
-related_metrics:
-  - "10_metrics_ko/20_calendars_with_different_start_finish_time_in_day/01_overview_template.md"
+primarySearchIntent: "Primavera P6에서 시작 및 종료 시간이 다른 달력가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
+relatedMetrics:
   - "10_metrics_ko/20_calendars_with_different_start_finish_time_in_day/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "10b_blogs_ko/01_WHAT A SCHEDULE IS/01_blog.md"
   - "10b_blogs_ko/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/20_calendars_with_different_start_finish_time_in_day/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/20_calendars_with_different_start_finish_time_in_day/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Primavera P6에서 시작 및 종료 시간이 다른 달력
 
 달력은 Primavera P6 공정표의 조용한 동인 중 하나입니다. 작업이 수행될 수 있는 시기, 기간이 날짜로 변환되는 방식, 관계가 시간에 따라 활동을 이동하는 방식을 정의합니다. 달력은 종종 보이지 않는 곳에 있기 때문에 일일 시작 및 종료 시간의 작은 차이로 인해 일반 레이아웃에서는 보기 어려운 일정 동작이 발생할 수 있습니다.
 
@@ -59,7 +63,6 @@ last_reviewed: "2026-07-02"
 
 이 측정항목을 정리하면 일정 투명성이 향상됩니다. 이는 팀이 숨겨진 부분일 효과, 오해의 소지가 있는 부동 및 설명할 수 없는 날짜 이동을 방지하는 데 도움이 됩니다. 또한 달력 가정이 더 이상 파일 내에 묻혀 있지 않기 때문에 일정을 감사하기가 더 쉬워집니다. 프로젝트 통제 팀의 경우 이는 큰 보상이 있는 작은 검토입니다.
 ## 관련 콘텐츠
-- [Primavera P6에서 시작 및 종료 시간이 다른 달력 - 개요](01_overview_template.md)
 - [Primavera P6에서 시작 및 종료 시간이 다른 달력 - 개선 가이드](02_guide_template.md)
 - [일정이란 무엇입니까?](../../10b_blogs_ko/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [견고한 논리](../../10b_blogs_ko/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

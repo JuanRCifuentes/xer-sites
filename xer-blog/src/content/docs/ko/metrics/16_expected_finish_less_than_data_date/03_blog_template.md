@@ -1,10 +1,10 @@
 ---
 title: "Primavera P6의 데이터 날짜 이전 예상 완료"
-seo_title: "Primavera P6의 데이터 날짜 이전 예상 완료"
-meta_description: "Primavera P6의 데이터 날짜 이전 예상 완료가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Primavera P6의 데이터 날짜 이전 예상 완료"
+description: "Primavera P6의 데이터 날짜 이전 예상 완료가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Primavera P6의 데이터 날짜 이전 예상 완료"
   - "Primavera P6의 데이터 날짜 이전 예상 완료"
@@ -13,27 +13,31 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-blog-article-expected-finish-less-than-data-date-primavera-p6"
+slug: "ko/blog/expected-finish-less-than-data-date-primavera-p6"
 language: "ko"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "공정표 품질"
 audience:
   - "계획 엔지니어"
   - "스케줄러"
   - "프로젝트 통제 팀"
-primary_search_intent: "Primavera P6의 데이터 날짜 이전 예상 완료가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
-related_metrics:
-  - "10_metrics_ko/16_expected_finish_less_than_data_date/01_overview_template.md"
+primarySearchIntent: "Primavera P6의 데이터 날짜 이전 예상 완료가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
+relatedMetrics:
   - "10_metrics_ko/16_expected_finish_less_than_data_date/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "10b_blogs_ko/01_WHAT A SCHEDULE IS/01_blog.md"
   - "10b_blogs_ko/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/16_expected_finish_less_than_data_date/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/16_expected_finish_less_than_data_date/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Primavera P6의 데이터 날짜 이전 예상 완료
 
 데이터 날짜는 발생한 일과 아직 예측된 일 사이의 경계선입니다. 클린 공정표 업데이트에서는 데이터 날짜 이전의 상태 정보를 실제 진행 상황으로 해결하고, 데이터 날짜 이후 남은 작업을 예측해야 합니다. 활동의 예상 완료 날짜가 데이터 날짜 이전인 경우 해당 경계가 흐려집니다.
 
@@ -59,7 +63,6 @@ P6의 실제 검토에는 활동 ID, 활동 이름, WBS, 활동 상태, 예상 �
 
 이 지표를 정리하면 공정표 신뢰성이 향상됩니다. 이는 팀이 명확한 업데이트 경계를 유지하고 실제 성과를 예측 작업과 구별하며 오해의 소지가 있는 예측 또는 부동 결과를 방지하는 데 도움이 됩니다. PMO 검토에서는 공정표 업데이트가 계산된 것뿐만 아니라 실제로 상태 일관성을 확인했음을 보여줍니다.
 ## 관련 콘텐츠
-- [Primavera P6의 데이터 날짜 이전 예상 완료 - 개요](01_overview_template.md)
 - [Primavera P6의 데이터 날짜 이전 예상 완료 - 개선 가이드](02_guide_template.md)
 - [일정이란 무엇입니까?](../../10b_blogs_ko/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [견고한 논리](../../10b_blogs_ko/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

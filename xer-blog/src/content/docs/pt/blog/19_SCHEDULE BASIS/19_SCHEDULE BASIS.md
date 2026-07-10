@@ -1,11 +1,10 @@
 ---
 title: "base do cronograma"
-seo_title: "base do cronograma - Primavera P6"
-meta_description: "Aprenda a base do cronograma no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+seoTitle: "base do cronograma - Primavera P6"
 description: "Aprenda a base do cronograma no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "base do cronograma"
   - "Primavera P6 base do cronograma"
@@ -16,7 +15,7 @@ keywords:
   - "revisão do cronograma"
 slug: "pt/blog/schedule-basis-in-primavera-p6"
 language: "pt"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Planejamento em Primavera P6"
@@ -24,17 +23,16 @@ audience:
   - "Planejadores"
   - "Schedulers"
   - "Equipes de controles de projeto"
-primary_search_intent: "Aprenda a base do cronograma no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
-related_metrics:
-  - "06_metrics_pt/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Aprenda a base do cronograma no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+relatedMetrics:
+  - "06_metrics_pt/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "06b_blogs_pt/18_ACTIVITY CODES/18_ACTIVITY CODES.md"
-translation_of: "01b_blogs_en/19_SCHEDULE BASIS/19_SCHEDULE BASIS.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/19_SCHEDULE BASIS/19_SCHEDULE BASIS.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# base do cronograma
 
 A base do cronograma é o documento que explica como o cronograma foi construído e quais premissas o suportam. É o complemento escrito do arquivo Primavera P6.
 

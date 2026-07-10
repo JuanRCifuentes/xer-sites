@@ -1,11 +1,10 @@
 ---
 title: "Relations SS et FF"
-seo_title: "Relations SS et FF - Primavera P6"
-meta_description: "Comprendre Relations SS et FF dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
+seoTitle: "Relations SS et FF - Primavera P6"
 description: "Comprendre Relations SS et FF dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Relations SS et FF"
   - "Primavera P6 Relations SS et FF"
@@ -16,7 +15,7 @@ keywords:
   - "revue de planning"
 slug: "fr/blog/ss-and-ff-relations-in-primavera-p6"
 language: "fr"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Planification Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Planificateurs"
   - "Ordonnanceurs"
   - "Équipes de contrôle projet"
-primary_search_intent: "Comprendre Relations SS et FF dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
-related_metrics:
-  - "08_metrics_fr/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Comprendre Relations SS et FF dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
+relatedMetrics:
+  - "08_metrics_fr/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "08b_blogs_fr/14_RESOURCES BALANCING IN P6/14_RESOURCES BALANCING IN P6.md"
   - "08b_blogs_fr/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
-translation_of: "01b_blogs_en/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Relations SS et FF
 
 Les relations début-début (SS) et fin-fin (FF) sont des types de logique valides dans Primavera P6. Elles sont utiles lorsque deux activites se chevauchent et que le planning doit representer ce chevauchement mieux qu'une simple relation fin-début.
 

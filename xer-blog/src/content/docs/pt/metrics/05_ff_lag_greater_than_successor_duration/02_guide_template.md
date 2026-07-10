@@ -1,10 +1,10 @@
 ---
 title: "Relacionamentos FF com atraso maior que a duração do sucessor - Guia de melhoria"
-seo_title: "Relacionamentos FF com atraso maior que a duração do sucessor - Guia de melhoria - Primavera P6"
-meta_description: "Aprenda a corrigir Relacionamentos FF com atraso maior que a duração do sucessor no Primavera P6 com verificação de lógica, validação e reavaliação."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Relacionamentos FF com atraso maior que a duração do sucessor - Guia de melhoria - Primavera P6"
+description: "Aprenda a corrigir Relacionamentos FF com atraso maior que a duração do sucessor no Primavera P6 com verificação de lógica, validação e reavaliação."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Relacionamentos FF com atraso maior que a duração do sucessor"
   - "Primavera P6 Relacionamentos FF com atraso maior que a duração do sucessor"
@@ -13,27 +13,31 @@ keywords:
   - "controles de projeto"
   - "lógica CPM"
   - "revisão do cronograma"
-slug: "pt-improvement-guide-ff-lag-greater-than-successor-duration-primavera-p6"
+slug: "pt/metrics/ff-lag-greater-than-successor-duration-primavera-p6-improvement-guide"
 language: "pt"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "Qualidade do cronograma"
 audience:
   - "Planejadores"
   - "Schedulers"
   - "Equipes de controles de projeto"
-primary_search_intent: "Aprenda a corrigir Relacionamentos FF com atraso maior que a duração do sucessor no Primavera P6 com verificação de lógica, validação e reavaliação."
-related_metrics:
-  - "06_metrics_pt/05_ff_lag_greater_than_successor_duration/01_overview_template.md"
+primarySearchIntent: "Aprenda a corrigir Relacionamentos FF com atraso maior que a duração do sucessor no Primavera P6 com verificação de lógica, validação e reavaliação."
+relatedMetrics:
   - "06_metrics_pt/05_ff_lag_greater_than_successor_duration/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "06b_blogs_pt/01_WHAT A SCHEDULE IS/01_blog.md"
   - "06b_blogs_pt/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/05_ff_lag_greater_than_successor_duration/02_guide_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/05_ff_lag_greater_than_successor_duration/02_guide_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Relacionamentos FF com atraso maior que a duração do sucessor - Guia de melhoria
 
 ## Propósito
 
@@ -166,7 +170,6 @@ Revise essa métrica durante cada atualização do cronograma e antes da aprova�
 - [ ] Avaliação repetida
 - [ ] Próximas etapas documentadas
 ## Conteúdo relacionado
-- [Relacionamentos FF com atraso maior que a duração do sucessor - Visão geral](01_overview_template.md)
 - [Modelo de blog](03_blog_template.md)
 - [O que é um cronograma](../../06b_blogs_pt/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Lógica Robusta](../../06b_blogs_pt/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

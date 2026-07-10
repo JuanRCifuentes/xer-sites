@@ -1,10 +1,10 @@
 ---
 title: "प्रिमावेरा पी6 में डेटा तिथि से पहले अपेक्षित समाप्ति - सुधार मार्गदर्शिका"
-seo_title: "प्रिमावेरा पी6 में डेटा तिथि से पहले अपेक्षित समाप्ति - सुधार मार्गदर्शिका - Primavera P6"
-meta_description: "Primavera P6 में प्रिमावेरा पी6 में डेटा तिथि से पहले अपेक्षित समाप्ति को लॉजिक जांच, सत्यापन और पुनर्मूल्यांकन से सुधारना सीखें।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "प्रिमावेरा पी6 में डेटा तिथि से पहले अपेक्षित समाप्ति - सुधार मार्गदर्शिका - Primavera P6"
+description: "Primavera P6 में प्रिमावेरा पी6 में डेटा तिथि से पहले अपेक्षित समाप्ति को लॉजिक जांच, सत्यापन और पुनर्मूल्यांकन से सुधारना सीखें।"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "प्रिमावेरा पी6 में डेटा तिथि से पहले अपेक्षित समाप्ति"
   - "Primavera P6 प्रिमावेरा पी6 में डेटा तिथि से पहले अपेक्षित समाप्ति"
@@ -13,27 +13,31 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-improvement-guide-expected-finish-less-than-data-date-primavera-p6"
+slug: "hi/metrics/expected-finish-less-than-data-date-primavera-p6-improvement-guide"
 language: "hi"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "शेड्यूल गुणवत्ता"
 audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "Primavera P6 में प्रिमावेरा पी6 में डेटा तिथि से पहले अपेक्षित समाप्ति को लॉजिक जांच, सत्यापन और पुनर्मूल्यांकन से सुधारना सीखें।"
-related_metrics:
-  - "05_metrics_hi/16_expected_finish_less_than_data_date/01_overview_template.md"
+primarySearchIntent: "Primavera P6 में प्रिमावेरा पी6 में डेटा तिथि से पहले अपेक्षित समाप्ति को लॉजिक जांच, सत्यापन और पुनर्मूल्यांकन से सुधारना सीखें।"
+relatedMetrics:
   - "05_metrics_hi/16_expected_finish_less_than_data_date/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "05_blogs_hi/01_WHAT A SCHEDULE IS/01_blog.md"
   - "05_blogs_hi/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/16_expected_finish_less_than_data_date/02_guide_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/16_expected_finish_less_than_data_date/02_guide_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# प्रिमावेरा पी6 में डेटा तिथि से पहले अपेक्षित समाप्ति - सुधार मार्गदर्शिका
 
 ## उद्देश्य
 
@@ -173,7 +177,6 @@ flowchart TD
 - [ ] मूल्यांकन दोहराया गया
 - [ ] अगले चरणों का दस्तावेजीकरण किया गया
 ## संबंधित सामग्री
-- [प्रिमावेरा पी6 में डेटा तिथि से पहले अपेक्षित समाप्ति - अवलोकन](01_overview_template.md)
 - [प्रिमावेरा पी6 में डेटा तिथि से पहले अपेक्षित समाप्ति](03_blog_template.md)
 - [शेड्यूल क्या है](../../05_blogs_hi/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [मजबूत तर्क](../../05_blogs_hi/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

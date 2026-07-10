@@ -1,10 +1,10 @@
 ---
 title: "Attività iniziate con lo 0% di progressi in Primavera P6"
-seo_title: "Attività iniziate con lo 0% di progressi in Primavera P6"
-meta_description: "Spiega perché Attività iniziate con lo 0% di progressi in Primavera P6 influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Attività iniziate con lo 0% di progressi in Primavera P6"
+description: "Spiega perché Attività iniziate con lo 0% di progressi in Primavera P6 influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Attività iniziate con lo 0% di progressi in Primavera P6"
   - "Primavera P6 Attività iniziate con lo 0% di progressi in Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "controllo progetto"
   - "logica CPM"
   - "revisione del cronoprogramma"
-slug: "it-blog-article-activity-started-progress-zero-primavera-p6"
+slug: "it/blog/activity-started-progress-zero-primavera-p6"
 language: "it"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Qualità del cronoprogramma"
 audience:
   - "Pianificatori"
   - "Scheduler"
   - "Team di controllo progetto"
-primary_search_intent: "Spiega perché Attività iniziate con lo 0% di progressi in Primavera P6 influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
-related_metrics:
-  - "11_metrics_it/13_activity_started_progress_zero/01_overview_template.md"
+primarySearchIntent: "Spiega perché Attività iniziate con lo 0% di progressi in Primavera P6 influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
+relatedMetrics:
   - "11_metrics_it/13_activity_started_progress_zero/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "11b_blogs_it/01_WHAT A SCHEDULE IS/01_blog.md"
   - "11b_blogs_it/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/13_activity_started_progress_zero/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/13_activity_started_progress_zero/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Attività iniziate con lo 0% di progressi in Primavera P6
 
 ## Titolo
 
@@ -149,7 +153,6 @@ La gestione di questa metrica migliora la reportistica sui progressi, la fiducia
 
 Rivedi le attività contrassegnate come Iniziate con 0% di progresso durante il prossimo aggiornamento della pianificazione. Conferma se il lavoro è veramente iniziato, quindi correggi l'inizio effettivo, lo stato di avanzamento o la documentazione prima di emettere rapporti.
 ## Contenuti correlati
-- [Attività iniziate con lo 0% di progressi in Primavera P6 - Panoramica](01_overview_template.md)
 - [Attività iniziate con lo 0% di progressi in Primavera P6 - Guida al miglioramento](02_guide_template.md)
 - [Cos'è un cronoprogramma](../../11b_blogs_it/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logica robusta](../../11b_blogs_it/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

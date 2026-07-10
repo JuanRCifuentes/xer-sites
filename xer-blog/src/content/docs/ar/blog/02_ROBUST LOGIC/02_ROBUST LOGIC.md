@@ -1,11 +1,10 @@
 ---
 title: "منطق قوي"
-seo_title: "منطق قوي - Primavera P6"
-meta_description: "تعرّف على منطق قوي في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+seoTitle: "منطق قوي - Primavera P6"
 description: "تعرّف على منطق قوي في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "منطق قوي"
   - "Primavera P6 منطق قوي"
@@ -16,7 +15,7 @@ keywords:
   - "مراجعة الجدول"
 slug: "ar/blog/robust-logic-in-primavera-p6"
 language: "ar"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "الجدولة في Primavera P6"
@@ -24,19 +23,18 @@ audience:
   - "مهندسو التخطيط"
   - "المجدولون"
   - "فرق ضبط المشاريع"
-primary_search_intent: "تعرّف على منطق قوي في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
-related_metrics:
-  - "04_metrics_ar/21_missing_dependencies/01_overview_template.md"
-  - "04_metrics_ar/06_redundant_logic/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "تعرّف على منطق قوي في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+relatedMetrics:
+  - "04_metrics_ar/21_missing_dependencies/02_guide_template.md"
+  - "04_metrics_ar/06_redundant_logic/02_guide_template.md"
+relatedBlogs:
   - "04b_blogs_ar/01_WHAT A SCHEDULE IS/01_blog.md"
   - "04b_blogs_ar/03_CRITICAL PATH/03_CRITICAL PATH.md"
-translation_of: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# منطق قوي
 
 المنطق هو التمثيل الرياضي للتسلسل والتبعيات داخل جدول المشروع. فهو يشرح ما يجب أن يحدث قبل ماذا، وما هي الأنشطة التي يمكن أن تحدث في نفس الوقت، وكيف ينوي فريق المشروع الانتقال من النشاط الأول إلى الإكمال النهائي.
 

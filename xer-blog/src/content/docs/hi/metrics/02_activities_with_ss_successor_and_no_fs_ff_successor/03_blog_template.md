@@ -1,10 +1,10 @@
 ---
 title: "एसएस उत्तराधिकारियों और बिना एफएस या एफएफ उत्तराधिकारियों के साथ गतिविधियाँ"
-seo_title: "एसएस उत्तराधिकारियों और बिना एफएस या एफएफ उत्तराधिकारियों के साथ गतिविधियाँ - Primavera P6"
-meta_description: "समझें कि एसएस उत्तराधिकारियों और बिना एफएस या एफएफ उत्तराधिकारियों के साथ गतिविधियाँ Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "एसएस उत्तराधिकारियों और बिना एफएस या एफएफ उत्तराधिकारियों के साथ गतिविधियाँ - Primavera P6"
+description: "समझें कि एसएस उत्तराधिकारियों और बिना एफएस या एफएफ उत्तराधिकारियों के साथ गतिविधियाँ Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "एसएस उत्तराधिकारियों और बिना एफएस या एफएफ उत्तराधिकारियों के साथ गतिविधियाँ"
   - "Primavera P6 एसएस उत्तराधिकारियों और बिना एफएस या एफएफ उत्तराधिकारियों के साथ गतिविधियाँ"
@@ -13,27 +13,31 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-blog-article-activities-with-ss-successor-and-no-fs-ff-successor-primavera-p6"
+slug: "hi/blog/activities-with-ss-successor-and-no-fs-ff-successor-primavera-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "शेड्यूल गुणवत्ता"
 audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "समझें कि एसएस उत्तराधिकारियों और बिना एफएस या एफएफ उत्तराधिकारियों के साथ गतिविधियाँ Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-related_metrics:
-  - "05_metrics_hi/02_activities_with_ss_successor_and_no_fs_ff_successor/01_overview_template.md"
+primarySearchIntent: "समझें कि एसएस उत्तराधिकारियों और बिना एफएस या एफएफ उत्तराधिकारियों के साथ गतिविधियाँ Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+relatedMetrics:
   - "05_metrics_hi/02_activities_with_ss_successor_and_no_fs_ff_successor/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "05_blogs_hi/01_WHAT A SCHEDULE IS/01_blog.md"
   - "05_blogs_hi/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/02_activities_with_ss_successor_and_no_fs_ff_successor/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/02_activities_with_ss_successor_and_no_fs_ff_successor/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# एसएस उत्तराधिकारियों और बिना एफएस या एफएफ उत्तराधिकारियों के साथ गतिविधियाँ
 
 ## शीर्षक
 
@@ -146,7 +150,6 @@ last_reviewed: "2026-07-02"
 
 अपने अगले प्रिमावेरा पी6 शेड्यूल अपडेट में एसएस उत्तराधिकारियों और बिना एफएस या एफएफ उत्तराधिकारियों वाली गतिविधियों की समीक्षा करें। प्रत्येक के लिए, पूछें कि क्या गतिविधि समाप्ति को डाउनस्ट्रीम कार्य को आगे बढ़ाना चाहिए। यदि ऐसा होना चाहिए, तो वैध फिनिश-आधारित तर्क जोड़ें। यदि ऐसा नहीं होना चाहिए, तो अपवाद का दस्तावेजीकरण करें।
 ## संबंधित सामग्री
-- [एसएस उत्तराधिकारियों और बिना एफएस या एफएफ उत्तराधिकारियों के साथ गतिविधियाँ - अवलोकन](01_overview_template.md)
 - [एसएस उत्तराधिकारियों और बिना एफएस या एफएफ उत्तराधिकारियों के साथ गतिविधियाँ - सुधार मार्गदर्शिका](02_guide_template.md)
 - [शेड्यूल क्या है](../../05_blogs_hi/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [मजबूत तर्क](../../05_blogs_hi/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

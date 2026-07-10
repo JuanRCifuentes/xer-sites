@@ -1,10 +1,10 @@
 ---
 title: "상태가 완료되지 않았지만 작업 잔여 기간이 0입니다."
-seo_title: "상태가 완료되지 않았지만 작업 잔여 기간이 0입니다. - Primavera P6"
-meta_description: "상태가 완료되지 않았지만 작업 잔여 기간이 0입니다.가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "상태가 완료되지 않았지만 작업 잔여 기간이 0입니다. - Primavera P6"
+description: "상태가 완료되지 않았지만 작업 잔여 기간이 0입니다.가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "상태가 완료되지 않았지만 작업 잔여 기간이 0입니다."
   - "Primavera P6 상태가 완료되지 않았지만 작업 잔여 기간이 0입니다."
@@ -13,27 +13,31 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-blog-article-task-remaining-duration-zero-status-not-complete-primavera-p6"
+slug: "ko/blog/task-remaining-duration-zero-status-not-complete-primavera-p6"
 language: "ko"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "공정표 품질"
 audience:
   - "계획 엔지니어"
   - "스케줄러"
   - "프로젝트 통제 팀"
-primary_search_intent: "상태가 완료되지 않았지만 작업 잔여 기간이 0입니다.가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
-related_metrics:
-  - "10_metrics_ko/17_task_remaining_duration_zero_status_not_complete/01_overview_template.md"
+primarySearchIntent: "상태가 완료되지 않았지만 작업 잔여 기간이 0입니다.가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
+relatedMetrics:
   - "10_metrics_ko/17_task_remaining_duration_zero_status_not_complete/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "10b_blogs_ko/01_WHAT A SCHEDULE IS/01_blog.md"
   - "10b_blogs_ko/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/17_task_remaining_duration_zero_status_not_complete/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/17_task_remaining_duration_zero_status_not_complete/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# 상태가 완료되지 않았지만 작업 잔여 기간이 0입니다.
 
 잔여 기간은 Primavera P6 업데이트에서 가장 중요한 상태 필드 중 하나입니다. 활동을 완료하는 데 아직 필요한 시간을 일정에 알려줍니다. 일반 작업 활동의 잔여 기간이 0인 경우 메시지는 간단합니다. 수행할 시간이 남아 있지 않다는 것입니다. 동일한 작업이 완료로 표시되지 않으면 일정은 두 가지 다른 스토리를 동시에 전달하는 것입니다.
 
@@ -61,7 +65,6 @@ last_reviewed: "2026-07-02"
 
 이 측정항목을 정리하면 일정을 더 쉽게 신뢰할 수 있습니다. 잔여 기간, 활동 상태, 실제 완료일 및 진행률 값을 정렬합니다. 더 중요한 것은 프로젝트 팀이 실제로 완료된 작업과 여전히 주의가 필요한 작업에 대해 더 나은 결정을 내리는 데 도움이 된다는 것입니다.
 ## 관련 콘텐츠
-- [상태가 완료되지 않았지만 작업 잔여 기간이 0입니다. - 개요](01_overview_template.md)
 - [상태가 완료되지 않았지만 작업 잔여 기간이 0입니다. - 개선 가이드](02_guide_template.md)
 - [일정이란 무엇입니까?](../../10b_blogs_ko/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [견고한 논리](../../10b_blogs_ko/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

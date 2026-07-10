@@ -1,10 +1,10 @@
 ---
 title: "الأنشطة خارج التسلسل في بريمافيرا ص6"
-seo_title: "الأنشطة خارج التسلسل في بريمافيرا ص6 - Primavera P6"
-meta_description: "يوضح لماذا يؤثر الأنشطة خارج التسلسل في بريمافيرا ص6 على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "الأنشطة خارج التسلسل في بريمافيرا ص6 - Primavera P6"
+description: "يوضح لماذا يؤثر الأنشطة خارج التسلسل في بريمافيرا ص6 على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "الأنشطة خارج التسلسل في بريمافيرا ص6"
   - "Primavera P6 الأنشطة خارج التسلسل في بريمافيرا ص6"
@@ -13,27 +13,31 @@ keywords:
   - "ضبط المشاريع"
   - "منطق CPM"
   - "مراجعة الجدول"
-slug: "ar-blog-article-activities-out-of-sequence-primavera-p6"
+slug: "ar/blog/activities-out-of-sequence-primavera-p6"
 language: "ar"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "جودة الجدول الزمني"
 audience:
   - "مهندسو التخطيط"
   - "المجدولون"
   - "فرق ضبط المشاريع"
-primary_search_intent: "يوضح لماذا يؤثر الأنشطة خارج التسلسل في بريمافيرا ص6 على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
-related_metrics:
-  - "04_metrics_ar/08_activities_out_of_sequence/01_overview_template.md"
+primarySearchIntent: "يوضح لماذا يؤثر الأنشطة خارج التسلسل في بريمافيرا ص6 على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
+relatedMetrics:
   - "04_metrics_ar/08_activities_out_of_sequence/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "04b_blogs_ar/01_WHAT A SCHEDULE IS/01_blog.md"
   - "04b_blogs_ar/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/08_activities_out_of_sequence/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/08_activities_out_of_sequence/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# الأنشطة خارج التسلسل في بريمافيرا ص6
 
 ## عنوان
 
@@ -149,7 +153,6 @@ last_reviewed: "2026-07-02"
 
 قم بمراجعة الأنشطة الخارجة عن التسلسل أثناء التحديث التالي لبرنامج Primavera P6. بالنسبة لكل عنصر، حدد ما إذا كانت المشكلة هي الحالة أو المنطق أو إعادة التسلسل الحقيقي، ثم قم بتصحيح الجدول قبل إصدار التقارير.
 ## محتوى ذو صلة
-- [الأنشطة خارج التسلسل في بريمافيرا ص6 - نظرة عامة](01_overview_template.md)
 - [الأنشطة خارج التسلسل في بريمافيرا ص6 - دليل التحسين](02_guide_template.md)
 - [ما هو الجدول الزمني](../../04b_blogs_ar/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [منطق قوي](../../04b_blogs_ar/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

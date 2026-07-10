@@ -1,10 +1,10 @@
 ---
 title: "Atividades na Data de Dados - Guia de melhoria"
-seo_title: "Atividades na Data de Dados - Guia de melhoria"
-meta_description: "Aprenda a corrigir Atividades na Data de Dados"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Atividades na Data de Dados - Guia de melhoria"
+description: "Aprenda a corrigir Atividades na Data de Dados"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Atividades na Data de Dados"
   - "Primavera P6 Atividades na Data de Dados"
@@ -13,27 +13,31 @@ keywords:
   - "controles de projeto"
   - "lógica CPM"
   - "revisão do cronograma"
-slug: "pt-improvement-guide-activities-on-the-data-date-primavera-p6"
+slug: "pt/metrics/activities-on-the-data-date-primavera-p6-improvement-guide"
 language: "pt"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "Qualidade do cronograma"
 audience:
   - "Planejadores"
   - "Schedulers"
   - "Equipes de controles de projeto"
-primary_search_intent: "Aprenda a corrigir Atividades na Data de Dados: Verificações de Início Antecipado e Finalização Antecipada no Primavera P6 no Primavera P6 com verificação de lógica, validação e reavaliação."
-related_metrics:
-  - "06_metrics_pt/18_activities_in_data_date/01_overview_template.md"
+primarySearchIntent: "Aprenda a corrigir Atividades na Data de Dados: Verificações de Início Antecipado e Finalização Antecipada no Primavera P6 no Primavera P6 com verificação de lógica, validação e reavaliação."
+relatedMetrics:
   - "06_metrics_pt/18_activities_in_data_date/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "06b_blogs_pt/01_WHAT A SCHEDULE IS/01_blog.md"
   - "06b_blogs_pt/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/18_activities_in_data_date/02_guide_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/18_activities_in_data_date/02_guide_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Atividades na Data de Dados - Guia de melhoria
 
 ## Propósito
 
@@ -174,7 +178,6 @@ Revise essa métrica durante cada ciclo de atualização antes de emitir relató
 - [ ] Avaliação repetida
 - [ ] Próximas etapas documentadas
 ## Conteúdo relacionado
-- [Atividades na Data de Dados: Verificações de Início Antecipado e Finalização Antecipada no Primavera P6 - Visão geral](01_overview_template.md)
 - [Atividades na Data de Dados: Verificações de Início Antecipado e Finalização Antecipada no Primavera P6](03_blog_template.md)
 - [O que é um cronograma](../../06b_blogs_pt/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Lógica Robusta](../../06b_blogs_pt/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

@@ -1,11 +1,10 @@
 ---
 title: "Balance de Recursos en P6"
-seo_title: "Balance de Recursos en P6 - Primavera P6"
-meta_description: "Aprende Balance de Recursos en P6 en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
+seoTitle: "Balance de Recursos en P6 - Primavera P6"
 description: "Aprende Balance de Recursos en P6 en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Balance de Recursos en P6"
   - "Primavera P6 Balance de Recursos en P6"
@@ -16,7 +15,7 @@ keywords:
   - "revisión del cronograma"
 slug: "es/blog/resource-balancing-in-primavera-p6"
 language: "es"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Planificación en Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Planificadores"
   - "Schedulers"
   - "Equipos de control de proyectos"
-primary_search_intent: "Aprende Balance de Recursos en P6 en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
-related_metrics:
-  - "02_metrics_es/13_activity_started_progress_zero/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Aprende Balance de Recursos en P6 en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
+relatedMetrics:
+  - "02_metrics_es/13_activity_started_progress_zero/02_guide_template.md"
+relatedBlogs:
   - "02b_blogs_es/13_RESOURCES LIMITS IN P6/13_RESOURCES LIMITS IN P6.md"
   - "02b_blogs_es/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
-translation_of: "01b_blogs_en/14_RESOURCES BALANCING IN P6/14_RESOURCES BALANCING IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/14_RESOURCES BALANCING IN P6/14_RESOURCES BALANCING IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Balance de Recursos en P6
 
 El balance de recursos en Primavera P6 es el proceso de revisar la demanda de recursos contra la capacidad disponible y ajustar el plan para que el trabajo pueda ejecutarse con los recursos reales del proyecto. Ayuda al equipo a entender si el cronograma es solo logicamente correcto o tambien practico desde el punto de vista de recursos.
 

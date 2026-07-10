@@ -1,10 +1,10 @@
 ---
 title: "Activities Starting on the Data Date with No Logic Driving - Blog Article"
-seo_title: "Activities Starting on the Data Date with No Logic Driving in Primavera P6"
-meta_description: "Learn why activities starting on the Data Date with no driving logic affects Primavera P6 schedule credibility, CPM logic, float."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Activities Starting on the Data Date with No Logic Driving in Primavera P6"
+description: "Learn why activities starting on the Data Date with no driving logic affects Primavera P6 schedule credibility, CPM logic, float."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Activities Starting on the Data Date with No Logic Driving"
   - "Primavera P6 Activities Starting on the Data Date with No Logic Driving"
@@ -13,28 +13,32 @@ keywords:
   - "CPM schedule logic"
   - "Primavera P6 Data Date"
   - "Primavera P6 blog"
-slug: "blog-article-activities-starting-on-the-data-date-with-no-logic-driving-primavera-p6"
+slug: "en/blog/activities-starting-on-the-data-date-with-no-logic-driving-primavera-p6"
 language: "en"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Schedule Quality"
 audience:
   - "Planning engineers"
   - "Project managers"
   - "PMO teams"
-primary_search_intent: "Explain this Primavera P6 schedule quality topic in a practical blog format."
-related_metrics:
-  - "01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
+primarySearchIntent: "Explain this Primavera P6 schedule quality topic in a practical blog format."
+relatedMetrics:
   - "01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
   - "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: ""
-canonical_url: ""
-last_reviewed: "2026-06-26"
+translationOf: ""
+canonicalUrl: ""
+lastReviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
 
-# Activities Starting on the Data Date with No Driving Logic
 
 ## Title
 
@@ -175,7 +179,6 @@ Improving the result requires disciplined schedule review: identify the activiti
 Review your latest Primavera P6 schedule update and filter for open or not-started activities starting on the Data Date. For each one, ask a simple question: what is driving this start? If the answer is not clear, correct the logic or document the exception before the schedule is issued.
 
 ## Related Content
-- [Overview](01_overview_template.md)
 - [Improvement Guide](02_guide_template.md)
 - [What A Schedule Is](../../01b_blogs_en/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robust Logic](../../01b_blogs_en/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

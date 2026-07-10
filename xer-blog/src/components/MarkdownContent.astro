@@ -4,9 +4,13 @@
 // remark-mermaid plugin (see src/plugins/remark-mermaid.mjs); this script
 // renders them in the browser, matching Starlight's light/dark theme.
 import Default from '@astrojs/starlight/components/MarkdownContent.astro';
+import MetricLibrary from './MetricLibrary.astro';
+
+const { id, locale } = Astro.locals.starlightRoute;
+const isMetricsSummary = id === (locale ?? 'en') + '/metrics';
 ---
 
-<Default><slot /></Default>
+<Default>{isMetricsSummary ? <MetricLibrary locale={locale ?? 'en'} /> : <slot />}</Default>
 
 <script>
 	const diagrams = document.querySelectorAll<HTMLElement>('pre.mermaid');

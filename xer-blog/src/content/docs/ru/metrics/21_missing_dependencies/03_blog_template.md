@@ -1,10 +1,10 @@
 ---
 title: "Отсутствующие зависимости в Primavera P6"
-seo_title: "Отсутствующие зависимости в Primavera P6"
-meta_description: "Поясняет, почему Отсутствующие зависимости в Primavera P6 влияет на CPM-логику, резерв времени и надежность графика в Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Отсутствующие зависимости в Primavera P6"
+description: "Поясняет, почему Отсутствующие зависимости в Primavera P6 влияет на CPM-логику, резерв времени и надежность графика в Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Отсутствующие зависимости в Primavera P6"
   - "Primavera P6 Отсутствующие зависимости в Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "проектный контроль"
   - "CPM-логика"
   - "анализ графика"
-slug: "ru-blog-article-missing-dependencies-primavera-p6"
+slug: "ru/blog/missing-dependencies-primavera-p6"
 language: "ru"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Качество графика"
 audience:
   - "Планировщики"
   - "Специалисты по графикам"
   - "Команды проектного контроля"
-primary_search_intent: "Поясняет, почему Отсутствующие зависимости в Primavera P6 влияет на CPM-логику, резерв времени и надежность графика в Primavera P6."
-related_metrics:
-  - "07_metrics_ru/21_missing_dependencies/01_overview_template.md"
+primarySearchIntent: "Поясняет, почему Отсутствующие зависимости в Primavera P6 влияет на CPM-логику, резерв времени и надежность графика в Primavera P6."
+relatedMetrics:
   - "07_metrics_ru/21_missing_dependencies/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "07b_blogs_ru/01_WHAT A SCHEDULE IS/01_blog.md"
   - "07b_blogs_ru/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/21_missing_dependencies/03_blog_template.md"
-canonical_url: ""
-last_проверкуed: "2026-07-02"
+translationOf: "01_metrics_en/21_missing_dependencies/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Отсутствующие зависимости в Primavera P6
 
 Зависимости являются основой графика CPM. Они объясняют, как работа переходит от одного действия к другому, что должно произойти, прежде чем работа может начаться, и что зависит от завершения каждого действия. Когда зависимости отсутствуют, график все равно может рассчитываться, но результату сложнее доверять.
 
@@ -61,7 +65,6 @@ last_проверкуed: "2026-07-02"
 
 Очистка этой метрики немедленно улучшает график. Это делает критический путь более надежным, резерв времени число легче интерпретировать, а прогнозные планы — более полезными. Это также помогает команде проекта увидеть, является ли график реальной моделью работы или просто списком действий с датами.
 ## Связанные материалы
-- [Отсутствующие зависимости в Primavera P6 - Обзор](01_overview_template.md)
 - [Отсутствующие зависимости в Primavera P6 - Руководство по улучшению](02_guide_template.md)
 - [Что такое график](../../07b_blogs_ru/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Надежная логика](../../07b_blogs_ru/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

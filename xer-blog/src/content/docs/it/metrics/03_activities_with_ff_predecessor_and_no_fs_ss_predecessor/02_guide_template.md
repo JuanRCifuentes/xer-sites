@@ -1,10 +1,10 @@
 ---
 title: "Attività con predecessori FF e senza predecessori FS o SS - Guida al miglioramento"
-seo_title: "Attività con predecessori FF e senza predecessori FS o SS - Guida al miglioramento - Primavera P6"
-meta_description: "Scopri come correggere Attività con predecessori FF e senza predecessori FS o SS in Primavera P6 con controlli di logica, validazione e rivalutazione."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Attività con predecessori FF e senza predecessori FS o SS - Guida al miglioramento - Primavera P6"
+description: "Scopri come correggere Attività con predecessori FF e senza predecessori FS o SS in Primavera P6 con controlli di logica, validazione e rivalutazione."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Attività con predecessori FF e senza predecessori FS o SS"
   - "Primavera P6 Attività con predecessori FF e senza predecessori FS o SS"
@@ -13,27 +13,31 @@ keywords:
   - "controllo progetto"
   - "logica CPM"
   - "revisione del cronoprogramma"
-slug: "it-improvement-guide-activities-with-ff-predecessor-and-no-fs-ss-predecessor-primavera-p6"
+slug: "it/metrics/activities-with-ff-predecessor-and-no-fs-ss-predecessor-primavera-p6-improvement-guide"
 language: "it"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "Qualità del cronoprogramma"
 audience:
   - "Pianificatori"
   - "Scheduler"
   - "Team di controllo progetto"
-primary_search_intent: "Scopri come correggere Attività con predecessori FF e senza predecessori FS o SS in Primavera P6 con controlli di logica, validazione e rivalutazione."
-related_metrics:
-  - "11_metrics_it/03_activities_with_ff_predecessor_and_no_fs_ss_predecessor/01_overview_template.md"
+primarySearchIntent: "Scopri come correggere Attività con predecessori FF e senza predecessori FS o SS in Primavera P6 con controlli di logica, validazione e rivalutazione."
+relatedMetrics:
   - "11_metrics_it/03_activities_with_ff_predecessor_and_no_fs_ss_predecessor/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "11b_blogs_it/01_WHAT A SCHEDULE IS/01_blog.md"
   - "11b_blogs_it/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/03_activities_with_ff_predecessor_and_no_fs_ss_predecessor/02_guide_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/03_activities_with_ff_predecessor_and_no_fs_ss_predecessor/02_guide_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Attività con predecessori FF e senza predecessori FS o SS - Guida al miglioramento
 
 ## Scopo
 
@@ -166,7 +170,6 @@ Esaminare questa metrica durante ogni aggiornamento della pianificazione e prima
 - [ ] Valutazione ripetuta
 - [ ] Passaggi successivi documentati
 ## Contenuti correlati
-- [Attività con predecessori FF e senza predecessori FS o SS - Panoramica](01_overview_template.md)
 - [Modello di blog](03_blog_template.md)
 - [Cos'è un cronoprogramma](../../11b_blogs_it/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logica robusta](../../11b_blogs_it/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

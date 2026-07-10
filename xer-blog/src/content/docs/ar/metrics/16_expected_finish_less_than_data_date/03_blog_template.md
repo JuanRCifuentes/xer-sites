@@ -1,10 +1,10 @@
 ---
 title: "الانتهاء المتوقع قبل تاريخ البيانات في Primavera P6"
-seo_title: "الانتهاء المتوقع قبل تاريخ البيانات في Primavera P6"
-meta_description: "يوضح لماذا يؤثر الانتهاء المتوقع قبل تاريخ البيانات في Primavera P6 على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "الانتهاء المتوقع قبل تاريخ البيانات في Primavera P6"
+description: "يوضح لماذا يؤثر الانتهاء المتوقع قبل تاريخ البيانات في Primavera P6 على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "الانتهاء المتوقع قبل تاريخ البيانات في Primavera P6"
   - "Primavera P6 الانتهاء المتوقع قبل تاريخ البيانات في Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "ضبط المشاريع"
   - "منطق CPM"
   - "مراجعة الجدول"
-slug: "ar-blog-article-expected-finish-less-than-data-date-primavera-p6"
+slug: "ar/blog/expected-finish-less-than-data-date-primavera-p6"
 language: "ar"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "جودة الجدول الزمني"
 audience:
   - "مهندسو التخطيط"
   - "المجدولون"
   - "فرق ضبط المشاريع"
-primary_search_intent: "يوضح لماذا يؤثر الانتهاء المتوقع قبل تاريخ البيانات في Primavera P6 على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
-related_metrics:
-  - "04_metrics_ar/16_expected_finish_less_than_data_date/01_overview_template.md"
+primarySearchIntent: "يوضح لماذا يؤثر الانتهاء المتوقع قبل تاريخ البيانات في Primavera P6 على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
+relatedMetrics:
   - "04_metrics_ar/16_expected_finish_less_than_data_date/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "04b_blogs_ar/01_WHAT A SCHEDULE IS/01_blog.md"
   - "04b_blogs_ar/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/16_expected_finish_less_than_data_date/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/16_expected_finish_less_than_data_date/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# الانتهاء المتوقع قبل تاريخ البيانات في Primavera P6
 
 تاريخ البيانات هو الخط الفاصل بين ما حدث وما لا يزال متوقعًا. في تحديث الجدول النظيف، يجب حل معلومات الحالة قبل تاريخ البيانات كتقدم فعلي، بينما يجب توقع العمل المتبقي من تاريخ البيانات فصاعدًا. عندما يكون للنشاط انتهاء متوقع قبل تاريخ البيانات، تصبح تلك الحدود ضبابية.
 
@@ -59,7 +63,6 @@ last_reviewed: "2026-07-02"
 
 يؤدي تنظيف هذا المقياس إلى تحسين مصداقية الجدول الزمني. فهو يساعد الفريق في الحفاظ على حدود تحديث واضحة، والتمييز بين الأداء الفعلي والعمل المتوقع، وتجنب النتائج المضللة أو النتائج الذو سماحية زمنيةة. في مراجعات مكتب إدارة المشاريع، يُظهر أيضًا أن تحديث الجدول لم يتم حسابه فحسب، بل تم التحقق منه بالفعل للتأكد من اتساق الحالة.
 ## محتوى ذو صلة
-- [الانتهاء المتوقع قبل تاريخ البيانات في Primavera P6 - نظرة عامة](01_overview_template.md)
 - [الانتهاء المتوقع قبل تاريخ البيانات في Primavera P6 - دليل التحسين](02_guide_template.md)
 - [ما هو الجدول الزمني](../../04b_blogs_ar/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [منطق قوي](../../04b_blogs_ar/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

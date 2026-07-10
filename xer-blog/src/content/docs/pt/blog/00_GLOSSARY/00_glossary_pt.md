@@ -1,11 +1,10 @@
 ---
 title: "Glossário de Planejamento e Controles de Projeto para Primavera P6"
-seo_title: "Glossário de Planejamento e Controles de Projeto para Primavera P6"
-meta_description: "Um glossário prático de Primavera P6, cronograma CPM, planejamento de projetos e termos de controles de projetos para planejadores, programadores, gerentes de projetos e equipes de PMO."
+seoTitle: "Glossário de Planejamento e Controles de Projeto para Primavera P6"
 description: "Um glossário prático de Primavera P6, cronograma CPM, planejamento de projetos e termos de controles de projetos para planejadores, programadores, gerentes de projetos e equipes de PMO."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Glossário do Primavera P6"
   - "glossário de controles de projeto"
@@ -17,7 +16,7 @@ keywords:
   - "glossário do método do caminho crítico"
 slug: "pt/blog/primavera-p6-glossary"
 language: "pt"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 e controles de projeto"
@@ -27,17 +26,16 @@ audience:
   - "Agendadores"
   - "Gerentes de projeto"
   - "Equipes de PMO"
-primary_search_intent: "Entenda a terminologia comum do Primavera P6, agendamento CPM, planejamento e controles de projeto."
-related_metrics:
+primarySearchIntent: "Entenda a terminologia comum do Primavera P6, agendamento CPM, planejamento e controles de projeto."
+relatedMetrics:
   - "06_metrics_pt"
-related_blogs:
+relatedBlogs:
   - "06b_blogs_pt"
-translation_of: "01b_blogs_en/00_GLOSSARY/00_glossary_en.md"
-canonical_url: ""
-last_reviewed: "2026-07-07"
+translationOf: "01b_blogs_en/00_GLOSSARY/00_glossary_en.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-07"
 pubDate: "2026-07-07"
 ---
-# Glossário de Planejamento e Controles de Projeto para Primavera P6
 
 Este glossário define termos comuns de planejamento, cronograma e controles de projeto usados no desenvolvimento de cronograma do Primavera P6, avaliação de qualidade de cronograma, revisões de PMO e relatórios de projeto. As descrições foram escritas para leitores com experiências variadas, desde planejadores juniores até profissionais experientes em controle de projetos.
 

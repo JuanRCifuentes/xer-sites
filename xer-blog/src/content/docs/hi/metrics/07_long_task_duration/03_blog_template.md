@@ -1,10 +1,10 @@
 ---
 title: "प्रिमावेरा पी6 शेड्यूल समीक्षा में लंबी कार्य अवधि"
-seo_title: "प्रिमावेरा पी6 शेड्यूल समीक्षा में लंबी कार्य अवधि - Primavera P6"
-meta_description: "समझें कि प्रिमावेरा पी6 शेड्यूल समीक्षा में लंबी कार्य अवधि Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "प्रिमावेरा पी6 शेड्यूल समीक्षा में लंबी कार्य अवधि - Primavera P6"
+description: "समझें कि प्रिमावेरा पी6 शेड्यूल समीक्षा में लंबी कार्य अवधि Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "प्रिमावेरा पी6 शेड्यूल समीक्षा में लंबी कार्य अवधि"
   - "Primavera P6 प्रिमावेरा पी6 शेड्यूल समीक्षा में लंबी कार्य अवधि"
@@ -13,27 +13,31 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-blog-article-long-task-duration-primavera-p6"
+slug: "hi/blog/long-task-duration-primavera-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "शेड्यूल गुणवत्ता"
 audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "समझें कि प्रिमावेरा पी6 शेड्यूल समीक्षा में लंबी कार्य अवधि Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-related_metrics:
-  - "05_metrics_hi/07_long_task_duration/01_overview_template.md"
+primarySearchIntent: "समझें कि प्रिमावेरा पी6 शेड्यूल समीक्षा में लंबी कार्य अवधि Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+relatedMetrics:
   - "05_metrics_hi/07_long_task_duration/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "05_blogs_hi/01_WHAT A SCHEDULE IS/01_blog.md"
   - "05_blogs_hi/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/07_long_task_duration/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/07_long_task_duration/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# प्रिमावेरा पी6 शेड्यूल समीक्षा में लंबी कार्य अवधि
 
 ## शीर्षक
 
@@ -148,7 +152,6 @@ last_reviewed: "2026-07-02"
 
 अपने अगले प्रिमावेरा पी6 शेड्यूल अपडेट में स्वीकृत अवधि सीमा से ऊपर की गतिविधियों की समीक्षा करें। प्रत्येक के लिए, निर्णय लें कि क्या इसे तोड़ा जाना चाहिए, परिष्कृत किया जाना चाहिए, या एक वैध अपवाद के रूप में प्रलेखित किया जाना चाहिए।
 ## संबंधित सामग्री
-- [प्रिमावेरा पी6 शेड्यूल समीक्षा में लंबी कार्य अवधि - अवलोकन](01_overview_template.md)
 - [प्रिमावेरा पी6 शेड्यूल समीक्षा में लंबी कार्य अवधि - सुधार मार्गदर्शिका](02_guide_template.md)
 - [शेड्यूल क्या है](../../05_blogs_hi/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [मजबूत तर्क](../../05_blogs_hi/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

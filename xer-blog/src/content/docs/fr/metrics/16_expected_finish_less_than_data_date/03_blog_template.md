@@ -1,10 +1,10 @@
 ---
 title: "Fin prévue avant la date des données dans Primavera P6"
-seo_title: "Fin prévue avant la date des données dans Primavera P6"
-meta_description: "Explique pourquoi Fin prévue avant la date des données dans Primavera P6 influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Fin prévue avant la date des données dans Primavera P6"
+description: "Explique pourquoi Fin prévue avant la date des données dans Primavera P6 influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Fin prévue avant la date des données dans Primavera P6"
   - "Primavera P6 Fin prévue avant la date des données dans Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-blog-article-expected-finish-less-than-data-date-primavera-p6"
+slug: "fr/blog/expected-finish-less-than-data-date-primavera-p6"
 language: "fr"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Qualité du planning"
 audience:
   - "Planificateurs"
   - "Ordonnanceurs"
   - "Équipes de contrôle projet"
-primary_search_intent: "Explique pourquoi Fin prévue avant la date des données dans Primavera P6 influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
-related_metrics:
-  - "08_metrics_fr/16_expected_finish_less_than_data_date/01_overview_template.md"
+primarySearchIntent: "Explique pourquoi Fin prévue avant la date des données dans Primavera P6 influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
+relatedMetrics:
   - "08_metrics_fr/16_expected_finish_less_than_data_date/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "08b_blogs_fr/01_WHAT A SCHEDULE IS/01_blog.md"
   - "08b_blogs_fr/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/16_expected_finish_less_than_data_date/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/16_expected_finish_less_than_data_date/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Fin prévue avant la date des données dans Primavera P6
 
 La date des données est la ligne entre ce qui s'est passé et ce qui est encore prévu. Dans une mise à jour propre du calendrier, les informations d'état avant la date des données doivent être résolues comme une progression réelle, tandis que le travail restant doit être prévu à partir de la date des données. Lorsqu'une activité a une fin prévue antérieure à la date des données, cette limite devient floue.
 
@@ -59,7 +63,6 @@ Le seuil cible devrait être zéro activité non résolue. Cela ne signifie pas 
 
 Le nettoyage de cette métrique améliore la crédibilité du calendrier. Cela aide l'équipe à maintenir une limite de mise à jour claire, à distinguer les performances réelles du travail prévu et à éviter les résultats d'anticipation ou de marge trompeurs. Dans les examens du PMO, cela montre également que la mise à jour du calendrier a non seulement été calculée, mais qu'elle a en fait vérifié la cohérence du statut.
 ## Contenu associé
-- [Fin prévue avant la date des données dans Primavera P6 - Vue d’ensemble](01_overview_template.md)
 - [Fin prévue avant la date des données dans Primavera P6 - Guide d’amélioration](02_guide_template.md)
 - [Qu'est-ce qu'un horaire](../../08b_blogs_fr/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logique robuste](../../08b_blogs_fr/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

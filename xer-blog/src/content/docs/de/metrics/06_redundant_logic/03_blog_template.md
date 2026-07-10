@@ -1,10 +1,10 @@
 ---
 title: "Redundante Logik in Primavera P6-Terminplänen"
-seo_title: "Redundante Logik in Primavera P6-Terminplänen"
-meta_description: "Erklärt, warum Redundante Logik in Primavera P6-Terminplänen CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Redundante Logik in Primavera P6-Terminplänen"
+description: "Erklärt, warum Redundante Logik in Primavera P6-Terminplänen CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Redundante Logik in Primavera P6-Terminplänen"
   - "Primavera P6 Redundante Logik in Primavera P6-Terminplänen"
@@ -13,27 +13,31 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-blog-article-redundant-logic-primavera-p6"
+slug: "de/blog/redundant-logic-primavera-p6"
 language: "de"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Terminplanqualität"
 audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Erklärt, warum Redundante Logik in Primavera P6-Terminplänen CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-related_metrics:
-  - "09_metrics_de/06_redundant_logic/01_overview_template.md"
+primarySearchIntent: "Erklärt, warum Redundante Logik in Primavera P6-Terminplänen CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+relatedMetrics:
   - "09_metrics_de/06_redundant_logic/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "09b_blogs_de/01_WHAT A SCHEDULE IS/01_blog.md"
   - "09b_blogs_de/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/06_redundant_logic/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/06_redundant_logic/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Redundante Logik in Primavera P6-Terminplänen
 
 ## Titel
 
@@ -148,7 +152,6 @@ Die Überprüfung dieser Metrik hilft Planern, das CPM-Netzwerk sauber und zielg
 
 Überprüfen Sie die redundante Logik in Ihrem nächsten Primavera P6-Terminplan-Update. Fragen Sie für jede gekennzeichnete Beziehung, ob sie eine echte Abhängigkeit hinzufügt oder nur die bereits im Netzwerk vorhandene Logik wiederholt. Entfernen Sie Unnötiges und dokumentieren Sie, was absichtlich beibehalten wird.
 ## Verwandte Inhalte
-- [Redundante Logik in Primavera P6-Terminplänen - Überblick](01_overview_template.md)
 - [Redundante Logik in Primavera P6-Terminplänen - Verbesserungsleitfaden](02_guide_template.md)
 - [Was für ein Terminplan ist](../../09b_blogs_de/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robuste Logik](../../09b_blogs_de/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

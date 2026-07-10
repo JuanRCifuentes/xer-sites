@@ -1,37 +1,41 @@
 ---
 title: "Remaining Duration Zero and Status Not Completed - Improvement Guide"
-seo_title: "How to Fix Remaining Duration Zero and Status Not Completed in Primavera P6"
-meta_description: "Identify and correct remaining duration zero and status not completed in Primavera P6 using schedule logic checks, validation, and reassessment steps."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "How to Fix Remaining Duration Zero and Status Not Completed in Primavera P6"
+description: "Identify and correct remaining duration zero and status not completed in Primavera P6 using schedule logic checks, validation, and reassessment steps."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Remaining Duration Zero and Status Not Completed"
   - "Primavera P6 Remaining Duration Zero and Status Not Completed"
   - "schedule quality"
   - "project controls"
   - "CPM schedule logic"
-slug: "improvement-guide-remaining-duration-zero-status-not-completed-primavera-p6"
+slug: "en/metrics/remaining-duration-zero-status-not-completed-primavera-p6-improvement-guide"
 language: "en"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "Schedule Quality"
 audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "Learn how to improve this Primavera P6 schedule quality result."
-related_metrics:
-  - "01_metrics_en/11_remaining_duration_zero_status_not_completed/01_overview_template.md"
+primarySearchIntent: "Learn how to improve this Primavera P6 schedule quality result."
+relatedMetrics:
   - "01_metrics_en/11_remaining_duration_zero_status_not_completed/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
   - "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: ""
-canonical_url: ""
-last_reviewed: "2026-06-26"
+translationOf: ""
+canonicalUrl: ""
+lastReviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
-# Remaining Duration Zero and Status Not Completed - Improvement Guide
 ## Purpose
 
 This guide helps schedulers review and correct activities where Remaining Duration equals 0 but Activity Status is not Completed. It supports clean Primavera P6 updates by aligning remaining duration, actual finish, and activity status.
@@ -166,7 +170,6 @@ Review this metric during every update cycle before issuing reports. It should b
 - [ ] Next steps documented
 
 ## Related Content
-- [Overview](01_overview_template.md)
 - [Blog Article](03_blog_template.md)
 - [What A Schedule Is](../../01b_blogs_en/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robust Logic](../../01b_blogs_en/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

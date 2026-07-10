@@ -1,11 +1,10 @@
 ---
 title: "المسار الحرج"
-seo_title: "المسار الحرج - Primavera P6"
-meta_description: "تعرّف على المسار الحرج في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+seoTitle: "المسار الحرج - Primavera P6"
 description: "تعرّف على المسار الحرج في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "المسار الحرج"
   - "Primavera P6 المسار الحرج"
@@ -16,7 +15,7 @@ keywords:
   - "مراجعة الجدول"
 slug: "ar/blog/critical-path-in-primavera-p6"
 language: "ar"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "الجدولة في Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "مهندسو التخطيط"
   - "المجدولون"
   - "فرق ضبط المشاريع"
-primary_search_intent: "تعرّف على المسار الحرج في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
-related_metrics:
-  - "04_metrics_ar/09_cp_or_السماحية الزمنية_path_starting_with_constraint/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "تعرّف على المسار الحرج في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+relatedMetrics:
+  - "04_metrics_ar/09_cp_or_السماحية الزمنية_path_starting_with_constraint/02_guide_template.md"
+relatedBlogs:
   - "04b_blogs_ar/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
   - "04b_blogs_ar/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
-translation_of: "01b_blogs_en/03_CRITICAL PATH/03_CRITICAL PATH.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/03_CRITICAL PATH/03_CRITICAL PATH.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# المسار الحرج
 
 المسار الحرج هو أطول تسلسل للأنشطة التابعة في جدول زمني. فهو يحدد أقصر مدة ممكنة للمشروع ويحدد تاريخ انتهاء المشروع بشكل مباشر.
 

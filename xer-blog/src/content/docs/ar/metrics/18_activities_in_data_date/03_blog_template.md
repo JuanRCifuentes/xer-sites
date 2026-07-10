@@ -1,10 +1,10 @@
 ---
 title: "الأنشطة المتعلقة بتاريخ البيانات"
-seo_title: "الأنشطة المتعلقة بتاريخ البيانات"
-meta_description: "يوضح لماذا يؤثر الأنشطة المتعلقة بتاريخ البيانات"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "الأنشطة المتعلقة بتاريخ البيانات"
+description: "يوضح لماذا يؤثر الأنشطة المتعلقة بتاريخ البيانات"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "الأنشطة المتعلقة بتاريخ البيانات"
   - "Primavera P6 الأنشطة المتعلقة بتاريخ البيانات"
@@ -13,27 +13,31 @@ keywords:
   - "ضبط المشاريع"
   - "منطق CPM"
   - "مراجعة الجدول"
-slug: "ar-blog-article-activities-on-the-data-date-primavera-p6"
+slug: "ar/blog/activities-on-the-data-date-primavera-p6"
 language: "ar"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "جودة الجدول الزمني"
 audience:
   - "مهندسو التخطيط"
   - "المجدولون"
   - "فرق ضبط المشاريع"
-primary_search_intent: "يوضح لماذا يؤثر الأنشطة المتعلقة بتاريخ البيانات: فحوصات البدء المبكر والانتهاء المبكر في برنامج Primavera P6 على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
-related_metrics:
-  - "04_metrics_ar/18_activities_in_data_date/01_overview_template.md"
+primarySearchIntent: "يوضح لماذا يؤثر الأنشطة المتعلقة بتاريخ البيانات: فحوصات البدء المبكر والانتهاء المبكر في برنامج Primavera P6 على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
+relatedMetrics:
   - "04_metrics_ar/18_activities_in_data_date/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "04b_blogs_ar/01_WHAT A SCHEDULE IS/01_blog.md"
   - "04b_blogs_ar/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/18_activities_in_data_date/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/18_activities_in_data_date/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# الأنشطة المتعلقة بتاريخ البيانات
 
 يعد تاريخ البيانات أحد أهم التواريخ في جدول Primavera P6. إنه يمثل الحدود بين الأداء الفعلي والتوقعات المستقبلية. يجب أن يتم وضع العمل قبل تاريخ البيانات. يجب توقع العمل بعد تاريخ البيانات. عندما يكون لدى العديد من الأنشطة بداية مبكرة أو نهاية مبكرة في تاريخ البيانات بالضبط، فإن الجدول يستحق نظرة فاحصة.
 
@@ -61,7 +65,6 @@ last_reviewed: "2026-07-02"
 
 يؤدي تنظيف هذا المقياس إلى تحسين مصداقية التوقعات على المدى القريب. فهو يساعد فرق المشروع على التمييز بين العمل الجاهز بالفعل والعمل الذي انتقل ببساطة إلى تاريخ التحديث الحالي. بالنسبة لتقارير مكتب إدارة المشاريع والعملاء، فإنه يوضح أيضًا أنه تم التعامل مع تاريخ البيانات كحدود حالة حقيقية، وليس مجرد تاريخ يستخدم لإعادة حساب الملف.
 ## محتوى ذو صلة
-- [الأنشطة المتعلقة بتاريخ البيانات: فحوصات البدء المبكر والانتهاء المبكر في برنامج Primavera P6 - نظرة عامة](01_overview_template.md)
 - [الأنشطة المتعلقة بتاريخ البيانات: فحوصات البدء المبكر والانتهاء المبكر في برنامج Primavera P6 - دليل التحسين](02_guide_template.md)
 - [ما هو الجدول الزمني](../../04b_blogs_ar/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [منطق قوي](../../04b_blogs_ar/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

@@ -1,10 +1,10 @@
 ---
 title: "Missing Dependencies - Blog Article"
-seo_title: "Missing Dependencies in Primavera P6"
-meta_description: "Learn why missing dependencies in Primavera P6 affects Primavera P6 schedule credibility, CPM logic, float, and project controls reporting."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Missing Dependencies in Primavera P6"
+description: "Learn why missing dependencies in Primavera P6 affects Primavera P6 schedule credibility, CPM logic, float, and project controls reporting."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Missing Dependencies"
   - "Primavera P6 Missing Dependencies"
@@ -12,27 +12,31 @@ keywords:
   - "project controls"
   - "CPM schedule logic"
   - "Primavera P6 blog"
-slug: "blog-article-missing-dependencies-primavera-p6"
+slug: "en/blog/missing-dependencies-primavera-p6"
 language: "en"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Schedule Quality"
 audience:
   - "Planning engineers"
   - "Project managers"
   - "PMO teams"
-primary_search_intent: "Explain this Primavera P6 schedule quality topic in a practical blog format."
-related_metrics:
-  - "01_metrics_en/21_missing_dependencies/01_overview_template.md"
+primarySearchIntent: "Explain this Primavera P6 schedule quality topic in a practical blog format."
+relatedMetrics:
   - "01_metrics_en/21_missing_dependencies/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
   - "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: ""
-canonical_url: ""
-last_reviewed: "2026-06-26"
+translationOf: ""
+canonicalUrl: ""
+lastReviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
-# Missing Dependencies in Primavera P6
 
 Dependencies are the backbone of a CPM schedule. They explain how work moves from one activity to the next, what must happen before work can begin, and what depends on each activity being completed. When dependencies are missing, the schedule may still calculate, but the result is harder to trust.
 
@@ -61,7 +65,6 @@ The target threshold should be zero unresolved activities. This does not mean ev
 Cleaning up this metric improves the schedule immediately. It makes the critical path more reliable, float easier to interpret, and lookahead plans more useful. It also helps the project team see whether the schedule is a real model of the work or just a list of activities with dates.
 
 ## Related Content
-- [Overview](01_overview_template.md)
 - [Improvement Guide](02_guide_template.md)
 - [What A Schedule Is](../../01b_blogs_en/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robust Logic](../../01b_blogs_en/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

@@ -1,11 +1,10 @@
 ---
 title: "关键路径"
-seo_title: "关键路径 - Primavera P6"
-meta_description: "了解 Primavera P6 中的“关键路径”，重点关注进度计划、项目控制和进度质量。"
+seoTitle: "关键路径 - Primavera P6"
 description: "了解 Primavera P6 中的“关键路径”，重点关注进度计划、项目控制和进度质量。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "关键路径"
   - "Primavera P6 关键路径"
@@ -16,7 +15,7 @@ keywords:
   - "进度审查"
 slug: "zh/blog/critical-path-in-primavera-p6"
 language: "zh"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 进度计划"
@@ -24,18 +23,17 @@ audience:
   - "计划工程师"
   - "进度计划软件人员"
   - "项目控制团队"
-primary_search_intent: "了解 Primavera P6 中的“关键路径”，重点关注进度计划、项目控制和进度质量。"
-related_metrics:
-  - "03_metrics_zh/09_cp_or_浮时_path_starting_with_constraint/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "了解 Primavera P6 中的“关键路径”，重点关注进度计划、项目控制和进度质量。"
+relatedMetrics:
+  - "03_metrics_zh/09_cp_or_浮时_path_starting_with_constraint/02_guide_template.md"
+relatedBlogs:
   - "03b_blogs_zh/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
   - "03b_blogs_zh/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
-translation_of: "01b_blogs_en/03_CRITICAL PATH/03_CRITICAL PATH.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/03_CRITICAL PATH/03_CRITICAL PATH.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# 关键路径
 
 关键路径是进度计划中最长的相关活动序列。它决定了项目的最短持续时间，并直接定义了项目完成日期。
 

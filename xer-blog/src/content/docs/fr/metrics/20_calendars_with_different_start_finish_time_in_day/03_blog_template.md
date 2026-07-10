@@ -1,10 +1,10 @@
 ---
 title: "Calendriers avec différentes heures de début et de fin dans Primavera P6"
-seo_title: "Calendriers avec différentes heures de début et de fin dans Primavera P6"
-meta_description: "Explique pourquoi Calendriers avec différentes heures de début et de fin dans Primavera P6 influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Calendriers avec différentes heures de début et de fin dans Primavera P6"
+description: "Explique pourquoi Calendriers avec différentes heures de début et de fin dans Primavera P6 influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Calendriers avec différentes heures de début et de fin dans Primavera P6"
   - "Primavera P6 Calendriers avec différentes heures de début et de fin dans Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-blog-article-calendars-with-different-start-finish-time-in-day-primavera-p6"
+slug: "fr/blog/calendars-with-different-start-finish-time-in-day-primavera-p6"
 language: "fr"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Planification Primavera P6"
 audience:
   - "Planificateurs"
   - "Ordonnanceurs"
   - "Équipes de contrôle projet"
-primary_search_intent: "Explique pourquoi Calendriers avec différentes heures de début et de fin dans Primavera P6 influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
-related_metrics:
-  - "08_metrics_fr/20_calendars_with_different_start_finish_time_in_day/01_overview_template.md"
+primarySearchIntent: "Explique pourquoi Calendriers avec différentes heures de début et de fin dans Primavera P6 influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
+relatedMetrics:
   - "08_metrics_fr/20_calendars_with_different_start_finish_time_in_day/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "08b_blogs_fr/01_WHAT A SCHEDULE IS/01_blog.md"
   - "08b_blogs_fr/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/20_calendars_with_different_start_finish_time_in_day/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/20_calendars_with_different_start_finish_time_in_day/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Calendriers avec différentes heures de début et de fin dans Primavera P6
 
 Les calendriers sont l'un des moteurs silencieux d'un calendrier Primavera P6. Ils définissent quand le travail peut avoir lieu, comment les durées se transforment en dates et comment les relations font évoluer les activités dans le temps. Étant donné que les calendriers se trouvent souvent en coulisses, de petites différences dans les heures de début et de fin quotidiennes peuvent créer un comportement de planification difficile à voir dans les mises en page normales.
 
@@ -59,7 +63,6 @@ Le seuil cible pour cette métrique doit être de zéro calendrier inexpliqué. 
 
 Le nettoyage de cette métrique améliore la transparence du calendrier. Il aide les équipes à éviter les effets de journée partielle cachés, les marges trompeurs et les mouvements de date inexpliqués. Cela rend également le calendrier plus facile à auditer car les hypothèses de calendrier ne sont plus enfouies dans le fichier. Pour les équipes de contrôle de projet, il s’agit d’un petit examen qui rapporte gros.
 ## Contenu associé
-- [Calendriers avec différentes heures de début et de fin dans Primavera P6 - Vue d’ensemble](01_overview_template.md)
 - [Calendriers avec différentes heures de début et de fin dans Primavera P6 - Guide d’amélioration](02_guide_template.md)
 - [Qu'est-ce qu'un horaire](../../08b_blogs_fr/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logique robuste](../../08b_blogs_fr/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

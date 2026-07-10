@@ -1,10 +1,10 @@
 ---
 title: "Conclusão Esperada Antes da Data Date no Primavera P6 - Guia de melhoria"
-seo_title: "Conclusão Esperada Antes da Data Date no Primavera P6 - Guia de melhoria"
-meta_description: "Aprenda a corrigir Conclusão Esperada Antes da Data Date no Primavera P6 no Primavera P6 com verificação de lógica, validação e reavaliação."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Conclusão Esperada Antes da Data Date no Primavera P6 - Guia de melhoria"
+description: "Aprenda a corrigir Conclusão Esperada Antes da Data Date no Primavera P6 no Primavera P6 com verificação de lógica, validação e reavaliação."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Conclusão Esperada Antes da Data Date no Primavera P6"
   - "Primavera P6 Conclusão Esperada Antes da Data Date no Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "controles de projeto"
   - "lógica CPM"
   - "revisão do cronograma"
-slug: "pt-improvement-guide-expected-finish-less-than-data-date-primavera-p6"
+slug: "pt/metrics/expected-finish-less-than-data-date-primavera-p6-improvement-guide"
 language: "pt"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "Qualidade do cronograma"
 audience:
   - "Planejadores"
   - "Schedulers"
   - "Equipes de controles de projeto"
-primary_search_intent: "Aprenda a corrigir Conclusão Esperada Antes da Data Date no Primavera P6 no Primavera P6 com verificação de lógica, validação e reavaliação."
-related_metrics:
-  - "06_metrics_pt/16_expected_finish_less_than_data_date/01_overview_template.md"
+primarySearchIntent: "Aprenda a corrigir Conclusão Esperada Antes da Data Date no Primavera P6 no Primavera P6 com verificação de lógica, validação e reavaliação."
+relatedMetrics:
   - "06_metrics_pt/16_expected_finish_less_than_data_date/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "06b_blogs_pt/01_WHAT A SCHEDULE IS/01_blog.md"
   - "06b_blogs_pt/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/16_expected_finish_less_than_data_date/02_guide_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/16_expected_finish_less_than_data_date/02_guide_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Conclusão Esperada Antes da Data Date no Primavera P6 - Guia de melhoria
 
 ## Propósito
 
@@ -173,7 +177,6 @@ Revise essa métrica durante cada ciclo de atualização antes de emitir relató
 - [ ] Avaliação repetida
 - [ ] Próximas etapas documentadas
 ## Conteúdo relacionado
-- [Conclusão Esperada Antes da Data Date no Primavera P6 - Visão geral](01_overview_template.md)
 - [Conclusão Esperada Antes da Data Date no Primavera P6](03_blog_template.md)
 - [O que é um cronograma](../../06b_blogs_pt/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Lógica Robusta](../../06b_blogs_pt/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

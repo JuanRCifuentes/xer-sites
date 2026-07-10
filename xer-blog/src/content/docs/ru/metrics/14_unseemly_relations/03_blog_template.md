@@ -1,10 +1,10 @@
 ---
 title: "Неблаговидные отношения в Primavera P6"
-seo_title: "Неблаговидные отношения в Primavera P6"
-meta_description: "Поясняет, почему Неблаговидные отношения в Primavera P6"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Неблаговидные отношения в Primavera P6"
+description: "Поясняет, почему Неблаговидные отношения в Primavera P6"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Неблаговидные отношения в Primavera P6"
   - "Primavera P6 Неблаговидные отношения в Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "проектный контроль"
   - "CPM-логика"
   - "анализ графика"
-slug: "ru-blog-article-unusual-relationships-primavera-p6"
+slug: "ru/blog/unusual-relationships-primavera-p6"
 language: "ru"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Качество графика"
 audience:
   - "Планировщики"
   - "Специалисты по графикам"
   - "Команды проектного контроля"
-primary_search_intent: "Поясняет, почему Неблаговидные отношения в Primavera P6: основные этапы, LOE и проверки типов отношений влияет на CPM-логику, резерв времени и надежность графика в Primavera P6."
-related_metrics:
-  - "07_metrics_ru/14_unusual_relations/01_overview_template.md"
+primarySearchIntent: "Поясняет, почему Неблаговидные отношения в Primavera P6: основные этапы, LOE и проверки типов отношений влияет на CPM-логику, резерв времени и надежность графика в Primavera P6."
+relatedMetrics:
   - "07_metrics_ru/14_unusual_relations/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "07b_blogs_ru/01_WHAT A SCHEDULE IS/01_blog.md"
   - "07b_blogs_ru/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/14_unseemly_relations/03_blog_template.md"
-canonical_url: ""
-last_проверкуed: "2026-07-02"
+translationOf: "01_metrics_en/14_unseemly_relations/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Неблаговидные отношения в Primavera P6
 
 Логика отношений — одна из самых простых частей графика, которую легче всего быстро скопировать, и одна из самых сложных частей, которую потом сложнее защитить. Отношения могут выглядеть безобидными в таблице P6, но тип активности каждой стороны имеет значение. Взаимоотношения, которые имеют смысл между двумя обычными задачами, могут быть неудобными или вводящими в заблуждение, если одна сторона представляет собой этап начала, этап завершения или уровень усилий.
 
@@ -59,7 +63,6 @@ last_проверкуed: "2026-07-02"
 
 Непристойные отношения часто являются небольшими симптомами более крупных проблем с качеством графика: скопированная логика, нечеткие определения этапов, неправильное использование действий LOE или привычка навязывать даты через типы отношений. Их очистка улучшает не только показатель. Это упрощает просмотр и объяснение графика, а также делает его более надежным для управления PMO и принятия решений по проекту.
 ## Связанные материалы
-- [01_overview_template](../14_unusual_relations/01_overview_template.md)
 - [02_guide_template](../14_unusual_relations/02_guide_template.md)
 - [Что такое график](../../07b_blogs_ru/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Надежная логика](../../07b_blogs_ru/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

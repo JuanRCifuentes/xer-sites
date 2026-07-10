@@ -1,11 +1,10 @@
 ---
 title: "Sviluppare un Cronoprogramma di Progetto"
-seo_title: "Sviluppare un Cronoprogramma di Progetto - Primavera P6"
-meta_description: "Approfondisci Sviluppare un Cronoprogramma di Progetto in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
+seoTitle: "Sviluppare un Cronoprogramma di Progetto - Primavera P6"
 description: "Approfondisci Sviluppare un Cronoprogramma di Progetto in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Sviluppare un Cronoprogramma di Progetto"
   - "Primavera P6 Sviluppare un Cronoprogramma di Progetto"
@@ -16,7 +15,7 @@ keywords:
   - "revisione del cronoprogramma"
 slug: "it/blog/develop-a-project-schedule-in-primavera-p6"
 language: "it"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Pianificazione in Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Pianificatori"
   - "Scheduler"
   - "Team di controllo progetto"
-primary_search_intent: "Approfondisci Sviluppare un Cronoprogramma di Progetto in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
-related_metrics:
-  - "11_metrics_it/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Approfondisci Sviluppare un Cronoprogramma di Progetto in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
+relatedMetrics:
+  - "11_metrics_it/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "11b_blogs_it/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
   - "11b_blogs_it/18_ACTIVITY CODES/18_ACTIVITY CODES.md"
-translation_of: "01b_blogs_en/17_DEVELOPE A PROJECT SCHEDULE/17_DEVELOPE A PROJECT SCHEDULE.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/17_DEVELOPE A PROJECT SCHEDULE/17_DEVELOPE A PROJECT SCHEDULE.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Sviluppare un Cronoprogramma di Progetto
 
 Sviluppare un cronoprogramma di progetto da zero non significa solo inserire attivita in Primavera P6. Significa trasformare scope, strategia di esecuzione, vincoli, risorse e impegni del progetto in un modello temporale che possa essere revisionato, approvato, aggiornato e usato per decisioni.
 

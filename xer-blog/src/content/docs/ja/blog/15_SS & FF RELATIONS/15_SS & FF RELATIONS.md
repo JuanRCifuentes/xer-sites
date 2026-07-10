@@ -1,11 +1,10 @@
 ---
 title: "SS と FF の関係"
-seo_title: "SS と FF の関係 - Primavera P6"
-meta_description: "Primavera P6における「SS と FF の関係」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+seoTitle: "SS と FF の関係 - Primavera P6"
 description: "Primavera P6における「SS と FF の関係」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "SS と FF の関係"
   - "Primavera P6 SS と FF の関係"
@@ -16,7 +15,7 @@ keywords:
   - "スケジュールレビュー"
 slug: "ja/blog/ss-and-ff-relations-in-primavera-p6"
 language: "ja"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 スケジューリング"
@@ -24,18 +23,17 @@ audience:
   - "計画エンジニア"
   - "スケジューラー"
   - "プロジェクトコントロールチーム"
-primary_search_intent: "Primavera P6における「SS と FF の関係」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
-related_metrics:
-  - "12_metrics_jp/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6における「SS と FF の関係」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+relatedMetrics:
+  - "12_metrics_jp/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "12b_blogs_jp/14_RESOURCES BALANCING IN P6/14_RESOURCES BALANCING IN P6.md"
   - "12b_blogs_jp/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
-translation_of: "01b_blogs_en/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# SS と FF の関係
 
 Start-to-Start（SS）と Finish-to-Finish（FF）は、Primavera P6 で有効なロジック関係です。2つのアクティビティが重なって実行される場合、単純な Finish-to-Start 関係よりも実行順序を正確に表現できます。
 

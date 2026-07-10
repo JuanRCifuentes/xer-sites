@@ -55,6 +55,36 @@ must not be inferred from these folder names.
 Do not put a publishable blog article under `metrics/`. Files under `metrics/`
 are metric documentation even when a filename contains `blog_template`.
 
+## Metrics content structure
+
+Every metric publishes two pages inside one locale-specific metric source folder:
+
+1. an Improvement Guide routed at `/<locale>/metrics/<metric-slug>-improvement-guide/`; and
+2. a Blog routed at `/<locale>/blog/<article-slug>/`.
+
+Use this source layout:
+
+```text
+src/content/docs/<locale>/
+  metrics/
+    index.md
+    <number>_<metric-source-folder>/
+      02_guide_template.md
+      03_blog_template.md
+```
+
+Do not import `01_overview_template.md`. The guide must use `contentType: "metric"` and
+`metricPageType: "improvement-guide"`. The blog must use `contentType: "blog"` and
+`metricPageType: "narrative"`. Both pages require `title`, `description`, a locale-prefixed
+`slug`, `pubDate`, `language`, and `draft: false`.
+
+Set the guide sidebar label to `Improvement Guide` and the narrative sidebar label to
+`Blog`, so each metric folder exposes exactly those two entries. Remove the first body-level
+H1 because Starlight renders the frontmatter `title` as the page heading.
+
+The Metrics Summary must list every published guide and related blog. Hero and body links
+must resolve to final routes.
+
 ## Required article frontmatter
 
 Every publishable blog article must start with valid YAML frontmatter using this
@@ -67,7 +97,7 @@ description: "Learn what a project schedule is and how it supports reliable Prim
 slug: "en/blog/what-a-schedule-is-in-primavera-p6"
 pubDate: "2026-06-26"
 language: "en"
-content_type: "blog"
+contentType: "blog"
 draft: false
 ---
 ```
@@ -75,22 +105,20 @@ draft: false
 Rules:
 
 1. `title` is required and must be the visible article title.
-2. `description` is required. Blog cards read `description`; `meta_description`
-   alone is not sufficient.
+2. `description` is required and is the sole source for cards and SEO descriptions.
 3. `slug` is required and must use exactly
    `<locale>/blog/<article-slug>`, without a leading or trailing slash.
 4. `pubDate` is required and must be an ISO date in `YYYY-MM-DD` format.
 5. `language` is required and must equal both the directory locale and the first
    segment of `slug`.
-6. `content_type` must be `blog`.
+6. `contentType` must be `blog`.
 7. `draft` should be `false` for published content. Use `true` only when the page
    must not be published.
 
-Additional editorial fields such as `seo_title`, `meta_description`, `author_name`,
-`keywords`, `topic`, `audience`, `translation_of`, and `last_reviewed` may remain,
-but they do not replace the required fields above. If application code must read
-an additional field, that field must also be declared in `src/content.config.ts`.
-
+Additional editorial fields such as `seoTitle`, `authorName`, `keywords`, `topic`,
+`audience`, `translationOf`, and `lastReviewed` may remain, but they do not replace
+the required fields above. If application code must read an additional field, that
+field must also be declared in `src/content.config.ts`.
 ## Slug rules
 
 A correct slug looks like:
@@ -134,7 +162,7 @@ src/content/docs/<locale>/blog/all-posts.mdx
 ```
 
 These two files are section pages, not articles. Do not give them
-`content_type: blog`, and do not include them in article-card results.
+`contentType: blog`, and do not include them in article-card results.
 
 The index must point to URLs in its own locale:
 
@@ -195,7 +223,7 @@ For a translated article:
 - translate `title` and `description`;
 - preserve the original publication date unless editorial policy specifies a
   separate translation publication date;
-- set `translation_of` to a stable source identifier or source-relative path;
+- set `translationOf` to a stable source identifier or source-relative path;
 - update internal links to the translated URL when that translation exists;
 - fall back to the English URL only when no translated target exists.
 
@@ -210,13 +238,12 @@ The repairing system should perform these steps in order:
 2. Derive the expected locale from the path segment immediately below `docs`.
 3. Preserve the article portion of each existing slug where suitable, but rewrite
    the full slug as `<locale>/blog/<article-slug>`.
-4. Copy `meta_description` to `description` when `description` is missing. Do not
-   delete `meta_description` unless the SEO system no longer needs it.
+4. Use `description` as the only description field. When importing legacy content,
+   copy the legacy snake_case description value and then remove the legacy field.
 5. Add `pubDate` in ISO format when missing. Use an authoritative publication
-   date; use `last_reviewed` only if the project explicitly treats it as the
-   publication date.
+   date; use `lastReviewed` only if the project explicitly treats it as the publication date.
 6. Ensure `language` matches the path locale.
-7. Ensure `content_type` is `blog`.
+7. Ensure `contentType` is `blog`.
 8. Update every blog `index.mdx` and `all-posts.mdx` to pass its locale to
    `PostCards`.
 9. Update `PostCards.astro` according to the behavior above.

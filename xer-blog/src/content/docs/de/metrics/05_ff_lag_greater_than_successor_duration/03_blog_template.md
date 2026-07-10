@@ -1,10 +1,10 @@
 ---
 title: "FF-Beziehungen mit einer Verzögerung, die größer als die Nachfolgerdauer ist"
-seo_title: "FF-Beziehungen mit einer Verzögerung, die größer als die Nachfolgerdauer ist - Primavera P6"
-meta_description: "Erklärt, warum FF-Beziehungen mit einer Verzögerung, die größer als die Nachfolgerdauer ist CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "FF-Beziehungen mit einer Verzögerung, die größer als die Nachfolgerdauer ist - Primavera P6"
+description: "Erklärt, warum FF-Beziehungen mit einer Verzögerung, die größer als die Nachfolgerdauer ist CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "FF-Beziehungen mit einer Verzögerung, die größer als die Nachfolgerdauer ist"
   - "Primavera P6 FF-Beziehungen mit einer Verzögerung, die größer als die Nachfolgerdauer ist"
@@ -13,27 +13,31 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-blog-article-ff-lag-greater-than-successor-duration-primavera-p6"
+slug: "de/blog/ff-lag-greater-than-successor-duration-primavera-p6"
 language: "de"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Terminplanqualität"
 audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Erklärt, warum FF-Beziehungen mit einer Verzögerung, die größer als die Nachfolgerdauer ist CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-related_metrics:
-  - "09_metrics_de/05_ff_lag_greater_than_successor_duration/01_overview_template.md"
+primarySearchIntent: "Erklärt, warum FF-Beziehungen mit einer Verzögerung, die größer als die Nachfolgerdauer ist CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+relatedMetrics:
   - "09_metrics_de/05_ff_lag_greater_than_successor_duration/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "09b_blogs_de/01_WHAT A SCHEDULE IS/01_blog.md"
   - "09b_blogs_de/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/05_ff_lag_greater_than_successor_duration/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/05_ff_lag_greater_than_successor_duration/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# FF-Beziehungen mit einer Verzögerung, die größer als die Nachfolgerdauer ist
 
 ## Titel
 
@@ -146,7 +150,6 @@ Die Überprüfung dieser Metrik verbessert die CPM-Klarheit, die Puffer-Zuverlä
 
 Überprüfen Sie FF-Beziehungen, bei denen die Verzögerung größer ist als die Nachfolgedauer, bei Ihrer nächsten Aktualisierung des Primavera P6-Terminplans. Fragen Sie bei jedem einzelnen, ob die Beziehung wirklich auf Ziele ausgerichtet ist. Ist dies nicht der Fall, ersetzen Sie es durch eine klarere Logik oder modellieren Sie die Wartezeit direkt.
 ## Verwandte Inhalte
-- [FF-Beziehungen mit einer Verzögerung, die größer als die Nachfolgerdauer ist - Überblick](01_overview_template.md)
 - [FF-Beziehungen mit einer Verzögerung, die größer als die Nachfolgerdauer ist - Verbesserungsleitfaden](02_guide_template.md)
 - [Was für ein Terminplan ist](../../09b_blogs_de/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robuste Logik](../../09b_blogs_de/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

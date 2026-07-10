@@ -1,11 +1,10 @@
 ---
 title: "Даты в P6"
-seo_title: "Даты в P6 - Primavera P6"
-meta_description: "Изучите Даты в P6 в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
+seoTitle: "Даты в P6 - Primavera P6"
 description: "Изучите Даты в P6 в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Даты в P6"
   - "Primavera P6 Даты в P6"
@@ -16,7 +15,7 @@ keywords:
   - "анализ графика"
 slug: "ru/blog/dates-in-p6"
 language: "ru"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Планирование в Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Планировщики"
   - "Специалисты по графикам"
   - "Команды проектного контроля"
-primary_search_intent: "Изучите Даты в P6 в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
-related_metrics:
-  - "07_metrics_ru/12_actual_date_greater_than_data_date/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Изучите Даты в P6 в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
+relatedMetrics:
+  - "07_metrics_ru/12_actual_date_greater_than_data_date/02_guide_template.md"
+relatedBlogs:
   - "07b_blogs_ru/06_DURATION TYPES IN P6/06_DURATION TYPES IN P6.md"
   - "07b_blogs_ru/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
-translation_of: "01b_blogs_en/07_DATES IN P6/07_DATES IN P6.md"
-canonical_url: ""
-last_проверкуed: "2026-07-02"
+translationOf: "01b_blogs_en/07_DATES IN P6/07_DATES IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Даты в P6
 
 Даты в Primavera P6 могут сбивать с толку, поскольку у действия нет только одной даты начала и одной даты окончания. В нем могут быть запланированные даты, текущие даты графика, ранние даты, поздние даты, фактические даты, базовые даты, даты ограничений, ожидаемые даты, а иногда и внешние даты или даты, связанные с прогнозом, в зависимости от макета и настроек проекта.
 

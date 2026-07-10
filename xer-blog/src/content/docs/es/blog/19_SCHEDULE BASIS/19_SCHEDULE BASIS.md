@@ -1,11 +1,10 @@
 ---
 title: "Schedule Basis"
-seo_title: "Schedule Basis - Primavera P6"
-meta_description: "Aprende Schedule Basis en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
+seoTitle: "Schedule Basis - Primavera P6"
 description: "Aprende Schedule Basis en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Schedule Basis"
   - "Primavera P6 Schedule Basis"
@@ -16,7 +15,7 @@ keywords:
   - "revisión del cronograma"
 slug: "es/blog/schedule-basis-in-primavera-p6"
 language: "es"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Planificación en Primavera P6"
@@ -24,17 +23,16 @@ audience:
   - "Planificadores"
   - "Schedulers"
   - "Equipos de control de proyectos"
-primary_search_intent: "Aprende Schedule Basis en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
-related_metrics:
-  - "02_metrics_es/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Aprende Schedule Basis en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
+relatedMetrics:
+  - "02_metrics_es/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "02b_blogs_es/18_ACTIVITY CODES/18_ACTIVITY CODES.md"
-translation_of: "01b_blogs_en/19_SCHEDULE BASIS/19_SCHEDULE BASIS.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/19_SCHEDULE BASIS/19_SCHEDULE BASIS.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Schedule Basis
 
 La Schedule Basis, o Basis of Schedule, es el documento que explica como fue construido el cronograma y que supuestos lo soportan. Es el companero escrito del archivo Primavera P6.
 

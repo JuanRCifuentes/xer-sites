@@ -1,10 +1,10 @@
 ---
 title: "Voraussichtliches Ende vor dem Datenstichtag in Primavera P6"
-seo_title: "Voraussichtliches Ende vor dem Datenstichtag in Primavera P6"
-meta_description: "Erklärt, warum Voraussichtliches Ende vor dem Datenstichtag in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Voraussichtliches Ende vor dem Datenstichtag in Primavera P6"
+description: "Erklärt, warum Voraussichtliches Ende vor dem Datenstichtag in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Voraussichtliches Ende vor dem Datenstichtag in Primavera P6"
   - "Primavera P6 Voraussichtliches Ende vor dem Datenstichtag in Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-blog-article-expected-finish-less-than-data-date-primavera-p6"
+slug: "de/blog/expected-finish-less-than-data-date-primavera-p6"
 language: "de"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Terminplanqualität"
 audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Erklärt, warum Voraussichtliches Ende vor dem Datenstichtag in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-related_metrics:
-  - "09_metrics_de/16_expected_finish_less_than_data_date/01_overview_template.md"
+primarySearchIntent: "Erklärt, warum Voraussichtliches Ende vor dem Datenstichtag in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+relatedMetrics:
   - "09_metrics_de/16_expected_finish_less_than_data_date/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "09b_blogs_de/01_WHAT A SCHEDULE IS/01_blog.md"
   - "09b_blogs_de/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/16_expected_finish_less_than_data_date/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/16_expected_finish_less_than_data_date/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Voraussichtliches Ende vor dem Datenstichtag in Primavera P6
 
 Der Datenstichtag ist die Grenze zwischen dem, was passiert ist, und dem, was noch prognostiziert wird. Bei einer sauberen Terminplanaktualisierung sollten Statusinformationen vor dem Datenstichtag als tatsächlicher Fortschritt aufgelöst werden, während die verbleibende Arbeit ab dem Datenstichtag prognostiziert werden sollte. Wenn eine Aktivität ein erwartetes Ende vor dem Datenstichtag hat, verschwimmt diese Grenze.
 
@@ -59,7 +63,6 @@ Der Zielschwellenwert sollte bei null ungelösten Aktivitäten liegen. Das bedeu
 
 Durch die Bereinigung dieser Kennzahl wird die Glaubwürdigkeit des Terminplans verbessert. Es hilft dem Team, eine klare Aktualisierungsgrenze einzuhalten, die tatsächliche Leistung von der prognostizierten Arbeit zu unterscheiden und irreführende Lookahead- oder Puffer-Ergebnisse zu vermeiden. In PMO-Reviews zeigt sich zudem, dass die Terminaktualisierung nicht nur berechnet, sondern auch tatsächlich auf Statuskonsistenz überprüft wurde.
 ## Verwandte Inhalte
-- [Voraussichtliches Ende vor dem Datenstichtag in Primavera P6 - Überblick](01_overview_template.md)
 - [Voraussichtliches Ende vor dem Datenstichtag in Primavera P6 - Verbesserungsleitfaden](02_guide_template.md)
 - [Was für ein Terminplan ist](../../09b_blogs_de/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robuste Logik](../../09b_blogs_de/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

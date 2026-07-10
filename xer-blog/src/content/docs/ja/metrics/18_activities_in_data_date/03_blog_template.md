@@ -1,10 +1,10 @@
 ---
 title: "データデーのアクティビティ"
-seo_title: "データデーのアクティビティ - Primavera P6"
-meta_description: "Primavera P6でデータ日付上のアクティビティが更新品質、CPMロジック、スケジュール信頼性に与える影響を解説します。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "データデーのアクティビティ - Primavera P6"
+description: "Primavera P6でデータ日付上のアクティビティが更新品質、CPMロジック、スケジュール信頼性に与える影響を解説します。"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "データデーのアクティビティ"
   - "Primavera P6 データデーのアクティビティ"
@@ -13,27 +13,31 @@ keywords:
   - "プロジェクトコントロール"
   - "CPMロジック"
   - "スケジュールレビュー"
-slug: "jp-blog-article-activities-on-the-data-date-primavera-p6"
-language: "jp"
-content_type: "blog"
+slug: "ja/blog/activities-on-the-data-date-primavera-p6"
+language: "ja"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "スケジュール品質"
 audience:
   - "計画エンジニア"
   - "スケジューラー"
   - "プロジェクトコントロールチーム"
-primary_search_intent: "「データデーのアクティビティ: プリマヴェーラ P6 の早期開始および早期終了チェック」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
-related_metrics:
-  - "12_metrics_jp/18_activities_in_data_date/01_overview_template.md"
+primarySearchIntent: "「データデーのアクティビティ: プリマヴェーラ P6 の早期開始および早期終了チェック」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
+relatedMetrics:
   - "12_metrics_jp/18_activities_in_data_date/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "12b_blogs_jp/01_WHAT A SCHEDULE IS/01_blog.md"
   - "12b_blogs_jp/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/18_activities_in_data_date/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/18_activities_in_data_date/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# データデーのアクティビティ
 
 データ日付は、Primavera P6 スケジュールの中で最も重要な日付の 1 つです。これは、実際の業績と将来の予測の境界を示します。データ日付以前の作業はステータス表示される必要があります。データ日以降の作業を予測する必要があります。多くのアクティビティがデータ日付どおりに早期開始または早期終了する場合、スケジュールを詳しく調べる必要があります。
 
@@ -61,7 +65,6 @@ last_reviewed: "2026-07-02"
 
 この指標をクリーンアップすると、短期的な予測の信頼性が向上します。これは、プロジェクト チームが、本当に準備ができている作業と、単に現在の更新日にずれている作業とを区別するのに役立ちます。 PMO およびクライアントのレポートでは、データの日付がファイルの再計算に使用される単なる日付ではなく、実際のステータス境界として扱われたことも示されています。
 ## 関連コンテンツ
-- [データデーのアクティビティ: プリマヴェーラ P6 の早期開始および早期終了チェック - 概要](01_overview_template.md)
 - [データデーのアクティビティ: プリマヴェーラ P6 の早期開始および早期終了チェック - 改善ガイド](02_guide_template.md)
 - [スケジュールとは](../../12b_blogs_jp/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [堅牢なロジック](../../12b_blogs_jp/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

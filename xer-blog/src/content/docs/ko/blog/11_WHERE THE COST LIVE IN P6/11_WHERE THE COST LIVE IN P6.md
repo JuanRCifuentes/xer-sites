@@ -1,11 +1,10 @@
 ---
 title: "P6에서 비용이 발생하는 곳"
-seo_title: "P6에서 비용이 발생하는 곳 - Primavera P6"
-meta_description: "Primavera P6에서 P6에서 비용이 발생하는 곳를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+seoTitle: "P6에서 비용이 발생하는 곳 - Primavera P6"
 description: "Primavera P6에서 P6에서 비용이 발생하는 곳를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "P6에서 비용이 발생하는 곳"
   - "Primavera P6 P6에서 비용이 발생하는 곳"
@@ -16,7 +15,7 @@ keywords:
   - "공정표 검토"
 slug: "ko/blog/where-costs-live-in-primavera-p6"
 language: "ko"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 공정표관리"
@@ -24,18 +23,17 @@ audience:
   - "계획 엔지니어"
   - "스케줄러"
   - "프로젝트 통제 팀"
-primary_search_intent: "Primavera P6에서 P6에서 비용이 발생하는 곳를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
-related_metrics:
-  - "10_metrics_ko/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6에서 P6에서 비용이 발생하는 곳를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+relatedMetrics:
+  - "10_metrics_ko/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "10b_blogs_ko/10_PERCENT COMPLETION TYPES IN P6/10_PERCENT COMPLETION TYPES IN P6.md"
   - "10b_blogs_ko/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
-translation_of: "01b_blogs_en/11_WHERE THE COST LIVE IN P6/11_WHERE THE COST LIVE IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/11_WHERE THE COST LIVE IN P6/11_WHERE THE COST LIVE IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# P6에서 비용이 발생하는 곳
 
 Primavera P6의 비용은 여러 장소에 존재할 수 있습니다. 이는 유용하지만 혼란스러울 수도 있습니다. 일정에는 예산 비용, 실제 비용, 남은 비용, 완료 시 비용, 리소스 비용, 역할 비용, 비용 비용, 획득가치 필드 및 기준 비용이 표시될 수 있습니다. 이러한 값은 서로 관련되어 있지만 모두 같은 의미는 아닙니다.
 

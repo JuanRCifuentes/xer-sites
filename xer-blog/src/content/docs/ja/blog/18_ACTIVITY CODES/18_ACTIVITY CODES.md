@@ -1,11 +1,10 @@
 ---
 title: "Activity Codes"
-seo_title: "Activity Codes - Primavera P6"
-meta_description: "Primavera P6における「Activity Codes」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+seoTitle: "Activity Codes - Primavera P6"
 description: "Primavera P6における「Activity Codes」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Activity Codes"
   - "Primavera P6 Activity Codes"
@@ -16,7 +15,7 @@ keywords:
   - "スケジュールレビュー"
 slug: "ja/blog/activity-codes-in-primavera-p6"
 language: "ja"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 スケジューリング"
@@ -24,18 +23,17 @@ audience:
   - "計画エンジニア"
   - "スケジューラー"
   - "プロジェクトコントロールチーム"
-primary_search_intent: "Primavera P6における「Activity Codes」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
-related_metrics:
-  - "12_metrics_jp/21_missing_dependencies/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6における「Activity Codes」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+relatedMetrics:
+  - "12_metrics_jp/21_missing_dependencies/02_guide_template.md"
+relatedBlogs:
   - "12b_blogs_jp/17_DEVELOPE A PROJECT SCHEDULE/17_DEVELOPE A PROJECT SCHEDULE.md"
   - "12b_blogs_jp/19_SCHEDULE BASIS/19_SCHEDULE BASIS.md"
-translation_of: "01b_blogs_en/18_ACTIVITY CODES/18_ACTIVITY CODES.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/18_ACTIVITY CODES/18_ACTIVITY CODES.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Activity Codes
 
 Primavera P6 の Activity Codes は、スケジュールを単なる活動リストから project controls に使えるデータベースへ変える主要な機能です。これにより、プロジェクトチームはスケジュールをさまざまな管理視点で group、filter、sort、report、analyze できます。
 

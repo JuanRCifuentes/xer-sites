@@ -1,10 +1,10 @@
 ---
 title: "Primavera P6 中缺少依赖项"
-seo_title: "Primavera P6 中缺少依赖项"
-meta_description: "说明“Primavera P6 中缺少依赖项”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Primavera P6 中缺少依赖项"
+description: "说明“Primavera P6 中缺少依赖项”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Primavera P6 中缺少依赖项"
   - "Primavera P6 中缺少依赖项"
@@ -13,27 +13,31 @@ keywords:
   - "项目控制"
   - "CPM逻辑"
   - "进度审查"
-slug: "zh-blog-article-missing-dependencies-primavera-p6"
+slug: "zh/blog/missing-dependencies-primavera-p6"
 language: "zh"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "进度质量"
 audience:
   - "计划工程师"
   - "进度计划软件人员"
   - "项目控制团队"
-primary_search_intent: "说明“Primavera P6 中缺少依赖项”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
-related_metrics:
-  - "03_metrics_zh/21_missing_dependencies/01_overview_template.md"
+primarySearchIntent: "说明“Primavera P6 中缺少依赖项”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
+relatedMetrics:
   - "03_metrics_zh/21_missing_dependencies/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "03b_blogs_zh/01_WHAT A SCHEDULE IS/01_blog.md"
   - "03b_blogs_zh/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/21_missing_dependencies/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/21_missing_dependencies/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Primavera P6 中缺少依赖项
 
 依赖性是 CPM 计划的支柱。他们解释了工作如何从一项活动转移到下一项活动、工作开始之前必须发生什么，以及每项活动的完成取决于什么。当依赖项缺失时，计划仍然可以计算，但结果更难以信任。
 
@@ -61,7 +65,6 @@ last_reviewed: "2026-07-02"
 
 清理这个指标可以立即改善进度。它使关键路径更可靠，浮时更容易解释，并且前瞻计划更有用。它还可以帮助项目团队了解进度计划是工作的真实模型还是只是带有日期的活动列表。
 ## 相关内容
-- [Primavera P6 中缺少依赖项 - 概述](01_overview_template.md)
 - [Primavera P6 中缺少依赖项 - 改进指南](02_guide_template.md)
 - [什么是进度计划](../../03b_blogs_zh/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [强大的逻辑](../../03b_blogs_zh/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

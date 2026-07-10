@@ -1,11 +1,10 @@
 ---
 title: "Calendars in P6"
-seo_title: "Calendars in P6"
-meta_description: "Learn calendars in p6 for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
+seoTitle: "Calendars in P6"
 description: "Learn calendars in p6 for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Calendars in P6"
   - "Primavera P6 Calendars in P6"
@@ -16,7 +15,7 @@ keywords:
   - "Primavera P6 blog"
 slug: "en/blog/calendars-in-p6"
 language: "en"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 Calendars"
@@ -24,18 +23,17 @@ audience:
   - "Planning engineers"
   - "Project managers"
   - "PMO teams"
-primary_search_intent: "Understand calendars in p6 and how it supports Primavera P6 schedule quality and project controls decisions."
-related_metrics:
-  - "01_metrics_en/20_calendars_with_different_start_finish_time_in_day/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Understand calendars in p6 and how it supports Primavera P6 schedule quality and project controls decisions."
+relatedMetrics:
+  - "01_metrics_en/20_calendars_with_different_start_finish_time_in_day/02_guide_template.md"
+relatedBlogs:
   - "01b_blogs_en/07_DATES IN P6/07_DATES IN P6.md"
   - "01b_blogs_en/09_DURATION IN P6/09_DURATION IN P6.md"
-translation_of: ""
-canonical_url: ""
-last_reviewed: "2026-06-26"
+translationOf: ""
+canonicalUrl: ""
+lastReviewed: "2026-06-26"
 pubDate: "2026-06-26"
 ---
-# Calendars in P6
 
 Calendars are one of the quiet foundations of a Primavera P6 schedule. They define when work can happen. They tell P6 which days are working days, which days are nonworking days, how many hours are available in a day, and what time of day work starts and finishes.
 

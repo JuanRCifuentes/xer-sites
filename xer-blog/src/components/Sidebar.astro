@@ -6,9 +6,7 @@ type SidebarEntry = (typeof Astro.locals.starlightRoute.sidebar)[number];
 
 const flattenArticleFolders = (entries: SidebarEntry[]) =>
 	entries.flatMap((entry) =>
-		entry.type === 'group' && entry.entries.every((child) => child.type === 'link')
-			? entry.entries
-			: [entry],
+		entry.type === 'group' ? flattenArticleFolders(entry.entries) : [entry],
 	);
 
 const sidebar = Astro.locals.starlightRoute.sidebar.map((entry, index) =>

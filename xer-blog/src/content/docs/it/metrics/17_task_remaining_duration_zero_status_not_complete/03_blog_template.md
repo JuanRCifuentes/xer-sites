@@ -1,10 +1,10 @@
 ---
 title: "La durata rimanente dell'attività è zero mentre lo stato non è completo"
-seo_title: "La durata rimanente dell'attività è zero mentre lo stato non è completo - Primavera P6"
-meta_description: "Spiega perché La durata rimanente dell'attività è zero mentre lo stato non è completo influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "La durata rimanente dell'attività è zero mentre lo stato non è completo - Primavera P6"
+description: "Spiega perché La durata rimanente dell'attività è zero mentre lo stato non è completo influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "La durata rimanente dell'attività è zero mentre lo stato non è completo"
   - "Primavera P6 La durata rimanente dell'attività è zero mentre lo stato non è completo"
@@ -13,27 +13,31 @@ keywords:
   - "controllo progetto"
   - "logica CPM"
   - "revisione del cronoprogramma"
-slug: "it-blog-article-task-remaining-duration-zero-status-not-complete-primavera-p6"
+slug: "it/blog/task-remaining-duration-zero-status-not-complete-primavera-p6"
 language: "it"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Qualità del cronoprogramma"
 audience:
   - "Pianificatori"
   - "Scheduler"
   - "Team di controllo progetto"
-primary_search_intent: "Spiega perché La durata rimanente dell'attività è zero mentre lo stato non è completo influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
-related_metrics:
-  - "11_metrics_it/17_task_remaining_duration_zero_status_not_complete/01_overview_template.md"
+primarySearchIntent: "Spiega perché La durata rimanente dell'attività è zero mentre lo stato non è completo influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
+relatedMetrics:
   - "11_metrics_it/17_task_remaining_duration_zero_status_not_complete/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "11b_blogs_it/01_WHAT A SCHEDULE IS/01_blog.md"
   - "11b_blogs_it/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/17_task_remaining_duration_zero_status_not_complete/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/17_task_remaining_duration_zero_status_not_complete/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# La durata rimanente dell'attività è zero mentre lo stato non è completo
 
 La Durata rimanente è uno dei campi di stato più importanti in un aggiornamento Primavera P6. Indica al cronoprogramma quanto tempo è ancora necessario per completare l'attività. Quando una normale attività dell'attività ha una Durata rimanente pari a 0, il messaggio è semplice: non c'è più tempo per eseguirla. Se la stessa attività non è contrassegnata come Completata, la pianificazione racconta due storie diverse contemporaneamente.
 
@@ -61,7 +65,6 @@ Questa metrica aiuta anche a migliorare la disciplina degli aggiornamenti. Se lo
 
 La pulizia di questa metrica rende più facile fidarsi della pianificazione. Allinea la durata rimanente, lo stato dell'attività, le date di fine effettive e i valori di avanzamento. Ancora più importante, aiuta il team di progetto a prendere decisioni migliori su quale lavoro è veramente completo e quale lavoro necessita ancora di attenzione.
 ## Contenuti correlati
-- [La durata rimanente dell'attività è zero mentre lo stato non è completo - Panoramica](01_overview_template.md)
 - [La durata rimanente dell'attività è zero mentre lo stato non è completo - Guida al miglioramento](02_guide_template.md)
 - [Cos'è un cronoprogramma](../../11b_blogs_it/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logica robusta](../../11b_blogs_it/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

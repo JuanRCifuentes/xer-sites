@@ -1,10 +1,10 @@
 ---
 title: "الأنشطة المتعلقة بتاريخ البيانات - دليل التحسين"
-seo_title: "الأنشطة المتعلقة بتاريخ البيانات - دليل التحسين"
-meta_description: "تعلّم كيفية معالجة الأنشطة المتعلقة بتاريخ البيانات"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "الأنشطة المتعلقة بتاريخ البيانات - دليل التحسين"
+description: "تعلّم كيفية معالجة الأنشطة المتعلقة بتاريخ البيانات"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "الأنشطة المتعلقة بتاريخ البيانات"
   - "Primavera P6 الأنشطة المتعلقة بتاريخ البيانات"
@@ -13,27 +13,31 @@ keywords:
   - "ضبط المشاريع"
   - "منطق CPM"
   - "مراجعة الجدول"
-slug: "ar-improvement-guide-activities-on-the-data-date-primavera-p6"
+slug: "ar/metrics/activities-on-the-data-date-primavera-p6-improvement-guide"
 language: "ar"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "جودة الجدول الزمني"
 audience:
   - "مهندسو التخطيط"
   - "المجدولون"
   - "فرق ضبط المشاريع"
-primary_search_intent: "تعلّم كيفية معالجة الأنشطة المتعلقة بتاريخ البيانات: فحوصات البدء المبكر والانتهاء المبكر في برنامج Primavera P6 في Primavera P6 من خلال فحص المنطق والتحقق وإعادة التقييم."
-related_metrics:
-  - "04_metrics_ar/18_activities_in_data_date/01_overview_template.md"
+primarySearchIntent: "تعلّم كيفية معالجة الأنشطة المتعلقة بتاريخ البيانات: فحوصات البدء المبكر والانتهاء المبكر في برنامج Primavera P6 في Primavera P6 من خلال فحص المنطق والتحقق وإعادة التقييم."
+relatedMetrics:
   - "04_metrics_ar/18_activities_in_data_date/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "04b_blogs_ar/01_WHAT A SCHEDULE IS/01_blog.md"
   - "04b_blogs_ar/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/18_activities_in_data_date/02_guide_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/18_activities_in_data_date/02_guide_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# الأنشطة المتعلقة بتاريخ البيانات - دليل التحسين
 
 ## غاية
 
@@ -174,7 +178,6 @@ flowchart TD
 - [ ] تم تكرار التقييم
 - [ ] الخطوات التالية موثقة
 ## محتوى ذو صلة
-- [الأنشطة المتعلقة بتاريخ البيانات: فحوصات البدء المبكر والانتهاء المبكر في برنامج Primavera P6 - نظرة عامة](01_overview_template.md)
 - [الأنشطة المتعلقة بتاريخ البيانات: فحوصات البدء المبكر والانتهاء المبكر في برنامج Primavera P6](03_blog_template.md)
 - [ما هو الجدول الزمني](../../04b_blogs_ar/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [منطق قوي](../../04b_blogs_ar/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

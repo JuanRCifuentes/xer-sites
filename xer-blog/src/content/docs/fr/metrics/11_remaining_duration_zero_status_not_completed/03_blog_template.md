@@ -1,10 +1,10 @@
 ---
 title: "Activités avec une durée restante de 0 et un statut non terminé"
-seo_title: "Activités avec une durée restante de 0 et un statut non terminé - Primavera P6"
-meta_description: "Explique pourquoi Activités avec une durée restante de 0 et un statut non terminé influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Activités avec une durée restante de 0 et un statut non terminé - Primavera P6"
+description: "Explique pourquoi Activités avec une durée restante de 0 et un statut non terminé influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Activités avec une durée restante de 0 et un statut non terminé"
   - "Primavera P6 Activités avec une durée restante de 0 et un statut non terminé"
@@ -13,27 +13,31 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-blog-article-remaining-duration-zero-status-not-completed-primavera-p6"
+slug: "fr/blog/remaining-duration-zero-status-not-completed-primavera-p6"
 language: "fr"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Qualité du planning"
 audience:
   - "Planificateurs"
   - "Ordonnanceurs"
   - "Équipes de contrôle projet"
-primary_search_intent: "Explique pourquoi Activités avec une durée restante de 0 et un statut non terminé influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
-related_metrics:
-  - "08_metrics_fr/11_remaining_duration_zero_status_not_completed/01_overview_template.md"
+primarySearchIntent: "Explique pourquoi Activités avec une durée restante de 0 et un statut non terminé influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
+relatedMetrics:
   - "08_metrics_fr/11_remaining_duration_zero_status_not_completed/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "08b_blogs_fr/01_WHAT A SCHEDULE IS/01_blog.md"
   - "08b_blogs_fr/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/11_remaining_duration_zero_status_not_completed/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/11_remaining_duration_zero_status_not_completed/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Activités avec une durée restante de 0 et un statut non terminé
 
 ## Titre
 
@@ -151,7 +155,6 @@ La gestion de cette métrique améliore la précision des rapports, la confiance
 
 Examinez les activités avec une durée restante = 0 et un statut non terminé lors de votre prochaine mise à jour du planning. Confirmez le statut réel de chaque activité, puis corrigez la fin réelle, le statut de l'activité ou la durée restante avant d'émettre des rapports.
 ## Contenu associé
-- [Activités avec une durée restante de 0 et un statut non terminé - Vue d’ensemble](01_overview_template.md)
 - [Activités avec une durée restante de 0 et un statut non terminé - Guide d’amélioration](02_guide_template.md)
 - [Qu'est-ce qu'un horaire](../../08b_blogs_fr/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logique robuste](../../08b_blogs_fr/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

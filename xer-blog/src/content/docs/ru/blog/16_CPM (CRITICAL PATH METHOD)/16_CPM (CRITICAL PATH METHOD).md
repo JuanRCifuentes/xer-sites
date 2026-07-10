@@ -1,11 +1,10 @@
 ---
 title: "CPM (Critical Path Method)"
-seo_title: "CPM (Critical Path Method) - Primavera P6"
-meta_description: "Изучите CPM (Critical Path Method) в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
+seoTitle: "CPM (Critical Path Method) - Primavera P6"
 description: "Изучите CPM (Critical Path Method) в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "CPM (Critical Path Method)"
   - "Primavera P6 CPM (Critical Path Method)"
@@ -16,7 +15,7 @@ keywords:
   - "анализ графика"
 slug: "ru/blog/critical-path-method-cpm-primavera-p6"
 language: "ru"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Планирование в Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Планировщики"
   - "Специалисты по графикам"
   - "Команды проектного контроля"
-primary_search_intent: "Изучите CPM (Critical Path Method) в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
-related_metrics:
-  - "07_metrics_ru/09_cp_or_float_path_starting_with_constraint/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Изучите CPM (Critical Path Method) в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
+relatedMetrics:
+  - "07_metrics_ru/09_cp_or_float_path_starting_with_constraint/02_guide_template.md"
+relatedBlogs:
   - "07b_blogs_ru/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
   - "07b_blogs_ru/17_DEVELOPE A PROJECT SCHEDULE/17_DEVELOPE A PROJECT SCHEDULE.md"
-translation_of: "01b_blogs_en/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
-canonical_url: ""
-last_проверкуed: "2026-07-02"
+translationOf: "01b_blogs_en/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# CPM (Critical Path Method)
 
 Critical Path Method, или CPM, это основной метод расчета серьезного проектного графика. Он превращает список операций в логическую модель, которая отвечает на ключевые вопросы: когда проект может завершиться, какие операции контролируют эту дату и где в графике есть гибкость.
 

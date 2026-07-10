@@ -1,11 +1,10 @@
 ---
 title: "Resource Balancing in P6"
-seo_title: "Resource Balancing in P6"
-meta_description: "Learn resource balancing in p6 for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
+seoTitle: "Resource Balancing in P6"
 description: "Learn resource balancing in p6 for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Resource Balancing in P6"
   - "Primavera P6 Resource Balancing in P6"
@@ -16,7 +15,7 @@ keywords:
   - "Primavera P6 blog"
 slug: "en/blog/resource-balancing-in-primavera-p6"
 language: "en"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 Resources"
@@ -24,18 +23,17 @@ audience:
   - "Planning engineers"
   - "Project managers"
   - "PMO teams"
-primary_search_intent: "Understand resource balancing in P6 and how it supports Primavera P6 schedule quality and project controls decisions."
-related_metrics:
-  - "01_metrics_en/13_activity_started_progress_zero/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Understand resource balancing in P6 and how it supports Primavera P6 schedule quality and project controls decisions."
+relatedMetrics:
+  - "01_metrics_en/13_activity_started_progress_zero/02_guide_template.md"
+relatedBlogs:
   - "01b_blogs_en/13_RESOURCES LIMITS IN P6/13_RESOURCES LIMITS IN P6.md"
   - "01b_blogs_en/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
-translation_of: ""
-canonical_url: ""
-last_reviewed: "2026-06-26"
+translationOf: ""
+canonicalUrl: ""
+lastReviewed: "2026-06-26"
 pubDate: "2026-06-26"
 ---
-# Resource Balancing in P6
 
 Resource balancing in Primavera P6 is the process of reviewing resource demand against available capacity and adjusting the plan so the work can be executed with the resources available. It helps the project team understand whether the schedule is only logically correct or also practical from a resource point of view.
 

@@ -1,10 +1,10 @@
 ---
 title: "علاقات FF مع تأخر أكبر من مدة الخلف - دليل التحسين"
-seo_title: "علاقات FF مع تأخر أكبر من مدة الخلف - دليل التحسين - Primavera P6"
-meta_description: "تعلّم كيفية معالجة علاقات FF مع تأخر أكبر من مدة الخلف في Primavera P6 من خلال فحص المنطق والتحقق وإعادة التقييم."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "علاقات FF مع تأخر أكبر من مدة الخلف - دليل التحسين - Primavera P6"
+description: "تعلّم كيفية معالجة علاقات FF مع تأخر أكبر من مدة الخلف في Primavera P6 من خلال فحص المنطق والتحقق وإعادة التقييم."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "علاقات FF مع تأخر أكبر من مدة الخلف"
   - "Primavera P6 علاقات FF مع تأخر أكبر من مدة الخلف"
@@ -13,27 +13,31 @@ keywords:
   - "ضبط المشاريع"
   - "منطق CPM"
   - "مراجعة الجدول"
-slug: "ar-improvement-guide-ff-lag-greater-than-successor-duration-primavera-p6"
+slug: "ar/metrics/ff-lag-greater-than-successor-duration-primavera-p6-improvement-guide"
 language: "ar"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "جودة الجدول الزمني"
 audience:
   - "مهندسو التخطيط"
   - "المجدولون"
   - "فرق ضبط المشاريع"
-primary_search_intent: "تعلّم كيفية معالجة علاقات FF مع تأخر أكبر من مدة الخلف في Primavera P6 من خلال فحص المنطق والتحقق وإعادة التقييم."
-related_metrics:
-  - "04_metrics_ar/05_ff_تأخر_greater_than_النشاط اللاحق_duration/01_overview_template.md"
+primarySearchIntent: "تعلّم كيفية معالجة علاقات FF مع تأخر أكبر من مدة الخلف في Primavera P6 من خلال فحص المنطق والتحقق وإعادة التقييم."
+relatedMetrics:
   - "04_metrics_ar/05_ff_تأخر_greater_than_النشاط اللاحق_duration/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "04b_blogs_ar/01_WHAT A SCHEDULE IS/01_blog.md"
   - "04b_blogs_ar/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/05_ff_lag_greater_than_successor_duration/02_guide_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/05_ff_lag_greater_than_successor_duration/02_guide_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# علاقات FF مع تأخر أكبر من مدة الخلف - دليل التحسين
 
 ## غاية
 
@@ -166,7 +170,6 @@ flowchart TD
 - [ ] تم تكرار التقييم
 - [ ] الخطوات التالية موثقة
 ## محتوى ذو صلة
-- [علاقات FF مع تأخر أكبر من مدة الخلف - نظرة عامة](01_overview_template.md)
 - [قالب المدونة](03_blog_template.md)
 - [ما هو الجدول الزمني](../../04b_blogs_ar/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [منطق قوي](../../04b_blogs_ar/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

@@ -1,10 +1,10 @@
 ---
 title: "Primavera P6 进度计划中的冗余逻辑"
-seo_title: "Primavera P6 进度计划中的冗余逻辑"
-meta_description: "说明“Primavera P6 进度计划中的冗余逻辑”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Primavera P6 进度计划中的冗余逻辑"
+description: "说明“Primavera P6 进度计划中的冗余逻辑”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Primavera P6 进度计划中的冗余逻辑"
   - "Primavera P6 进度计划中的冗余逻辑"
@@ -13,27 +13,31 @@ keywords:
   - "项目控制"
   - "CPM逻辑"
   - "进度审查"
-slug: "zh-blog-article-redundant-logic-primavera-p6"
+slug: "zh/blog/redundant-logic-primavera-p6"
 language: "zh"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "进度质量"
 audience:
   - "计划工程师"
   - "进度计划软件人员"
   - "项目控制团队"
-primary_search_intent: "说明“Primavera P6 进度计划中的冗余逻辑”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
-related_metrics:
-  - "03_metrics_zh/06_redundant_logic/01_overview_template.md"
+primarySearchIntent: "说明“Primavera P6 进度计划中的冗余逻辑”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
+relatedMetrics:
   - "03_metrics_zh/06_redundant_logic/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "03b_blogs_zh/01_WHAT A SCHEDULE IS/01_blog.md"
   - "03b_blogs_zh/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/06_redundant_logic/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/06_redundant_logic/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Primavera P6 进度计划中的冗余逻辑
 
 ## 标题
 
@@ -148,7 +152,6 @@ Primavera P6 进度计划中的冗余逻辑
 
 在下次 Primavera P6 进度计划更新中检查冗余逻辑。对于每个标记的关系，询问它是否添加了真正的依赖关系或仅重复网络中已存在的逻辑。删除不必要的内容并记录有意保留的内容。
 ## 相关内容
-- [Primavera P6 进度计划中的冗余逻辑 - 概述](01_overview_template.md)
 - [Primavera P6 进度计划中的冗余逻辑 - 改进指南](02_guide_template.md)
 - [什么是进度计划](../../03b_blogs_zh/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [强大的逻辑](../../03b_blogs_zh/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

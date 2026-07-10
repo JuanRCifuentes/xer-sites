@@ -1,11 +1,10 @@
 ---
 title: "일정이란 무엇입니까?"
-seo_title: "일정이란 무엇입니까? - Primavera P6"
-meta_description: "Primavera P6에서 일정이란 무엇입니까?를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+seoTitle: "일정이란 무엇입니까? - Primavera P6"
 description: "Primavera P6에서 일정이란 무엇입니까?를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "일정이란 무엇입니까?"
   - "Primavera P6 공정표이란 무엇입니까?"
@@ -16,7 +15,7 @@ keywords:
   - "공정표 검토"
 slug: "ko/blog/what-a-schedule-is-in-primavera-p6"
 language: "ko"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 공정표관리"
@@ -24,17 +23,16 @@ audience:
   - "계획 엔지니어"
   - "스케줄러"
   - "프로젝트 통제 팀"
-primary_search_intent: "Primavera P6에서 일정이란 무엇입니까?를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
-related_metrics:
-  - "10_metrics_ko/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6에서 일정이란 무엇입니까?를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+relatedMetrics:
+  - "10_metrics_ko/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "10b_blogs_ko/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# 일정이란 무엇입니까?
 
 프로젝트 공정표은 날짜 목록 그 이상입니다. 프로젝트 납품 계획을 그래픽적이고 논리적으로 표현한 것입니다. 프로젝트가 처음부터 끝까지 실행되는 방법, 작업 패키지가 연결되는 방법, 주요 이정표에 도달해야 하는 시기, 프로젝트 팀이 결정을 내리기 위해 사용해야 하는 정보에 대해 설명합니다.
 

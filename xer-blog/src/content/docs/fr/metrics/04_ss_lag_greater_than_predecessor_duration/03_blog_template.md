@@ -1,10 +1,10 @@
 ---
 title: "Relations SS avec un décalage supérieur à la durée du prédécesseur"
-seo_title: "Relations SS avec un décalage supérieur à la durée du prédécesseur - Primavera P6"
-meta_description: "Explique pourquoi Relations SS avec un décalage supérieur à la durée du prédécesseur influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Relations SS avec un décalage supérieur à la durée du prédécesseur - Primavera P6"
+description: "Explique pourquoi Relations SS avec un décalage supérieur à la durée du prédécesseur influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Relations SS avec un décalage supérieur à la durée du prédécesseur"
   - "Primavera P6 Relations SS avec un décalage supérieur à la durée du prédécesseur"
@@ -13,27 +13,31 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-blog-article-ss-lag-greater-than-predecessor-duration-primavera-p6"
+slug: "fr/blog/ss-lag-greater-than-predecessor-duration-primavera-p6"
 language: "fr"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Qualité du planning"
 audience:
   - "Planificateurs"
   - "Ordonnanceurs"
   - "Équipes de contrôle projet"
-primary_search_intent: "Explique pourquoi Relations SS avec un décalage supérieur à la durée du prédécesseur influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
-related_metrics:
-  - "08_metrics_fr/04_ss_lag_greater_than_predecessor_duration/01_overview_template.md"
+primarySearchIntent: "Explique pourquoi Relations SS avec un décalage supérieur à la durée du prédécesseur influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
+relatedMetrics:
   - "08_metrics_fr/04_ss_lag_greater_than_predecessor_duration/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "08b_blogs_fr/01_WHAT A SCHEDULE IS/01_blog.md"
   - "08b_blogs_fr/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/04_ss_lag_greater_than_predecessor_duration/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/04_ss_lag_greater_than_predecessor_duration/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Relations SS avec un décalage supérieur à la durée du prédécesseur
 
 ## Titre
 
@@ -146,7 +150,6 @@ L'examen de cette métrique améliore la clarté du CPM, la fiabilité de la mar
 
 Examinez les relations SS où le décalage est supérieur à la durée du prédécesseur dans votre prochaine mise à jour du calendrier Primavera P6. Pour chacun d’entre eux, demandez-vous si la relation est véritablement basée sur le début. Si ce n’est pas le cas, remplacez-le par une logique plus claire ou modélisez directement le délai d’attente.
 ## Contenu associé
-- [Relations SS avec un décalage supérieur à la durée du prédécesseur - Vue d’ensemble](01_overview_template.md)
 - [Relations SS avec un décalage supérieur à la durée du prédécesseur - Guide d’amélioration](02_guide_template.md)
 - [Qu'est-ce qu'un horaire](../../08b_blogs_fr/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logique robuste](../../08b_blogs_fr/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

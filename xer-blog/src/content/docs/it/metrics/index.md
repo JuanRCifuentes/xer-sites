@@ -19,7 +19,7 @@ hero:
       </svg>
   actions:
     - text: Esplora la prima metrica
-      link: /it/metrics/data-date-no-driving-logic-overview/
+      link: /it/metrics/activities-starting-on-the-data-date-with-no-logic-driving-primavera-p6-improvement-guide/
       icon: right-arrow
       variant: primary
     - text: Leggi il blog
@@ -28,12 +28,3 @@ hero:
 sidebar:
   order: 0
 ---
-
-## Attività che iniziano alla Data di Aggiornamento senza logica trainante
-
-Questa metrica identifica le attività aperte o non iniziate programmate per iniziare alla Data di Aggiornamento senza una logica predecessore valida che guidi tale avvio. Le attività che si accumulano al confine della Data di Aggiornamento senza logica distorcono il float, oscurano il percorso più lungo e rendono la previsione inaffidabile. La soglia target è 0 attività.
-
-- [Panoramica](/it/metrics/data-date-no-driving-logic-overview/) — cosa misura la metrica, la sua soglia e perché è importante per la credibilità del programma.
-- [Guida al miglioramento](/it/metrics/data-date-no-driving-logic-improvement-guide/) — come i programmisti e i team di project controls risolvono le attività segnalate durante le revisioni qualitative e i cicli di aggiornamento.
-
-Per la versione narrativa del perché questa metrica è importante, leggere l'articolo del blog correlato: [Attività che iniziano alla Data di Aggiornamento senza logica trainante](/it/blog/activities-starting-on-data-date-no-driving-logic/).

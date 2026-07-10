@@ -1,11 +1,10 @@
 ---
 title: "Fechas en P6"
-seo_title: "Fechas en P6 - Primavera P6"
-meta_description: "Aprende Fechas en P6 en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
+seoTitle: "Fechas en P6 - Primavera P6"
 description: "Aprende Fechas en P6 en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Fechas en P6"
   - "Primavera P6 Fechas en P6"
@@ -16,7 +15,7 @@ keywords:
   - "revisión del cronograma"
 slug: "es/blog/dates-in-p6"
 language: "es"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Planificación en Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Planificadores"
   - "Schedulers"
   - "Equipos de control de proyectos"
-primary_search_intent: "Aprende Fechas en P6 en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
-related_metrics:
-  - "02_metrics_es/12_actual_date_greater_than_data_date/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Aprende Fechas en P6 en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
+relatedMetrics:
+  - "02_metrics_es/12_actual_date_greater_than_data_date/02_guide_template.md"
+relatedBlogs:
   - "02b_blogs_es/06_DURATION TYPES IN P6/06_DURATION TYPES IN P6.md"
   - "02b_blogs_es/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
-translation_of: "01b_blogs_en/07_DATES IN P6/07_DATES IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/07_DATES IN P6/07_DATES IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Fechas en P6
 
 Las fechas en Primavera P6 pueden ser confusas porque una actividad no tiene solo una fecha de inicio y una fecha de fin. Puede tener planned dates, current schedule dates, early dates, late dates, actual dates, baseline dates, restriccion dates, expected dates y a veces fechas externas o relacionadas con pronostico segun el layout y la configuracion del proyecto.
 

@@ -1,37 +1,41 @@
 ---
 title: "Activities with SS Successor and No FS/FF Successor - Improvement Guide"
-seo_title: "How to Fix Activities with SS Successor and No FS/FF Successor in Primavera P6"
-meta_description: "Fix SS-successor activities with no FS/FF successor in Primavera P6 using logic checks, validation, and reassessment steps."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "How to Fix Activities with SS Successor and No FS/FF Successor in Primavera P6"
+description: "Fix SS-successor activities with no FS/FF successor in Primavera P6 using logic checks, validation, and reassessment steps."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Activities with SS Successor and No FS/FF Successor"
   - "Primavera P6 Activities with SS Successor and No FS/FF Successor"
   - "schedule quality"
   - "project controls"
   - "CPM schedule logic"
-slug: "improvement-guide-activities-with-ss-successor-and-no-fs-ff-successor-primavera-p6"
+slug: "en/metrics/activities-with-ss-successor-and-no-fs-ff-successor-primavera-p6-improvement-guide"
 language: "en"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "Schedule Quality"
 audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "Learn how to improve this Primavera P6 schedule quality result."
-related_metrics:
-  - "01_metrics_en/02_activities_with_ss_successor_and_no_fs_ff_successor/01_overview_template.md"
+primarySearchIntent: "Learn how to improve this Primavera P6 schedule quality result."
+relatedMetrics:
   - "01_metrics_en/02_activities_with_ss_successor_and_no_fs_ff_successor/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
   - "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: ""
-canonical_url: ""
-last_reviewed: "2026-06-26"
+translationOf: ""
+canonicalUrl: ""
+lastReviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
-# Activities with SS Successor and No FS/FF Successor - Improvement Guide
 ## Purpose
 
 This guide helps schedulers review and correct activities that have Start-to-Start successors but no Finish-to-Start or Finish-to-Finish successors. It supports stronger CPM logic by confirming that activity finishes, not only starts, are connected to the downstream schedule network.
@@ -164,7 +168,6 @@ Review this metric during each schedule update and before baseline approval. Pay
 - [ ] Next steps documented
 
 ## Related Content
-- [Overview](01_overview_template.md)
 - [Blog Article](03_blog_template.md)
 - [What A Schedule Is](../../01b_blogs_en/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robust Logic](../../01b_blogs_en/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

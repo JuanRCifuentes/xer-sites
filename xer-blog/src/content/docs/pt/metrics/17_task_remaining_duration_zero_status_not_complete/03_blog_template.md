@@ -1,10 +1,10 @@
 ---
 title: "A duração restante da tarefa é zero enquanto o status não está concluído"
-seo_title: "A duração restante da tarefa é zero enquanto o status não está concluído - Primavera P6"
-meta_description: "Veja por que A duração restante da tarefa é zero enquanto o status não está concluído afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "A duração restante da tarefa é zero enquanto o status não está concluído - Primavera P6"
+description: "Veja por que A duração restante da tarefa é zero enquanto o status não está concluído afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "A duração restante da tarefa é zero enquanto o status não está concluído"
   - "Primavera P6 A duração restante da tarefa é zero enquanto o status não está concluído"
@@ -13,27 +13,31 @@ keywords:
   - "controles de projeto"
   - "lógica CPM"
   - "revisão do cronograma"
-slug: "pt-blog-article-task-remaining-duration-zero-status-not-complete-primavera-p6"
+slug: "pt/blog/task-remaining-duration-zero-status-not-complete-primavera-p6"
 language: "pt"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Qualidade do cronograma"
 audience:
   - "Planejadores"
   - "Schedulers"
   - "Equipes de controles de projeto"
-primary_search_intent: "Veja por que A duração restante da tarefa é zero enquanto o status não está concluído afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
-related_metrics:
-  - "06_metrics_pt/17_task_remaining_duration_zero_status_not_complete/01_overview_template.md"
+primarySearchIntent: "Veja por que A duração restante da tarefa é zero enquanto o status não está concluído afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
+relatedMetrics:
   - "06_metrics_pt/17_task_remaining_duration_zero_status_not_complete/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "06b_blogs_pt/01_WHAT A SCHEDULE IS/01_blog.md"
   - "06b_blogs_pt/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/17_task_remaining_duration_zero_status_not_complete/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/17_task_remaining_duration_zero_status_not_complete/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# A duração restante da tarefa é zero enquanto o status não está concluído
 
 A Duração Restante é um dos campos de status mais importantes em uma atualização do Primavera P6. Informa ao cronograma quanto tempo ainda é necessário para finalizar a atividade. Quando uma atividade de tarefa normal tem Duração Restante igual a 0, a mensagem é simples: não resta tempo para ser executada. Se a mesma tarefa não estiver marcada como Concluída, o cronograma contará duas histórias diferentes ao mesmo tempo.
 
@@ -61,7 +65,6 @@ Essa métrica também ajuda a melhorar a disciplina de atualização. Se o mesmo
 
 Limpar essa métrica torna o cronograma mais fácil de confiar. Ele alinha a duração restante, o status da atividade, as datas reais de término e os valores de progresso. Mais importante ainda, ajuda a equipe do projeto a tomar melhores decisões sobre qual trabalho está realmente concluído e qual trabalho ainda precisa de atenção.
 ## Conteúdo relacionado
-- [A duração restante da tarefa é zero enquanto o status não está concluído - Visão geral](01_overview_template.md)
 - [A duração restante da tarefa é zero enquanto o status não está concluído - Guia de melhoria](02_guide_template.md)
 - [O que é um cronograma](../../06b_blogs_pt/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Lógica Robusta](../../06b_blogs_pt/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

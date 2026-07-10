@@ -1,11 +1,10 @@
 ---
 title: "堅牢なロジック"
-seo_title: "堅牢なロジック - Primavera P6"
-meta_description: "Primavera P6における「堅牢なロジック」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+seoTitle: "堅牢なロジック - Primavera P6"
 description: "Primavera P6における「堅牢なロジック」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "堅牢なロジック"
   - "Primavera P6 堅牢なロジック"
@@ -16,7 +15,7 @@ keywords:
   - "スケジュールレビュー"
 slug: "ja/blog/robust-logic-in-primavera-p6"
 language: "ja"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 スケジューリング"
@@ -24,19 +23,18 @@ audience:
   - "計画エンジニア"
   - "スケジューラー"
   - "プロジェクトコントロールチーム"
-primary_search_intent: "Primavera P6における「堅牢なロジック」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
-related_metrics:
-  - "12_metrics_jp/21_missing_dependencies/01_overview_template.md"
-  - "12_metrics_jp/06_redundant_logic/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6における「堅牢なロジック」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+relatedMetrics:
+  - "12_metrics_jp/21_missing_dependencies/02_guide_template.md"
+  - "12_metrics_jp/06_redundant_logic/02_guide_template.md"
+relatedBlogs:
   - "12b_blogs_jp/01_WHAT A SCHEDULE IS/01_blog.md"
   - "12b_blogs_jp/03_CRITICAL PATH/03_CRITICAL PATH.md"
-translation_of: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# 堅牢なロジック
 
 ロジックは、プロジェクト スケジュール内の順序と依存関係を数学的に表現したものです。ここでは、何を行う前に何を行う必要があるか、どのアクティビティを同時に実行できるか、プロジェクト チームが最初のアクティビティから最終的な完了までどのように移行するつもりかについて説明します。
 

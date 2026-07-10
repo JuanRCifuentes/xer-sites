@@ -1,10 +1,10 @@
 ---
 title: "Primavera P6 공정표의 중복 논리"
-seo_title: "Primavera P6 공정표의 중복 논리"
-meta_description: "Primavera P6 공정표의 중복 논리가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Primavera P6 공정표의 중복 논리"
+description: "Primavera P6 공정표의 중복 논리가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Primavera P6 공정표의 중복 논리"
   - "Primavera P6 공정표의 중복 논리"
@@ -13,27 +13,31 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-blog-article-redundant-logic-primavera-p6"
+slug: "ko/blog/redundant-logic-primavera-p6"
 language: "ko"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Primavera P6 공정표관리"
 audience:
   - "계획 엔지니어"
   - "스케줄러"
   - "프로젝트 통제 팀"
-primary_search_intent: "Primavera P6 공정표의 중복 논리가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
-related_metrics:
-  - "10_metrics_ko/06_redundant_logic/01_overview_template.md"
+primarySearchIntent: "Primavera P6 공정표의 중복 논리가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
+relatedMetrics:
   - "10_metrics_ko/06_redundant_logic/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "10b_blogs_ko/01_WHAT A SCHEDULE IS/01_blog.md"
   - "10b_blogs_ko/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/06_redundant_logic/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/06_redundant_logic/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Primavera P6 공정표의 중복 논리
 
 ## 제목
 
@@ -148,7 +152,6 @@ SS와 FF를 자동으로 잘못된 것으로 처리하지 마세요. 시작 및 
 
 다음 Primavera P6 공정표 업데이트에서 중복 논리를 검토하세요. 플래그가 지정된 각 관계에 대해 실제 종속성을 추가하는지 아니면 네트워크에 이미 존재하는 논리만 반복하는지 물어보세요. 불필요한 것을 제거하고 의도적으로 유지한 것을 문서화합니다.
 ## 관련 콘텐츠
-- [Primavera P6 공정표의 중복 논리 - 개요](01_overview_template.md)
 - [Primavera P6 공정표의 중복 논리 - 개선 가이드](02_guide_template.md)
 - [일정이란 무엇입니까?](../../10b_blogs_ko/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [견고한 논리](../../10b_blogs_ko/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

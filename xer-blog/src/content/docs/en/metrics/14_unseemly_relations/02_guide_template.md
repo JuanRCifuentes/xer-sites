@@ -1,37 +1,41 @@
 ---
 title: "Unusual Relationships - Improvement Guide"
-seo_title: "How to Fix Unusual Relationships in Primavera P6"
-meta_description: "Identify and correct unusual relationships in Primavera P6 using schedule logic checks, validation, and reassessment steps."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "How to Fix Unusual Relationships in Primavera P6"
+description: "Identify and correct unusual relationships in Primavera P6 using schedule logic checks, validation, and reassessment steps."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Unusual Relationships"
   - "Primavera P6 Unusual Relationships"
   - "schedule quality"
   - "project controls"
   - "CPM schedule logic"
-slug: "improvement-guide-unusual-relationships-primavera-p6"
+slug: "en/metrics/unusual-relationships-primavera-p6-improvement-guide"
 language: "en"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "Schedule Quality"
 audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "Learn how to improve this Primavera P6 schedule quality result."
-related_metrics:
-  - "01_metrics_en/14_unusual_relations/01_overview_template.md"
+primarySearchIntent: "Learn how to improve this Primavera P6 schedule quality result."
+relatedMetrics:
   - "01_metrics_en/14_unusual_relations/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
   - "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: ""
-canonical_url: ""
-last_reviewed: "2026-06-26"
+translationOf: ""
+canonicalUrl: ""
+lastReviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
-# Unusual Relationships - Improvement Guide
 ## Purpose
 
 This guide helps schedulers review and correct unusual relationshipships involving Finish Milestones, Start Milestones, and Level of Effort (LOE) activities in Primavera P6.
@@ -179,7 +183,6 @@ Review this metric during each update cycle and before baseline approval. It is 
 - [ ] Next steps documented
 
 ## Related Content
-- [Overview](01_overview_template.md)
 - [Blog Article](03_blog_template.md)
 - [What A Schedule Is](../../01b_blogs_en/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robust Logic](../../01b_blogs_en/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

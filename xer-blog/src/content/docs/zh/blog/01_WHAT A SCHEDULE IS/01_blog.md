@@ -1,11 +1,10 @@
 ---
 title: "什么是进度计划"
-seo_title: "什么是进度计划 - Primavera P6"
-meta_description: "了解 Primavera P6 中的“什么是进度计划”，重点关注进度计划、项目控制和进度质量。"
+seoTitle: "什么是进度计划 - Primavera P6"
 description: "了解 Primavera P6 中的“什么是进度计划”，重点关注进度计划、项目控制和进度质量。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "什么是进度计划"
   - "Primavera P6 什么是进度计划"
@@ -16,7 +15,7 @@ keywords:
   - "进度审查"
 slug: "zh/blog/what-a-schedule-is-in-primavera-p6"
 language: "zh"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 进度计划"
@@ -24,17 +23,16 @@ audience:
   - "计划工程师"
   - "进度计划软件人员"
   - "项目控制团队"
-primary_search_intent: "了解 Primavera P6 中的“什么是进度计划”，重点关注进度计划、项目控制和进度质量。"
-related_metrics:
-  - "03_metrics_zh/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "了解 Primavera P6 中的“什么是进度计划”，重点关注进度计划、项目控制和进度质量。"
+relatedMetrics:
+  - "03_metrics_zh/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "03b_blogs_zh/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# 什么是进度计划
 
 项目进度计划不仅仅是日期列表。它是项目交付计划的图形和逻辑表示。它解释了项目从开始到结束将如何执行、工作包如何连接、何时应达到主要里程碑以及项目团队应使用哪些信息来做出决策。
 

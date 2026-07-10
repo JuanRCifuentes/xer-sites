@@ -1,11 +1,10 @@
 ---
 title: "प्रोजेक्ट शेड्यूल विकसित करें"
-seo_title: "Primavera P6 में प्रोजेक्ट शेड्यूल विकसित करें"
-meta_description: "Primavera P6 में प्रोजेक्ट शेड्यूल विकसित करने की प्रक्रिया को WBS, गतिविधि, तर्क, अवधि, संसाधन, बेसलाइन और अद्यतन चक्र के संदर्भ में समझें।"
+seoTitle: "Primavera P6 में प्रोजेक्ट शेड्यूल विकसित करें"
 description: "Primavera P6 में प्रोजेक्ट शेड्यूल विकसित करने की प्रक्रिया को WBS, गतिविधि, तर्क, अवधि, संसाधन, बेसलाइन और अद्यतन चक्र के संदर्भ में समझें।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "प्रोजेक्ट शेड्यूल विकसित करें"
   - "Primavera P6 प्रोजेक्ट शेड्यूल"
@@ -14,7 +13,7 @@ keywords:
   - "CPM शेड्यूल तर्क"
 slug: "hi/blog/develop-a-project-schedule-in-primavera-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
@@ -22,18 +21,17 @@ audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "Primavera P6 में प्रोजेक्ट शेड्यूल विकसित करने की संरचित प्रक्रिया को समझना।"
-related_metrics:
-  - "05_metrics_hi/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6 में प्रोजेक्ट शेड्यूल विकसित करने की संरचित प्रक्रिया को समझना।"
+relatedMetrics:
+  - "05_metrics_hi/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "05_blogs_hi/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
   - "05_blogs_hi/18_ACTIVITY CODES/18_ACTIVITY CODES.md"
-translation_of: "01b_blogs_en/17_DEVELOPE A PROJECT SCHEDULE/17_DEVELOPE A PROJECT SCHEDULE.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/17_DEVELOPE A PROJECT SCHEDULE/17_DEVELOPE A PROJECT SCHEDULE.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# प्रोजेक्ट शेड्यूल विकसित करें
 
 शून्य से प्रोजेक्ट शेड्यूल विकसित करना केवल Primavera P6 में गतिविधियाँ दर्ज करना नहीं है। यह दायरा, निष्पादन रणनीति, बाधाएँ, संसाधन और प्रोजेक्ट प्रतिबद्धताओं को ऐसे समय मॉडल में बदलने की प्रक्रिया है जिसे समीक्षा, अनुमोदन, अद्यतन और निर्णय लेने के लिए उपयोग किया जा सके।
 

@@ -1,11 +1,10 @@
 ---
 title: "SS 与 FF 关系"
-seo_title: "SS 与 FF 关系 - Primavera P6"
-meta_description: "了解 Primavera P6 中的“SS 与 FF 关系”，重点关注进度计划、项目控制和进度质量。"
+seoTitle: "SS 与 FF 关系 - Primavera P6"
 description: "了解 Primavera P6 中的“SS 与 FF 关系”，重点关注进度计划、项目控制和进度质量。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "SS 与 FF 关系"
   - "Primavera P6 SS 与 FF 关系"
@@ -16,7 +15,7 @@ keywords:
   - "进度审查"
 slug: "zh/blog/ss-and-ff-relations-in-primavera-p6"
 language: "zh"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 进度计划"
@@ -24,18 +23,17 @@ audience:
   - "计划工程师"
   - "进度计划软件人员"
   - "项目控制团队"
-primary_search_intent: "了解 Primavera P6 中的“SS 与 FF 关系”，重点关注进度计划、项目控制和进度质量。"
-related_metrics:
-  - "03_metrics_zh/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "了解 Primavera P6 中的“SS 与 FF 关系”，重点关注进度计划、项目控制和进度质量。"
+relatedMetrics:
+  - "03_metrics_zh/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "03b_blogs_zh/14_RESOURCES BALANCING IN P6/14_RESOURCES BALANCING IN P6.md"
   - "03b_blogs_zh/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
-translation_of: "01b_blogs_en/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# SS 与 FF 关系
 
 开始到开始（SS）和 完成到完成（FF）是 Primavera P6 中有效的逻辑关系类型。当两项活动需要重叠执行时，它们可以比简单的 完成到开始 关系更准确地表达计划逻辑。
 

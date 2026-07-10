@@ -1,10 +1,10 @@
 ---
 title: "Aktivitäten mit verbleibender Dauer 0 und Status nicht abgeschlossen"
-seo_title: "Aktivitäten mit verbleibender Dauer 0 und Status nicht abgeschlossen - Primavera P6"
-meta_description: "Erklärt, warum Aktivitäten mit verbleibender Dauer 0 und Status nicht abgeschlossen CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Aktivitäten mit verbleibender Dauer 0 und Status nicht abgeschlossen - Primavera P6"
+description: "Erklärt, warum Aktivitäten mit verbleibender Dauer 0 und Status nicht abgeschlossen CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Aktivitäten mit verbleibender Dauer 0 und Status nicht abgeschlossen"
   - "Primavera P6 Aktivitäten mit verbleibender Dauer 0 und Status nicht abgeschlossen"
@@ -13,27 +13,31 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-blog-article-remaining-duration-zero-status-not-completed-primavera-p6"
+slug: "de/blog/remaining-duration-zero-status-not-completed-primavera-p6"
 language: "de"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Terminplanqualität"
 audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Erklärt, warum Aktivitäten mit verbleibender Dauer 0 und Status nicht abgeschlossen CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-related_metrics:
-  - "09_metrics_de/11_remaining_duration_zero_status_not_completed/01_overview_template.md"
+primarySearchIntent: "Erklärt, warum Aktivitäten mit verbleibender Dauer 0 und Status nicht abgeschlossen CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+relatedMetrics:
   - "09_metrics_de/11_remaining_duration_zero_status_not_completed/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "09b_blogs_de/01_WHAT A SCHEDULE IS/01_blog.md"
   - "09b_blogs_de/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/11_remaining_duration_zero_status_not_completed/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/11_remaining_duration_zero_status_not_completed/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Aktivitäten mit verbleibender Dauer 0 und Status nicht abgeschlossen
 
 ## Titel
 
@@ -151,7 +155,6 @@ Die Verwaltung dieser Metrik verbessert die Berichtsgenauigkeit, die Fortschritt
 
 Überprüfen Sie Aktivitäten mit der Restdauer = 0 und dem Status „Nicht abgeschlossen“ bei Ihrer nächsten Terminplanaktualisierung. Bestätigen Sie den tatsächlichen Status jeder Aktivität und korrigieren Sie dann das tatsächliche Ende, den Aktivitätsstatus oder die verbleibende Dauer, bevor Sie Berichte ausgeben.
 ## Verwandte Inhalte
-- [Aktivitäten mit verbleibender Dauer 0 und Status nicht abgeschlossen - Überblick](01_overview_template.md)
 - [Aktivitäten mit verbleibender Dauer 0 und Status nicht abgeschlossen - Verbesserungsleitfaden](02_guide_template.md)
 - [Was für ein Terminplan ist](../../09b_blogs_de/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robuste Logik](../../09b_blogs_de/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

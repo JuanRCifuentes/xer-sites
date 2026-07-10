@@ -1,10 +1,10 @@
 ---
 title: "Calendars with Different Start and Finish Times in the Day - Blog Article"
-seo_title: "Calendars with Different Start and Finish Times in the Day in Primavera P6"
-meta_description: "Learn why calendars with different start and finish times in Primavera P6 affects Primavera P6 schedule credibility, CPM logic, float."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Calendars with Different Start and Finish Times in the Day in Primavera P6"
+description: "Learn why calendars with different start and finish times in Primavera P6 affects Primavera P6 schedule credibility, CPM logic, float."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Calendars with Different Start and Finish Times in the Day"
   - "Primavera P6 Calendars with Different Start and Finish Times in the Day"
@@ -13,27 +13,31 @@ keywords:
   - "CPM schedule logic"
   - "Primavera P6 calendars"
   - "Primavera P6 blog"
-slug: "blog-article-calendars-with-different-start-finish-time-in-day-primavera-p6"
+slug: "en/blog/calendars-with-different-start-finish-time-in-day-primavera-p6"
 language: "en"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Primavera P6 Calendars"
 audience:
   - "Planning engineers"
   - "Project managers"
   - "PMO teams"
-primary_search_intent: "Explain this Primavera P6 schedule quality topic in a practical blog format."
-related_metrics:
-  - "01_metrics_en/20_calendars_with_different_start_finish_time_in_day/01_overview_template.md"
+primarySearchIntent: "Explain this Primavera P6 schedule quality topic in a practical blog format."
+relatedMetrics:
   - "01_metrics_en/20_calendars_with_different_start_finish_time_in_day/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
   - "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: ""
-canonical_url: ""
-last_reviewed: "2026-06-26"
+translationOf: ""
+canonicalUrl: ""
+lastReviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
-# Calendars with Different Start and Finish Times in Primavera P6
 
 Calendars are one of the quiet drivers of a Primavera P6 schedule. They define when work can happen, how durations convert into dates, and how relationships move activities through time. Because calendars often sit behind the scenes, small differences in daily start and finish times can create schedule behavior that is hard to see in normal layouts.
 
@@ -60,7 +64,6 @@ The target threshold for this metric should be zero unexplained calendars. Some 
 Cleaning up this metric improves schedule transparency. It helps teams avoid hidden partial-day effects, misleading float, and unexplained date movement. It also makes the schedule easier to audit because calendar assumptions are no longer buried inside the file. For project controls teams, that is a small review with a big payoff.
 
 ## Related Content
-- [Overview](01_overview_template.md)
 - [Improvement Guide](02_guide_template.md)
 - [What A Schedule Is](../../01b_blogs_en/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robust Logic](../../01b_blogs_en/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

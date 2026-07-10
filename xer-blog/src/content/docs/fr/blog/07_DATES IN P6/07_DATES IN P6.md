@@ -1,11 +1,10 @@
 ---
 title: "Dattes en P6"
-seo_title: "Dattes en P6 - Primavera P6"
-meta_description: "Comprendre Dattes en P6 dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
+seoTitle: "Dattes en P6 - Primavera P6"
 description: "Comprendre Dattes en P6 dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Dattes en P6"
   - "Primavera P6 Dattes en P6"
@@ -16,7 +15,7 @@ keywords:
   - "revue de planning"
 slug: "fr/blog/dates-in-p6"
 language: "fr"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Planification Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Planificateurs"
   - "Ordonnanceurs"
   - "Équipes de contrôle projet"
-primary_search_intent: "Comprendre Dattes en P6 dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
-related_metrics:
-  - "08_metrics_fr/12_actual_date_greater_than_data_date/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Comprendre Dattes en P6 dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
+relatedMetrics:
+  - "08_metrics_fr/12_actual_date_greater_than_data_date/02_guide_template.md"
+relatedBlogs:
   - "08b_blogs_fr/06_DURATION TYPES IN P6/06_DURATION TYPES IN P6.md"
   - "08b_blogs_fr/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
-translation_of: "01b_blogs_en/07_DATES IN P6/07_DATES IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/07_DATES IN P6/07_DATES IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Dattes en P6
 
 Les dates dans Primavera P6 peuvent prêter à confusion car une activité n'a pas qu'une seule date de début et une seule date de fin. Il peut avoir des dates planifiées, des dates planifiées actuelles, des dates anticipées, des dates tardives, des dates réelles, des dates de référence, des dates contraintes, des dates prévues et parfois des dates externes ou liées aux prévisions en fonction de la mise en page et des paramètres du projet.
 

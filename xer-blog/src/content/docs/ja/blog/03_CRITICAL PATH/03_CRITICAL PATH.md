@@ -1,11 +1,10 @@
 ---
 title: "クリティカル パス"
-seo_title: "クリティカル パス - Primavera P6"
-meta_description: "Primavera P6における「クリティカル パス」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+seoTitle: "クリティカル パス - Primavera P6"
 description: "Primavera P6における「クリティカル パス」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "クリティカル パス"
   - "Primavera P6 クリティカル パス"
@@ -16,7 +15,7 @@ keywords:
   - "スケジュールレビュー"
 slug: "ja/blog/critical-path-in-primavera-p6"
 language: "ja"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 スケジューリング"
@@ -24,18 +23,17 @@ audience:
   - "計画エンジニア"
   - "スケジューラー"
   - "プロジェクトコントロールチーム"
-primary_search_intent: "Primavera P6における「クリティカル パス」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
-related_metrics:
-  - "12_metrics_jp/09_cp_or_float_path_starting_with_constraint/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6における「クリティカル パス」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+relatedMetrics:
+  - "12_metrics_jp/09_cp_or_float_path_starting_with_constraint/02_guide_template.md"
+relatedBlogs:
   - "12b_blogs_jp/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
   - "12b_blogs_jp/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
-translation_of: "01b_blogs_en/03_CRITICAL PATH/03_CRITICAL PATH.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/03_CRITICAL PATH/03_CRITICAL PATH.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# クリティカル パス
 
 クリティカル パスは、スケジュール内の依存アクティビティの最長シーケンスです。これにより、プロジェクトの最短期間が決定され、プロジェクトの終了日が直接定義されます。
 

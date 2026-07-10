@@ -1,11 +1,10 @@
 ---
 title: "Criticality Matrix"
-seo_title: "Criticality Matrix in Primavera P6"
-meta_description: "Learn criticality matrix for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
+seoTitle: "Criticality Matrix in Primavera P6"
 description: "Learn criticality matrix for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Criticality Matrix"
   - "Primavera P6 Criticality Matrix"
@@ -16,7 +15,7 @@ keywords:
   - "Primavera P6 blog"
 slug: "en/blog/criticality-matrix-in-primavera-p6"
 language: "en"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Critical Path Method"
@@ -24,18 +23,17 @@ audience:
   - "Planning engineers"
   - "Project managers"
   - "PMO teams"
-primary_search_intent: "Understand criticality matrix and how it supports Primavera P6 schedule quality and project controls decisions."
-related_metrics:
-  - "01_metrics_en/09_cp_or_float_path_starting_with_constraint/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Understand criticality matrix and how it supports Primavera P6 schedule quality and project controls decisions."
+relatedMetrics:
+  - "01_metrics_en/09_cp_or_float_path_starting_with_constraint/02_guide_template.md"
+relatedBlogs:
   - "01b_blogs_en/03_CRITICAL PATH/03_CRITICAL PATH.md"
   - "01b_blogs_en/05_ACTIVITY TYPES IN P6/05_ACTIVITY TYPES IN P6.md"
-translation_of: ""
-canonical_url: ""
-last_reviewed: "2026-06-26"
+translationOf: ""
+canonicalUrl: ""
+lastReviewed: "2026-06-26"
 pubDate: "2026-06-26"
 ---
-# Criticality Matrix
 
 A criticality matrix is a visual or analytical method used to classify and prioritize project activities based on how critical they are to project completion. In a Primavera P6 context, it helps project managers, planners, and PMO reviewers identify which activities create the greatest schedule risk.
 

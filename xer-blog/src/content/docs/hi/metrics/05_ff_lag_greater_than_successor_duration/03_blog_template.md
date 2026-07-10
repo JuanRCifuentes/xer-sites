@@ -1,10 +1,10 @@
 ---
 title: "उत्तराधिकारी अवधि से अधिक अंतराल के साथ एफएफ संबंध"
-seo_title: "उत्तराधिकारी अवधि से अधिक अंतराल के साथ एफएफ संबंध - Primavera P6"
-meta_description: "समझें कि उत्तराधिकारी अवधि से अधिक अंतराल के साथ एफएफ संबंध Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "उत्तराधिकारी अवधि से अधिक अंतराल के साथ एफएफ संबंध - Primavera P6"
+description: "समझें कि उत्तराधिकारी अवधि से अधिक अंतराल के साथ एफएफ संबंध Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "उत्तराधिकारी अवधि से अधिक अंतराल के साथ एफएफ संबंध"
   - "Primavera P6 उत्तराधिकारी अवधि से अधिक अंतराल के साथ एफएफ संबंध"
@@ -13,27 +13,31 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-blog-article-ff-lag-greater-than-successor-duration-primavera-p6"
+slug: "hi/blog/ff-lag-greater-than-successor-duration-primavera-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "शेड्यूल गुणवत्ता"
 audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "समझें कि उत्तराधिकारी अवधि से अधिक अंतराल के साथ एफएफ संबंध Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-related_metrics:
-  - "05_metrics_hi/05_ff_lag_greater_than_successor_duration/01_overview_template.md"
+primarySearchIntent: "समझें कि उत्तराधिकारी अवधि से अधिक अंतराल के साथ एफएफ संबंध Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+relatedMetrics:
   - "05_metrics_hi/05_ff_lag_greater_than_successor_duration/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "05_blogs_hi/01_WHAT A SCHEDULE IS/01_blog.md"
   - "05_blogs_hi/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/05_ff_lag_greater_than_successor_duration/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/05_ff_lag_greater_than_successor_duration/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# उत्तराधिकारी अवधि से अधिक अंतराल के साथ एफएफ संबंध
 
 ## शीर्षक
 
@@ -146,7 +150,6 @@ last_reviewed: "2026-07-02"
 
 आपके अगले प्रिमावेरा पी6 शेड्यूल अपडेट में एफएफ रिश्तों की समीक्षा करें जहां अंतराल उत्तराधिकारी अवधि से अधिक है। प्रत्येक से पूछें कि क्या रिश्ता वास्तव में समाप्ति पर आधारित है। यदि ऐसा नहीं है, तो इसे स्पष्ट तर्क से बदलें या प्रतीक्षा अवधि को सीधे मॉडल करें।
 ## संबंधित सामग्री
-- [उत्तराधिकारी अवधि से अधिक अंतराल के साथ एफएफ संबंध - अवलोकन](01_overview_template.md)
 - [उत्तराधिकारी अवधि से अधिक अंतराल के साथ एफएफ संबंध - सुधार मार्गदर्शिका](02_guide_template.md)
 - [शेड्यूल क्या है](../../05_blogs_hi/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [मजबूत तर्क](../../05_blogs_hi/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

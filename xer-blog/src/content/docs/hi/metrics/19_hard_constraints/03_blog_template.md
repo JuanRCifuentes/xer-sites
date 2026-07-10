@@ -1,10 +1,10 @@
 ---
 title: "प्रिमावेरा पी6 में कठिन बाधाएँ"
-seo_title: "प्रिमावेरा पी6 में कठिन बाधाएँ - Primavera P6"
-meta_description: "समझें कि प्रिमावेरा पी6 में कठिन बाधाएँ Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "प्रिमावेरा पी6 में कठिन बाधाएँ - Primavera P6"
+description: "समझें कि प्रिमावेरा पी6 में कठिन बाधाएँ Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "प्रिमावेरा पी6 में कठिन बाधाएँ"
   - "Primavera P6 प्रिमावेरा पी6 में कठिन बाधाएँ"
@@ -13,27 +13,31 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-blog-article-hard-constraints-primavera-p6"
+slug: "hi/blog/hard-constraints-primavera-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "शेड्यूल गुणवत्ता"
 audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "समझें कि प्रिमावेरा पी6 में कठिन बाधाएँ Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-related_metrics:
-  - "05_metrics_hi/19_hard_constraints/01_overview_template.md"
+primarySearchIntent: "समझें कि प्रिमावेरा पी6 में कठिन बाधाएँ Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+relatedMetrics:
   - "05_metrics_hi/19_hard_constraints/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "05_blogs_hi/01_WHAT A SCHEDULE IS/01_blog.md"
   - "05_blogs_hi/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/19_hard_constraints/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/19_hard_constraints/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# प्रिमावेरा पी6 में कठिन बाधाएँ
 
 बाधाएँ स्वतः ग़लत नहीं होतीं। एक वास्तविक प्रोजेक्ट शेड्यूल में, कुछ तारीखें अनुबंध, परमिट, एक्सेस विंडो, शटडाउन अवधि, नियामक आवश्यकताओं या ग्राहक निर्णयों द्वारा लगाई जाती हैं। समस्या तब शुरू होती है जब बाधाएं शेड्यूल लॉजिक के लिए शॉर्टकट बन जाती हैं।
 
@@ -59,7 +63,6 @@ last_reviewed: "2026-07-02"
 
 कठिन बाधाओं को दूर करने से शेड्यूल की विश्वसनीयता में सुधार होता है। यह सीपीएम नेटवर्क को अपना काम करने की अनुमति देता है, फ्लोट वैल्यू की व्याख्या करना आसान बनाता है, और प्रोजेक्ट टीमों को यह स्पष्ट दृष्टिकोण देता है कि वास्तव में काम को क्या चला रहा है। कम अस्पष्टीकृत कठिन बाधाओं वाले शेड्यूल पर आमतौर पर भरोसा करना आसान होता है, समीक्षा करना आसान होता है और बचाव करना आसान होता है।
 ## संबंधित सामग्री
-- [प्रिमावेरा पी6 में कठिन बाधाएँ - अवलोकन](01_overview_template.md)
 - [प्रिमावेरा पी6 में कठिन बाधाएँ - सुधार मार्गदर्शिका](02_guide_template.md)
 - [शेड्यूल क्या है](../../05_blogs_hi/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [मजबूत तर्क](../../05_blogs_hi/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

@@ -1,11 +1,10 @@
 ---
 title: "Planning and Project Controls Glossary for Primavera P6"
-seo_title: "Planning and Project Controls Glossary for Primavera P6"
-meta_description: "A practical glossary of Primavera P6, CPM scheduling, project planning, and project controls terms for planners, schedulers, project managers, and PMO teams."
+seoTitle: "Planning and Project Controls Glossary for Primavera P6"
 description: "A practical glossary of Primavera P6, CPM scheduling, project planning, and project controls terms for planners, schedulers, project managers, and PMO teams."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Primavera P6 glossary"
   - "project controls glossary"
@@ -17,7 +16,7 @@ keywords:
   - "critical path method glossary"
 slug: "en/blog/primavera-p6-glossary"
 language: "en"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 and Project Controls"
@@ -27,18 +26,17 @@ audience:
   - "Schedulers"
   - "Project managers"
   - "PMO teams"
-primary_search_intent: "Understand common Primavera P6, CPM scheduling, planning, and project controls terminology."
-related_metrics:
+primarySearchIntent: "Understand common Primavera P6, CPM scheduling, planning, and project controls terminology."
+relatedMetrics:
   - "01_metrics_en"
-related_blogs:
+relatedBlogs:
   - "01b_blogs_en"
-translation_of: ""
-canonical_url: ""
-last_reviewed: "2026-07-07"
+translationOf: ""
+canonicalUrl: ""
+lastReviewed: "2026-07-07"
 pubDate: "2026-07-07"
 ---
 
-# Planning and Project Controls Glossary for Primavera P6
 
 This glossary defines common planning, scheduling, and project controls terms used in Primavera P6 schedule development, schedule quality assessment, PMO reviews, and project reporting. The descriptions are written for mixed-experience readers, from junior planners to experienced project controls professionals.
 

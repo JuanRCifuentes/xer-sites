@@ -1,10 +1,10 @@
 ---
 title: "Primavera P6에서 SF 선배들과 함께하는 업무 활동"
-seo_title: "Primavera P6에서 SF 선배들과 함께하는 업무 활동"
-meta_description: "Primavera P6에서 SF 선배들과 함께하는 업무 활동가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Primavera P6에서 SF 선배들과 함께하는 업무 활동"
+description: "Primavera P6에서 SF 선배들과 함께하는 업무 활동가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Primavera P6에서 SF 선배들과 함께하는 업무 활동"
   - "Primavera P6에서 SF 선배들과 함께하는 업무 활동"
@@ -13,27 +13,31 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-blog-article-task-with-sf-predecessor-primavera-p6"
+slug: "ko/blog/task-with-sf-predecessor-primavera-p6"
 language: "ko"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "공정표 품질"
 audience:
   - "계획 엔지니어"
   - "스케줄러"
   - "프로젝트 통제 팀"
-primary_search_intent: "Primavera P6에서 SF 선배들과 함께하는 업무 활동가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
-related_metrics:
-  - "10_metrics_ko/15_task_with_sf_predecessor/01_overview_template.md"
+primarySearchIntent: "Primavera P6에서 SF 선배들과 함께하는 업무 활동가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
+relatedMetrics:
   - "10_metrics_ko/15_task_with_sf_predecessor/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "10b_blogs_ko/01_WHAT A SCHEDULE IS/01_blog.md"
   - "10b_blogs_ko/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/15_task_with_sf_predecessor/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/15_task_with_sf_predecessor/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Primavera P6에서 SF 선배들과 함께하는 업무 활동
 
 시작부터 끝까지 관계는 CPM 예약에서 가장 흔하지 않은 관계 유형 중 하나입니다. Primavera P6에서 SF 관계는 선행 활동이 시작될 때까지 후속 활동을 완료할 수 없음을 의미합니다. 이는 특이한 경우에는 유효할 수 있지만 대부분의 프로젝트 작업 순서는 그렇지 않습니다.
 
@@ -63,7 +67,6 @@ P6에서 가장 좋은 검토 방법은 활동 ID, 활동 이름, WBS, 활동 �
 
 SF 선배들과 함께하는 업무 활동은 작지만 중요한 신호다. 그들은 종종 복사된 논리, 강제 날짜 또는 불분명한 순서를 지적합니다. 이를 검토하면 해당 약점이 보고 문제가 되기 전에 프로젝트 팀이 논리 네트워크를 정리하는 데 도움이 됩니다.
 ## 관련 콘텐츠
-- [Primavera P6에서 SF 선배들과 함께하는 업무 활동 - 개요](01_overview_template.md)
 - [Primavera P6에서 SF 선배들과 함께하는 업무 활동 - 개선 가이드](02_guide_template.md)
 - [일정이란 무엇입니까?](../../10b_blogs_ko/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [견고한 논리](../../10b_blogs_ko/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

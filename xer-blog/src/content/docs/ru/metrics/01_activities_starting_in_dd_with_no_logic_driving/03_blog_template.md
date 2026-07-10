@@ -1,10 +1,10 @@
 ---
 title: "Действия, начинающиеся с даты данных, без управляющей логики"
-seo_title: "Действия, начинающиеся с даты данных, без управляющей логики - Primavera P6"
-meta_description: "Поясняет, почему Действия, начинающиеся с даты данных, без управляющей логики"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Действия, начинающиеся с даты данных, без управляющей логики - Primavera P6"
+description: "Поясняет, почему Действия, начинающиеся с даты данных, без управляющей логики"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Действия, начинающиеся с даты данных, без управляющей логики"
   - "Primavera P6 Действия, начинающиеся с даты данных, без управляющей логики"
@@ -13,27 +13,31 @@ keywords:
   - "проектный контроль"
   - "CPM-логика"
   - "анализ графика"
-slug: "ru-blog-article-activities-starting-on-the-data-date-with-no-logic-driving-primavera-p6"
+slug: "ru/blog/activities-starting-on-the-data-date-with-no-logic-driving-primavera-p6"
 language: "ru"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Качество графика"
 audience:
   - "Планировщики"
   - "Специалисты по графикам"
   - "Команды проектного контроля"
-primary_search_intent: "Поясняет, почему Действия, начинающиеся с даты данных, без управляющей логики: почему этот показатель графика имеет значение влияет на CPM-логику, резерв времени и надежность графика в Primavera P6."
-related_metrics:
-  - "07_metrics_ru/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
+primarySearchIntent: "Поясняет, почему Действия, начинающиеся с даты данных, без управляющей логики: почему этот показатель графика имеет значение влияет на CPM-логику, резерв времени и надежность графика в Primavera P6."
+relatedMetrics:
   - "07_metrics_ru/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "07b_blogs_ru/01_WHAT A SCHEDULE IS/01_blog.md"
   - "07b_blogs_ru/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/03_blog_template.md"
-canonical_url: ""
-last_проверкуed: "2026-07-02"
+translationOf: "01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Действия, начинающиеся с даты данных, без управляющей логики
 
 ## Заголовок
 
@@ -173,7 +177,6 @@ last_проверкуed: "2026-07-02"
 
 Просмотрите последнее обновление графика Primavera P6 и отфильтруйте открытые или неначатые действия, начиная с Даты данных. Каждому задайте простой вопрос: что движет этим началом? Если ответ не ясен, исправьте логику или задокументируйте исключение до выпуска графика.
 ## Связанные материалы
-- [Действия, начинающиеся с даты данных, без управляющей логики: почему этот показатель графика имеет значение - Обзор](01_overview_template.md)
 - [Действия, начинающиеся с даты данных, без управляющей логики: почему этот показатель графика имеет значение - Руководство по улучшению](02_guide_template.md)
 - [Что такое график](../../07b_blogs_ru/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Надежная логика](../../07b_blogs_ru/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

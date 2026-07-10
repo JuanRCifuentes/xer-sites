@@ -1,37 +1,41 @@
 ---
 title: "Activity Started with Zero Progress - Improvement Guide"
-seo_title: "How to Fix Activity Started with Zero Progress in Primavera P6"
-meta_description: "Identify and correct activity started with zero progress in Primavera P6 using schedule logic checks, validation, and reassessment steps."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "How to Fix Activity Started with Zero Progress in Primavera P6"
+description: "Identify and correct activity started with zero progress in Primavera P6 using schedule logic checks, validation, and reassessment steps."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Activity Started with Zero Progress"
   - "Primavera P6 Activity Started with Zero Progress"
   - "schedule quality"
   - "project controls"
   - "CPM schedule logic"
-slug: "improvement-guide-activity-started-progress-zero-primavera-p6"
+slug: "en/metrics/activity-started-progress-zero-primavera-p6-improvement-guide"
 language: "en"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "Schedule Quality"
 audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "Learn how to improve this Primavera P6 schedule quality result."
-related_metrics:
-  - "01_metrics_en/13_activity_started_progress_zero/01_overview_template.md"
+primarySearchIntent: "Learn how to improve this Primavera P6 schedule quality result."
+relatedMetrics:
   - "01_metrics_en/13_activity_started_progress_zero/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
   - "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: ""
-canonical_url: ""
-last_reviewed: "2026-06-26"
+translationOf: ""
+canonicalUrl: ""
+lastReviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
-# Activity Started with Zero Progress - Improvement Guide
 ## Purpose
 
 This guide helps schedulers review and correct activities where Activity Status is Started but progress is 0%. It supports cleaner Primavera P6 updates by aligning actual start, activity status, percent complete, and remaining duration.
@@ -167,7 +171,6 @@ Review this metric during every update cycle before issuing reports. It should b
 - [ ] Next steps documented
 
 ## Related Content
-- [Overview](01_overview_template.md)
 - [Blog Article](03_blog_template.md)
 - [What A Schedule Is](../../01b_blogs_en/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robust Logic](../../01b_blogs_en/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

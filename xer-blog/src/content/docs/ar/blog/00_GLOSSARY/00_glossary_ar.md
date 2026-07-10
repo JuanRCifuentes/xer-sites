@@ -1,11 +1,10 @@
 ---
 title: "مسرد التخطيط وضوابط المشروع لبرنامج Primavera P6"
-seo_title: "مسرد التخطيط وضوابط المشروع لبرنامج Primavera P6"
-meta_description: "مسرد عملي لـ Primavera P6، وجدولة CPM، وتخطيط المشاريع، ومصطلحات التحكم في المشروع للمخططين، والمجدولين، ومديري المشاريع، وفرق PMO."
+seoTitle: "مسرد التخطيط وضوابط المشروع لبرنامج Primavera P6"
 description: "مسرد عملي لـ Primavera P6، وجدولة CPM، وتخطيط المشاريع، ومصطلحات التحكم في المشروع للمخططين، والمجدولين، ومديري المشاريع، وفرق PMO."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "مسرد Primavera P6"
   - "مسرد ضوابط المشروع"
@@ -17,7 +16,7 @@ keywords:
   - "مسرد طريقة المسار الحرج"
 slug: "ar/blog/primavera-p6-glossary"
 language: "ar"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "بريمافيرا P6 وضوابط المشروع"
@@ -27,17 +26,16 @@ audience:
   - "المجدولون"
   - "مديرو المشاريع"
   - "فرق مكتب إدارة المشاريع"
-primary_search_intent: "فهم مصطلحات Primavera P6 وCPM الشائعة والتخطيط ومصطلحات التحكم في المشروع."
-related_metrics:
+primarySearchIntent: "فهم مصطلحات Primavera P6 وCPM الشائعة والتخطيط ومصطلحات التحكم في المشروع."
+relatedMetrics:
   - "04_metrics_ar"
-related_blogs:
+relatedBlogs:
   - "04b_blogs_ar"
-translation_of: "01b_blogs_en/00_GLOSSARY/00_glossary_en.md"
-canonical_url: ""
-last_reviewed: "2026-07-07"
+translationOf: "01b_blogs_en/00_GLOSSARY/00_glossary_en.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-07"
 pubDate: "2026-07-07"
 ---
-# مسرد التخطيط وضوابط المشروع لبرنامج Primavera P6
 
 يحدد هذا المسرد مصطلحات التخطيط والجدولة وضوابط المشروع الشائعة المستخدمة في تطوير جدول Primavera P6 وتقييم جودة الجدول الزمني ومراجعات مكتب إدارة المشاريع وإعداد تقارير المشروع. تمت كتابة الأوصاف للقراء ذوي الخبرة المختلطة، بدءًا من المخططين المبتدئين وحتى المتخصصين ذوي الخبرة في التحكم في المشروع.
 

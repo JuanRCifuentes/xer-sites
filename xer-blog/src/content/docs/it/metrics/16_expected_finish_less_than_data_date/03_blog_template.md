@@ -1,10 +1,10 @@
 ---
 title: "Fine prevista prima della data di aggiornamento in Primavera P6"
-seo_title: "Fine prevista prima della data di aggiornamento in Primavera P6"
-meta_description: "Spiega perché Fine prevista prima della data di aggiornamento in Primavera P6 influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Fine prevista prima della data di aggiornamento in Primavera P6"
+description: "Spiega perché Fine prevista prima della data di aggiornamento in Primavera P6 influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Fine prevista prima della data di aggiornamento in Primavera P6"
   - "Primavera P6 Fine prevista prima della data di aggiornamento in Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "controllo progetto"
   - "logica CPM"
   - "revisione del cronoprogramma"
-slug: "it-blog-article-expected-finish-less-than-data-date-primavera-p6"
+slug: "it/blog/expected-finish-less-than-data-date-primavera-p6"
 language: "it"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Qualità del cronoprogramma"
 audience:
   - "Pianificatori"
   - "Scheduler"
   - "Team di controllo progetto"
-primary_search_intent: "Spiega perché Fine prevista prima della data di aggiornamento in Primavera P6 influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
-related_metrics:
-  - "11_metrics_it/16_expected_finish_less_than_data_date/01_overview_template.md"
+primarySearchIntent: "Spiega perché Fine prevista prima della data di aggiornamento in Primavera P6 influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
+relatedMetrics:
   - "11_metrics_it/16_expected_finish_less_than_data_date/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "11b_blogs_it/01_WHAT A SCHEDULE IS/01_blog.md"
   - "11b_blogs_it/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/16_expected_finish_less_than_data_date/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/16_expected_finish_less_than_data_date/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Fine prevista prima della data di aggiornamento in Primavera P6
 
 La Data Data è la linea tra ciò che è accaduto e ciò che è ancora previsto. In un aggiornamento della pianificazione pulito, le informazioni sullo stato prima della data di aggiornamento dovrebbero essere risolte come progresso effettivo, mentre il lavoro rimanente dovrebbe essere previsto dalla data di aggiornamento in avanti. Quando un'attività ha una Fine prevista prima della data di aggiornamento, quel confine diventa sfocato.
 
@@ -59,7 +63,6 @@ La soglia target dovrebbe essere pari a zero attività irrisolte. Ciò non signi
 
 La pulizia di questa metrica migliora la credibilità della pianificazione. Aiuta il team a mantenere un chiaro confine di aggiornamento, a distinguere le prestazioni effettive dal lavoro previsto ed evitare risultati look-ahead o fluttuanti fuorvianti. Nelle revisioni PMO, mostra anche che l'aggiornamento della pianificazione non è stato solo calcolato, ma effettivamente controllato per verificarne la coerenza dello stato.
 ## Contenuti correlati
-- [Fine prevista prima della data di aggiornamento in Primavera P6 - Panoramica](01_overview_template.md)
 - [Fine prevista prima della data di aggiornamento in Primavera P6 - Guida al miglioramento](02_guide_template.md)
 - [Cos'è un cronoprogramma](../../11b_blogs_it/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logica robusta](../../11b_blogs_it/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

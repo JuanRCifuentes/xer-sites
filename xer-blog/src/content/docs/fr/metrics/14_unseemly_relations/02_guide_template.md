@@ -1,10 +1,10 @@
 ---
 title: "Relations inconvenantes dans Primavera P6 - Guide d’amélioration"
-seo_title: "Relations inconvenantes dans Primavera P6 - Guide d’amélioration"
-meta_description: "Apprenez à corriger Relations inconvenantes dans Primavera P6"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Relations inconvenantes dans Primavera P6 - Guide d’amélioration"
+description: "Apprenez à corriger Relations inconvenantes dans Primavera P6"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Relations inconvenantes dans Primavera P6"
   - "Primavera P6 Relations inconvenantes dans Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-improvement-guide-unusual-relationships-primavera-p6"
+slug: "fr/metrics/unusual-relationships-primavera-p6-improvement-guide"
 language: "fr"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "Qualité du planning"
 audience:
   - "Planificateurs"
   - "Ordonnanceurs"
   - "Équipes de contrôle projet"
-primary_search_intent: "Apprenez à corriger Relations inconvenantes dans Primavera P6 : jalons, LOE et vérifications du type de relation dans Primavera P6 avec des contrôles de logique, de validation et de réévaluation."
-related_metrics:
-  - "08_metrics_fr/14_unusual_relations/01_overview_template.md"
+primarySearchIntent: "Apprenez à corriger Relations inconvenantes dans Primavera P6 : jalons, LOE et vérifications du type de relation dans Primavera P6 avec des contrôles de logique, de validation et de réévaluation."
+relatedMetrics:
   - "08_metrics_fr/14_unusual_relations/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "08b_blogs_fr/01_WHAT A SCHEDULE IS/01_blog.md"
   - "08b_blogs_fr/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/14_unseemly_relations/02_guide_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/14_unseemly_relations/02_guide_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Relations inconvenantes dans Primavera P6 - Guide d’amélioration
 
 ## But
 
@@ -181,7 +185,6 @@ Examinez cette mesure lors de chaque cycle de mise à jour et avant l’approbat
 - [ ] Évaluation répétée
 - [ ] Prochaines étapes documentées
 ## Contenu associé
-- [01_overview_template](../14_unusual_relations/01_overview_template.md)
 - [03_blog_template](../14_unusual_relations/03_blog_template.md)
 - [Qu'est-ce qu'un horaire](../../08b_blogs_fr/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logique robuste](../../08b_blogs_fr/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

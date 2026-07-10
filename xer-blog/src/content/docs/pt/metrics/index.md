@@ -19,7 +19,7 @@ hero:
       </svg>
   actions:
     - text: Explorar a primeira métrica
-      link: /pt/metrics/data-date-no-driving-logic-overview/
+      link: /pt/metrics/activities-starting-on-the-data-date-with-no-logic-driving-primavera-p6-improvement-guide/
       icon: right-arrow
       variant: primary
     - text: Ler o blog
@@ -28,12 +28,3 @@ hero:
 sidebar:
   order: 0
 ---
-
-## Atividades Iniciando na Data de Dados sem Lógica Condicionante
-
-Esta métrica identifica atividades abertas ou não iniciadas programadas para iniciar na Data de Dados sem lógica predecessor válida condicionando esse início. Atividades se acumulando no limite da Data de Dados sem lógica distorcem a folga, obscurecem o caminho mais longo e tornam a previsão não confiável. O limite-alvo é 0 atividades.
-
-- [Visão Geral](/pt/metrics/data-date-no-driving-logic-overview/) — o que a métrica mede, seu limite e por que importa para a credibilidade do cronograma.
-- [Guia de Melhoria](/pt/metrics/data-date-no-driving-logic-improvement-guide/) — como programadores e equipes de controle de projetos resolvem atividades sinalizadas durante revisões de qualidade e ciclos de atualização.
-
-Para a versão narrativa de por que esta métrica importa, leia o artigo relacionado do blog: [Atividades Iniciando na Data de Dados sem Lógica Condicionante](/pt/blog/activities-starting-on-data-date-no-driving-logic/).

@@ -1,10 +1,10 @@
 ---
 title: "残り期間が 0 でステータスが未完了のアクティビティ"
-seo_title: "残り期間が 0 でステータスが未完了のアクティビティ - Primavera P6"
-meta_description: "「残り期間が 0 でステータスが未完了のアクティビティ」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "残り期間が 0 でステータスが未完了のアクティビティ - Primavera P6"
+description: "「残り期間が 0 でステータスが未完了のアクティビティ」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "残り期間が 0 でステータスが未完了のアクティビティ"
   - "Primavera P6 残り期間が 0 でステータスが未完了のアクティビティ"
@@ -13,27 +13,31 @@ keywords:
   - "プロジェクトコントロール"
   - "CPMロジック"
   - "スケジュールレビュー"
-slug: "jp-blog-article-remaining-duration-zero-status-not-completed-primavera-p6"
-language: "jp"
-content_type: "blog"
+slug: "ja/blog/remaining-duration-zero-status-not-completed-primavera-p6"
+language: "ja"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "スケジュール品質"
 audience:
   - "計画エンジニア"
   - "スケジューラー"
   - "プロジェクトコントロールチーム"
-primary_search_intent: "「残り期間が 0 でステータスが未完了のアクティビティ」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
-related_metrics:
-  - "12_metrics_jp/11_remaining_duration_zero_status_not_completed/01_overview_template.md"
+primarySearchIntent: "「残り期間が 0 でステータスが未完了のアクティビティ」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
+relatedMetrics:
   - "12_metrics_jp/11_remaining_duration_zero_status_not_completed/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "12b_blogs_jp/01_WHAT A SCHEDULE IS/01_blog.md"
   - "12b_blogs_jp/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/11_remaining_duration_zero_status_not_completed/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/11_remaining_duration_zero_status_not_completed/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# 残り期間が 0 でステータスが未完了のアクティビティ
 
 ## タイトル
 
@@ -151,7 +155,6 @@ Primavera P6 のスケジュール更新は、一貫したステータス デー
 
 次回のスケジュール更新時に、残り期間 = 0 でステータスが「完了」でないアクティビティを確認します。各アクティビティの実際のステータスを確認し、実際の終了、アクティビティのステータス、または残りの期間を修正してからレポートを発行します。
 ## 関連コンテンツ
-- [残り期間が 0 でステータスが未完了のアクティビティ - 概要](01_overview_template.md)
 - [残り期間が 0 でステータスが未完了のアクティビティ - 改善ガイド](02_guide_template.md)
 - [スケジュールとは](../../12b_blogs_jp/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [堅牢なロジック](../../12b_blogs_jp/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

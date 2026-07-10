@@ -1,11 +1,10 @@
 ---
 title: "Limites de Recursos en P6"
-seo_title: "Limites de Recursos en P6 - Primavera P6"
-meta_description: "Aprende Limites de Recursos en P6 en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
+seoTitle: "Limites de Recursos en P6 - Primavera P6"
 description: "Aprende Limites de Recursos en P6 en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Limites de Recursos en P6"
   - "Primavera P6 Limites de Recursos en P6"
@@ -16,7 +15,7 @@ keywords:
   - "revisión del cronograma"
 slug: "es/blog/resource-limits-in-primavera-p6"
 language: "es"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Planificación en Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Planificadores"
   - "Schedulers"
   - "Equipos de control de proyectos"
-primary_search_intent: "Aprende Limites de Recursos en P6 en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
-related_metrics:
-  - "02_metrics_es/13_activity_started_progress_zero/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Aprende Limites de Recursos en P6 en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
+relatedMetrics:
+  - "02_metrics_es/13_activity_started_progress_zero/02_guide_template.md"
+relatedBlogs:
   - "02b_blogs_es/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
   - "02b_blogs_es/14_RESOURCES BALANCING IN P6/14_RESOURCES BALANCING IN P6.md"
-translation_of: "01b_blogs_en/13_RESOURCES LIMITS IN P6/13_RESOURCES LIMITS IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/13_RESOURCES LIMITS IN P6/13_RESOURCES LIMITS IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Limites de Recursos en P6
 
 Los limites de recursos en Primavera P6 definen cuanto de un recurso esta disponible durante un periodo de tiempo. Se usan para comparar la demanda de recursos creada por las asignaciones de actividades contra la capacidad que el proyecto realmente tiene.
 

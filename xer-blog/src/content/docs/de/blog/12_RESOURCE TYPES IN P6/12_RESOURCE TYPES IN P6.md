@@ -1,11 +1,10 @@
 ---
 title: "Ressourcentypen in P6"
-seo_title: "Ressourcentypen in P6 - Primavera P6"
-meta_description: "Lernen Sie Ressourcentypen in P6 in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+seoTitle: "Ressourcentypen in P6 - Primavera P6"
 description: "Lernen Sie Ressourcentypen in P6 in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Ressourcentypen in P6"
   - "Primavera P6 Ressourcentypen in P6"
@@ -16,7 +15,7 @@ keywords:
   - "Terminplanprüfung"
 slug: "de/blog/resource-types-in-p6"
 language: "de"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Terminplanung in Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Lernen Sie Ressourcentypen in P6 in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
-related_metrics:
-  - "09_metrics_de/13_activity_started_progress_zero/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Lernen Sie Ressourcentypen in P6 in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+relatedMetrics:
+  - "09_metrics_de/13_activity_started_progress_zero/02_guide_template.md"
+relatedBlogs:
   - "09b_blogs_de/11_WHERE THE COST LIVE IN P6/11_WHERE THE COST LIVE IN P6.md"
   - "09b_blogs_de/13_RESOURCES LIMITS IN P6/13_RESOURCES LIMITS IN P6.md"
-translation_of: "01b_blogs_en/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Ressourcentypen in P6
 
 Ressourcen in Primavera P6 stellen die Personen, Geräte und Materialien dar, die zur Ausführung der Arbeit erforderlich sind. Sie verknüpfen den Terminplan mit Kapazität, Produktivität, Kosten und Ressourcenbedarf im Laufe der Zeit.
 

@@ -1,10 +1,10 @@
 ---
 title: "تقاويم بأوقات بداية ونهاية مختلفة في بريمافيرا P6"
-seo_title: "تقاويم بأوقات بداية ونهاية مختلفة في بريمافيرا P6 - Primavera P6"
-meta_description: "يوضح لماذا يؤثر تقاويم بأوقات بداية ونهاية مختلفة في بريمافيرا P6 على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "تقاويم بأوقات بداية ونهاية مختلفة في بريمافيرا P6 - Primavera P6"
+description: "يوضح لماذا يؤثر تقاويم بأوقات بداية ونهاية مختلفة في بريمافيرا P6 على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "تقاويم بأوقات بداية ونهاية مختلفة في بريمافيرا P6"
   - "Primavera P6 تقاويم بأوقات بداية ونهاية مختلفة في بريمافيرا P6"
@@ -13,27 +13,31 @@ keywords:
   - "ضبط المشاريع"
   - "منطق CPM"
   - "مراجعة الجدول"
-slug: "ar-blog-article-calendars-with-different-start-finish-time-in-day-primavera-p6"
+slug: "ar/blog/calendars-with-different-start-finish-time-in-day-primavera-p6"
 language: "ar"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "جودة الجدول الزمني"
 audience:
   - "مهندسو التخطيط"
   - "المجدولون"
   - "فرق ضبط المشاريع"
-primary_search_intent: "يوضح لماذا يؤثر تقاويم بأوقات بداية ونهاية مختلفة في بريمافيرا P6 على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
-related_metrics:
-  - "04_metrics_ar/20_calendars_with_different_start_finish_time_in_day/01_overview_template.md"
+primarySearchIntent: "يوضح لماذا يؤثر تقاويم بأوقات بداية ونهاية مختلفة في بريمافيرا P6 على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
+relatedMetrics:
   - "04_metrics_ar/20_calendars_with_different_start_finish_time_in_day/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "04b_blogs_ar/01_WHAT A SCHEDULE IS/01_blog.md"
   - "04b_blogs_ar/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/20_calendars_with_different_start_finish_time_in_day/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/20_calendars_with_different_start_finish_time_in_day/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# تقاويم بأوقات بداية ونهاية مختلفة في بريمافيرا P6
 
 تعد التقويمات أحد المحركات الهادئة لجدول Primavera P6. وهي تحدد متى يمكن أن يحدث العمل، وكيف يتم تحويل الفترات إلى تواريخ، وكيف تحرك العلاقات الأنشطة عبر الزمن. نظرًا لأن التقويمات غالبًا ما تكون خلف الكواليس، فإن الاختلافات الصغيرة في أوقات البدء والانتهاء اليومية يمكن أن تؤدي إلى إنشاء سلوك جدول زمني يصعب رؤيته في التخطيطات العادية.
 
@@ -59,7 +63,6 @@ last_reviewed: "2026-07-02"
 
 يؤدي تنظيف هذا المقياس إلى تحسين شفافية الجدول الزمني. فهو يساعد الفرق على تجنب تأثيرات اليوم الجزئي المخفية، والسماحية الزمنية المضلل، وحركة التاريخ غير المبررة. كما أنه يسهل تدقيق الجدول لأن افتراضات التقويم لم تعد مدفونة داخل الملف. بالنسبة لفرق مراقبة المشروع، تعتبر هذه مراجعة صغيرة ذات مردود كبير.
 ## محتوى ذو صلة
-- [تقاويم بأوقات بداية ونهاية مختلفة في بريمافيرا P6 - نظرة عامة](01_overview_template.md)
 - [تقاويم بأوقات بداية ونهاية مختلفة في بريمافيرا P6 - دليل التحسين](02_guide_template.md)
 - [ما هو الجدول الزمني](../../04b_blogs_ar/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [منطق قوي](../../04b_blogs_ar/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

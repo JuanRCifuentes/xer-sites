@@ -1,11 +1,10 @@
 ---
 title: "CPM (Critical Path Method)"
-seo_title: "CPM (Critical Path Method) - Primavera P6"
-meta_description: "Aprende CPM (Critical Path Method) en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
+seoTitle: "CPM (Critical Path Method) - Primavera P6"
 description: "Aprende CPM (Critical Path Method) en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "CPM (Critical Path Method)"
   - "Primavera P6 CPM (Critical Path Method)"
@@ -16,7 +15,7 @@ keywords:
   - "revisión del cronograma"
 slug: "es/blog/critical-path-method-cpm-primavera-p6"
 language: "es"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Planificación en Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Planificadores"
   - "Schedulers"
   - "Equipos de control de proyectos"
-primary_search_intent: "Aprende CPM (Critical Path Method) en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
-related_metrics:
-  - "02_metrics_es/09_cp_or_float_path_starting_with_restriccion/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Aprende CPM (Critical Path Method) en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
+relatedMetrics:
+  - "02_metrics_es/09_cp_or_float_path_starting_with_restriccion/02_guide_template.md"
+relatedBlogs:
   - "02b_blogs_es/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
   - "02b_blogs_es/17_DEVELOPE A PROJECT SCHEDULE/17_DEVELOPE A PROJECT SCHEDULE.md"
-translation_of: "01b_blogs_en/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# CPM (Critical Path Method)
 
 El Critical Path Method, o CPM, es el metodo de calculo detras de un cronograma serio. Convierte una lista de actividades en un modelo con logica que puede responder preguntas clave: cuando puede terminar el proyecto, que actividades controlan esa terminacion y donde existe flexibilidad.
 

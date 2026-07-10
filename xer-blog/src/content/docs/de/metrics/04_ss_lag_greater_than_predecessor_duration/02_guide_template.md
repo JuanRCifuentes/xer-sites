@@ -1,10 +1,10 @@
 ---
 title: "SS-Beziehungen mit einer Verzögerung, die größer als die Dauer des Vorgängers ist - Verbesserungsleitfaden"
-seo_title: "SS-Beziehungen mit einer Verzögerung, die größer als die Dauer des Vorgängers ist - Verbesserungsleitfaden - Primavera P6"
-meta_description: "Lernen Sie, SS-Beziehungen mit einer Verzögerung, die größer als die Dauer des Vorgängers ist in Primavera P6 mit Logikprüfung, Validierung und erneuter Bewertung zu korrigieren."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "SS-Beziehungen mit einer Verzögerung, die größer als die Dauer des Vorgängers ist - Verbesserungsleitfaden - Primavera P6"
+description: "Lernen Sie, SS-Beziehungen mit einer Verzögerung, die größer als die Dauer des Vorgängers ist in Primavera P6 mit Logikprüfung, Validierung und erneuter Bewertung zu korrigieren."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "SS-Beziehungen mit einer Verzögerung, die größer als die Dauer des Vorgängers ist"
   - "Primavera P6 SS-Beziehungen mit einer Verzögerung, die größer als die Dauer des Vorgängers ist"
@@ -13,27 +13,31 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-improvement-guide-ss-lag-greater-than-predecessor-duration-primavera-p6"
+slug: "de/metrics/ss-lag-greater-than-predecessor-duration-primavera-p6-improvement-guide"
 language: "de"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "Terminplanqualität"
 audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Lernen Sie, SS-Beziehungen mit einer Verzögerung, die größer als die Dauer des Vorgängers ist in Primavera P6 mit Logikprüfung, Validierung und erneuter Bewertung zu korrigieren."
-related_metrics:
-  - "09_metrics_de/04_ss_lag_greater_than_predecessor_duration/01_overview_template.md"
+primarySearchIntent: "Lernen Sie, SS-Beziehungen mit einer Verzögerung, die größer als die Dauer des Vorgängers ist in Primavera P6 mit Logikprüfung, Validierung und erneuter Bewertung zu korrigieren."
+relatedMetrics:
   - "09_metrics_de/04_ss_lag_greater_than_predecessor_duration/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "09b_blogs_de/01_WHAT A SCHEDULE IS/01_blog.md"
   - "09b_blogs_de/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/04_ss_lag_greater_than_predecessor_duration/02_guide_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/04_ss_lag_greater_than_predecessor_duration/02_guide_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# SS-Beziehungen mit einer Verzögerung, die größer als die Dauer des Vorgängers ist - Verbesserungsleitfaden
 
 ## Zweck
 
@@ -166,7 +170,6 @@ Eskalieren Sie ungelöste Probleme, wenn sie kritische, nahezu kritische, vertra
 - [ ] Beurteilung wiederholt
 - [ ] Nächste Schritte dokumentiert
 ## Verwandte Inhalte
-- [SS-Beziehungen mit einer Verzögerung, die größer als die Dauer des Vorgängers ist - Überblick](01_overview_template.md)
 - [Blog-Vorlage](03_blog_template.md)
 - [Was für ein Terminplan ist](../../09b_blogs_de/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robuste Logik](../../09b_blogs_de/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

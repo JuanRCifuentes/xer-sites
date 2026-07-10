@@ -1,11 +1,10 @@
 ---
 title: "What a Schedule Is"
-seo_title: "What a Schedule Is in Primavera P6"
-meta_description: "Learn what a schedule is for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
+seoTitle: "What a Schedule Is in Primavera P6"
 description: "Learn what a schedule is for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "What a Schedule Is"
   - "Primavera P6 What a Schedule Is"
@@ -15,7 +14,7 @@ keywords:
   - "Primavera P6 blog"
 slug: "en/blog/what-a-schedule-is-in-primavera-p6"
 language: "en"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 Scheduling"
@@ -23,18 +22,17 @@ audience:
   - "Planning engineers"
   - "Project managers"
   - "PMO teams"
-primary_search_intent: "Understand what a schedule is and how it supports Primavera P6 schedule quality and project controls decisions."
-related_metrics:
-  - "01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Understand what a schedule is and how it supports Primavera P6 schedule quality and project controls decisions."
+relatedMetrics:
+  - "01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: ""
-canonical_url: ""
-last_reviewed: "2026-06-26"
+translationOf: ""
+canonicalUrl: ""
+lastReviewed: "2026-06-26"
 pubDate: "2026-06-26"
 ---
 
-# What a Schedule Is
 
 A project schedule is more than a list of dates. It is a graphic and logical representation of the project delivery plan. It explains how the project will be executed from start to finish, how work packages connect, when major milestones should be reached, and what information the project team should use to make decisions.
 

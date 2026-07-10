@@ -1,10 +1,10 @@
 ---
 title: "Attività alla Data Data"
-seo_title: "Attività alla Data Data"
-meta_description: "Spiega perché Attività alla Data Data"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Attività alla Data Data"
+description: "Spiega perché Attività alla Data Data"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Attività alla Data Data"
   - "Primavera P6 Attività alla Data Data"
@@ -13,27 +13,31 @@ keywords:
   - "controllo progetto"
   - "logica CPM"
   - "revisione del cronoprogramma"
-slug: "it-blog-article-activities-on-the-data-date-primavera-p6"
+slug: "it/blog/activities-on-the-data-date-primavera-p6"
 language: "it"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Qualità del cronoprogramma"
 audience:
   - "Pianificatori"
   - "Scheduler"
   - "Team di controllo progetto"
-primary_search_intent: "Spiega perché Attività alla Data Data: Verifiche Inizio Anticipato e Fine Anticipata in Primavera P6 influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
-related_metrics:
-  - "11_metrics_it/18_activities_in_data_date/01_overview_template.md"
+primarySearchIntent: "Spiega perché Attività alla Data Data: Verifiche Inizio Anticipato e Fine Anticipata in Primavera P6 influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
+relatedMetrics:
   - "11_metrics_it/18_activities_in_data_date/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "11b_blogs_it/01_WHAT A SCHEDULE IS/01_blog.md"
   - "11b_blogs_it/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/18_activities_in_data_date/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/18_activities_in_data_date/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Attività alla Data Data
 
 Il data di aggiornamento è una delle date più importanti nel cronoprogramma del Primavera P6. Segna il confine tra la performance effettiva e le previsioni future. Il lavoro prima della data di aggiornamento dovrebbe essere indicato. Dovrebbe essere previsto il lavoro successivo alla data di aggiornamento. Quando molte attività hanno un inizio anticipato o una fine anticipata esattamente nella data di aggiornamento, il cronoprogramma merita uno sguardo più attento.
 
@@ -61,7 +65,6 @@ Questa metrica è particolarmente utile durante le revisioni degli aggiornamenti
 
 Ripulire questa metrica migliora la credibilità delle previsioni a breve termine. Aiuta i team di progetto a distinguere il lavoro veramente pronto dal lavoro che è semplicemente passato alla data di aggiornamento corrente. Per i report PMO e client, mostra anche che la data di aggiornamento è stata trattata come un limite di stato reale, non solo come una data utilizzata per ricalcolare il file.
 ## Contenuti correlati
-- [Attività alla Data Data: Verifiche Inizio Anticipato e Fine Anticipata in Primavera P6 - Panoramica](01_overview_template.md)
 - [Attività alla Data Data: Verifiche Inizio Anticipato e Fine Anticipata in Primavera P6 - Guida al miglioramento](02_guide_template.md)
 - [Cos'è un cronoprogramma](../../11b_blogs_it/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logica robusta](../../11b_blogs_it/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

@@ -1,10 +1,10 @@
 ---
 title: "Жесткие ограничения в Primavera P6"
-seo_title: "Жесткие ограничения в Primavera P6"
-meta_description: "Поясняет, почему Жесткие ограничения в Primavera P6 влияет на CPM-логику, резерв времени и надежность графика в Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Жесткие ограничения в Primavera P6"
+description: "Поясняет, почему Жесткие ограничения в Primavera P6 влияет на CPM-логику, резерв времени и надежность графика в Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Жесткие ограничения в Primavera P6"
   - "Primavera P6 Жесткие ограничения в Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "проектный контроль"
   - "CPM-логика"
   - "анализ графика"
-slug: "ru-blog-article-hard-constraints-primavera-p6"
+slug: "ru/blog/hard-constraints-primavera-p6"
 language: "ru"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Качество графика"
 audience:
   - "Планировщики"
   - "Специалисты по графикам"
   - "Команды проектного контроля"
-primary_search_intent: "Поясняет, почему Жесткие ограничения в Primavera P6 влияет на CPM-логику, резерв времени и надежность графика в Primavera P6."
-related_metrics:
-  - "07_metrics_ru/19_hard_constraints/01_overview_template.md"
+primarySearchIntent: "Поясняет, почему Жесткие ограничения в Primavera P6 влияет на CPM-логику, резерв времени и надежность графика в Primavera P6."
+relatedMetrics:
   - "07_metrics_ru/19_hard_constraints/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "07b_blogs_ru/01_WHAT A SCHEDULE IS/01_blog.md"
   - "07b_blogs_ru/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/19_hard_constraints/03_blog_template.md"
-canonical_url: ""
-last_проверкуed: "2026-07-02"
+translationOf: "01_metrics_en/19_hard_constraints/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Жесткие ограничения в Primavera P6
 
 Ограничения не являются автоматически неправильными. В реальном графике проекта некоторые даты определяются контрактом, разрешениями, окнами доступа, периодами остановки, нормативными требованиями или решениями клиента. Проблема начинается, когда ограничения становятся ярлыком для логики графика.
 
@@ -59,7 +63,6 @@ last_проверкуed: "2026-07-02"
 
 Устранение жестких ограничений повышает доверие к графику. Это позволяет сети CPM выполнять свою работу, упрощает интерпретацию плавающих значений и дает проектным группам более четкое представление о том, что на самом деле движет работой. Графику с меньшим количеством необъяснимых жестких ограничений обычно легче доверять, его легче пересматривать и легче защищать.
 ## Связанные материалы
-- [Жесткие ограничения в Primavera P6 - Обзор](01_overview_template.md)
 - [Жесткие ограничения в Primavera P6 - Руководство по улучшению](02_guide_template.md)
 - [Что такое график](../../07b_blogs_ru/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Надежная логика](../../07b_blogs_ru/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

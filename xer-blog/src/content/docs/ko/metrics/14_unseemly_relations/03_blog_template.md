@@ -1,10 +1,10 @@
 ---
 title: "Primavera P6의 부적절한 관계"
-seo_title: "Primavera P6의 부적절한 관계"
-meta_description: "Primavera P6의 부적절한 관계"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Primavera P6의 부적절한 관계"
+description: "Primavera P6의 부적절한 관계"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Primavera P6의 부적절한 관계"
   - "Primavera P6의 부적절한 관계"
@@ -13,27 +13,31 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-blog-article-unusual-relationships-primavera-p6"
+slug: "ko/blog/unusual-relationships-primavera-p6"
 language: "ko"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "공정표 품질"
 audience:
   - "계획 엔지니어"
   - "스케줄러"
   - "프로젝트 통제 팀"
-primary_search_intent: "Primavera P6의 부적절한 관계: 마일스톤, LOE 및 관계 유형 확인가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
-related_metrics:
-  - "10_metrics_ko/14_unusual_relations/01_overview_template.md"
+primarySearchIntent: "Primavera P6의 부적절한 관계: 마일스톤, LOE 및 관계 유형 확인가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
+relatedMetrics:
   - "10_metrics_ko/14_unusual_relations/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "10b_blogs_ko/01_WHAT A SCHEDULE IS/01_blog.md"
   - "10b_blogs_ko/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/14_unseemly_relations/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/14_unseemly_relations/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Primavera P6의 부적절한 관계
 
 관계 논리는 일정에서 빠르게 복사하기 가장 쉬운 부분 중 하나이며 나중에 방어하기 가장 어려운 부분 중 하나입니다. P6 테이블에서는 관계가 무해해 보일 수 있지만 양측의 활동 유형이 중요합니다. 두 개의 일반적인 작업 활동 사이에 의미가 있는 관계는 한 쪽이 시작 마일스톤, 완료 마일스톤 또는 노력 수준 활동인 경우 어색하거나 오해의 소지가 있을 수 있습니다.
 
@@ -59,7 +63,6 @@ last_reviewed: "2026-07-02"
 
 부적절한 관계는 복사된 논리, 불분명한 마일스톤 정의, LOE 활동의 오용 또는 관계 유형을 통해 날짜를 강요하는 습관 등 더 큰 공정표 품질 문제의 작은 증상인 경우가 많습니다. 이를 정리하면 메트릭 점수보다 더 향상됩니다. 일정을 더 쉽게 검토하고, 설명하기 쉽게 하며, PMO 거버넌스 및 프로젝트 의사결정에 대한 신뢰성을 높여줍니다.
 ## 관련 콘텐츠
-- [01_overview_template](../14_unusual_relations/01_overview_template.md)
 - [02_guide_template](../14_unusual_relations/02_guide_template.md)
 - [일정이란 무엇입니까?](../../10b_blogs_ko/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [견고한 논리](../../10b_blogs_ko/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

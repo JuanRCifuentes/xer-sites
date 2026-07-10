@@ -1,10 +1,10 @@
 ---
 title: "Primavera P6에서 종속성 누락 - 개선 가이드"
-seo_title: "Primavera P6에서 종속성 누락 - 개선 가이드"
-meta_description: "Primavera P6에서 종속성 누락 문제를 로직 점검, 검증, 재평가로 개선하는 방법을 설명합니다."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Primavera P6에서 종속성 누락 - 개선 가이드"
+description: "Primavera P6에서 종속성 누락 문제를 로직 점검, 검증, 재평가로 개선하는 방법을 설명합니다."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Primavera P6에서 종속성 누락"
   - "Primavera P6에서 종속성 누락"
@@ -13,27 +13,31 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-improvement-guide-missing-dependencies-primavera-p6"
+slug: "ko/metrics/missing-dependencies-primavera-p6-improvement-guide"
 language: "ko"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "공정표 품질"
 audience:
   - "계획 엔지니어"
   - "스케줄러"
   - "프로젝트 통제 팀"
-primary_search_intent: "Primavera P6에서 종속성 누락 문제를 로직 점검, 검증, 재평가로 개선하는 방법을 설명합니다."
-related_metrics:
-  - "10_metrics_ko/21_missing_dependencies/01_overview_template.md"
+primarySearchIntent: "Primavera P6에서 종속성 누락 문제를 로직 점검, 검증, 재평가로 개선하는 방법을 설명합니다."
+relatedMetrics:
   - "10_metrics_ko/21_missing_dependencies/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "10b_blogs_ko/01_WHAT A SCHEDULE IS/01_blog.md"
   - "10b_blogs_ko/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/21_missing_dependencies/02_guide_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/21_missing_dependencies/02_guide_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Primavera P6에서 종속성 누락 - 개선 가이드
 
 ## 목적
 
@@ -172,7 +176,6 @@ flowchart TD
 - [ ] 평가가 반복됨
 - [ ] 문서화된 다음 단계
 ## 관련 콘텐츠
-- [Primavera P6에서 종속성 누락 - 개요](01_overview_template.md)
 - [Primavera P6에서 종속성 누락](03_blog_template.md)
 - [일정이란 무엇입니까?](../../10b_blogs_ko/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [견고한 논리](../../10b_blogs_ko/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

@@ -1,10 +1,10 @@
 ---
 title: "बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ"
-seo_title: "बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ - Primavera P6"
-meta_description: "समझें कि बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ - Primavera P6"
+description: "समझें कि बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ"
   - "Primavera P6 बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ"
@@ -13,27 +13,31 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-blog-article-activities-starting-on-the-data-date-with-no-logic-driving-primavera-p6"
+slug: "hi/blog/activities-starting-on-the-data-date-with-no-logic-driving-primavera-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "शेड्यूल गुणवत्ता"
 audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "समझें कि बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ: यह शेड्यूल मीट्रिक क्यों मायने रखता है Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-related_metrics:
-  - "05_metrics_hi/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
+primarySearchIntent: "समझें कि बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ: यह शेड्यूल मीट्रिक क्यों मायने रखता है Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+relatedMetrics:
   - "05_metrics_hi/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "05_blogs_hi/01_WHAT A SCHEDULE IS/01_blog.md"
   - "05_blogs_hi/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ
 
 ## शीर्षक
 
@@ -173,7 +177,6 @@ last_reviewed: "2026-07-02"
 
 अपने नवीनतम प्रिमावेरा पी6 शेड्यूल अपडेट की समीक्षा करें और डेटा तिथि से शुरू होने वाली खुली या शुरू न हुई गतिविधियों के लिए फ़िल्टर करें। प्रत्येक से एक सरल प्रश्न पूछें: इस शुरुआत का कारण क्या है? यदि उत्तर स्पष्ट नहीं है, तो शेड्यूल जारी होने से पहले तर्क को सही करें या अपवाद का दस्तावेजीकरण करें।
 ## संबंधित सामग्री
-- [बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ: यह शेड्यूल मीट्रिक क्यों मायने रखता है - अवलोकन](01_overview_template.md)
 - [बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ: यह शेड्यूल मीट्रिक क्यों मायने रखता है - सुधार मार्गदर्शिका](02_guide_template.md)
 - [शेड्यूल क्या है](../../05_blogs_hi/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [मजबूत तर्क](../../05_blogs_hi/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

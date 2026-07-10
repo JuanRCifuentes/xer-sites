@@ -1,10 +1,10 @@
 ---
 title: "Relacionamentos FF com atraso maior que a duração do sucessor"
-seo_title: "Relacionamentos FF com atraso maior que a duração do sucessor - Primavera P6"
-meta_description: "Veja por que Relacionamentos FF com atraso maior que a duração do sucessor afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Relacionamentos FF com atraso maior que a duração do sucessor - Primavera P6"
+description: "Veja por que Relacionamentos FF com atraso maior que a duração do sucessor afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Relacionamentos FF com atraso maior que a duração do sucessor"
   - "Primavera P6 Relacionamentos FF com atraso maior que a duração do sucessor"
@@ -13,27 +13,31 @@ keywords:
   - "controles de projeto"
   - "lógica CPM"
   - "revisão do cronograma"
-slug: "pt-blog-article-ff-lag-greater-than-successor-duration-primavera-p6"
+slug: "pt/blog/ff-lag-greater-than-successor-duration-primavera-p6"
 language: "pt"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Qualidade do cronograma"
 audience:
   - "Planejadores"
   - "Schedulers"
   - "Equipes de controles de projeto"
-primary_search_intent: "Veja por que Relacionamentos FF com atraso maior que a duração do sucessor afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
-related_metrics:
-  - "06_metrics_pt/05_ff_lag_greater_than_successor_duration/01_overview_template.md"
+primarySearchIntent: "Veja por que Relacionamentos FF com atraso maior que a duração do sucessor afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
+relatedMetrics:
   - "06_metrics_pt/05_ff_lag_greater_than_successor_duration/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "06b_blogs_pt/01_WHAT A SCHEDULE IS/01_blog.md"
   - "06b_blogs_pt/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/05_ff_lag_greater_than_successor_duration/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/05_ff_lag_greater_than_successor_duration/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Relacionamentos FF com atraso maior que a duração do sucessor
 
 ## Título
 
@@ -146,7 +150,6 @@ A revisão dessa métrica melhora a clareza do CPM, a confiabilidade da folga e 
 
 Revise os relacionamentos FF onde o atraso é maior que a duração do sucessor em sua próxima atualização de cronograma do Primavera P6. Para cada um, pergunte se o relacionamento é realmente baseado no acabamento. Caso contrário, substitua-o por uma lógica mais clara ou modele diretamente o período de espera.
 ## Conteúdo relacionado
-- [Relacionamentos FF com atraso maior que a duração do sucessor - Visão geral](01_overview_template.md)
 - [Relacionamentos FF com atraso maior que a duração do sucessor - Guia de melhoria](02_guide_template.md)
 - [O que é um cronograma](../../06b_blogs_pt/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Lógica Robusta](../../06b_blogs_pt/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

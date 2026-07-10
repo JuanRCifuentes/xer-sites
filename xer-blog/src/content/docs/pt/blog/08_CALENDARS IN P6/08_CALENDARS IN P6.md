@@ -1,11 +1,10 @@
 ---
 title: "Calendários em P6"
-seo_title: "Calendários em P6 - Primavera P6"
-meta_description: "Aprenda Calendários em P6 no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+seoTitle: "Calendários em P6 - Primavera P6"
 description: "Aprenda Calendários em P6 no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Calendários em P6"
   - "Primavera P6 Calendários em P6"
@@ -16,7 +15,7 @@ keywords:
   - "revisão do cronograma"
 slug: "pt/blog/calendars-in-p6"
 language: "pt"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Planejamento em Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Planejadores"
   - "Schedulers"
   - "Equipes de controles de projeto"
-primary_search_intent: "Aprenda Calendários em P6 no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
-related_metrics:
-  - "06_metrics_pt/20_calendars_with_different_start_finish_time_in_day/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Aprenda Calendários em P6 no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+relatedMetrics:
+  - "06_metrics_pt/20_calendars_with_different_start_finish_time_in_day/02_guide_template.md"
+relatedBlogs:
   - "06b_blogs_pt/07_DATES IN P6/07_DATES IN P6.md"
   - "06b_blogs_pt/09_DURATION IN P6/09_DURATION IN P6.md"
-translation_of: "01b_blogs_en/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Calendários em P6
 
 Os calendários são uma das bases silenciosas da programação do Primavera P6. Eles definem quando o trabalho pode acontecer. Eles informam ao P6 quais dias são dias úteis, quais dias são dias não úteis, quantas horas estão disponíveis em um dia e a que horas do dia começa e termina o trabalho.
 

@@ -1,10 +1,10 @@
 ---
 title: "SS 후임자와 FS 또는 FF 후임자가 없는 활동"
-seo_title: "SS 후임자와 FS 또는 FF 후임자가 없는 활동 - Primavera P6"
-meta_description: "SS 후임자와 FS 또는 FF 후임자가 없는 활동가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "SS 후임자와 FS 또는 FF 후임자가 없는 활동 - Primavera P6"
+description: "SS 후임자와 FS 또는 FF 후임자가 없는 활동가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "SS 후임자와 FS 또는 FF 후임자가 없는 활동"
   - "Primavera P6 SS 후임자와 FS 또는 FF 후임자가 없는 활동"
@@ -13,27 +13,31 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-blog-article-activities-with-ss-successor-and-no-fs-ff-successor-primavera-p6"
+slug: "ko/blog/activities-with-ss-successor-and-no-fs-ff-successor-primavera-p6"
 language: "ko"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "공정표 품질"
 audience:
   - "계획 엔지니어"
   - "스케줄러"
   - "프로젝트 통제 팀"
-primary_search_intent: "SS 후임자와 FS 또는 FF 후임자가 없는 활동가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
-related_metrics:
-  - "10_metrics_ko/02_activities_with_ss_successor_and_no_fs_ff_successor/01_overview_template.md"
+primarySearchIntent: "SS 후임자와 FS 또는 FF 후임자가 없는 활동가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
+relatedMetrics:
   - "10_metrics_ko/02_activities_with_ss_successor_and_no_fs_ff_successor/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "10b_blogs_ko/01_WHAT A SCHEDULE IS/01_blog.md"
   - "10b_blogs_ko/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/02_activities_with_ss_successor_and_no_fs_ff_successor/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/02_activities_with_ss_successor_and_no_fs_ff_successor/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# SS 후임자와 FS 또는 FF 후임자가 없는 활동
 
 ## 제목
 
@@ -146,7 +150,6 @@ SS 후속자가 있고 FS 또는 FF 후속자가 없는 활동을 필터링합�
 
 다음 Primavera P6 공정표 업데이트에서 SS 후임자와 FS 또는 FF 후임자가 없는 활동을 검토하세요. 각각에 대해 활동 종료가 다운스트림 작업을 유도해야 하는지 물어보세요. 필요한 경우 유효한 종료 기반 논리를 추가하세요. 그렇지 않은 경우 예외를 문서화하십시오.
 ## 관련 콘텐츠
-- [SS 후임자와 FS 또는 FF 후임자가 없는 활동 - 개요](01_overview_template.md)
 - [SS 후임자와 FS 또는 FF 후임자가 없는 활동 - 개선 가이드](02_guide_template.md)
 - [일정이란 무엇입니까?](../../10b_blogs_ko/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [견고한 논리](../../10b_blogs_ko/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

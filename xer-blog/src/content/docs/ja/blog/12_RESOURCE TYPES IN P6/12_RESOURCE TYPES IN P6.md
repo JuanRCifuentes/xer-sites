@@ -1,11 +1,10 @@
 ---
 title: "P6 のリソース タイプ"
-seo_title: "P6 のリソース タイプ - Primavera P6"
-meta_description: "Primavera P6における「P6 のリソース タイプ」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+seoTitle: "P6 のリソース タイプ - Primavera P6"
 description: "Primavera P6における「P6 のリソース タイプ」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "P6 のリソース タイプ"
   - "Primavera P6 P6 のリソース タイプ"
@@ -16,7 +15,7 @@ keywords:
   - "スケジュールレビュー"
 slug: "ja/blog/resource-types-in-p6"
 language: "ja"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 スケジューリング"
@@ -24,18 +23,17 @@ audience:
   - "計画エンジニア"
   - "スケジューラー"
   - "プロジェクトコントロールチーム"
-primary_search_intent: "Primavera P6における「P6 のリソース タイプ」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
-related_metrics:
-  - "12_metrics_jp/13_activity_started_progress_zero/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6における「P6 のリソース タイプ」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+relatedMetrics:
+  - "12_metrics_jp/13_activity_started_progress_zero/02_guide_template.md"
+relatedBlogs:
   - "12b_blogs_jp/11_WHERE THE COST LIVE IN P6/11_WHERE THE COST LIVE IN P6.md"
   - "12b_blogs_jp/13_RESOURCES LIMITS IN P6/13_RESOURCES LIMITS IN P6.md"
-translation_of: "01b_blogs_en/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# P6 のリソース タイプ
 
 Primavera P6 のリソースは、作業を実行するために必要な人材、機器、資材を表します。これらは、時間の経過とともにスケジュールを容量、生産性、コスト、リソース需要に結び付けます。
 

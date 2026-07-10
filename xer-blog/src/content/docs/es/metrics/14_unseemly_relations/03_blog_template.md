@@ -1,10 +1,10 @@
 ---
 title: "Relaciones Inadecuadas en Primavera P6"
-seo_title: "Relaciones Inadecuadas en Primavera P6"
-meta_description: "Explica por qué Relaciones Inadecuadas en Primavera P6"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Relaciones Inadecuadas en Primavera P6"
+description: "Explica por qué Relaciones Inadecuadas en Primavera P6"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Relaciones Inadecuadas en Primavera P6"
   - "Primavera P6 Relaciones Inadecuadas en Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "control de proyectos"
   - "lógica CPM"
   - "revisión del cronograma"
-slug: "es-blog-article-unusual-relationships-primavera-p6"
+slug: "es/blog/unusual-relationships-primavera-p6"
 language: "es"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Calidad del cronograma"
 audience:
   - "Planificadores"
   - "Schedulers"
   - "Equipos de control de proyectos"
-primary_search_intent: "Explica por qué Relaciones Inadecuadas en Primavera P6: Milestones, LOE y Tipos de Relacion afecta la lógica CPM, la holgura y la confiabilidad del cronograma en Primavera P6."
-related_metrics:
-  - "02_metrics_es/14_unusual_relations/01_overview_template.md"
+primarySearchIntent: "Explica por qué Relaciones Inadecuadas en Primavera P6: Milestones, LOE y Tipos de Relacion afecta la lógica CPM, la holgura y la confiabilidad del cronograma en Primavera P6."
+relatedMetrics:
   - "02_metrics_es/14_unusual_relations/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "02b_blogs_es/01_WHAT A SCHEDULE IS/01_blog.md"
   - "02b_blogs_es/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/14_unseemly_relations/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/14_unseemly_relations/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Relaciones Inadecuadas en Primavera P6
 
 La logica de relaciones es una de las partes mas faciles de copiar rapido y una de las mas dificiles de defender despues. Una relacion puede parecer normal en una tabla de P6, pero el tipo de actividad en cada lado importa. Una relacion que funciona entre dos actividades normales puede ser debil o confusa cuando una de ellas es un Start Milestone, Finish Milestone o Level of Effort.
 
@@ -59,7 +63,6 @@ Un buen objetivo para esta metrica es cero relaciones sin resolver. La palabra c
 
 Las relaciones inadecuadas suelen ser sintomas pequenos de problemas mayores de calidad: logica copiada, definiciones poco claras de hitos, mal uso de LOE o costumbre de forzar fechas mediante tipos de relacion. Corregirlas mejora mas que el puntaje de una metrica. Hace que el cronograma sea mas facil de revisar, mas facil de explicar y mas confiable para gobierno PMO y decisiones del proyecto.
 ## Contenido relacionado
-- [01_overview_template](../14_unusual_relations/01_overview_template.md)
 - [02_guide_template](../14_unusual_relations/02_guide_template.md)
 - [Que Es Un Cronograma](../../02b_blogs_es/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logica Robusta](../../02b_blogs_es/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

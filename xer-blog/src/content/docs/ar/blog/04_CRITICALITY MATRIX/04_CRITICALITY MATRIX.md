@@ -1,11 +1,10 @@
 ---
 title: "مصفوفة الأهمية"
-seo_title: "مصفوفة الأهمية - Primavera P6"
-meta_description: "تعرّف على مصفوفة الأهمية في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+seoTitle: "مصفوفة الأهمية - Primavera P6"
 description: "تعرّف على مصفوفة الأهمية في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "مصفوفة الأهمية"
   - "Primavera P6 مصفوفة الأهمية"
@@ -16,7 +15,7 @@ keywords:
   - "مراجعة الجدول"
 slug: "ar/blog/criticality-matrix-in-primavera-p6"
 language: "ar"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "الجدولة في Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "مهندسو التخطيط"
   - "المجدولون"
   - "فرق ضبط المشاريع"
-primary_search_intent: "تعرّف على مصفوفة الأهمية في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
-related_metrics:
-  - "04_metrics_ar/09_cp_or_السماحية الزمنية_path_starting_with_constraint/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "تعرّف على مصفوفة الأهمية في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+relatedMetrics:
+  - "04_metrics_ar/09_cp_or_السماحية الزمنية_path_starting_with_constraint/02_guide_template.md"
+relatedBlogs:
   - "04b_blogs_ar/03_CRITICAL PATH/03_CRITICAL PATH.md"
   - "04b_blogs_ar/05_ACTIVITY TYPES IN P6/05_ACTIVITY TYPES IN P6.md"
-translation_of: "01b_blogs_en/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# مصفوفة الأهمية
 
 مصفوفة الأهمية هي طريقة مرئية أو تحليلية تستخدم لتصنيف أنشطة المشروع وتحديد أولوياتها بناءً على مدى أهميتها لإنجاز المشروع. في سياق Primavera P6، فهو يساعد مديري المشاريع والمخططين ومراجعي مكتب إدارة المشاريع (PMO) على تحديد الأنشطة التي تسبب أكبر مخاطر الجدول الزمني.
 

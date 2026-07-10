@@ -1,10 +1,10 @@
 ---
 title: "SS 後継者がいる場合と FS または FF 後継者がいない場合の活動 - 改善ガイド"
-seo_title: "SS 後継者がいる場合と FS または FF 後継者がいない場合の活動 - 改善ガイド - Primavera P6"
-meta_description: "Primavera P6で「SS 後継者がいる場合と FS または FF 後継者がいない場合の活動」をロジック確認、検証、再評価によって改善する方法を説明します。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "SS 後継者がいる場合と FS または FF 後継者がいない場合の活動 - 改善ガイド - Primavera P6"
+description: "Primavera P6で「SS 後継者がいる場合と FS または FF 後継者がいない場合の活動」をロジック確認、検証、再評価によって改善する方法を説明します。"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "SS 後継者がいる場合と FS または FF 後継者がいない場合の活動"
   - "Primavera P6 SS 後継者がいる場合と FS または FF 後継者がいない場合の活動"
@@ -13,27 +13,31 @@ keywords:
   - "プロジェクトコントロール"
   - "CPMロジック"
   - "スケジュールレビュー"
-slug: "jp-improvement-guide-activities-with-ss-successor-and-no-fs-ff-successor-primavera-p6"
-language: "jp"
-content_type: "metric"
+slug: "ja/metrics/activities-with-ss-successor-and-no-fs-ff-successor-primavera-p6-improvement-guide"
+language: "ja"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "スケジュール品質"
 audience:
   - "計画エンジニア"
   - "スケジューラー"
   - "プロジェクトコントロールチーム"
-primary_search_intent: "Primavera P6で「SS 後継者がいる場合と FS または FF 後継者がいない場合の活動」をロジック確認、検証、再評価によって改善する方法を説明します。"
-related_metrics:
-  - "12_metrics_jp/02_activities_with_ss_successor_and_no_fs_ff_successor/01_overview_template.md"
+primarySearchIntent: "Primavera P6で「SS 後継者がいる場合と FS または FF 後継者がいない場合の活動」をロジック確認、検証、再評価によって改善する方法を説明します。"
+relatedMetrics:
   - "12_metrics_jp/02_activities_with_ss_successor_and_no_fs_ff_successor/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "12b_blogs_jp/01_WHAT A SCHEDULE IS/01_blog.md"
   - "12b_blogs_jp/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/02_activities_with_ss_successor_and_no_fs_ff_successor/02_guide_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/02_activities_with_ss_successor_and_no_fs_ff_successor/02_guide_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# SS 後継者がいる場合と FS または FF 後継者がいない場合の活動 - 改善ガイド
 
 ## 目的
 
@@ -166,7 +170,6 @@ flowchart TD
 - [ ] 評価の繰り返し
 - [ ] 次のステップの文書化
 ## 関連コンテンツ
-- [SS 後継者がいる場合と FS または FF 後継者がいない場合の活動 - 概要](01_overview_template.md)
 - [ブログテンプレート](03_blog_template.md)
 - [スケジュールとは](../../12b_blogs_jp/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [堅牢なロジック](../../12b_blogs_jp/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

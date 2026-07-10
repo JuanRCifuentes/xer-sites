@@ -1,10 +1,10 @@
 ---
 title: "Aktivitäten begannen mit 0 % Fortschritt in Primavera P6"
-seo_title: "Aktivitäten begannen mit 0 % Fortschritt in Primavera P6"
-meta_description: "Erklärt, warum Aktivitäten begannen mit 0 % Fortschritt in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Aktivitäten begannen mit 0 % Fortschritt in Primavera P6"
+description: "Erklärt, warum Aktivitäten begannen mit 0 % Fortschritt in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Aktivitäten begannen mit 0 % Fortschritt in Primavera P6"
   - "Primavera P6 Aktivitäten begannen mit 0 % Fortschritt in Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-blog-article-activity-started-progress-zero-primavera-p6"
+slug: "de/blog/activity-started-progress-zero-primavera-p6"
 language: "de"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Terminplanqualität"
 audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Erklärt, warum Aktivitäten begannen mit 0 % Fortschritt in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-related_metrics:
-  - "09_metrics_de/13_activity_started_progress_zero/01_overview_template.md"
+primarySearchIntent: "Erklärt, warum Aktivitäten begannen mit 0 % Fortschritt in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+relatedMetrics:
   - "09_metrics_de/13_activity_started_progress_zero/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "09b_blogs_de/01_WHAT A SCHEDULE IS/01_blog.md"
   - "09b_blogs_de/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/13_activity_started_progress_zero/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/13_activity_started_progress_zero/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Aktivitäten begannen mit 0 % Fortschritt in Primavera P6
 
 ## Titel
 
@@ -149,7 +153,6 @@ Die Verwaltung dieser Metrik verbessert die Fortschrittsberichterstattung, das V
 
 Überprüfen Sie bei Ihrer nächsten Terminplanaktualisierung die Aktivitäten, die als „Begonnen mit 0 % Fortschritt“ gekennzeichnet sind. Bestätigen Sie, ob die Arbeiten tatsächlich begonnen haben, und korrigieren Sie dann den tatsächlichen Beginn, den Fortschritt oder die Dokumentation, bevor Sie Berichte erstellen.
 ## Verwandte Inhalte
-- [Aktivitäten begannen mit 0 % Fortschritt in Primavera P6 - Überblick](01_overview_template.md)
 - [Aktivitäten begannen mit 0 % Fortschritt in Primavera P6 - Verbesserungsleitfaden](02_guide_template.md)
 - [Was für ein Terminplan ist](../../09b_blogs_de/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robuste Logik](../../09b_blogs_de/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

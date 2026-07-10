@@ -19,7 +19,7 @@ hero:
       </svg>
   actions:
     - text: Explorar la primera métrica
-      link: /es/metrics/data-date-no-driving-logic-overview/
+      link: /es/metrics/activities-starting-on-the-data-date-with-no-logic-driving-primavera-p6-improvement-guide/
       icon: right-arrow
       variant: primary
     - text: Leer el blog
@@ -28,12 +28,3 @@ hero:
 sidebar:
   order: 0
 ---
-
-## Actividades que inician en la fecha de datos sin lógica conductora
-
-Esta métrica identifica actividades abiertas o no iniciadas programadas para iniciar en la fecha de datos sin lógica de predecesor válida que impulse ese inicio. Las actividades que se acumulan en el límite de la fecha de datos sin lógica distorsionan la holgura, oscurecen la ruta más larga y hacen que el pronóstico sea poco confiable. El umbral objetivo es 0 actividades.
-
-- [Descripción general](/es/metrics/data-date-no-driving-logic-overview/) — qué mide la métrica, su umbral y por qué importa para la credibilidad del cronograma.
-- [Guía de mejora](/es/metrics/data-date-no-driving-logic-improvement-guide/) — cómo los programadores y equipos de control de proyectos resuelven las actividades marcadas durante las revisiones de calidad y los ciclos de actualización.
-
-Para la versión narrativa de por qué importa esta métrica, lea la entrada de blog relacionada: [Actividades que inician en la fecha de datos sin lógica conductora](/es/blog/activities-starting-on-data-date-no-driving-logic/).

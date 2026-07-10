@@ -1,11 +1,10 @@
 ---
 title: "Dove vivono i costi in P6"
-seo_title: "Dove vivono i costi in P6 - Primavera P6"
-meta_description: "Approfondisci Dove vivono i costi in P6 in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
+seoTitle: "Dove vivono i costi in P6 - Primavera P6"
 description: "Approfondisci Dove vivono i costi in P6 in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Dove vivono i costi in P6"
   - "Primavera P6 Dove vivono i costi in P6"
@@ -16,7 +15,7 @@ keywords:
   - "revisione del cronoprogramma"
 slug: "it/blog/where-costs-live-in-primavera-p6"
 language: "it"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Pianificazione in Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Pianificatori"
   - "Scheduler"
   - "Team di controllo progetto"
-primary_search_intent: "Approfondisci Dove vivono i costi in P6 in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
-related_metrics:
-  - "11_metrics_it/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Approfondisci Dove vivono i costi in P6 in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
+relatedMetrics:
+  - "11_metrics_it/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "11b_blogs_it/10_PERCENT COMPLETION TYPES IN P6/10_PERCENT COMPLETION TYPES IN P6.md"
   - "11b_blogs_it/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
-translation_of: "01b_blogs_en/11_WHERE THE COST LIVE IN P6/11_WHERE THE COST LIVE IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/11_WHERE THE COST LIVE IN P6/11_WHERE THE COST LIVE IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Dove vivono i costi in P6
 
 Il costo in Primavera P6 può vivere in diversi posti. Questo è utile, ma può anche creare confusione. Una pianificazione può mostrare il costo preventivato, il costo effettivo, il costo rimanente, il costo al completamento, il costo della risorsa, il costo del ruolo, il costo della spesa, i campi del valore maturato e il costo previsto. Questi valori sono correlati, ma non significano tutti la stessa cosa.
 
