@@ -1,10 +1,10 @@
 ---
 title: "Actividades en la fecha de datos"
-seo_title: "Actividades en la fecha de datos"
-meta_description: "Explica por qué Actividades en la fecha de datos"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Actividades en la fecha de datos"
+description: "Explica por qué Actividades en la fecha de datos"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Actividades en la fecha de datos"
   - "Primavera P6 Actividades en la fecha de datos"
@@ -13,27 +13,31 @@ keywords:
   - "control de proyectos"
   - "lógica CPM"
   - "revisión del cronograma"
-slug: "es-blog-article-activities-on-the-data-date-primavera-p6"
+slug: "es/blog/activities-on-the-data-date-primavera-p6"
 language: "es"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Calidad del cronograma"
 audience:
   - "Planificadores"
   - "Schedulers"
   - "Equipos de control de proyectos"
-primary_search_intent: "Explica por qué Actividades en la fecha de datos: Revisiones de Early Start y Early Finish en Primavera P6 afecta la lógica CPM, la holgura y la confiabilidad del cronograma en Primavera P6."
-related_metrics:
-  - "02_metrics_es/18_activities_in_data_date/01_overview_template.md"
+primarySearchIntent: "Explica por qué Actividades en la fecha de datos: Revisiones de Early Start y Early Finish en Primavera P6 afecta la lógica CPM, la holgura y la confiabilidad del cronograma en Primavera P6."
+relatedMetrics:
   - "02_metrics_es/18_activities_in_data_date/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "02b_blogs_es/01_WHAT A SCHEDULE IS/01_blog.md"
   - "02b_blogs_es/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/18_activities_in_data_date/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/18_activities_in_data_date/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Actividades en la fecha de datos
 
 La fecha de datos es una de las fechas mas importantes en un cronograma de Primavera P6. Marca el limite entre el desempeno real y el pronostico futuro. El trabajo antes de la fecha de datos debe estar actualizado como estado real. El trabajo despues de la fecha de datos debe quedar pronosticado. Cuando muchas actividades tienen Early Start o Early Finish exactamente en la fecha de datos, el cronograma merece una revision mas cercana.
 
@@ -61,7 +65,6 @@ Esta metrica es especialmente util durante revisiones de actualizacion. Despues 
 
 Limpiar esta metrica mejora la credibilidad del pronostico cercano. Ayuda al equipo del proyecto a distinguir trabajo realmente listo de trabajo que simplemente se desplazo a la fecha actual de actualizacion. Para reportes PMO y cliente, tambien muestra que la fecha de datos fue tratada como un limite real de status, no solo como una fecha usada para recalcular el archivo.
 ## Contenido relacionado
-- [Actividades en la fecha de datos: Revisiones de Early Start y Early Finish en Primavera P6 - Descripción general](01_overview_template.md)
 - [Actividades en la fecha de datos: Revisiones de Early Start y Early Finish en Primavera P6 - Guía de mejora](02_guide_template.md)
 - [Que Es Un Cronograma](../../02b_blogs_es/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logica Robusta](../../02b_blogs_es/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

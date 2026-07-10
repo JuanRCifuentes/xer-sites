@@ -1,11 +1,10 @@
 ---
 title: "重要度マトリックス"
-seo_title: "重要度マトリックス - Primavera P6"
-meta_description: "Primavera P6における「重要度マトリックス」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+seoTitle: "重要度マトリックス - Primavera P6"
 description: "Primavera P6における「重要度マトリックス」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "重要度マトリックス"
   - "Primavera P6 重要度マトリックス"
@@ -16,7 +15,7 @@ keywords:
   - "スケジュールレビュー"
 slug: "ja/blog/criticality-matrix-in-primavera-p6"
 language: "ja"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 スケジューリング"
@@ -24,18 +23,17 @@ audience:
   - "計画エンジニア"
   - "スケジューラー"
   - "プロジェクトコントロールチーム"
-primary_search_intent: "Primavera P6における「重要度マトリックス」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
-related_metrics:
-  - "12_metrics_jp/09_cp_or_float_path_starting_with_constraint/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6における「重要度マトリックス」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+relatedMetrics:
+  - "12_metrics_jp/09_cp_or_float_path_starting_with_constraint/02_guide_template.md"
+relatedBlogs:
   - "12b_blogs_jp/03_CRITICAL PATH/03_CRITICAL PATH.md"
   - "12b_blogs_jp/05_ACTIVITY TYPES IN P6/05_ACTIVITY TYPES IN P6.md"
-translation_of: "01b_blogs_en/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# 重要度マトリックス
 
 重要度マトリックスは、プロジェクト完了に対する重要度に基づいてプロジェクト活動を分類し、優先順位を付けるために使用される視覚的または分析的な方法です。 Primavera P6 のコンテキストでは、プロジェクト マネージャー、プランナー、PMO レビュー担当者が、どのアクティビティが最大のスケジュール リスクを生み出すかを特定するのに役立ちます。
 

@@ -1,11 +1,10 @@
 ---
 title: "O que é um cronograma"
-seo_title: "O que é um cronograma - Primavera P6"
-meta_description: "Aprenda O que é um cronograma no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+seoTitle: "O que é um cronograma - Primavera P6"
 description: "Aprenda O que é um cronograma no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "O que é um cronograma"
   - "Primavera P6 O que é um cronograma"
@@ -16,7 +15,7 @@ keywords:
   - "revisão do cronograma"
 slug: "pt/blog/what-a-schedule-is-in-primavera-p6"
 language: "pt"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Planejamento em Primavera P6"
@@ -24,17 +23,16 @@ audience:
   - "Planejadores"
   - "Schedulers"
   - "Equipes de controles de projeto"
-primary_search_intent: "Aprenda O que é um cronograma no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
-related_metrics:
-  - "06_metrics_pt/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Aprenda O que é um cronograma no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+relatedMetrics:
+  - "06_metrics_pt/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "06b_blogs_pt/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# O que é um cronograma
 
 O cronograma de um projeto é mais do que uma lista de datas. É uma representação gráfica e lógica do plano de entrega do projeto. Explica como o projeto será executado do início ao fim, como os pacotes de trabalho se conectam, quando os principais marcos devem ser alcançados e quais informações a equipe do projeto deve usar para tomar decisões.
 

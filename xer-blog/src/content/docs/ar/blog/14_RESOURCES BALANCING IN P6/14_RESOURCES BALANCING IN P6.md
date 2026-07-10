@@ -1,11 +1,10 @@
 ---
 title: "موازنة الموارد في ص6"
-seo_title: "موازنة الموارد في ص6 - Primavera P6"
-meta_description: "تعرّف على موازنة الموارد في ص6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+seoTitle: "موازنة الموارد في ص6 - Primavera P6"
 description: "تعرّف على موازنة الموارد في ص6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "موازنة الموارد في ص6"
   - "Primavera P6 موازنة الموارد في ص6"
@@ -16,7 +15,7 @@ keywords:
   - "مراجعة الجدول"
 slug: "ar/blog/resource-balancing-in-primavera-p6"
 language: "ar"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "الجدولة في Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "مهندسو التخطيط"
   - "المجدولون"
   - "فرق ضبط المشاريع"
-primary_search_intent: "تعرّف على موازنة الموارد في ص6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
-related_metrics:
-  - "04_metrics_ar/13_activity_started_progress_zero/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "تعرّف على موازنة الموارد في ص6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+relatedMetrics:
+  - "04_metrics_ar/13_activity_started_progress_zero/02_guide_template.md"
+relatedBlogs:
   - "04b_blogs_ar/13_RESOURCES LIMITS IN P6/13_RESOURCES LIMITS IN P6.md"
   - "04b_blogs_ar/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
-translation_of: "01b_blogs_en/14_RESOURCES BALANCING IN P6/14_RESOURCES BALANCING IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/14_RESOURCES BALANCING IN P6/14_RESOURCES BALANCING IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# موازنة الموارد في ص6
 
 موازنة الموارد في Primavera P6 هي عملية مراجعة الطلب على الموارد مقابل القدرات المتاحة وتعديل الخطة بحيث يمكن تنفيذ العمل بالموارد المتاحة. فهو يساعد فريق المشروع على فهم ما إذا كان الجدول الزمني صحيحًا منطقيًا فقط أو عمليًا أيضًا من وجهة نظر الموارد.
 

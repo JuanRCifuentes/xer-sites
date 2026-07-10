@@ -1,10 +1,10 @@
 ---
 title: "Expected Finish Antes de la fecha de datos en Primavera P6 - Guía de mejora"
-seo_title: "Expected Finish Antes de la fecha de datos en Primavera P6 - Guía de mejora"
-meta_description: "Aprende a corregir Expected Finish Antes de la fecha de datos en Primavera P6 con validación de lógica, fechas y control del cronograma."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Expected Finish Antes de la fecha de datos en Primavera P6 - Guía de mejora"
+description: "Aprende a corregir Expected Finish Antes de la fecha de datos en Primavera P6 con validación de lógica, fechas y control del cronograma."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Expected Finish Antes de la fecha de datos en Primavera P6"
   - "Primavera P6 Expected Finish Antes de la fecha de datos en Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "control de proyectos"
   - "lógica CPM"
   - "revisión del cronograma"
-slug: "es-improvement-guide-expected-finish-less-than-data-date-primavera-p6"
+slug: "es/metrics/expected-finish-less-than-data-date-primavera-p6-improvement-guide"
 language: "es"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "Calidad del cronograma"
 audience:
   - "Planificadores"
   - "Schedulers"
   - "Equipos de control de proyectos"
-primary_search_intent: "Aprende a corregir Expected Finish Antes de la fecha de datos en Primavera P6 con validación de lógica, fechas y control del cronograma."
-related_metrics:
-  - "02_metrics_es/16_expected_finish_less_than_data_date/01_overview_template.md"
+primarySearchIntent: "Aprende a corregir Expected Finish Antes de la fecha de datos en Primavera P6 con validación de lógica, fechas y control del cronograma."
+relatedMetrics:
   - "02_metrics_es/16_expected_finish_less_than_data_date/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "02b_blogs_es/01_WHAT A SCHEDULE IS/01_blog.md"
   - "02b_blogs_es/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/16_expected_finish_less_than_data_date/02_guide_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/16_expected_finish_less_than_data_date/02_guide_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Expected Finish Antes de la fecha de datos en Primavera P6 - Guía de mejora
 
 ## Proposito
 
@@ -173,7 +177,6 @@ Revise esta metrica en cada ciclo de actualizacion antes de emitir reportes. Deb
 - [ ] Evaluacion repetida
 - [ ] Siguientes pasos documentados
 ## Contenido relacionado
-- [Expected Finish Antes de la fecha de datos en Primavera P6 - Descripción general](01_overview_template.md)
 - [Expected Finish Antes de la fecha de datos en Primavera P6](03_blog_template.md)
 - [Que Es Un Cronograma](../../02b_blogs_es/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logica Robusta](../../02b_blogs_es/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

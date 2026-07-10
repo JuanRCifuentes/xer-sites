@@ -1,11 +1,10 @@
 ---
 title: "Глоссарий по планированию и управлению проектом для Primavera P6"
-seo_title: "Глоссарий по планированию и управлению проектом для Primavera P6"
-meta_description: "Практический глоссарий терминов Primavera P6, планирования CPM, планирования проектов и управления проектами для планировщиков, планировщиков, менеджеров проектов и команд PMO."
+seoTitle: "Глоссарий по планированию и управлению проектом для Primavera P6"
 description: "Практический глоссарий терминов Primavera P6, планирования CPM, планирования проектов и управления проектами для планировщиков, планировщиков, менеджеров проектов и команд PMO."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Глоссарий Primavera P6"
   - "глоссарий средств управления проектом"
@@ -17,7 +16,7 @@ keywords:
   - "глоссарий метода критического пути"
 slug: "ru/blog/primavera-p6-glossary"
 language: "ru"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 и элементы управления проектом"
@@ -27,17 +26,16 @@ audience:
   - "Планировщики"
   - "Менеджеры проектов"
   - "команды ОУП"
-primary_search_intent: "Понимать общую терминологию Primavera P6, планирования, планирования и управления проектами CPM."
-related_metrics:
+primarySearchIntent: "Понимать общую терминологию Primavera P6, планирования, планирования и управления проектами CPM."
+relatedMetrics:
   - "07_metrics_ru"
-related_blogs:
+relatedBlogs:
   - "07b_blogs_ru"
-translation_of: "01b_blogs_en/00_GLOSSARY/00_glossary_en.md"
-canonical_url: ""
-last_проверкуed: "2026-07-07"
+translationOf: "01b_blogs_en/00_GLOSSARY/00_glossary_en.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-07"
 pubDate: "2026-07-07"
 ---
-# Глоссарий по планированию и управлению проектом для Primavera P6
 
 В этом глоссарии определены общие термины планирования, составления графиков и управления проектом, используемые при разработке графика Primavera P6, оценке качества графика, проверках PMO и отчетности по проекту. Описания написаны для читателей с разным опытом: от младших планировщиков до опытных специалистов по управлению проектами.
 

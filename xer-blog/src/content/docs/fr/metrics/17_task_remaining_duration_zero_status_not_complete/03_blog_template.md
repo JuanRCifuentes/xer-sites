@@ -1,10 +1,10 @@
 ---
 title: "La durée restante de la tâche est nulle alors que l'état n'est pas terminé"
-seo_title: "La durée restante de la tâche est nulle alors que l'état n'est pas terminé - Primavera P6"
-meta_description: "Explique pourquoi La durée restante de la tâche est nulle alors que l'état n'est pas terminé influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "La durée restante de la tâche est nulle alors que l'état n'est pas terminé - Primavera P6"
+description: "Explique pourquoi La durée restante de la tâche est nulle alors que l'état n'est pas terminé influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "La durée restante de la tâche est nulle alors que l'état n'est pas terminé"
   - "Primavera P6 La durée restante de la tâche est nulle alors que l'état n'est pas terminé"
@@ -13,27 +13,31 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-blog-article-task-remaining-duration-zero-status-not-complete-primavera-p6"
+slug: "fr/blog/task-remaining-duration-zero-status-not-complete-primavera-p6"
 language: "fr"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Qualité du planning"
 audience:
   - "Planificateurs"
   - "Ordonnanceurs"
   - "Équipes de contrôle projet"
-primary_search_intent: "Explique pourquoi La durée restante de la tâche est nulle alors que l'état n'est pas terminé influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
-related_metrics:
-  - "08_metrics_fr/17_task_remaining_duration_zero_status_not_complete/01_overview_template.md"
+primarySearchIntent: "Explique pourquoi La durée restante de la tâche est nulle alors que l'état n'est pas terminé influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
+relatedMetrics:
   - "08_metrics_fr/17_task_remaining_duration_zero_status_not_complete/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "08b_blogs_fr/01_WHAT A SCHEDULE IS/01_blog.md"
   - "08b_blogs_fr/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/17_task_remaining_duration_zero_status_not_complete/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/17_task_remaining_duration_zero_status_not_complete/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# La durée restante de la tâche est nulle alors que l'état n'est pas terminé
 
 La durée restante est l'un des champs de statut les plus importants dans une mise à jour Primavera P6. Il indique au planning combien de temps il lui reste encore à terminer l'activité. Lorsqu’une activité de tâche normale a une Durée restante égale à 0, le message est simple : il ne reste plus de temps à effectuer. Si cette même tâche n’est pas marquée comme terminée, le planning raconte deux histoires différentes à la fois.
 
@@ -61,7 +65,6 @@ Cette métrique contribue également à améliorer la discipline de mise à jour
 
 Le nettoyage de cette métrique rend le calendrier plus fiable. Il aligne la durée restante, le statut de l'activité, les dates de fin réelles et les valeurs de progression. Plus important encore, cela aide l'équipe de projet à prendre de meilleures décisions quant aux travaux réellement terminés et aux travaux qui nécessitent encore une attention particulière.
 ## Contenu associé
-- [La durée restante de la tâche est nulle alors que l'état n'est pas terminé - Vue d’ensemble](01_overview_template.md)
 - [La durée restante de la tâche est nulle alors que l'état n'est pas terminé - Guide d’amélioration](02_guide_template.md)
 - [Qu'est-ce qu'un horaire](../../08b_blogs_fr/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logique robuste](../../08b_blogs_fr/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

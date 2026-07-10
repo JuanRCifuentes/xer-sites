@@ -1,10 +1,10 @@
 ---
 title: "プリマベーラ P6 のデータ日付より前の終了予想"
-seo_title: "プリマベーラ P6 のデータ日付より前の終了予想 - Primavera P6"
-meta_description: "「プリマベーラ P6 のデータ日付より前の終了予想」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "プリマベーラ P6 のデータ日付より前の終了予想 - Primavera P6"
+description: "「プリマベーラ P6 のデータ日付より前の終了予想」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "プリマベーラ P6 のデータ日付より前の終了予想"
   - "Primavera P6 プリマベーラ P6 のデータ日付より前の終了予想"
@@ -13,27 +13,31 @@ keywords:
   - "プロジェクトコントロール"
   - "CPMロジック"
   - "スケジュールレビュー"
-slug: "jp-blog-article-expected-finish-less-than-data-date-primavera-p6"
-language: "jp"
-content_type: "blog"
+slug: "ja/blog/expected-finish-less-than-data-date-primavera-p6"
+language: "ja"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "スケジュール品質"
 audience:
   - "計画エンジニア"
   - "スケジューラー"
   - "プロジェクトコントロールチーム"
-primary_search_intent: "「プリマベーラ P6 のデータ日付より前の終了予想」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
-related_metrics:
-  - "12_metrics_jp/16_expected_finish_less_than_data_date/01_overview_template.md"
+primarySearchIntent: "「プリマベーラ P6 のデータ日付より前の終了予想」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
+relatedMetrics:
   - "12_metrics_jp/16_expected_finish_less_than_data_date/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "12b_blogs_jp/01_WHAT A SCHEDULE IS/01_blog.md"
   - "12b_blogs_jp/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/16_expected_finish_less_than_data_date/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/16_expected_finish_less_than_data_date/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# プリマベーラ P6 のデータ日付より前の終了予想
 
 データ日付は、実際に起こったことと今後予測されることの間の境界線です。クリーンなスケジュール更新では、データ日以前のステータス情報は実際の進捗状況として解決される必要がありますが、残りの作業はデータ日以降に予測される必要があります。アクティビティの終了予定日がデータ日付よりも早い場合、その境界は曖昧になります。
 
@@ -59,7 +63,6 @@ P6 の実践的なレビューには、アクティビティ ID、アクティ�
 
 このメトリックをクリーンアップすると、スケジュールの信頼性が向上します。これは、チームが明確な更新境界を維持し、実際のパフォーマンスと予測作業を区別し、誤解を招く先読みや変動結果を回避するのに役立ちます。 PMO のレビューでは、スケジュールの更新が計算されただけでなく、ステータスの一貫性が実際にチェックされていることも示されています。
 ## 関連コンテンツ
-- [プリマベーラ P6 のデータ日付より前の終了予想 - 概要](01_overview_template.md)
 - [プリマベーラ P6 のデータ日付より前の終了予想 - 改善ガイド](02_guide_template.md)
 - [スケジュールとは](../../12b_blogs_jp/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [堅牢なロジック](../../12b_blogs_jp/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

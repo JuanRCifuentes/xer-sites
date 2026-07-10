@@ -1,11 +1,10 @@
 ---
 title: "Logica robusta"
-seo_title: "Logica robusta - Primavera P6"
-meta_description: "Approfondisci Logica robusta in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
+seoTitle: "Logica robusta - Primavera P6"
 description: "Approfondisci Logica robusta in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Logica robusta"
   - "Primavera P6 Logica robusta"
@@ -16,7 +15,7 @@ keywords:
   - "revisione del cronoprogramma"
 slug: "it/blog/robust-logic-in-primavera-p6"
 language: "it"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Pianificazione in Primavera P6"
@@ -24,19 +23,18 @@ audience:
   - "Pianificatori"
   - "Scheduler"
   - "Team di controllo progetto"
-primary_search_intent: "Approfondisci Logica robusta in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
-related_metrics:
-  - "11_metrics_it/21_missing_dependencies/01_overview_template.md"
-  - "11_metrics_it/06_redundant_logic/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Approfondisci Logica robusta in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
+relatedMetrics:
+  - "11_metrics_it/21_missing_dependencies/02_guide_template.md"
+  - "11_metrics_it/06_redundant_logic/02_guide_template.md"
+relatedBlogs:
   - "11b_blogs_it/01_WHAT A SCHEDULE IS/01_blog.md"
   - "11b_blogs_it/03_CRITICAL PATH/03_CRITICAL PATH.md"
-translation_of: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Logica robusta
 
 La logica è la rappresentazione matematica della sequenza e delle dipendenze all'interno della pianificazione di un progetto. Spiega cosa deve accadere prima di cosa, quali attività possono svolgersi contemporaneamente e come il team di progetto intende passare dalla prima attività al completamento finale.
 

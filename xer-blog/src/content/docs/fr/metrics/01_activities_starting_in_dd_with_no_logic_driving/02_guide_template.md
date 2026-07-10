@@ -1,10 +1,10 @@
 ---
 title: "Activités commençant à la date des données sans logique pilotante - Guide d’amélioration"
-seo_title: "Activités commençant à la date des données sans logique pilotante - Primavera P6"
-meta_description: "Apprenez à corriger Activités commençant à la date des données sans logique pilotante"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Activités commençant à la date des données sans logique pilotante - Primavera P6"
+description: "Apprenez à corriger Activités commençant à la date des données sans logique pilotante"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Activités commençant à la date des données sans logique pilotante"
   - "Primavera P6 Activités commençant à la date des données sans logique pilotante"
@@ -13,27 +13,31 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-improvement-guide-activities-starting-on-the-data-date-with-no-logic-driving-primavera-p6"
+slug: "fr/metrics/activities-starting-on-the-data-date-with-no-logic-driving-primavera-p6-improvement-guide"
 language: "fr"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "Qualité du planning"
 audience:
   - "Planificateurs"
   - "Ordonnanceurs"
   - "Équipes de contrôle projet"
-primary_search_intent: "Apprenez à corriger Activités commençant à la date des données sans logique pilotante : pourquoi cette mesure de planification est importante dans Primavera P6 avec des contrôles de logique, de validation et de réévaluation."
-related_metrics:
-  - "08_metrics_fr/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
+primarySearchIntent: "Apprenez à corriger Activités commençant à la date des données sans logique pilotante : pourquoi cette mesure de planification est importante dans Primavera P6 avec des contrôles de logique, de validation et de réévaluation."
+relatedMetrics:
   - "08_metrics_fr/01_activities_starting_in_dd_with_no_logic_driving/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "08b_blogs_fr/01_WHAT A SCHEDULE IS/01_blog.md"
   - "08b_blogs_fr/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Activités commençant à la date des données sans logique pilotante - Guide d’amélioration
 
 ## But
 
@@ -184,7 +188,6 @@ Les bonnes habitudes de maintenance incluent la conservation des colonnes préd�
 - [ ] Évaluation répétée
 - [ ] Prochaines étapes documentées
 ## Contenu associé
-- [Activités commençant à la date des données sans logique pilotante : pourquoi cette mesure de planification est importante - Vue d’ensemble](01_overview_template.md)
 - [Modèle de blog](03_blog_template.md)
 - [Qu'est-ce qu'un horaire](../../08b_blogs_fr/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logique robuste](../../08b_blogs_fr/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

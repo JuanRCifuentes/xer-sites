@@ -1,10 +1,10 @@
 ---
 title: "Primavera P6 预计在数据日期之前完成"
-seo_title: "Primavera P6 预计在数据日期之前完成"
-meta_description: "说明“Primavera P6 预计在数据日期之前完成”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Primavera P6 预计在数据日期之前完成"
+description: "说明“Primavera P6 预计在数据日期之前完成”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Primavera P6 预计在数据日期之前完成"
   - "Primavera P6 预计在数据日期之前完成"
@@ -13,27 +13,31 @@ keywords:
   - "项目控制"
   - "CPM逻辑"
   - "进度审查"
-slug: "zh-blog-article-expected-finish-less-than-data-date-primavera-p6"
+slug: "zh/blog/expected-finish-less-than-data-date-primavera-p6"
 language: "zh"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "进度质量"
 audience:
   - "计划工程师"
   - "进度计划软件人员"
   - "项目控制团队"
-primary_search_intent: "说明“Primavera P6 预计在数据日期之前完成”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
-related_metrics:
-  - "03_metrics_zh/16_expected_finish_less_than_data_date/01_overview_template.md"
+primarySearchIntent: "说明“Primavera P6 预计在数据日期之前完成”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
+relatedMetrics:
   - "03_metrics_zh/16_expected_finish_less_than_data_date/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "03b_blogs_zh/01_WHAT A SCHEDULE IS/01_blog.md"
   - "03b_blogs_zh/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/16_expected_finish_less_than_data_date/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/16_expected_finish_less_than_data_date/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Primavera P6 预计在数据日期之前完成
 
 数据日期是已发生的情况和仍预测的情况之间的界线。在干净的进度更新中，数据日期之前的状态信息应作为实际进度来解决，而剩余工作应从数据日期开始进行预测。当活动的预期完成时间早于数据日期时，该边界就会变得模糊。
 
@@ -59,7 +63,6 @@ P6 中的实际审核应包括活动 ID、活动名称、WBS、活动状态、�
 
 清理这个指标可以提高计划的可信度。它帮助团队保持清晰的更新边界，区分实际绩效和预测工作，并避免误导性的前瞻或浮时结果。在PMO审查中，还表明进度更新不仅是计算出来的，而且实际上检查了状态一致性。
 ## 相关内容
-- [Primavera P6 预计在数据日期之前完成 - 概述](01_overview_template.md)
 - [Primavera P6 预计在数据日期之前完成 - 改进指南](02_guide_template.md)
 - [什么是进度计划](../../03b_blogs_zh/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [强大的逻辑](../../03b_blogs_zh/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

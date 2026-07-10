@@ -1,10 +1,10 @@
 ---
 title: "कार्य की शेष अवधि शून्य है जबकि स्थिति पूर्ण नहीं है"
-seo_title: "कार्य की शेष अवधि शून्य है जबकि स्थिति पूर्ण नहीं है - Primavera P6"
-meta_description: "समझें कि कार्य की शेष अवधि शून्य है जबकि स्थिति पूर्ण नहीं है Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "कार्य की शेष अवधि शून्य है जबकि स्थिति पूर्ण नहीं है - Primavera P6"
+description: "समझें कि कार्य की शेष अवधि शून्य है जबकि स्थिति पूर्ण नहीं है Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "कार्य की शेष अवधि शून्य है जबकि स्थिति पूर्ण नहीं है"
   - "Primavera P6 कार्य की शेष अवधि शून्य है जबकि स्थिति पूर्ण नहीं है"
@@ -13,27 +13,31 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-blog-article-task-remaining-duration-zero-status-not-complete-primavera-p6"
+slug: "hi/blog/task-remaining-duration-zero-status-not-complete-primavera-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "शेड्यूल गुणवत्ता"
 audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "समझें कि कार्य की शेष अवधि शून्य है जबकि स्थिति पूर्ण नहीं है Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-related_metrics:
-  - "05_metrics_hi/17_task_remaining_duration_zero_status_not_complete/01_overview_template.md"
+primarySearchIntent: "समझें कि कार्य की शेष अवधि शून्य है जबकि स्थिति पूर्ण नहीं है Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+relatedMetrics:
   - "05_metrics_hi/17_task_remaining_duration_zero_status_not_complete/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "05_blogs_hi/01_WHAT A SCHEDULE IS/01_blog.md"
   - "05_blogs_hi/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/17_task_remaining_duration_zero_status_not_complete/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/17_task_remaining_duration_zero_status_not_complete/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# कार्य की शेष अवधि शून्य है जबकि स्थिति पूर्ण नहीं है
 
 प्राइमेरा पी6 अपडेट में शेष अवधि सबसे महत्वपूर्ण स्थिति क्षेत्रों में से एक है। यह शेड्यूल बताता है कि गतिविधि समाप्त करने के लिए अभी भी कितना समय चाहिए। जब किसी सामान्य कार्य गतिविधि की शेष अवधि 0 के बराबर होती है, तो संदेश सरल होता है: प्रदर्शन करने के लिए कोई समय नहीं बचा है। यदि वही कार्य पूर्ण चिह्नित नहीं है, तो शेड्यूल एक साथ दो अलग-अलग कहानियां बता रहा है।
 
@@ -61,7 +65,6 @@ last_reviewed: "2026-07-02"
 
 इस मीट्रिक को साफ करने से शेड्यूल पर भरोसा करना आसान हो जाता है। यह शेष अवधि, गतिविधि स्थिति, वास्तविक समाप्ति तिथियां और प्रगति मूल्यों को संरेखित करता है। इससे भी महत्वपूर्ण बात यह है कि यह प्रोजेक्ट टीम को इस बारे में बेहतर निर्णय लेने में मदद करता है कि कौन सा काम वास्तव में पूरा हो गया है और किस काम पर अभी भी ध्यान देने की जरूरत है।
 ## संबंधित सामग्री
-- [कार्य की शेष अवधि शून्य है जबकि स्थिति पूर्ण नहीं है - अवलोकन](01_overview_template.md)
 - [कार्य की शेष अवधि शून्य है जबकि स्थिति पूर्ण नहीं है - सुधार मार्गदर्शिका](02_guide_template.md)
 - [शेड्यूल क्या है](../../05_blogs_hi/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [मजबूत तर्क](../../05_blogs_hi/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

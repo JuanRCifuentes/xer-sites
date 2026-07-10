@@ -1,10 +1,10 @@
 ---
 title: "주도 로직 없이 데이터 날짜에 시작하는 활동"
-seo_title: "주도 로직 없이 데이터 날짜에 시작하는 활동 - Primavera P6"
-meta_description: "주도 로직 없이 데이터 날짜에 시작하는 활동"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "주도 로직 없이 데이터 날짜에 시작하는 활동 - Primavera P6"
+description: "주도 로직 없이 데이터 날짜에 시작하는 활동"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "주도 로직 없이 데이터 날짜에 시작하는 활동"
   - "Primavera P6 주도 로직 없이 데이터 날짜에 시작하는 활동"
@@ -13,27 +13,31 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-blog-article-activities-starting-on-the-data-date-with-no-logic-driving-primavera-p6"
+slug: "ko/blog/activities-starting-on-the-data-date-with-no-logic-driving-primavera-p6"
 language: "ko"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Primavera P6 공정표관리"
 audience:
   - "계획 엔지니어"
   - "스케줄러"
   - "프로젝트 통제 팀"
-primary_search_intent: "주도 로직 없이 데이터 날짜에 시작하는 활동: 이 일정 지표가 중요한 이유가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
-related_metrics:
-  - "10_metrics_ko/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
+primarySearchIntent: "주도 로직 없이 데이터 날짜에 시작하는 활동: 이 일정 지표가 중요한 이유가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
+relatedMetrics:
   - "10_metrics_ko/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "10b_blogs_ko/01_WHAT A SCHEDULE IS/01_blog.md"
   - "10b_blogs_ko/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# 주도 로직 없이 데이터 날짜에 시작하는 활동
 
 ## 제목
 
@@ -173,7 +177,6 @@ PMO 거버넌스의 경우 이는 품질 신호이기도 합니다. DCMA 스타�
 
 최신 Primavera P6 공정표 업데이트를 검토하고 데이터 날짜부터 개시되거나 시작되지 않은 활동을 필터링하세요. 각각에 대해 간단한 질문을 해보세요. 무엇이 이 시작을 이끄는가? 답변이 명확하지 않은 경우 일정이 발표되기 전에 논리를 수정하거나 예외 사항을 문서화하세요.
 ## 관련 콘텐츠
-- [주도 로직 없이 데이터 날짜에 시작하는 활동: 이 일정 지표가 중요한 이유 - 개요](01_overview_template.md)
 - [주도 로직 없이 데이터 날짜에 시작하는 활동: 이 일정 지표가 중요한 이유 - 개선 가이드](02_guide_template.md)
 - [일정이란 무엇입니까?](../../10b_blogs_ko/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [견고한 논리](../../10b_blogs_ko/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

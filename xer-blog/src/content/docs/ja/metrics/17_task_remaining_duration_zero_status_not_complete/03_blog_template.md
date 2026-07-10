@@ -1,10 +1,10 @@
 ---
 title: "ステータスが完了していない間、タスクの残り期間がゼロになる"
-seo_title: "ステータスが完了していない間、タスクの残り期間がゼロになる - Primavera P6"
-meta_description: "「ステータスが完了していない間、タスクの残り期間がゼロになる」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "ステータスが完了していない間、タスクの残り期間がゼロになる - Primavera P6"
+description: "「ステータスが完了していない間、タスクの残り期間がゼロになる」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "ステータスが完了していない間、タスクの残り期間がゼロになる"
   - "Primavera P6 ステータスが完了していない間、タスクの残り期間がゼロになる"
@@ -13,27 +13,31 @@ keywords:
   - "プロジェクトコントロール"
   - "CPMロジック"
   - "スケジュールレビュー"
-slug: "jp-blog-article-task-remaining-duration-zero-status-not-complete-primavera-p6"
-language: "jp"
-content_type: "blog"
+slug: "ja/blog/task-remaining-duration-zero-status-not-complete-primavera-p6"
+language: "ja"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "スケジュール品質"
 audience:
   - "計画エンジニア"
   - "スケジューラー"
   - "プロジェクトコントロールチーム"
-primary_search_intent: "「ステータスが完了していない間、タスクの残り期間がゼロになる」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
-related_metrics:
-  - "12_metrics_jp/17_task_remaining_duration_zero_status_not_complete/01_overview_template.md"
+primarySearchIntent: "「ステータスが完了していない間、タスクの残り期間がゼロになる」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
+relatedMetrics:
   - "12_metrics_jp/17_task_remaining_duration_zero_status_not_complete/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "12b_blogs_jp/01_WHAT A SCHEDULE IS/01_blog.md"
   - "12b_blogs_jp/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/17_task_remaining_duration_zero_status_not_complete/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/17_task_remaining_duration_zero_status_not_complete/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# ステータスが完了していない間、タスクの残り期間がゼロになる
 
 残り期間は、Primavera P6 アップデートで最も重要なステータス フィールドの 1 つです。アクティビティを完了するまでにどのくらいの時間が必要かをスケジュールに通知します。通常のタスク アクティビティの残り期間が 0 の場合、メッセージは単純です。実行する時間が残っていないということです。同じタスクが完了としてマークされていない場合、スケジュールは 2 つの異なるストーリーを同時に伝えていることになります。
 
@@ -61,7 +65,6 @@ last_reviewed: "2026-07-02"
 
 この指標をクリーンアップすると、スケジュールが信頼しやすくなります。残りの期間、アクティビティのステータス、実際の終了日、進捗状況の値を調整します。さらに重要なことは、プロジェクト チームがどの作業が本当に完了し、どの作業がまだ注意が必要であるかについて、より適切な決定を下すのに役立ちます。
 ## 関連コンテンツ
-- [ステータスが完了していない間、タスクの残り期間がゼロになる - 概要](01_overview_template.md)
 - [ステータスが完了していない間、タスクの残り期間がゼロになる - 改善ガイド](02_guide_template.md)
 - [スケジュールとは](../../12b_blogs_jp/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [堅牢なロジック](../../12b_blogs_jp/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

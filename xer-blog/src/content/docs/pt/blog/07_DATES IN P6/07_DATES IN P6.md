@@ -1,11 +1,10 @@
 ---
 title: "Datas em P6"
-seo_title: "Datas em P6 - Primavera P6"
-meta_description: "Aprenda Datas em P6 no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+seoTitle: "Datas em P6 - Primavera P6"
 description: "Aprenda Datas em P6 no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Datas em P6"
   - "Primavera P6 Datas em P6"
@@ -16,7 +15,7 @@ keywords:
   - "revisão do cronograma"
 slug: "pt/blog/dates-in-p6"
 language: "pt"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Planejamento em Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Planejadores"
   - "Schedulers"
   - "Equipes de controles de projeto"
-primary_search_intent: "Aprenda Datas em P6 no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
-related_metrics:
-  - "06_metrics_pt/12_actual_date_greater_than_data_date/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Aprenda Datas em P6 no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+relatedMetrics:
+  - "06_metrics_pt/12_actual_date_greater_than_data_date/02_guide_template.md"
+relatedBlogs:
   - "06b_blogs_pt/06_DURATION TYPES IN P6/06_DURATION TYPES IN P6.md"
   - "06b_blogs_pt/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
-translation_of: "01b_blogs_en/07_DATES IN P6/07_DATES IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/07_DATES IN P6/07_DATES IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Datas em P6
 
 As datas no Primavera P6 podem ser confusas porque uma atividade não tem apenas uma data de início e uma data de término. Ele pode ter datas planejadas, datas atuais do cronograma, datas iniciais, datas atrasadas, datas reais, datas de linha de base, datas de restrição, datas esperadas e, às vezes, datas externas ou relacionadas à previsão, dependendo do layout e das configurações do projeto.
 

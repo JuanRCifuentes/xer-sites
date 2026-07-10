@@ -1,10 +1,10 @@
 ---
 title: "एक बाधा से शुरू होने वाला महत्वपूर्ण पथ या फ्लोट पथ"
-seo_title: "एक बाधा से शुरू होने वाला महत्वपूर्ण पथ या फ्लोट पथ - Primavera P6"
-meta_description: "समझें कि एक बाधा से शुरू होने वाला महत्वपूर्ण पथ या फ्लोट पथ Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "एक बाधा से शुरू होने वाला महत्वपूर्ण पथ या फ्लोट पथ - Primavera P6"
+description: "समझें कि एक बाधा से शुरू होने वाला महत्वपूर्ण पथ या फ्लोट पथ Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "एक बाधा से शुरू होने वाला महत्वपूर्ण पथ या फ्लोट पथ"
   - "Primavera P6 एक बाधा से शुरू होने वाला महत्वपूर्ण पथ या फ्लोट पथ"
@@ -13,27 +13,31 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-blog-article-cp-or-float-path-starting-with-constraint-primavera-p6"
+slug: "hi/blog/cp-or-float-path-starting-with-constraint-primavera-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "शेड्यूल गुणवत्ता"
 audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "समझें कि एक बाधा से शुरू होने वाला महत्वपूर्ण पथ या फ्लोट पथ Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-related_metrics:
-  - "05_metrics_hi/09_cp_or_float_path_starting_with_constraint/01_overview_template.md"
+primarySearchIntent: "समझें कि एक बाधा से शुरू होने वाला महत्वपूर्ण पथ या फ्लोट पथ Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+relatedMetrics:
   - "05_metrics_hi/09_cp_or_float_path_starting_with_constraint/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "05_blogs_hi/01_WHAT A SCHEDULE IS/01_blog.md"
   - "05_blogs_hi/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/09_cp_or_float_path_starting_with_constraint/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/09_cp_or_float_path_starting_with_constraint/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# एक बाधा से शुरू होने वाला महत्वपूर्ण पथ या फ्लोट पथ
 
 ## शीर्षक
 
@@ -148,7 +152,6 @@ last_reviewed: "2026-07-02"
 
 अपने अगले प्रिमावेरा पी6 अपडेट में प्रत्येक महत्वपूर्ण पथ या फ्लोट पथ पर पहली गतिविधि की समीक्षा करें। यदि पथ किसी बाधा के साथ शुरू होता है, तो पुष्टि करें कि क्या यह अनुमोदित प्रोजेक्ट प्रारंभ है, एक वैध बाहरी आवश्यकता है, या कोई समस्या है जिसमें सुधार की आवश्यकता है।
 ## संबंधित सामग्री
-- [एक बाधा से शुरू होने वाला महत्वपूर्ण पथ या फ्लोट पथ - अवलोकन](01_overview_template.md)
 - [एक बाधा से शुरू होने वाला महत्वपूर्ण पथ या फ्लोट पथ - सुधार मार्गदर्शिका](02_guide_template.md)
 - [शेड्यूल क्या है](../../05_blogs_hi/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [मजबूत तर्क](../../05_blogs_hi/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

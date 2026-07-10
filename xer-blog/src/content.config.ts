@@ -7,12 +7,31 @@ export const collections = {
 		loader: docsLoader(),
 		schema: docsSchema({
 			extend: z.object({
-				// Manual reading time in minutes; overrides the estimate computed
-				// from the markdown body (see src/components/PageTitle.astro).
 				readingTime: z.number().optional(),
-				// Publication date, used to order posts on the blog index
-				// (see src/components/PostCards.astro).
+				seoTitle: z.string().optional(),
+				authorName: z.string().optional(),
+				authorDescription: z.string().optional(),
+				authorUrl: z.string().url().optional(),
+				keywords: z.array(z.string()).optional(),
+				language: z.string().optional(),
+				contentType: z
+					.enum(['blog', 'article', 'documentation', 'docs', 'metric'])
+					.optional(),
+				metricPageType: z
+					.enum(['improvement-guide', 'narrative'])
+					.optional(),
+				version: z.string().optional(),
+				topic: z.string().optional(),
+				audience: z.array(z.string()).optional(),
+				primarySearchIntent: z.string().optional(),
+				relatedMetrics: z.array(z.string()).optional(),
+				relatedBlogs: z.array(z.string()).optional(),
+				translationOf: z.string().optional(),
+				canonicalUrl: z.union([z.literal(''), z.string().url()]).optional(),
+				lastReviewed: z.coerce.date().optional(),
 				pubDate: z.coerce.date().optional(),
+				seoImage: z.string().optional(),
+				seoImageAlt: z.string().optional(),
 			}),
 		}),
 	}),

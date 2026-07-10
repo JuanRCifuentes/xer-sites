@@ -1,10 +1,10 @@
 ---
 title: "Действия с оставшейся продолжительностью 0 и статусом «Не завершено»"
-seo_title: "Действия с оставшейся продолжительностью 0 и статусом «Не завершено» - Primavera P6"
-meta_description: "Поясняет, почему Действия с оставшейся продолжительностью 0 и статусом «Не завершено» влияет на CPM-логику, резерв времени и надежность графика в Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Действия с оставшейся продолжительностью 0 и статусом «Не завершено» - Primavera P6"
+description: "Поясняет, почему Действия с оставшейся продолжительностью 0 и статусом «Не завершено» влияет на CPM-логику, резерв времени и надежность графика в Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Действия с оставшейся продолжительностью 0 и статусом «Не завершено»"
   - "Primavera P6 Действия с оставшейся продолжительностью 0 и статусом «Не завершено»"
@@ -13,27 +13,31 @@ keywords:
   - "проектный контроль"
   - "CPM-логика"
   - "анализ графика"
-slug: "ru-blog-article-remaining-duration-zero-status-not-completed-primavera-p6"
+slug: "ru/blog/remaining-duration-zero-status-not-completed-primavera-p6"
 language: "ru"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Качество графика"
 audience:
   - "Планировщики"
   - "Специалисты по графикам"
   - "Команды проектного контроля"
-primary_search_intent: "Поясняет, почему Действия с оставшейся продолжительностью 0 и статусом «Не завершено» влияет на CPM-логику, резерв времени и надежность графика в Primavera P6."
-related_metrics:
-  - "07_metrics_ru/11_remaining_duration_zero_status_not_completed/01_overview_template.md"
+primarySearchIntent: "Поясняет, почему Действия с оставшейся продолжительностью 0 и статусом «Не завершено» влияет на CPM-логику, резерв времени и надежность графика в Primavera P6."
+relatedMetrics:
   - "07_metrics_ru/11_remaining_duration_zero_status_not_completed/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "07b_blogs_ru/01_WHAT A SCHEDULE IS/01_blog.md"
   - "07b_blogs_ru/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/11_remaining_duration_zero_status_not_completed/03_blog_template.md"
-canonical_url: ""
-last_проверкуed: "2026-07-02"
+translationOf: "01_metrics_en/11_remaining_duration_zero_status_not_completed/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Действия с оставшейся продолжительностью 0 и статусом «Не завершено»
 
 ## Заголовок
 
@@ -151,7 +155,6 @@ last_проверкуed: "2026-07-02"
 
 Просмотрите действия с оставшейся длительностью = 0 и статусом «Завершено» во время следующего обновления графика. Прежде чем выдавать отчеты, подтвердите реальный статус каждого действия, а затем исправьте фактическое окончание, статус действия или оставшуюся продолжительность.
 ## Связанные материалы
-- [Действия с оставшейся продолжительностью 0 и статусом «Не завершено» - Обзор](01_overview_template.md)
 - [Действия с оставшейся продолжительностью 0 и статусом «Не завершено» - Руководство по улучшению](02_guide_template.md)
 - [Что такое график](../../07b_blogs_ru/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Надежная логика](../../07b_blogs_ru/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

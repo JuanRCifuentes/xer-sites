@@ -1,10 +1,10 @@
 ---
 title: "Attività con durata rimanente 0 e stato non completato"
-seo_title: "Attività con durata rimanente 0 e stato non completato - Primavera P6"
-meta_description: "Spiega perché Attività con durata rimanente 0 e stato non completato influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Attività con durata rimanente 0 e stato non completato - Primavera P6"
+description: "Spiega perché Attività con durata rimanente 0 e stato non completato influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Attività con durata rimanente 0 e stato non completato"
   - "Primavera P6 Attività con durata rimanente 0 e stato non completato"
@@ -13,27 +13,31 @@ keywords:
   - "controllo progetto"
   - "logica CPM"
   - "revisione del cronoprogramma"
-slug: "it-blog-article-remaining-duration-zero-status-not-completed-primavera-p6"
+slug: "it/blog/remaining-duration-zero-status-not-completed-primavera-p6"
 language: "it"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Qualità del cronoprogramma"
 audience:
   - "Pianificatori"
   - "Scheduler"
   - "Team di controllo progetto"
-primary_search_intent: "Spiega perché Attività con durata rimanente 0 e stato non completato influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
-related_metrics:
-  - "11_metrics_it/11_remaining_duration_zero_status_not_completed/01_overview_template.md"
+primarySearchIntent: "Spiega perché Attività con durata rimanente 0 e stato non completato influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
+relatedMetrics:
   - "11_metrics_it/11_remaining_duration_zero_status_not_completed/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "11b_blogs_it/01_WHAT A SCHEDULE IS/01_blog.md"
   - "11b_blogs_it/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/11_remaining_duration_zero_status_not_completed/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/11_remaining_duration_zero_status_not_completed/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Attività con durata rimanente 0 e stato non completato
 
 ## Titolo
 
@@ -151,7 +155,6 @@ La gestione di questa metrica migliora la precisione dei report, la sicurezza de
 
 Rivedi le attività con Durata rimanente = 0 e stato Non completato durante il prossimo aggiornamento della pianificazione. Confermare lo stato reale di ciascuna attività, quindi correggere la Fine effettiva, lo Stato dell'attività o la Durata rimanente prima di emettere report.
 ## Contenuti correlati
-- [Attività con durata rimanente 0 e stato non completato - Panoramica](01_overview_template.md)
 - [Attività con durata rimanente 0 e stato non completato - Guida al miglioramento](02_guide_template.md)
 - [Cos'è un cronoprogramma](../../11b_blogs_it/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logica robusta](../../11b_blogs_it/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

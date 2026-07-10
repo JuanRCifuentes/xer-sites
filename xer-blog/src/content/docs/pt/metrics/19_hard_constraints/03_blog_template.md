@@ -1,10 +1,10 @@
 ---
 title: "Restrições rígidas no Primavera P6"
-seo_title: "Restrições rígidas no Primavera P6"
-meta_description: "Veja por que Restrições rígidas no Primavera P6 afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Restrições rígidas no Primavera P6"
+description: "Veja por que Restrições rígidas no Primavera P6 afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Restrições rígidas no Primavera P6"
   - "Primavera P6 Restrições rígidas no Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "controles de projeto"
   - "lógica CPM"
   - "revisão do cronograma"
-slug: "pt-blog-article-hard-restrições-primavera-p6"
+slug: "pt/blog/hard-restrições-primavera-p6"
 language: "pt"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Qualidade do cronograma"
 audience:
   - "Planejadores"
   - "Schedulers"
   - "Equipes de controles de projeto"
-primary_search_intent: "Veja por que Restrições rígidas no Primavera P6 afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
-related_metrics:
-  - "06_metrics_pt/19_hard_restrições/01_overview_template.md"
+primarySearchIntent: "Veja por que Restrições rígidas no Primavera P6 afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
+relatedMetrics:
   - "06_metrics_pt/19_hard_restrições/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "06b_blogs_pt/01_WHAT A SCHEDULE IS/01_blog.md"
   - "06b_blogs_pt/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/19_hard_restrições/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/19_hard_restrições/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Restrições rígidas no Primavera P6
 
 As restrições não são automaticamente erradas. Em um cronograma de projeto real, algumas datas são impostas por contrato, licenças, janelas de acesso, períodos de paralisação, requisitos regulatórios ou decisões do cliente. O problema começa quando as restrições se tornam um atalho para a lógica do cronograma.
 
@@ -59,7 +63,6 @@ O limite alvo para esta métrica deve ser zero restrições rígidas inexplicáv
 
 Eliminar restrições rígidas melhora a credibilidade do cronograma. Ele permite que a rede CPM faça seu trabalho, fácilita a interpretação dos valores de folga e dá às equipes de projeto uma visão mais clara do que realmente está impulsionando o trabalho. Um cronograma com menos restrições inexplicáveis ​​é geralmente mais fácil de confiar, mais fácil de revisar e mais fácil de defender.
 ## Conteúdo relacionado
-- [Restrições rígidas no Primavera P6 - Visão geral](01_overview_template.md)
 - [Restrições rígidas no Primavera P6 - Guia de melhoria](02_guide_template.md)
 - [O que é um cronograma](../../06b_blogs_pt/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Lógica Robusta](../../06b_blogs_pt/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

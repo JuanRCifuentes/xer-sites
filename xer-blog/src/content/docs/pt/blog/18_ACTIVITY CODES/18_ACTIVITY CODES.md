@@ -1,11 +1,10 @@
 ---
 title: "códigos de atividade"
-seo_title: "códigos de atividade - Primavera P6"
-meta_description: "Aprenda Códigos de atividade no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+seoTitle: "códigos de atividade - Primavera P6"
 description: "Aprenda Códigos de atividade no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "códigos de atividade"
   - "Primavera P6 códigos de atividade"
@@ -16,7 +15,7 @@ keywords:
   - "revisão do cronograma"
 slug: "pt/blog/activity-códigos-in-primavera-p6"
 language: "pt"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Planejamento em Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Planejadores"
   - "Schedulers"
   - "Equipes de controles de projeto"
-primary_search_intent: "Aprenda Códigos de atividade no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
-related_metrics:
-  - "06_metrics_pt/21_missing_dependencies/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Aprenda Códigos de atividade no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+relatedMetrics:
+  - "06_metrics_pt/21_missing_dependencies/02_guide_template.md"
+relatedBlogs:
   - "06b_blogs_pt/17_DEVELOPE A PROJECT SCHEDULE/17_DEVELOPE A PROJECT SCHEDULE.md"
   - "06b_blogs_pt/19_SCHEDULE BASIS/19_SCHEDULE BASIS.md"
-translation_of: "01b_blogs_en/18_ACTIVITY CODES/18_ACTIVITY CODES.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/18_ACTIVITY CODES/18_ACTIVITY CODES.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Códigos de Atividade
 
 Códigos de atividade no Primavera P6 são uma das principais ferramentas para transformar um cronograma de uma lista de atividades em uma base de dados útil para controles do projeto. Eles permitem agrupar, filtrar, ordenar, reportar e analisar o cronograma por diferentes perspectivas de gestão.
 

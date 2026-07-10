@@ -1,10 +1,10 @@
 ---
 title: "डेटा तिथि पर गतिविधियाँ"
-seo_title: "डेटा तिथि पर गतिविधियाँ - Primavera P6"
-meta_description: "समझें कि डेटा तिथि पर गतिविधियाँ"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "डेटा तिथि पर गतिविधियाँ - Primavera P6"
+description: "समझें कि डेटा तिथि पर गतिविधियाँ"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "डेटा तिथि पर गतिविधियाँ"
   - "Primavera P6 डेटा तिथि पर गतिविधियाँ"
@@ -13,27 +13,31 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-blog-article-activities-on-the-data-date-primavera-p6"
+slug: "hi/blog/activities-on-the-data-date-primavera-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "शेड्यूल गुणवत्ता"
 audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "समझें कि डेटा तिथि पर गतिविधियाँ: प्रिमावेरा पी6 में प्रारंभिक शुरुआत और प्रारंभिक समाप्ति जाँच Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-related_metrics:
-  - "05_metrics_hi/18_activities_in_data_date/01_overview_template.md"
+primarySearchIntent: "समझें कि डेटा तिथि पर गतिविधियाँ: प्रिमावेरा पी6 में प्रारंभिक शुरुआत और प्रारंभिक समाप्ति जाँच Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+relatedMetrics:
   - "05_metrics_hi/18_activities_in_data_date/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "05_blogs_hi/01_WHAT A SCHEDULE IS/01_blog.md"
   - "05_blogs_hi/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/18_activities_in_data_date/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/18_activities_in_data_date/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# डेटा तिथि पर गतिविधियाँ
 
 डेटा दिनांक प्रिमावेरा पी6 शेड्यूल में सबसे महत्वपूर्ण तिथियों में से एक है। यह वास्तविक प्रदर्शन और भविष्य के पूर्वानुमान के बीच की सीमा को चिह्नित करता है। डेटा तिथि से पहले कार्य की स्थिति बताई जानी चाहिए। डेटा दिनांक के बाद कार्य का पूर्वानुमान लगाया जाना चाहिए। जब कई गतिविधियाँ ठीक डेटा तिथि पर जल्दी शुरू या जल्दी ख़त्म होती हैं, तो शेड्यूल पर करीब से नज़र डालने की ज़रूरत होती है।
 
@@ -61,7 +65,6 @@ last_reviewed: "2026-07-02"
 
 इस मीट्रिक को साफ करने से निकट अवधि के पूर्वानुमान की विश्वसनीयता में सुधार होता है। यह प्रोजेक्ट टीमों को उस काम के बीच अंतर करने में मदद करता है जो वास्तव में तैयार है और उस काम के बीच अंतर करता है जो वर्तमान अद्यतन तिथि तक चला गया है। पीएमओ और क्लाइंट रिपोर्टिंग के लिए, यह यह भी दर्शाता है कि डेटा तिथि को वास्तविक स्थिति सीमा के रूप में माना गया था, न कि केवल फ़ाइल की पुनर्गणना करने के लिए उपयोग की जाने वाली तिथि के रूप में।
 ## संबंधित सामग्री
-- [डेटा तिथि पर गतिविधियाँ: प्रिमावेरा पी6 में प्रारंभिक शुरुआत और प्रारंभिक समाप्ति जाँच - अवलोकन](01_overview_template.md)
 - [डेटा तिथि पर गतिविधियाँ: प्रिमावेरा पी6 में प्रारंभिक शुरुआत और प्रारंभिक समाप्ति जाँच - सुधार मार्गदर्शिका](02_guide_template.md)
 - [शेड्यूल क्या है](../../05_blogs_hi/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [मजबूत तर्क](../../05_blogs_hi/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

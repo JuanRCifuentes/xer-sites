@@ -1,10 +1,10 @@
 ---
 title: "Caminho crítico ou caminho de folga começando com uma restrição"
-seo_title: "Caminho crítico ou caminho de folga começando com uma restrição - Primavera P6"
-meta_description: "Veja por que Caminho crítico ou caminho de folga começando com uma restrição afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Caminho crítico ou caminho de folga começando com uma restrição - Primavera P6"
+description: "Veja por que Caminho crítico ou caminho de folga começando com uma restrição afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Caminho crítico ou caminho de folga começando com uma restrição"
   - "Primavera P6 Caminho crítico ou caminho de folga começando com uma restrição"
@@ -13,27 +13,31 @@ keywords:
   - "controles de projeto"
   - "lógica CPM"
   - "revisão do cronograma"
-slug: "pt-blog-article-cp-or-float-path-starting-with-constraint-primavera-p6"
+slug: "pt/blog/cp-or-float-path-starting-with-constraint-primavera-p6"
 language: "pt"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Qualidade do cronograma"
 audience:
   - "Planejadores"
   - "Schedulers"
   - "Equipes de controles de projeto"
-primary_search_intent: "Veja por que Caminho crítico ou caminho de folga começando com uma restrição afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
-related_metrics:
-  - "06_metrics_pt/09_cp_or_float_path_starting_with_constraint/01_overview_template.md"
+primarySearchIntent: "Veja por que Caminho crítico ou caminho de folga começando com uma restrição afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
+relatedMetrics:
   - "06_metrics_pt/09_cp_or_float_path_starting_with_constraint/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "06b_blogs_pt/01_WHAT A SCHEDULE IS/01_blog.md"
   - "06b_blogs_pt/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/09_cp_or_float_path_starting_with_constraint/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/09_cp_or_float_path_starting_with_constraint/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Caminho crítico ou caminho de folga começando com uma restrição
 
 ## Título
 
@@ -148,7 +152,6 @@ O gerenciamento dessa métrica melhora a credibilidade do caminho, a confiabilid
 
 Revise a primeira atividade em cada caminho crítico ou caminho de folga em sua próxima atualização do Primavera P6. Se o caminho começar com uma restrição, confirme se é o início aprovado do projeto, um requisito externo válido ou um problema que precisa de correção.
 ## Conteúdo relacionado
-- [Caminho crítico ou caminho de folga começando com uma restrição - Visão geral](01_overview_template.md)
 - [Caminho crítico ou caminho de folga começando com uma restrição - Guia de melhoria](02_guide_template.md)
 - [O que é um cronograma](../../06b_blogs_pt/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Lógica Robusta](../../06b_blogs_pt/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

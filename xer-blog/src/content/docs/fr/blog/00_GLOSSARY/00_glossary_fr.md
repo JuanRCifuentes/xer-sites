@@ -1,11 +1,10 @@
 ---
 title: "Glossaire de planification et de contrôle de projet pour Primavera P6"
-seo_title: "Glossaire de planification et de contrôle de projet pour Primavera P6"
-meta_description: "Un glossaire pratique des termes Primavera P6, planification CPM, planification de projet et contrôle de projet pour les planificateurs, les planificateurs, les chefs de projet et les équipes PMO."
+seoTitle: "Glossaire de planification et de contrôle de projet pour Primavera P6"
 description: "Un glossaire pratique des termes Primavera P6, planification CPM, planification de projet et contrôle de projet pour les planificateurs, les planificateurs, les chefs de projet et les équipes PMO."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Glossaire Primavera P6"
   - "glossaire des contrôles de projet"
@@ -17,7 +16,7 @@ keywords:
   - "glossaire de la méthode du chemin critique"
 slug: "fr/blog/primavera-p6-glossary"
 language: "fr"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 et contrôles de projet"
@@ -27,17 +26,16 @@ audience:
   - "Planificateurs"
   - "Chefs de projets"
   - "Les équipes du PMO"
-primary_search_intent: "Comprendre la terminologie courante de Primavera P6, de planification, de planification et de contrôle de projet CPM."
-related_metrics:
+primarySearchIntent: "Comprendre la terminologie courante de Primavera P6, de planification, de planification et de contrôle de projet CPM."
+relatedMetrics:
   - "08_metrics_fr"
-related_blogs:
+relatedBlogs:
   - "08b_blogs_fr"
-translation_of: "01b_blogs_en/00_GLOSSARY/00_glossary_en.md"
-canonical_url: ""
-last_reviewed: "2026-07-07"
+translationOf: "01b_blogs_en/00_GLOSSARY/00_glossary_en.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-07"
 pubDate: "2026-07-07"
 ---
-# Glossaire de planification et de contrôle de projet pour Primavera P6
 
 Ce glossaire définit les termes courants de planification, d'ordonnancement et de contrôle de projet utilisés dans l'élaboration du calendrier Primavera P6, l'évaluation de la qualité du planning, les révisions du PMO et les rapports de projet. Les descriptions sont rédigées pour des lecteurs à expérience mixte, des planificateurs débutants aux professionnels expérimentés du contrôle de projet.
 

@@ -1,10 +1,10 @@
 ---
 title: "Atividades com sucessores SS e sem sucessores FS ou FF"
-seo_title: "Atividades com sucessores SS e sem sucessores FS ou FF - Primavera P6"
-meta_description: "Veja por que Atividades com sucessores SS e sem sucessores FS ou FF afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Atividades com sucessores SS e sem sucessores FS ou FF - Primavera P6"
+description: "Veja por que Atividades com sucessores SS e sem sucessores FS ou FF afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Atividades com sucessores SS e sem sucessores FS ou FF"
   - "Primavera P6 Atividades com sucessores SS e sem sucessores FS ou FF"
@@ -13,27 +13,31 @@ keywords:
   - "controles de projeto"
   - "lógica CPM"
   - "revisão do cronograma"
-slug: "pt-blog-article-activities-with-ss-successor-and-no-fs-ff-successor-primavera-p6"
+slug: "pt/blog/activities-with-ss-successor-and-no-fs-ff-successor-primavera-p6"
 language: "pt"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Qualidade do cronograma"
 audience:
   - "Planejadores"
   - "Schedulers"
   - "Equipes de controles de projeto"
-primary_search_intent: "Veja por que Atividades com sucessores SS e sem sucessores FS ou FF afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
-related_metrics:
-  - "06_metrics_pt/02_activities_with_ss_successor_and_no_fs_ff_successor/01_overview_template.md"
+primarySearchIntent: "Veja por que Atividades com sucessores SS e sem sucessores FS ou FF afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
+relatedMetrics:
   - "06_metrics_pt/02_activities_with_ss_successor_and_no_fs_ff_successor/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "06b_blogs_pt/01_WHAT A SCHEDULE IS/01_blog.md"
   - "06b_blogs_pt/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/02_activities_with_ss_successor_and_no_fs_ff_successor/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/02_activities_with_ss_successor_and_no_fs_ff_successor/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Atividades com sucessores SS e sem sucessores FS ou FF
 
 ## Título
 
@@ -146,7 +150,6 @@ A revisão dessa métrica melhora a qualidade do CPM, a confiabilidade da folga 
 
 Revise as atividades com sucessores SS e sem sucessores FS ou FF em sua próxima atualização de cronograma do Primavera P6. Para cada um, pergunte se o término da atividade deve impulsionar o trabalho posterior. Se for necessário, adicione uma lógica válida baseada em acabamento. Caso contrário, documente a exceção.
 ## Conteúdo relacionado
-- [Atividades com sucessores SS e sem sucessores FS ou FF - Visão geral](01_overview_template.md)
 - [Atividades com sucessores SS e sem sucessores FS ou FF - Guia de melhoria](02_guide_template.md)
 - [O que é um cronograma](../../06b_blogs_pt/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Lógica Robusta](../../06b_blogs_pt/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

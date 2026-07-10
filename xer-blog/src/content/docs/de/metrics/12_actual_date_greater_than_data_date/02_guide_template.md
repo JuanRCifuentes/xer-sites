@@ -1,10 +1,10 @@
 ---
 title: "Tatsächliche Daten liegen später als der Datenstichtag in Primavera P6 - Verbesserungsleitfaden"
-seo_title: "Tatsächliche Daten liegen später als der Datenstichtag in Primavera P6 - Verbesserungsleitfaden"
-meta_description: "Lernen Sie, Tatsächliche Daten liegen später als der Datenstichtag in Primavera P6 mit Logikprüfung, Validierung und erneuter Bewertung zu korrigieren."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Tatsächliche Daten liegen später als der Datenstichtag in Primavera P6 - Verbesserungsleitfaden"
+description: "Lernen Sie, Tatsächliche Daten liegen später als der Datenstichtag in Primavera P6 mit Logikprüfung, Validierung und erneuter Bewertung zu korrigieren."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Tatsächliche Daten liegen später als der Datenstichtag in Primavera P6"
   - "Primavera P6 Tatsächliche Daten liegen später als der Datenstichtag in Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-improvement-guide-actual-date-greater-than-data-date-primavera-p6"
+slug: "de/metrics/actual-date-greater-than-data-date-primavera-p6-improvement-guide"
 language: "de"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "Terminplanqualität"
 audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Lernen Sie, Tatsächliche Daten liegen später als der Datenstichtag in Primavera P6 mit Logikprüfung, Validierung und erneuter Bewertung zu korrigieren."
-related_metrics:
-  - "09_metrics_de/12_actual_date_greater_than_data_date/01_overview_template.md"
+primarySearchIntent: "Lernen Sie, Tatsächliche Daten liegen später als der Datenstichtag in Primavera P6 mit Logikprüfung, Validierung und erneuter Bewertung zu korrigieren."
+relatedMetrics:
   - "09_metrics_de/12_actual_date_greater_than_data_date/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "09b_blogs_de/01_WHAT A SCHEDULE IS/01_blog.md"
   - "09b_blogs_de/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/12_actual_date_greater_than_data_date/02_guide_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/12_actual_date_greater_than_data_date/02_guide_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Tatsächliche Daten liegen später als der Datenstichtag in Primavera P6 - Verbesserungsleitfaden
 
 ## Zweck
 
@@ -170,7 +174,6 @@ Eskalieren Sie ungelöste Probleme, wenn sie kritische, nahezu kritische, verdie
 - [ ] Beurteilung wiederholt
 - [ ] Nächste Schritte dokumentiert
 ## Verwandte Inhalte
-- [Tatsächliche Daten liegen später als der Datenstichtag in Primavera P6 - Überblick](01_overview_template.md)
 - [Blog-Vorlage](03_blog_template.md)
 - [Was für ein Terminplan ist](../../09b_blogs_de/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robuste Logik](../../09b_blogs_de/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

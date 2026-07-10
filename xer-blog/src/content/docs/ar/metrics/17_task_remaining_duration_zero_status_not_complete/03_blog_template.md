@@ -1,10 +1,10 @@
 ---
 title: "المدة المتبقية للمهمة هي صفر بينما الحالة غير مكتملة"
-seo_title: "المدة المتبقية للمهمة هي صفر بينما الحالة غير مكتملة - Primavera P6"
-meta_description: "يوضح لماذا يؤثر المدة المتبقية للمهمة هي صفر بينما الحالة غير مكتملة على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "المدة المتبقية للمهمة هي صفر بينما الحالة غير مكتملة - Primavera P6"
+description: "يوضح لماذا يؤثر المدة المتبقية للمهمة هي صفر بينما الحالة غير مكتملة على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "المدة المتبقية للمهمة هي صفر بينما الحالة غير مكتملة"
   - "Primavera P6 المدة المتبقية للمهمة هي صفر بينما الحالة غير مكتملة"
@@ -13,27 +13,31 @@ keywords:
   - "ضبط المشاريع"
   - "منطق CPM"
   - "مراجعة الجدول"
-slug: "ar-blog-article-task-remaining-duration-zero-status-not-complete-primavera-p6"
+slug: "ar/blog/task-remaining-duration-zero-status-not-complete-primavera-p6"
 language: "ar"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "جودة الجدول الزمني"
 audience:
   - "مهندسو التخطيط"
   - "المجدولون"
   - "فرق ضبط المشاريع"
-primary_search_intent: "يوضح لماذا يؤثر المدة المتبقية للمهمة هي صفر بينما الحالة غير مكتملة على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
-related_metrics:
-  - "04_metrics_ar/17_task_remaining_duration_zero_status_not_complete/01_overview_template.md"
+primarySearchIntent: "يوضح لماذا يؤثر المدة المتبقية للمهمة هي صفر بينما الحالة غير مكتملة على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
+relatedMetrics:
   - "04_metrics_ar/17_task_remaining_duration_zero_status_not_complete/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "04b_blogs_ar/01_WHAT A SCHEDULE IS/01_blog.md"
   - "04b_blogs_ar/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/17_task_remaining_duration_zero_status_not_complete/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/17_task_remaining_duration_zero_status_not_complete/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# المدة المتبقية للمهمة هي صفر بينما الحالة غير مكتملة
 
 تعد المدة المتبقية أحد أهم حقول الحالة في تحديث Primavera P6. فهو يخبر الجدول الزمني بمقدار الوقت الذي لا يزال مطلوبًا لإنهاء النشاط. عندما تكون المدة المتبقية لنشاط مهمة عادية تساوي 0، تكون الرسالة بسيطة: لم يعد هناك وقت متبقي للتنفيذ. إذا لم يتم وضع علامة "مكتملة" على نفس المهمة، فإن الجدول يروي قصتين مختلفتين في وقت واحد.
 
@@ -61,7 +65,6 @@ last_reviewed: "2026-07-02"
 
 يؤدي تنظيف هذا المقياس إلى تسهيل الثقة في الجدول الزمني. فهو يقوم بمحاذاة المدة المتبقية وحالة النشاط وتواريخ الانتهاء الفعلية وقيم التقدم. والأهم من ذلك، أنه يساعد فريق المشروع على اتخاذ قرارات أفضل بشأن العمل المكتمل حقًا والعمل الذي لا يزال بحاجة إلى الاهتمام.
 ## محتوى ذو صلة
-- [المدة المتبقية للمهمة هي صفر بينما الحالة غير مكتملة - نظرة عامة](01_overview_template.md)
 - [المدة المتبقية للمهمة هي صفر بينما الحالة غير مكتملة - دليل التحسين](02_guide_template.md)
 - [ما هو الجدول الزمني](../../04b_blogs_ar/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [منطق قوي](../../04b_blogs_ar/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

@@ -1,10 +1,10 @@
 ---
 title: "कार्य की शेष अवधि शून्य है जबकि स्थिति पूर्ण नहीं है - सुधार मार्गदर्शिका"
-seo_title: "कार्य की शेष अवधि शून्य है जबकि स्थिति पूर्ण नहीं है - सुधार मार्गदर्शिका - Primavera P6"
-meta_description: "Primavera P6 में कार्य की शेष अवधि शून्य है जबकि स्थिति पूर्ण नहीं है को लॉजिक जांच, सत्यापन और पुनर्मूल्यांकन से सुधारना सीखें।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "कार्य की शेष अवधि शून्य है जबकि स्थिति पूर्ण नहीं है - सुधार मार्गदर्शिका - Primavera P6"
+description: "Primavera P6 में कार्य की शेष अवधि शून्य है जबकि स्थिति पूर्ण नहीं है को लॉजिक जांच, सत्यापन और पुनर्मूल्यांकन से सुधारना सीखें।"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "कार्य की शेष अवधि शून्य है जबकि स्थिति पूर्ण नहीं है"
   - "Primavera P6 कार्य की शेष अवधि शून्य है जबकि स्थिति पूर्ण नहीं है"
@@ -13,27 +13,31 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-improvement-guide-task-remaining-duration-zero-status-not-complete-primavera-p6"
+slug: "hi/metrics/task-remaining-duration-zero-status-not-complete-primavera-p6-improvement-guide"
 language: "hi"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "शेड्यूल गुणवत्ता"
 audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "Primavera P6 में कार्य की शेष अवधि शून्य है जबकि स्थिति पूर्ण नहीं है को लॉजिक जांच, सत्यापन और पुनर्मूल्यांकन से सुधारना सीखें।"
-related_metrics:
-  - "05_metrics_hi/17_task_remaining_duration_zero_status_not_complete/01_overview_template.md"
+primarySearchIntent: "Primavera P6 में कार्य की शेष अवधि शून्य है जबकि स्थिति पूर्ण नहीं है को लॉजिक जांच, सत्यापन और पुनर्मूल्यांकन से सुधारना सीखें।"
+relatedMetrics:
   - "05_metrics_hi/17_task_remaining_duration_zero_status_not_complete/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "05_blogs_hi/01_WHAT A SCHEDULE IS/01_blog.md"
   - "05_blogs_hi/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/17_task_remaining_duration_zero_status_not_complete/02_guide_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/17_task_remaining_duration_zero_status_not_complete/02_guide_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# कार्य की शेष अवधि शून्य है जबकि स्थिति पूर्ण नहीं है - सुधार मार्गदर्शिका
 
 ## उद्देश्य
 
@@ -168,7 +172,6 @@ flowchart TD
 - [ ] मूल्यांकन दोहराया गया
 - [ ] अगले चरणों का दस्तावेजीकरण किया गया
 ## संबंधित सामग्री
-- [कार्य की शेष अवधि शून्य है जबकि स्थिति पूर्ण नहीं है - अवलोकन](01_overview_template.md)
 - [कार्य की शेष अवधि शून्य है जबकि स्थिति पूर्ण नहीं है](03_blog_template.md)
 - [शेड्यूल क्या है](../../05_blogs_hi/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [मजबूत तर्क](../../05_blogs_hi/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

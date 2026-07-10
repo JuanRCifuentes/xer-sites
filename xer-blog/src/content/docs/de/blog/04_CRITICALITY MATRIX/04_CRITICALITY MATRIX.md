@@ -1,11 +1,10 @@
 ---
 title: "Kritikalitätsmatrix"
-seo_title: "Kritikalitätsmatrix - Primavera P6"
-meta_description: "Lernen Sie Kritikalitätsmatrix in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+seoTitle: "Kritikalitätsmatrix - Primavera P6"
 description: "Lernen Sie Kritikalitätsmatrix in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Kritikalitätsmatrix"
   - "Primavera P6 Kritikalitätsmatrix"
@@ -16,7 +15,7 @@ keywords:
   - "Terminplanprüfung"
 slug: "de/blog/criticality-matrix-in-primavera-p6"
 language: "de"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Terminplanung in Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Lernen Sie Kritikalitätsmatrix in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
-related_metrics:
-  - "09_metrics_de/09_cp_or_float_path_starting_with_constraint/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Lernen Sie Kritikalitätsmatrix in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+relatedMetrics:
+  - "09_metrics_de/09_cp_or_float_path_starting_with_constraint/02_guide_template.md"
+relatedBlogs:
   - "09b_blogs_de/03_CRITICAL PATH/03_CRITICAL PATH.md"
   - "09b_blogs_de/05_ACTIVITY TYPES IN P6/05_ACTIVITY TYPES IN P6.md"
-translation_of: "01b_blogs_en/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Kritikalitätsmatrix
 
 Eine Kritikalitätsmatrix ist eine visuelle oder analytische Methode zur Klassifizierung und Priorisierung von Projektaktivitäten basierend darauf, wie wichtig sie für den Projektabschluss sind. Im Primavera P6-Kontext hilft es Projektmanagern, Planern und PMO-Prüfern dabei, herauszufinden, welche Aktivitäten das größte Terminrisiko darstellen.
 

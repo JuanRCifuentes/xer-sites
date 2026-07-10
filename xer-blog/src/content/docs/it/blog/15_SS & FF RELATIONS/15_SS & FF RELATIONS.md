@@ -1,11 +1,10 @@
 ---
 title: "Relazioni SS e FF"
-seo_title: "Relazioni SS e FF - Primavera P6"
-meta_description: "Approfondisci Relazioni SS e FF in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
+seoTitle: "Relazioni SS e FF - Primavera P6"
 description: "Approfondisci Relazioni SS e FF in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Relazioni SS e FF"
   - "Primavera P6 Relazioni SS e FF"
@@ -16,7 +15,7 @@ keywords:
   - "revisione del cronoprogramma"
 slug: "it/blog/ss-and-ff-relations-in-primavera-p6"
 language: "it"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Pianificazione in Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Pianificatori"
   - "Scheduler"
   - "Team di controllo progetto"
-primary_search_intent: "Approfondisci Relazioni SS e FF in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
-related_metrics:
-  - "11_metrics_it/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Approfondisci Relazioni SS e FF in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
+relatedMetrics:
+  - "11_metrics_it/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "11b_blogs_it/14_RESOURCES BALANCING IN P6/14_RESOURCES BALANCING IN P6.md"
   - "11b_blogs_it/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
-translation_of: "01b_blogs_en/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Relazioni SS e FF
 
 Le relazioni Start-to-Start (SS) e Finish-to-Finish (FF) sono tipi di logica validi in Primavera P6. Sono utili quando due attivita si sovrappongono e il cronoprogramma deve rappresentare questa sovrapposizione meglio di una semplice relazione Finish-to-Start.
 

@@ -1,11 +1,10 @@
 ---
 title: "जहां लागत P6 में रहती है"
-seo_title: "जहां लागत P6 में रहती है - Primavera P6"
-meta_description: "Primavera P6 में जहां लागत P6 में रहती है को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+seoTitle: "जहां लागत P6 में रहती है - Primavera P6"
 description: "Primavera P6 में जहां लागत P6 में रहती है को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "जहां लागत P6 में रहती है"
   - "Primavera P6 जहां लागत P6 में रहती है"
@@ -16,7 +15,7 @@ keywords:
   - "शेड्यूल समीक्षा"
 slug: "hi/blog/where-costs-live-in-primavera-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
@@ -24,18 +23,17 @@ audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "Primavera P6 में जहां लागत P6 में रहती है को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
-related_metrics:
-  - "05_metrics_hi/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6 में जहां लागत P6 में रहती है को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+relatedMetrics:
+  - "05_metrics_hi/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "05_blogs_hi/10_PERCENT COMPLETION TYPES IN P6/10_PERCENT COMPLETION TYPES IN P6.md"
   - "05_blogs_hi/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
-translation_of: "01b_blogs_en/11_WHERE THE COST LIVE IN P6/11_WHERE THE COST LIVE IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/11_WHERE THE COST LIVE IN P6/11_WHERE THE COST LIVE IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# जहां लागत P6 में रहती है
 
 प्रिमावेरा पी6 में लागत कई स्थानों पर रह सकती है। यह उपयोगी है, लेकिन यह भ्रमित करने वाला भी हो सकता है। एक शेड्यूल बजट लागत, वास्तविक लागत, शेष लागत, पूर्णता लागत, संसाधन लागत, भूमिका लागत, व्यय लागत, अर्जित मूल्य फ़ील्ड और आधारभूत लागत दिखा सकता है। ये मूल्य संबंधित हैं, लेकिन इन सभी का मतलब एक ही नहीं है।
 

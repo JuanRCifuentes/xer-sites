@@ -1,11 +1,10 @@
 ---
 title: "التواريخ في ص6"
-seo_title: "التواريخ في ص6 - Primavera P6"
-meta_description: "تعرّف على التواريخ في ص6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+seoTitle: "التواريخ في ص6 - Primavera P6"
 description: "تعرّف على التواريخ في ص6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "التواريخ في ص6"
   - "Primavera P6 التواريخ في ص6"
@@ -16,7 +15,7 @@ keywords:
   - "مراجعة الجدول"
 slug: "ar/blog/dates-in-p6"
 language: "ar"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "الجدولة في Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "مهندسو التخطيط"
   - "المجدولون"
   - "فرق ضبط المشاريع"
-primary_search_intent: "تعرّف على التواريخ في ص6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
-related_metrics:
-  - "04_metrics_ar/12_actual_date_greater_than_data_date/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "تعرّف على التواريخ في ص6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+relatedMetrics:
+  - "04_metrics_ar/12_actual_date_greater_than_data_date/02_guide_template.md"
+relatedBlogs:
   - "04b_blogs_ar/06_DURATION TYPES IN P6/06_DURATION TYPES IN P6.md"
   - "04b_blogs_ar/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
-translation_of: "01b_blogs_en/07_DATES IN P6/07_DATES IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/07_DATES IN P6/07_DATES IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# التواريخ في ص6
 
 يمكن أن تكون التواريخ في Primavera P6 مربكة لأن النشاط لا يحتوي على تاريخ بدء واحد وتاريخ انتهاء واحد فقط. يمكن أن تحتوي على تواريخ مخططة، وتواريخ جدولة حالية، وتواريخ مبكرة، وتواريخ متأخرة، وتواريخ فعلية، وتواريخ أساسية، وتواريخ قيد، وتواريخ متوقعة، وأحيانًا تواريخ خارجية أو تواريخ مرتبطة بالتنبؤ اعتمادًا على التخطيط وإعدادات المشروع.
 

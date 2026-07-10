@@ -1,10 +1,10 @@
 ---
 title: "Dipendenze mancanti in Primavera P6"
-seo_title: "Dipendenze mancanti in Primavera P6"
-meta_description: "Spiega perché Dipendenze mancanti in Primavera P6 influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Dipendenze mancanti in Primavera P6"
+description: "Spiega perché Dipendenze mancanti in Primavera P6 influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Dipendenze mancanti in Primavera P6"
   - "Primavera P6 Dipendenze mancanti in Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "controllo progetto"
   - "logica CPM"
   - "revisione del cronoprogramma"
-slug: "it-blog-article-missing-dependencies-primavera-p6"
+slug: "it/blog/missing-dependencies-primavera-p6"
 language: "it"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Qualità del cronoprogramma"
 audience:
   - "Pianificatori"
   - "Scheduler"
   - "Team di controllo progetto"
-primary_search_intent: "Spiega perché Dipendenze mancanti in Primavera P6 influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
-related_metrics:
-  - "11_metrics_it/21_missing_dependencies/01_overview_template.md"
+primarySearchIntent: "Spiega perché Dipendenze mancanti in Primavera P6 influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
+relatedMetrics:
   - "11_metrics_it/21_missing_dependencies/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "11b_blogs_it/01_WHAT A SCHEDULE IS/01_blog.md"
   - "11b_blogs_it/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/21_missing_dependencies/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/21_missing_dependencies/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Dipendenze mancanti in Primavera P6
 
 Le dipendenze sono la spina dorsale di una pianificazione CPM. Spiegano come il lavoro si sposta da un'attività a quella successiva, cosa deve accadere prima che il lavoro possa iniziare e cosa dipende dal completamento di ciascuna attività. Quando mancano le dipendenze, la pianificazione può comunque eseguire il calcolo, ma è più difficile fidarsi del risultato.
 
@@ -61,7 +65,6 @@ La soglia target dovrebbe essere pari a zero attività irrisolte. Ciò non signi
 
 La pulizia di questa metrica migliora immediatamente la pianificazione. Rende il percorso critico più affidabile, il margine più facile da interpretare e i piani lookahead più utili. Aiuta anche il team di progetto a vedere se la pianificazione è un modello reale del lavoro o solo un elenco di attività con date.
 ## Contenuti correlati
-- [Dipendenze mancanti in Primavera P6 - Panoramica](01_overview_template.md)
 - [Dipendenze mancanti in Primavera P6 - Guida al miglioramento](02_guide_template.md)
 - [Cos'è un cronoprogramma](../../11b_blogs_it/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logica robusta](../../11b_blogs_it/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

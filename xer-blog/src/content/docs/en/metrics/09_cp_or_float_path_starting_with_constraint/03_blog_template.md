@@ -1,10 +1,10 @@
 ---
 title: "Critical Path or Float Path Starting with Constraint - Blog Article"
-seo_title: "Critical Path or Float Path Starting with Constraint in Primavera P6"
-meta_description: "Learn why critical path or float path starting with constraint affects Primavera P6 schedule credibility, CPM logic, float, and project controls reporting."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Critical Path or Float Path Starting with Constraint in Primavera P6"
+description: "Learn why critical path or float path starting with constraint affects Primavera P6 schedule credibility, CPM logic, float, and project controls reporting."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Critical Path or Float Path Starting with Constraint"
   - "Primavera P6 Critical Path or Float Path Starting with Constraint"
@@ -13,27 +13,31 @@ keywords:
   - "CPM schedule logic"
   - "P6 constraints"
   - "critical path and float"
-slug: "blog-article-cp-or-float-path-starting-with-constraint-primavera-p6"
+slug: "en/blog/cp-or-float-path-starting-with-constraint-primavera-p6"
 language: "en"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Schedule Quality"
 audience:
   - "Planning engineers"
   - "Project managers"
   - "PMO teams"
-primary_search_intent: "Explain this Primavera P6 schedule quality topic in a practical blog format."
-related_metrics:
-  - "01_metrics_en/09_cp_or_float_path_starting_with_constraint/01_overview_template.md"
+primarySearchIntent: "Explain this Primavera P6 schedule quality topic in a practical blog format."
+relatedMetrics:
   - "01_metrics_en/09_cp_or_float_path_starting_with_constraint/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
   - "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: ""
-canonical_url: ""
-last_reviewed: "2026-06-26"
+translationOf: ""
+canonicalUrl: ""
+lastReviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
-# Critical Path or Float Path Starting with Constraint
 ## Title
 
 Critical Path or Float Path Starting with a Constraint
@@ -148,7 +152,6 @@ Managing this metric improves path credibility, float reliability, and confidenc
 Review the first activity on each critical path or float path in your next Primavera P6 update. If the path starts with a constraint, confirm whether it is the approved project start, a valid external requirement, or an issue that needs correction.
 
 ## Related Content
-- [Overview](01_overview_template.md)
 - [Improvement Guide](02_guide_template.md)
 - [What A Schedule Is](../../01b_blogs_en/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robust Logic](../../01b_blogs_en/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

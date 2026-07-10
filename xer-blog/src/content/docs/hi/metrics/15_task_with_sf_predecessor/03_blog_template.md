@@ -1,10 +1,10 @@
 ---
 title: "प्रिमावेरा पी6 में एसएफ पूर्ववर्तियों के साथ कार्य गतिविधियाँ"
-seo_title: "प्रिमावेरा पी6 में एसएफ पूर्ववर्तियों के साथ कार्य गतिविधियाँ - Primavera P6"
-meta_description: "समझें कि प्रिमावेरा पी6 में एसएफ पूर्ववर्तियों के साथ कार्य गतिविधियाँ Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "प्रिमावेरा पी6 में एसएफ पूर्ववर्तियों के साथ कार्य गतिविधियाँ - Primavera P6"
+description: "समझें कि प्रिमावेरा पी6 में एसएफ पूर्ववर्तियों के साथ कार्य गतिविधियाँ Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "प्रिमावेरा पी6 में एसएफ पूर्ववर्तियों के साथ कार्य गतिविधियाँ"
   - "Primavera P6 प्रिमावेरा पी6 में एसएफ पूर्ववर्तियों के साथ कार्य गतिविधियाँ"
@@ -13,27 +13,31 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-blog-article-task-with-sf-predecessor-primavera-p6"
+slug: "hi/blog/task-with-sf-predecessor-primavera-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "शेड्यूल गुणवत्ता"
 audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "समझें कि प्रिमावेरा पी6 में एसएफ पूर्ववर्तियों के साथ कार्य गतिविधियाँ Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-related_metrics:
-  - "05_metrics_hi/15_task_with_sf_predecessor/01_overview_template.md"
+primarySearchIntent: "समझें कि प्रिमावेरा पी6 में एसएफ पूर्ववर्तियों के साथ कार्य गतिविधियाँ Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+relatedMetrics:
   - "05_metrics_hi/15_task_with_sf_predecessor/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "05_blogs_hi/01_WHAT A SCHEDULE IS/01_blog.md"
   - "05_blogs_hi/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/15_task_with_sf_predecessor/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/15_task_with_sf_predecessor/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# प्रिमावेरा पी6 में एसएफ पूर्ववर्तियों के साथ कार्य गतिविधियाँ
 
 सीपीएम शेड्यूलिंग में स्टार्ट-टू-फिनिश रिश्ते सबसे कम आम रिश्ते प्रकारों में से एक हैं। प्रिमावेरा पी6 में, एसएफ संबंध का मतलब है कि उत्तराधिकारी गतिविधि तब तक समाप्त नहीं हो सकती जब तक कि पूर्ववर्ती गतिविधि शुरू न हो जाए। यह असामान्य मामलों में मान्य हो सकता है, लेकिन ऐसा नहीं है कि अधिकांश प्रोजेक्ट कार्य को कैसे अनुक्रमित किया जाता है।
 
@@ -63,7 +67,6 @@ P6 में सबसे अच्छी समीक्षा पद्धत�
 
 एसएफ पूर्ववर्तियों के साथ कार्य गतिविधियाँ छोटे लेकिन महत्वपूर्ण संकेत हैं। वे अक्सर कॉपी किए गए तर्क, जबरन तारीखें, या अस्पष्ट अनुक्रमण की ओर इशारा करते हैं। उनकी समीक्षा करने से प्रोजेक्ट टीम को लॉजिक नेटवर्क को साफ़ करने में मदद मिलती है, इससे पहले कि वे कमजोरियाँ रिपोर्टिंग समस्याएँ बन जाएँ।
 ## संबंधित सामग्री
-- [प्रिमावेरा पी6 में एसएफ पूर्ववर्तियों के साथ कार्य गतिविधियाँ - अवलोकन](01_overview_template.md)
 - [प्रिमावेरा पी6 में एसएफ पूर्ववर्तियों के साथ कार्य गतिविधियाँ - सुधार मार्गदर्शिका](02_guide_template.md)
 - [शेड्यूल क्या है](../../05_blogs_hi/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [मजबूत तर्क](../../05_blogs_hi/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

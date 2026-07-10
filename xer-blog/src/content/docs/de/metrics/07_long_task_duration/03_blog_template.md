@@ -1,10 +1,10 @@
 ---
 title: "Lange Aufgabendauer in Primavera P6-Terminplanbewertungen"
-seo_title: "Lange Aufgabendauer in Primavera P6-Terminplanbewertungen"
-meta_description: "Erklärt, warum Lange Aufgabendauer in Primavera P6-Terminplanbewertungen CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Lange Aufgabendauer in Primavera P6-Terminplanbewertungen"
+description: "Erklärt, warum Lange Aufgabendauer in Primavera P6-Terminplanbewertungen CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Lange Aufgabendauer in Primavera P6-Terminplanbewertungen"
   - "Primavera P6 Lange Aufgabendauer in Primavera P6-Terminplanbewertungen"
@@ -13,27 +13,31 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-blog-article-long-task-duration-primavera-p6"
+slug: "de/blog/long-task-duration-primavera-p6"
 language: "de"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Terminplanqualität"
 audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Erklärt, warum Lange Aufgabendauer in Primavera P6-Terminplanbewertungen CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-related_metrics:
-  - "09_metrics_de/07_long_task_duration/01_overview_template.md"
+primarySearchIntent: "Erklärt, warum Lange Aufgabendauer in Primavera P6-Terminplanbewertungen CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+relatedMetrics:
   - "09_metrics_de/07_long_task_duration/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "09b_blogs_de/01_WHAT A SCHEDULE IS/01_blog.md"
   - "09b_blogs_de/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/07_long_task_duration/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/07_long_task_duration/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Lange Aufgabendauer in Primavera P6-Terminplanbewertungen
 
 ## Titel
 
@@ -148,7 +152,6 @@ Wenn diese Kennzahl gut verwaltet wird, lässt sich der Terminplan leichter aktu
 
 Überprüfen Sie Aktivitäten, die über dem genehmigten Dauerschwellenwert liegen, in Ihrer nächsten Aktualisierung des Primavera P6-Terminplans. Entscheiden Sie für jede einzelne davon, ob sie aufgeschlüsselt, verfeinert oder als gültige Ausnahme dokumentiert werden soll.
 ## Verwandte Inhalte
-- [Lange Aufgabendauer in Primavera P6-Terminplanbewertungen - Überblick](01_overview_template.md)
 - [Lange Aufgabendauer in Primavera P6-Terminplanbewertungen - Verbesserungsleitfaden](02_guide_template.md)
 - [Was für ein Terminplan ist](../../09b_blogs_de/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robuste Logik](../../09b_blogs_de/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

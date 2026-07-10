@@ -1,11 +1,10 @@
 ---
 title: "Robuste Logik"
-seo_title: "Robuste Logik - Primavera P6"
-meta_description: "Lernen Sie Robuste Logik in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+seoTitle: "Robuste Logik - Primavera P6"
 description: "Lernen Sie Robuste Logik in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Robuste Logik"
   - "Primavera P6 Robuste Logik"
@@ -16,7 +15,7 @@ keywords:
   - "Terminplanprüfung"
 slug: "de/blog/robust-logic-in-primavera-p6"
 language: "de"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Terminplanung in Primavera P6"
@@ -24,19 +23,18 @@ audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Lernen Sie Robuste Logik in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
-related_metrics:
-  - "09_metrics_de/21_missing_dependencies/01_overview_template.md"
-  - "09_metrics_de/06_redundant_logic/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Lernen Sie Robuste Logik in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+relatedMetrics:
+  - "09_metrics_de/21_missing_dependencies/02_guide_template.md"
+  - "09_metrics_de/06_redundant_logic/02_guide_template.md"
+relatedBlogs:
   - "09b_blogs_de/01_WHAT A SCHEDULE IS/01_blog.md"
   - "09b_blogs_de/03_CRITICAL PATH/03_CRITICAL PATH.md"
-translation_of: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Robuste Logik
 
 Logik ist die mathematische Darstellung der Abfolge und Abhängigkeiten innerhalb eines Projektterminplans. Es erklärt, was vor was passieren muss, welche Aktivitäten gleichzeitig stattfinden können und wie das Projektteam von der ersten Aktivität bis zur endgültigen Fertigstellung vorgehen will.
 

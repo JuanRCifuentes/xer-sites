@@ -1,10 +1,10 @@
 ---
 title: "Relazioni sconvenienti in Primavera P6"
-seo_title: "Relazioni sconvenienti in Primavera P6"
-meta_description: "Spiega perché Relazioni sconvenienti in Primavera P6"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Relazioni sconvenienti in Primavera P6"
+description: "Spiega perché Relazioni sconvenienti in Primavera P6"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Relazioni sconvenienti in Primavera P6"
   - "Primavera P6 Relazioni sconvenienti in Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "controllo progetto"
   - "logica CPM"
   - "revisione del cronoprogramma"
-slug: "it-blog-article-unusual-relationships-primavera-p6"
+slug: "it/blog/unusual-relationships-primavera-p6"
 language: "it"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Qualità del cronoprogramma"
 audience:
   - "Pianificatori"
   - "Scheduler"
   - "Team di controllo progetto"
-primary_search_intent: "Spiega perché Relazioni sconvenienti in Primavera P6: pietre miliari, LOE e controlli del tipo di relazione influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
-related_metrics:
-  - "11_metrics_it/14_unusual_relations/01_overview_template.md"
+primarySearchIntent: "Spiega perché Relazioni sconvenienti in Primavera P6: pietre miliari, LOE e controlli del tipo di relazione influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
+relatedMetrics:
   - "11_metrics_it/14_unusual_relations/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "11b_blogs_it/01_WHAT A SCHEDULE IS/01_blog.md"
   - "11b_blogs_it/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/14_unseemly_relations/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/14_unseemly_relations/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Relazioni sconvenienti in Primavera P6
 
 La logica delle relazioni è una delle parti più facili da copiare rapidamente di un cronoprogramma e una delle parti più difficili da difendere in seguito. Una relazione può sembrare innocua in una tabella P6, ma il tipo di attività di ciascuna parte è importante. Una relazione che abbia senso tra due normali attività di attività può essere scomoda o fuorviante quando una parte è un'attività di traguardo iniziale, di traguardo finale o di livello di impegno.
 
@@ -59,7 +63,6 @@ Un buon obiettivo per questa metrica è zero relazioni irrisolte. La parola impo
 
 Le relazioni inadeguate sono spesso piccoli sintomi di problemi più ampi di qualità del cronoprogramma: logica copiata, definizioni di tappe fondamentali poco chiare, uso improprio delle attività LOE o abitudine di forzare le date attraverso i tipi di relazione. Pulirli migliora più di un punteggio metrico. Rende la pianificazione più facile da rivedere, più facile da spiegare e più affidabile per la governance del PMO e il processo decisionale del progetto.
 ## Contenuti correlati
-- [01_overview_template](../14_unusual_relations/01_overview_template.md)
 - [02_guide_template](../14_unusual_relations/02_guide_template.md)
 - [Cos'è un cronoprogramma](../../11b_blogs_it/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logica robusta](../../11b_blogs_it/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

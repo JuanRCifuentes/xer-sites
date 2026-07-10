@@ -1,10 +1,10 @@
 ---
 title: "प्रिमावेरा पी6 में अनुचित संबंध"
-seo_title: "प्रिमावेरा पी6 में अनुचित संबंध - Primavera P6"
-meta_description: "समझें कि प्रिमावेरा पी6 में अनुचित संबंध"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "प्रिमावेरा पी6 में अनुचित संबंध - Primavera P6"
+description: "समझें कि प्रिमावेरा पी6 में अनुचित संबंध"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "प्रिमावेरा पी6 में अनुचित संबंध"
   - "Primavera P6 प्रिमावेरा पी6 में अनुचित संबंध"
@@ -13,27 +13,31 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-blog-article-unusual-relationships-primavera-p6"
+slug: "hi/blog/unusual-relationships-primavera-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "शेड्यूल गुणवत्ता"
 audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "समझें कि प्रिमावेरा पी6 में अनुचित संबंध: मील के पत्थर, एलओई, और संबंध प्रकार की जांच Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-related_metrics:
-  - "05_metrics_hi/14_unusual_relations/01_overview_template.md"
+primarySearchIntent: "समझें कि प्रिमावेरा पी6 में अनुचित संबंध: मील के पत्थर, एलओई, और संबंध प्रकार की जांच Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+relatedMetrics:
   - "05_metrics_hi/14_unusual_relations/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "05_blogs_hi/01_WHAT A SCHEDULE IS/01_blog.md"
   - "05_blogs_hi/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/14_unseemly_relations/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/14_unseemly_relations/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# प्रिमावेरा पी6 में अनुचित संबंध
 
 रिलेशनशिप लॉजिक किसी शेड्यूल के सबसे आसान हिस्सों में से एक है जिसे तुरंत कॉपी किया जा सकता है और बाद में इसका बचाव करना सबसे कठिन हिस्सों में से एक है। P6 तालिका में कोई संबंध हानिरहित लग सकता है, लेकिन प्रत्येक पक्ष पर गतिविधि का प्रकार मायने रखता है। एक संबंध जो दो सामान्य कार्य गतिविधियों के बीच समझ में आता है वह अजीब या भ्रामक हो सकता है जब एक तरफ प्रारंभ मील का पत्थर, समाप्ति मील का पत्थर, या प्रयास का स्तर गतिविधि हो।
 
@@ -59,7 +63,6 @@ last_reviewed: "2026-07-02"
 
 अनुचित रिश्ते अक्सर बड़े शेड्यूल की गुणवत्ता की समस्याओं के छोटे लक्षण होते हैं: कॉपी किए गए तर्क, अस्पष्ट मील के पत्थर की परिभाषा, एलओई गतिविधियों का दुरुपयोग, या रिश्ते के प्रकारों के माध्यम से तारीखों को मजबूर करने की आदत। उन्हें साफ करने से मीट्रिक स्कोर से अधिक सुधार होता है। यह शेड्यूल की समीक्षा करना आसान बनाता है, समझाना आसान बनाता है और पीएमओ प्रशासन और परियोजना निर्णय लेने के लिए अधिक विश्वसनीय बनाता है।
 ## संबंधित सामग्री
-- [01_overview_template](../14_unusual_relations/01_overview_template.md)
 - [02_guide_template](../14_unusual_relations/02_guide_template.md)
 - [शेड्यूल क्या है](../../05_blogs_hi/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [मजबूत तर्क](../../05_blogs_hi/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

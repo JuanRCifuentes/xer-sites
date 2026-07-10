@@ -1,10 +1,10 @@
 ---
 title: "أنشطة المهام مع أسلاف SF في بريمافيرا P6"
-seo_title: "أنشطة المهام مع أسلاف SF في بريمافيرا P6 - Primavera P6"
-meta_description: "يوضح لماذا يؤثر أنشطة المهام مع أسلاف SF في بريمافيرا P6 على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "أنشطة المهام مع أسلاف SF في بريمافيرا P6 - Primavera P6"
+description: "يوضح لماذا يؤثر أنشطة المهام مع أسلاف SF في بريمافيرا P6 على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "أنشطة المهام مع أسلاف SF في بريمافيرا P6"
   - "Primavera P6 أنشطة المهام مع أسلاف SF في بريمافيرا P6"
@@ -13,27 +13,31 @@ keywords:
   - "ضبط المشاريع"
   - "منطق CPM"
   - "مراجعة الجدول"
-slug: "ar-blog-article-task-with-sf-predecessor-primavera-p6"
+slug: "ar/blog/task-with-sf-predecessor-primavera-p6"
 language: "ar"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "جودة الجدول الزمني"
 audience:
   - "مهندسو التخطيط"
   - "المجدولون"
   - "فرق ضبط المشاريع"
-primary_search_intent: "يوضح لماذا يؤثر أنشطة المهام مع أسلاف SF في بريمافيرا P6 على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
-related_metrics:
-  - "04_metrics_ar/15_task_with_sf_النشاط السابق/01_overview_template.md"
+primarySearchIntent: "يوضح لماذا يؤثر أنشطة المهام مع أسلاف SF في بريمافيرا P6 على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
+relatedMetrics:
   - "04_metrics_ar/15_task_with_sf_النشاط السابق/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "04b_blogs_ar/01_WHAT A SCHEDULE IS/01_blog.md"
   - "04b_blogs_ar/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/15_task_with_sf_predecessor/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/15_task_with_sf_predecessor/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# أنشطة المهام مع أسلاف SF في بريمافيرا P6
 
 تعد العلاقات من البداية إلى النهاية أحد أنواع العلاقات الأقل شيوعًا في جدولة CPM. في Primavera P6، تعني علاقة SF أن النشاط اللاحق لا يمكن أن ينتهي حتى يبدأ النشاط السابق. يمكن أن يكون هذا صحيحًا في حالات غير عادية، لكن هذه ليست الطريقة التي يتم بها تسلسل معظم أعمال المشروع.
 
@@ -63,7 +67,6 @@ SF مختلف. فهو يربط بداية النشاط السابق بنهاية
 
 تعد أنشطة المهام مع أسلاف SF بمثابة إشارات صغيرة ولكنها مهمة. غالبًا ما يشيرون إلى المنطق المنسوخ أو التواريخ القسرية أو التسلسل غير الواضح. تساعد مراجعتها فريق المشروع على تنظيف الشبكة المنطقية قبل أن تتحول نقاط الضعف هذه إلى مشكلات في الإبلاغ.
 ## محتوى ذو صلة
-- [أنشطة المهام مع أسلاف SF في بريمافيرا P6 - نظرة عامة](01_overview_template.md)
 - [أنشطة المهام مع أسلاف SF في بريمافيرا P6 - دليل التحسين](02_guide_template.md)
 - [ما هو الجدول الزمني](../../04b_blogs_ar/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [منطق قوي](../../04b_blogs_ar/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

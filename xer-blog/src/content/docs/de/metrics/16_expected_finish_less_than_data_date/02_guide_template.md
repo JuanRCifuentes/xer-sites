@@ -1,10 +1,10 @@
 ---
 title: "Voraussichtliches Ende vor dem Datenstichtag in Primavera P6 - Verbesserungsleitfaden"
-seo_title: "Voraussichtliches Ende vor dem Datenstichtag in Primavera P6 - Verbesserungsleitfaden"
-meta_description: "Lernen Sie, Voraussichtliches Ende vor dem Datenstichtag in Primavera P6 mit Logikprüfung, Validierung und erneuter Bewertung zu korrigieren."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Voraussichtliches Ende vor dem Datenstichtag in Primavera P6 - Verbesserungsleitfaden"
+description: "Lernen Sie, Voraussichtliches Ende vor dem Datenstichtag in Primavera P6 mit Logikprüfung, Validierung und erneuter Bewertung zu korrigieren."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Voraussichtliches Ende vor dem Datenstichtag in Primavera P6"
   - "Primavera P6 Voraussichtliches Ende vor dem Datenstichtag in Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-improvement-guide-expected-finish-less-than-data-date-primavera-p6"
+slug: "de/metrics/expected-finish-less-than-data-date-primavera-p6-improvement-guide"
 language: "de"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "Terminplanqualität"
 audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Lernen Sie, Voraussichtliches Ende vor dem Datenstichtag in Primavera P6 mit Logikprüfung, Validierung und erneuter Bewertung zu korrigieren."
-related_metrics:
-  - "09_metrics_de/16_expected_finish_less_than_data_date/01_overview_template.md"
+primarySearchIntent: "Lernen Sie, Voraussichtliches Ende vor dem Datenstichtag in Primavera P6 mit Logikprüfung, Validierung und erneuter Bewertung zu korrigieren."
+relatedMetrics:
   - "09_metrics_de/16_expected_finish_less_than_data_date/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "09b_blogs_de/01_WHAT A SCHEDULE IS/01_blog.md"
   - "09b_blogs_de/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/16_expected_finish_less_than_data_date/02_guide_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/16_expected_finish_less_than_data_date/02_guide_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Voraussichtliches Ende vor dem Datenstichtag in Primavera P6 - Verbesserungsleitfaden
 
 ## Zweck
 
@@ -173,7 +177,6 @@ Eskalieren Sie ungelöste Probleme, wenn sie kritische, nahezu kritische Kundenb
 - [ ] Beurteilung wiederholt
 - [ ] Nächste Schritte dokumentiert
 ## Verwandte Inhalte
-- [Voraussichtliches Ende vor dem Datenstichtag in Primavera P6 - Überblick](01_overview_template.md)
 - [Voraussichtliches Ende vor dem Datenstichtag in Primavera P6](03_blog_template.md)
 - [Was für ein Terminplan ist](../../09b_blogs_de/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robuste Logik](../../09b_blogs_de/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

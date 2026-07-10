@@ -1,11 +1,10 @@
 ---
 title: "Tipos de recursos em P6"
-seo_title: "Tipos de recursos em P6 - Primavera P6"
-meta_description: "Aprenda Tipos de recursos em P6 no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+seoTitle: "Tipos de recursos em P6 - Primavera P6"
 description: "Aprenda Tipos de recursos em P6 no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Tipos de recursos em P6"
   - "Primavera P6 Tipos de recursos em P6"
@@ -16,7 +15,7 @@ keywords:
   - "revisão do cronograma"
 slug: "pt/blog/resource-types-in-p6"
 language: "pt"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Planejamento em Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Planejadores"
   - "Schedulers"
   - "Equipes de controles de projeto"
-primary_search_intent: "Aprenda Tipos de recursos em P6 no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
-related_metrics:
-  - "06_metrics_pt/13_activity_started_progress_zero/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Aprenda Tipos de recursos em P6 no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+relatedMetrics:
+  - "06_metrics_pt/13_activity_started_progress_zero/02_guide_template.md"
+relatedBlogs:
   - "06b_blogs_pt/11_WHERE THE COST LIVE IN P6/11_WHERE THE COST LIVE IN P6.md"
   - "06b_blogs_pt/13_RESOURCES LIMITS IN P6/13_RESOURCES LIMITS IN P6.md"
-translation_of: "01b_blogs_en/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Tipos de recursos em P6
 
 Os recursos no Primavera P6 representam as pessoas, equipamentos e materiais necessários para executar o trabalho. Eles conectam o cronograma à capacidade, produtividade, custo e demanda de recursos ao longo do tempo.
 

@@ -1,11 +1,10 @@
 ---
 title: "النسبة المئوية للأنواع الكاملة في P6"
-seo_title: "النسبة المئوية للأنواع الكاملة في P6 - Primavera P6"
-meta_description: "تعرّف على النسبة المئوية للأنواع الكاملة في P6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+seoTitle: "النسبة المئوية للأنواع الكاملة في P6 - Primavera P6"
 description: "تعرّف على النسبة المئوية للأنواع الكاملة في P6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "النسبة المئوية للأنواع الكاملة في P6"
   - "Primavera P6 النسبة المئوية للأنواع الكاملة في P6"
@@ -16,7 +15,7 @@ keywords:
   - "مراجعة الجدول"
 slug: "ar/blog/percent-complete-types-in-p6"
 language: "ar"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "الجدولة في Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "مهندسو التخطيط"
   - "المجدولون"
   - "فرق ضبط المشاريع"
-primary_search_intent: "تعرّف على النسبة المئوية للأنواع الكاملة في P6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
-related_metrics:
-  - "04_metrics_ar/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "تعرّف على النسبة المئوية للأنواع الكاملة في P6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+relatedMetrics:
+  - "04_metrics_ar/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "04b_blogs_ar/09_DURATION IN P6/09_DURATION IN P6.md"
   - "04b_blogs_ar/11_WHERE THE COST LIVE IN P6/11_WHERE THE COST LIVE IN P6.md"
-translation_of: "01b_blogs_en/10_PERCENT COMPLETION TYPES IN P6/10_PERCENT COMPLETION TYPES IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/10_PERCENT COMPLETION TYPES IN P6/10_PERCENT COMPLETION TYPES IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# النسبة المئوية للأنواع الكاملة في P6
 
 تعد النسبة المئوية للإكمال أحد مجالات التقدم الأكثر وضوحًا في Primavera P6، ولكنها أيضًا واحدة من أكثر المجالات التي يساء فهمها. يمكن أن تعني قيمة اكتمال 50% أشياء مختلفة اعتمادًا على كيفية تكوين النشاط وكيفية قياس تقدم المشروع.
 

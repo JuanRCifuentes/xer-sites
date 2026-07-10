@@ -1,10 +1,10 @@
 ---
 title: "数据日期的活动"
-seo_title: "数据日期的活动"
-meta_description: "说明“数据日期上的活动”为什么会影响 Primavera P6 的更新质量、CPM 逻辑和进度可信度。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "数据日期的活动"
+description: "说明“数据日期上的活动”为什么会影响 Primavera P6 的更新质量、CPM 逻辑和进度可信度。"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "数据日期的活动"
   - "Primavera P6 数据日期的活动"
@@ -13,27 +13,31 @@ keywords:
   - "项目控制"
   - "CPM逻辑"
   - "进度审查"
-slug: "zh-blog-article-activities-on-the-data-date-primavera-p6"
+slug: "zh/blog/activities-on-the-data-date-primavera-p6"
 language: "zh"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "进度质量"
 audience:
   - "计划工程师"
   - "进度计划软件人员"
   - "项目控制团队"
-primary_search_intent: "说明“数据日期的活动：Primavera P6 中的提前开始和提前完成检查”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
-related_metrics:
-  - "03_metrics_zh/18_activities_in_data_date/01_overview_template.md"
+primarySearchIntent: "说明“数据日期的活动：Primavera P6 中的提前开始和提前完成检查”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
+relatedMetrics:
   - "03_metrics_zh/18_activities_in_data_date/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "03b_blogs_zh/01_WHAT A SCHEDULE IS/01_blog.md"
   - "03b_blogs_zh/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/18_activities_in_data_date/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/18_activities_in_data_date/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# 数据日期的活动
 
 数据日期是 Primavera P6 计划中最重要的日期之一。它标志着实际绩效和未来预测之间的界限。应注明数据日期之前的工作。应预测数据日期之后的工作。当许多活动在数据日期准确地提前开始或提前结束时，进度计划值得仔细查看。
 
@@ -61,7 +65,6 @@ last_reviewed: "2026-07-02"
 
 清理这个指标可以提高近期预测的可信度。它可以帮助项目团队区分真正准备好的工作和只是转移到当前更新日期的工作。对于 PMO 和客户报告，它还显示数据日期被视为真实状态边界，而不仅仅是用于重新计算文件的日期。
 ## 相关内容
-- [数据日期的活动：Primavera P6 中的提前开始和提前完成检查 - 概述](01_overview_template.md)
 - [数据日期的活动：Primavera P6 中的提前开始和提前完成检查 - 改进指南](02_guide_template.md)
 - [什么是进度计划](../../03b_blogs_zh/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [强大的逻辑](../../03b_blogs_zh/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

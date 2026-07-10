@@ -1,10 +1,10 @@
 ---
 title: "Primavera P6 スケジュールの冗長ロジック"
-seo_title: "Primavera P6 スケジュールの冗長ロジック"
-meta_description: "「Primavera P6 スケジュールの冗長ロジック」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Primavera P6 スケジュールの冗長ロジック"
+description: "「Primavera P6 スケジュールの冗長ロジック」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Primavera P6 スケジュールの冗長ロジック"
   - "Primavera P6 スケジュールの冗長ロジック"
@@ -13,27 +13,31 @@ keywords:
   - "プロジェクトコントロール"
   - "CPMロジック"
   - "スケジュールレビュー"
-slug: "jp-blog-article-redundant-logic-primavera-p6"
-language: "jp"
-content_type: "blog"
+slug: "ja/blog/redundant-logic-primavera-p6"
+language: "ja"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "スケジュール品質"
 audience:
   - "計画エンジニア"
   - "スケジューラー"
   - "プロジェクトコントロールチーム"
-primary_search_intent: "「Primavera P6 スケジュールの冗長ロジック」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
-related_metrics:
-  - "12_metrics_jp/06_redundant_logic/01_overview_template.md"
+primarySearchIntent: "「Primavera P6 スケジュールの冗長ロジック」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
+relatedMetrics:
   - "12_metrics_jp/06_redundant_logic/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "12b_blogs_jp/01_WHAT A SCHEDULE IS/01_blog.md"
   - "12b_blogs_jp/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/06_redundant_logic/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/06_redundant_logic/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Primavera P6 スケジュールの冗長ロジック
 
 ## タイトル
 
@@ -148,7 +152,6 @@ SS と FF を自動的に間違ったものとして扱うことは避けてく�
 
 次回の Primavera P6 スケジュール更新で冗長ロジックを確認してください。フラグが設定された関係ごとに、それが実際の依存関係を追加するのか、それともネットワークにすでに存在するロジックを繰り返すだけなのかを尋ねます。不要なものを削除し、意図的に残したものを文書化します。
 ## 関連コンテンツ
-- [Primavera P6 スケジュールの冗長ロジック - 概要](01_overview_template.md)
 - [Primavera P6 スケジュールの冗長ロジック - 改善ガイド](02_guide_template.md)
 - [スケジュールとは](../../12b_blogs_jp/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [堅牢なロジック](../../12b_blogs_jp/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

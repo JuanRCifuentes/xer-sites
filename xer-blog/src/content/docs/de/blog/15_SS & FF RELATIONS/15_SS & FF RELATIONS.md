@@ -1,11 +1,10 @@
 ---
 title: "SS- und FF-Beziehungen"
-seo_title: "SS- und FF-Beziehungen - Primavera P6"
-meta_description: "Lernen Sie SS- und FF-Beziehungen in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+seoTitle: "SS- und FF-Beziehungen - Primavera P6"
 description: "Lernen Sie SS- und FF-Beziehungen in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "SS- und FF-Beziehungen"
   - "Primavera P6 SS- und FF-Beziehungen"
@@ -16,7 +15,7 @@ keywords:
   - "Terminplanprüfung"
 slug: "de/blog/ss-and-ff-relations-in-primavera-p6"
 language: "de"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Terminplanung in Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Lernen Sie SS- und FF-Beziehungen in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
-related_metrics:
-  - "09_metrics_de/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Lernen Sie SS- und FF-Beziehungen in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+relatedMetrics:
+  - "09_metrics_de/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "09b_blogs_de/14_RESOURCES BALANCING IN P6/14_RESOURCES BALANCING IN P6.md"
   - "09b_blogs_de/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
-translation_of: "01b_blogs_en/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# SS- und FF-Beziehungen
 
 Start-to-Start (SS) und Finish-to-Finish (FF) sind gueltige Logiktypen in Primavera P6. Sie sind nuetzlich, wenn zwei Vorgaenge ueberlappen und der Terminplan diese Ueberlappung genauer abbilden soll als eine einfache Finish-to-Start-Beziehung.
 

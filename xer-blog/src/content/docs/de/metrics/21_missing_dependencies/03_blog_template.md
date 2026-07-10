@@ -1,10 +1,10 @@
 ---
 title: "Fehlende Abhängigkeiten in Primavera P6"
-seo_title: "Fehlende Abhängigkeiten in Primavera P6"
-meta_description: "Erklärt, warum Fehlende Abhängigkeiten in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Fehlende Abhängigkeiten in Primavera P6"
+description: "Erklärt, warum Fehlende Abhängigkeiten in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Fehlende Abhängigkeiten in Primavera P6"
   - "Primavera P6 Fehlende Abhängigkeiten in Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-blog-article-missing-dependencies-primavera-p6"
+slug: "de/blog/missing-dependencies-primavera-p6"
 language: "de"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Terminplanqualität"
 audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Erklärt, warum Fehlende Abhängigkeiten in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-related_metrics:
-  - "09_metrics_de/21_missing_dependencies/01_overview_template.md"
+primarySearchIntent: "Erklärt, warum Fehlende Abhängigkeiten in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+relatedMetrics:
   - "09_metrics_de/21_missing_dependencies/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "09b_blogs_de/01_WHAT A SCHEDULE IS/01_blog.md"
   - "09b_blogs_de/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/21_missing_dependencies/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/21_missing_dependencies/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Fehlende Abhängigkeiten in Primavera P6
 
 Abhängigkeiten sind das Rückgrat eines CPM-Terminplans. Sie erklären, wie die Arbeit von einer Aktivität zur nächsten übergeht, was passieren muss, bevor mit der Arbeit begonnen werden kann, und was von der Fertigstellung jeder Aktivität abhängt. Wenn Abhängigkeiten fehlen, kann der Terminplan zwar trotzdem berechnen, das Ergebnis ist jedoch schwerer vertrauenswürdig.
 
@@ -61,7 +65,6 @@ Der Zielschwellenwert sollte bei null ungelösten Aktivitäten liegen. Das bedeu
 
 Durch die Bereinigung dieser Metrik wird der Terminplan sofort verbessert. Dadurch wird der kritische Pfad zuverlässiger, Puffer einfacher zu interpretieren und Look-Ahead-Pläne nützlicher. Es hilft dem Projektteam auch zu erkennen, ob der Terminplan ein echtes Modell der Arbeit oder nur eine Liste von Aktivitäten mit Terminen ist.
 ## Verwandte Inhalte
-- [Fehlende Abhängigkeiten in Primavera P6 - Überblick](01_overview_template.md)
 - [Fehlende Abhängigkeiten in Primavera P6 - Verbesserungsleitfaden](02_guide_template.md)
 - [Was für ein Terminplan ist](../../09b_blogs_de/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robuste Logik](../../09b_blogs_de/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

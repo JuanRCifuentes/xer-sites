@@ -19,7 +19,7 @@ hero:
       </svg>
   actions:
     - text: 探索第一个度量指标
-      link: /zh/metrics/data-date-no-driving-logic-overview/
+      link: /zh/metrics/activities-starting-on-the-data-date-with-no-logic-driving-primavera-p6-improvement-guide/
       icon: right-arrow
       variant: primary
     - text: 阅读博客
@@ -28,12 +28,3 @@ hero:
 sidebar:
   order: 0
 ---
-
-## 在数据日期启动且无驱动逻辑的活动
-
-该度量指标识别计划在数据日期启动、却没有有效前置逻辑驱动该启动的开放或未启动活动。活动在没有逻辑的情况下聚集于数据日期边界，会扭曲浮时、掩盖最长路径，并使预测变得不可靠。目标阈值为 0 项活动。
-
-- [概述](/zh/metrics/data-date-no-driving-logic-overview/)——该度量指标测量的内容、阈值，以及其对进度可信度的重要性。
-- [改善指南](/zh/metrics/data-date-no-driving-logic-improvement-guide/)——进度计划师和项目控制团队在质量审查和更新周期中如何解决被标记的活动。
-
-有关该度量指标重要性的叙述性说明，请阅读相关博客文章：[在数据日期启动且无驱动逻辑的活动](/zh/blog/activities-starting-on-data-date-no-driving-logic/)。

@@ -1,10 +1,10 @@
 ---
 title: "La durée restante de la tâche est nulle alors que l'état n'est pas terminé - Guide d’amélioration"
-seo_title: "La durée restante de la tâche est nulle alors que l'état n'est pas terminé - Guide d’amélioration - Primavera P6"
-meta_description: "Apprenez à corriger La durée restante de la tâche est nulle alors que l'état n'est pas terminé dans Primavera P6 avec des contrôles de logique, de validation et de réévaluation."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "La durée restante de la tâche est nulle alors que l'état n'est pas terminé - Guide d’amélioration - Primavera P6"
+description: "Apprenez à corriger La durée restante de la tâche est nulle alors que l'état n'est pas terminé dans Primavera P6 avec des contrôles de logique, de validation et de réévaluation."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "La durée restante de la tâche est nulle alors que l'état n'est pas terminé"
   - "Primavera P6 La durée restante de la tâche est nulle alors que l'état n'est pas terminé"
@@ -13,27 +13,31 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-improvement-guide-task-remaining-duration-zero-status-not-complete-primavera-p6"
+slug: "fr/metrics/task-remaining-duration-zero-status-not-complete-primavera-p6-improvement-guide"
 language: "fr"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "Qualité du planning"
 audience:
   - "Planificateurs"
   - "Ordonnanceurs"
   - "Équipes de contrôle projet"
-primary_search_intent: "Apprenez à corriger La durée restante de la tâche est nulle alors que l'état n'est pas terminé dans Primavera P6 avec des contrôles de logique, de validation et de réévaluation."
-related_metrics:
-  - "08_metrics_fr/17_task_remaining_duration_zero_status_not_complete/01_overview_template.md"
+primarySearchIntent: "Apprenez à corriger La durée restante de la tâche est nulle alors que l'état n'est pas terminé dans Primavera P6 avec des contrôles de logique, de validation et de réévaluation."
+relatedMetrics:
   - "08_metrics_fr/17_task_remaining_duration_zero_status_not_complete/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "08b_blogs_fr/01_WHAT A SCHEDULE IS/01_blog.md"
   - "08b_blogs_fr/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/17_task_remaining_duration_zero_status_not_complete/02_guide_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/17_task_remaining_duration_zero_status_not_complete/02_guide_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# La durée restante de la tâche est nulle alors que l'état n'est pas terminé - Guide d’amélioration
 
 ## But
 
@@ -168,7 +172,6 @@ Examinez cette mesure à chaque cycle de mise à jour avant de publier des rappo
 - [ ] Évaluation répétée
 - [ ] Prochaines étapes documentées
 ## Contenu associé
-- [La durée restante de la tâche est nulle alors que l'état n'est pas terminé - Vue d’ensemble](01_overview_template.md)
 - [La durée restante de la tâche est nulle alors que l'état n'est pas terminé](03_blog_template.md)
 - [Qu'est-ce qu'un horaire](../../08b_blogs_fr/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logique robuste](../../08b_blogs_fr/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

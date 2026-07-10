@@ -19,7 +19,7 @@ hero:
       </svg>
   actions:
     - text: 첫 번째 지표 살펴보기
-      link: /ko/metrics/data-date-no-driving-logic-overview/
+      link: /ko/metrics/activities-starting-on-the-data-date-with-no-logic-driving-primavera-p6-improvement-guide/
       icon: right-arrow
       variant: primary
     - text: 블로그 읽기
@@ -28,12 +28,3 @@ hero:
 sidebar:
   order: 0
 ---
-
-## 데이터 기준일에 구동 로직 없이 시작되는 활동
-
-이 지표는 유효한 선행 로직의 구동 없이 데이터 기준일에 시작하도록 예정된 미착수 또는 미시작 활동을 식별합니다. 로직 없이 데이터 기준일 경계에 집중되는 활동은 여유 시간을 왜곡하고, 최장 경로를 불명확하게 하며, 예측을 신뢰할 수 없게 만듭니다. 목표 임계값은 활동 수 0입니다.
-
-- [개요](/ko/metrics/data-date-no-driving-logic-overview/) — 지표가 측정하는 것, 임계값, 그리고 일정 신뢰성에 중요한 이유.
-- [개선 가이드](/ko/metrics/data-date-no-driving-logic-improvement-guide/) — 일정 담당자와 프로젝트 컨트롤 팀이 품질 검토 및 업데이트 주기 중에 표시된 활동을 해결하는 방법.
-
-이 지표가 왜 중요한지에 대한 내러티브 버전은 관련 블로그 포스트를 읽으십시오: [데이터 기준일에 구동 로직 없이 시작되는 활동](/ko/blog/activities-starting-on-data-date-no-driving-logic/).

@@ -1,10 +1,10 @@
 ---
 title: "प्रिमावेरा पी6 में गुम निर्भरताएँ"
-seo_title: "प्रिमावेरा पी6 में गुम निर्भरताएँ - Primavera P6"
-meta_description: "समझें कि प्रिमावेरा पी6 में गुम निर्भरताएँ Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "प्रिमावेरा पी6 में गुम निर्भरताएँ - Primavera P6"
+description: "समझें कि प्रिमावेरा पी6 में गुम निर्भरताएँ Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "प्रिमावेरा पी6 में गुम निर्भरताएँ"
   - "Primavera P6 प्रिमावेरा पी6 में गुम निर्भरताएँ"
@@ -13,27 +13,31 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-blog-article-missing-dependencies-primavera-p6"
+slug: "hi/blog/missing-dependencies-primavera-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "शेड्यूल गुणवत्ता"
 audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "समझें कि प्रिमावेरा पी6 में गुम निर्भरताएँ Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-related_metrics:
-  - "05_metrics_hi/21_missing_dependencies/01_overview_template.md"
+primarySearchIntent: "समझें कि प्रिमावेरा पी6 में गुम निर्भरताएँ Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+relatedMetrics:
   - "05_metrics_hi/21_missing_dependencies/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "05_blogs_hi/01_WHAT A SCHEDULE IS/01_blog.md"
   - "05_blogs_hi/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/21_missing_dependencies/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/21_missing_dependencies/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# प्रिमावेरा पी6 में गुम निर्भरताएँ
 
 निर्भरताएँ सीपीएम शेड्यूल की रीढ़ हैं। वे बताते हैं कि काम एक गतिविधि से दूसरी गतिविधि की ओर कैसे बढ़ता है, काम शुरू होने से पहले क्या होना चाहिए और प्रत्येक गतिविधि के पूरा होने पर क्या निर्भर करता है। जब निर्भरताएँ गायब होती हैं, तब भी शेड्यूल की गणना की जा सकती है, लेकिन परिणाम पर भरोसा करना कठिन होता है।
 
@@ -61,7 +65,6 @@ last_reviewed: "2026-07-02"
 
 इस मीट्रिक को साफ करने से शेड्यूल में तुरंत सुधार होता है। यह महत्वपूर्ण पथ को अधिक विश्वसनीय बनाता है, फ़्लोट की व्याख्या करना आसान बनाता है, और आगे की योजनाओं को अधिक उपयोगी बनाता है। यह प्रोजेक्ट टीम को यह देखने में भी मदद करता है कि क्या शेड्यूल काम का वास्तविक मॉडल है या सिर्फ तारीखों के साथ गतिविधियों की एक सूची है।
 ## संबंधित सामग्री
-- [प्रिमावेरा पी6 में गुम निर्भरताएँ - अवलोकन](01_overview_template.md)
 - [प्रिमावेरा पी6 में गुम निर्भरताएँ - सुधार मार्गदर्शिका](02_guide_template.md)
 - [शेड्यूल क्या है](../../05_blogs_hi/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [मजबूत तर्क](../../05_blogs_hi/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

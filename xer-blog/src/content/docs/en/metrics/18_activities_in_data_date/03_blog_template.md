@@ -1,10 +1,10 @@
 ---
 title: "Activities on the Data Date - Blog Article"
-seo_title: "Activities on the Data Date in Primavera P6"
-meta_description: "Learn why activities on the Data Date: early start and early finish checks in Primavera P6 affects Primavera P6 schedule credibility, CPM logic, float."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Activities on the Data Date in Primavera P6"
+description: "Learn why activities on the Data Date: early start and early finish checks in Primavera P6 affects Primavera P6 schedule credibility, CPM logic, float."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Activities on the Data Date"
   - "Primavera P6 Activities on the Data Date"
@@ -13,27 +13,31 @@ keywords:
   - "CPM schedule logic"
   - "Primavera P6 Data Date"
   - "Primavera P6 blog"
-slug: "blog-article-activities-on-the-data-date-primavera-p6"
+slug: "en/blog/activities-on-the-data-date-primavera-p6"
 language: "en"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Schedule Quality"
 audience:
   - "Planning engineers"
   - "Project managers"
   - "PMO teams"
-primary_search_intent: "Explain this Primavera P6 schedule quality topic in a practical blog format."
-related_metrics:
-  - "01_metrics_en/18_activities_in_data_date/01_overview_template.md"
+primarySearchIntent: "Explain this Primavera P6 schedule quality topic in a practical blog format."
+relatedMetrics:
   - "01_metrics_en/18_activities_in_data_date/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
   - "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: ""
-canonical_url: ""
-last_reviewed: "2026-06-26"
+translationOf: ""
+canonicalUrl: ""
+lastReviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
-# Activities on the Data Date: Early Start and Early Finish Checks in Primavera P6
 
 The Data Date is one of the most important dates in a Primavera P6 schedule. It marks the boundary between actual performance and future forecast. Work before the Data Date should be statused. Work after the Data Date should be forecast. When many activities have Early Start or Early Finish exactly on the Data Date, the schedule deserves a closer look.
 
@@ -62,7 +66,6 @@ This metric is especially useful during update reviews. After the Data Date move
 Cleaning up this metric improves the credibility of the near-term forecast. It helps project teams distinguish work that is genuinely ready from work that has simply drifted to the current update date. For PMO and client reporting, it also shows that the Data Date was treated as a real status boundary, not just a date used to recalculate the file.
 
 ## Related Content
-- [Overview](01_overview_template.md)
 - [Improvement Guide](02_guide_template.md)
 - [What A Schedule Is](../../01b_blogs_en/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robust Logic](../../01b_blogs_en/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

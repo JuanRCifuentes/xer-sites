@@ -1,10 +1,10 @@
 ---
 title: "Действия начались с 0% прогресса в Primavera P6 - Руководство по улучшению"
-seo_title: "Действия начались с 0% прогресса в Primavera P6 - Руководство по улучшению"
-meta_description: "Узнайте, как исправить Действия начались с 0% прогресса в Primavera P6 с помощью проверки логики, валидации и повторной оценки."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Действия начались с 0% прогресса в Primavera P6 - Руководство по улучшению"
+description: "Узнайте, как исправить Действия начались с 0% прогресса в Primavera P6 с помощью проверки логики, валидации и повторной оценки."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Действия начались с 0% прогресса в Primavera P6"
   - "Primavera P6 Действия начались с 0% прогресса в Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "проектный контроль"
   - "CPM-логика"
   - "анализ графика"
-slug: "ru-improvement-guide-activity-started-progress-zero-primavera-p6"
+slug: "ru/metrics/activity-started-progress-zero-primavera-p6-improvement-guide"
 language: "ru"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "Качество графика"
 audience:
   - "Планировщики"
   - "Специалисты по графикам"
   - "Команды проектного контроля"
-primary_search_intent: "Узнайте, как исправить Действия начались с 0% прогресса в Primavera P6 с помощью проверки логики, валидации и повторной оценки."
-related_metrics:
-  - "07_metrics_ru/13_activity_started_progress_zero/01_overview_template.md"
+primarySearchIntent: "Узнайте, как исправить Действия начались с 0% прогресса в Primavera P6 с помощью проверки логики, валидации и повторной оценки."
+relatedMetrics:
   - "07_metrics_ru/13_activity_started_progress_zero/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "07b_blogs_ru/01_WHAT A SCHEDULE IS/01_blog.md"
   - "07b_blogs_ru/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/13_activity_started_progress_zero/02_guide_template.md"
-canonical_url: ""
-last_проверкуed: "2026-07-02"
+translationOf: "01_metrics_en/13_activity_started_progress_zero/02_guide_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Действия начались с 0% прогресса в Primavera P6 - Руководство по улучшению
 
 ## Цель
 
@@ -169,7 +173,6 @@ flowchart TD
 - [ ] Оценка повторена
 - [ ] Следующие шаги задокументированы
 ## Связанные материалы
-- [Действия начались с 0% прогресса в Primavera P6 - Обзор](01_overview_template.md)
 - [Шаблон блога](03_blog_template.md)
 - [Что такое график](../../07b_blogs_ru/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Надежная логика](../../07b_blogs_ru/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

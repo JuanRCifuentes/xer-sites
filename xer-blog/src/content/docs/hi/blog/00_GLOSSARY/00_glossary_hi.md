@@ -1,11 +1,10 @@
 ---
 title: "प्रिमावेरा पी6 के लिए योजना और परियोजना नियंत्रण शब्दावली"
-seo_title: "प्रिमावेरा पी6 के लिए योजना और परियोजना नियंत्रण शब्दावली"
-meta_description: "योजनाकारों, अनुसूचियों, परियोजना प्रबंधकों और पीएमओ टीमों के लिए प्रिमावेरा पी6, सीपीएम शेड्यूलिंग, प्रोजेक्ट प्लानिंग और प्रोजेक्ट नियंत्रण शर्तों की एक व्यावहारिक शब्दावली।"
+seoTitle: "प्रिमावेरा पी6 के लिए योजना और परियोजना नियंत्रण शब्दावली"
 description: "योजनाकारों, अनुसूचियों, परियोजना प्रबंधकों और पीएमओ टीमों के लिए प्रिमावेरा पी6, सीपीएम शेड्यूलिंग, प्रोजेक्ट प्लानिंग और प्रोजेक्ट नियंत्रण शर्तों की एक व्यावहारिक शब्दावली।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "प्रिमावेरा पी6 शब्दावली"
   - "परियोजना नियंत्रण शब्दावली"
@@ -17,7 +16,7 @@ keywords:
   - "महत्वपूर्ण पथ विधि शब्दावली"
 slug: "hi/blog/primavera-p6-glossary"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "प्रिमावेरा पी6 और परियोजना नियंत्रण"
@@ -27,17 +26,16 @@ audience:
   - "शेड्यूलर"
   - "परियोजना प्रबंधक"
   - "पीएमओ की टीमें"
-primary_search_intent: "सामान्य प्रिमावेरा पी6, सीपीएम शेड्यूलिंग, योजना और परियोजना नियंत्रण शब्दावली को समझें।"
-related_metrics:
+primarySearchIntent: "सामान्य प्रिमावेरा पी6, सीपीएम शेड्यूलिंग, योजना और परियोजना नियंत्रण शब्दावली को समझें।"
+relatedMetrics:
   - "05_metrics_hi"
-related_blogs:
+relatedBlogs:
   - "05_blogs_hi"
-translation_of: "01b_blogs_en/00_GLOSSARY/00_glossary_en.md"
-canonical_url: ""
-last_reviewed: "2026-07-07"
+translationOf: "01b_blogs_en/00_GLOSSARY/00_glossary_en.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-07"
 pubDate: "2026-07-07"
 ---
-# प्रिमावेरा पी6 के लिए योजना और परियोजना नियंत्रण शब्दावली
 
 यह शब्दावली प्रिमावेरा पी6 शेड्यूल डेवलपमेंट, शेड्यूल गुणवत्ता मूल्यांकन, पीएमओ समीक्षा और प्रोजेक्ट रिपोर्टिंग में उपयोग की जाने वाली सामान्य योजना, शेड्यूलिंग और प्रोजेक्ट नियंत्रण शर्तों को परिभाषित करती है। विवरण मिश्रित-अनुभव वाले पाठकों के लिए लिखे गए हैं, कनिष्ठ योजनाकारों से लेकर अनुभवी परियोजना नियंत्रण पेशेवरों तक।
 

@@ -1,10 +1,10 @@
 ---
 title: "Primavera P6 中的硬约束"
-seo_title: "Primavera P6 中的硬约束"
-meta_description: "说明“Primavera P6 中的硬约束”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Primavera P6 中的硬约束"
+description: "说明“Primavera P6 中的硬约束”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Primavera P6 中的硬约束"
   - "Primavera P6 中的硬约束"
@@ -13,27 +13,31 @@ keywords:
   - "项目控制"
   - "CPM逻辑"
   - "进度审查"
-slug: "zh-blog-article-hard-约束-primavera-p6"
+slug: "zh/blog/hard-约束-primavera-p6"
 language: "zh"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "进度质量"
 audience:
   - "计划工程师"
   - "进度计划软件人员"
   - "项目控制团队"
-primary_search_intent: "说明“Primavera P6 中的硬约束”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
-related_metrics:
-  - "03_metrics_zh/19_hard_约束/01_overview_template.md"
+primarySearchIntent: "说明“Primavera P6 中的硬约束”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
+relatedMetrics:
   - "03_metrics_zh/19_hard_约束/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "03b_blogs_zh/01_WHAT A SCHEDULE IS/01_blog.md"
   - "03b_blogs_zh/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/19_hard_约束/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/19_hard_约束/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Primavera P6 中的硬约束
 
 约束不会自动出错。在实际的项目进度中，某些日期是由合同、许可、访问窗口、关闭期、监管要求或客户决定规定的。当约束成为进度计划逻辑的捷径时，问题就开始了。
 
@@ -59,7 +63,6 @@ last_reviewed: "2026-07-02"
 
 清除硬约束可以提高进度可信度。它使 CPM 网络能够完成其工作，使浮时值更易于解释，并使项目团队能够更清楚地了解真正推动工作的因素。具有较少无法解释的硬约束的进度计划通常更容易信任、更容易审查、更容易捍卫。
 ## 相关内容
-- [Primavera P6 中的硬约束 - 概述](01_overview_template.md)
 - [Primavera P6 中的硬约束 - 改进指南](02_guide_template.md)
 - [什么是进度计划](../../03b_blogs_zh/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [强大的逻辑](../../03b_blogs_zh/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

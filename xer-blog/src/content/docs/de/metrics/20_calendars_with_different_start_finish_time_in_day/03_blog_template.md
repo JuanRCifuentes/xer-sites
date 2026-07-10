@@ -1,10 +1,10 @@
 ---
 title: "Kalender mit unterschiedlichen Start- und Endzeiten in Primavera P6"
-seo_title: "Kalender mit unterschiedlichen Start- und Endzeiten in Primavera P6"
-meta_description: "Erklärt, warum Kalender mit unterschiedlichen Start- und Endzeiten in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Kalender mit unterschiedlichen Start- und Endzeiten in Primavera P6"
+description: "Erklärt, warum Kalender mit unterschiedlichen Start- und Endzeiten in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Kalender mit unterschiedlichen Start- und Endzeiten in Primavera P6"
   - "Primavera P6 Kalender mit unterschiedlichen Start- und Endzeiten in Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-blog-article-calendars-with-different-start-finish-time-in-day-primavera-p6"
+slug: "de/blog/calendars-with-different-start-finish-time-in-day-primavera-p6"
 language: "de"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Terminplanung in Primavera P6"
 audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Erklärt, warum Kalender mit unterschiedlichen Start- und Endzeiten in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-related_metrics:
-  - "09_metrics_de/20_calendars_with_different_start_finish_time_in_day/01_overview_template.md"
+primarySearchIntent: "Erklärt, warum Kalender mit unterschiedlichen Start- und Endzeiten in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+relatedMetrics:
   - "09_metrics_de/20_calendars_with_different_start_finish_time_in_day/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "09b_blogs_de/01_WHAT A SCHEDULE IS/01_blog.md"
   - "09b_blogs_de/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/20_calendars_with_different_start_finish_time_in_day/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/20_calendars_with_different_start_finish_time_in_day/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Kalender mit unterschiedlichen Start- und Endzeiten in Primavera P6
 
 Kalender sind einer der leisen Treiber eines Primavera P6-Terminplans. Sie definieren, wann Arbeit stattfinden kann, wie Dauer in Datumsangaben umgewandelt wird und wie Beziehungen Aktivitäten über die Zeit hinweg verschieben. Da Kalender oft im Verborgenen stattfinden, können kleine Unterschiede in den täglichen Start- und Endzeiten zu einem Terminplanverhalten führen, das in normalen Layouts schwer zu erkennen ist.
 
@@ -59,7 +63,6 @@ Der Zielschwellenwert für diese Metrik sollte bei null unerklärten Kalendern l
 
 Durch die Bereinigung dieser Metrik wird die Terminplantransparenz verbessert. Es hilft Teams, versteckte Teiltageseffekte, irreführende Schwankungen und unerklärliche Datumsverschiebungen zu vermeiden. Dadurch lässt sich der Terminplan auch einfacher prüfen, da Kalenderannahmen nicht mehr in der Datei vergraben sind. Für Projektkontrollteams ist das eine kleine Überprüfung mit großem Nutzen.
 ## Verwandte Inhalte
-- [Kalender mit unterschiedlichen Start- und Endzeiten in Primavera P6 - Überblick](01_overview_template.md)
 - [Kalender mit unterschiedlichen Start- und Endzeiten in Primavera P6 - Verbesserungsleitfaden](02_guide_template.md)
 - [Was für ein Terminplan ist](../../09b_blogs_de/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robuste Logik](../../09b_blogs_de/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

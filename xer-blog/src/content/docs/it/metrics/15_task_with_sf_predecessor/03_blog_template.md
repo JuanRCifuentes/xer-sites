@@ -1,10 +1,10 @@
 ---
 title: "Attività con i predecessori di SF in Primavera P6"
-seo_title: "Attività con i predecessori di SF in Primavera P6"
-meta_description: "Spiega perché Attività con i predecessori di SF in Primavera P6 influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Attività con i predecessori di SF in Primavera P6"
+description: "Spiega perché Attività con i predecessori di SF in Primavera P6 influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Attività con i predecessori di SF in Primavera P6"
   - "Primavera P6 Attività con i predecessori di SF in Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "controllo progetto"
   - "logica CPM"
   - "revisione del cronoprogramma"
-slug: "it-blog-article-task-with-sf-predecessor-primavera-p6"
+slug: "it/blog/task-with-sf-predecessor-primavera-p6"
 language: "it"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Qualità del cronoprogramma"
 audience:
   - "Pianificatori"
   - "Scheduler"
   - "Team di controllo progetto"
-primary_search_intent: "Spiega perché Attività con i predecessori di SF in Primavera P6 influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
-related_metrics:
-  - "11_metrics_it/15_task_with_sf_predecessor/01_overview_template.md"
+primarySearchIntent: "Spiega perché Attività con i predecessori di SF in Primavera P6 influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
+relatedMetrics:
   - "11_metrics_it/15_task_with_sf_predecessor/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "11b_blogs_it/01_WHAT A SCHEDULE IS/01_blog.md"
   - "11b_blogs_it/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/15_task_with_sf_predecessor/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/15_task_with_sf_predecessor/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Attività con i predecessori di SF in Primavera P6
 
 Le relazioni dall'inizio alla fine sono uno dei tipi di relazione meno comuni nella pianificazione CPM. In Primavera P6, una relazione SF significa che l'attività successore non può terminare finché non inizia l'attività predecessore. Ciò può essere valido in casi insoliti, ma non è così che viene sequenziata la maggior parte del lavoro di progetto.
 
@@ -63,7 +67,6 @@ Dopo le correzioni, ricalcolare la pianificazione e rivedere il percorso logico 
 
 Le attività svolte con i predecessori della SF sono segnali piccoli ma importanti. Spesso indicano una logica copiata, date forzate o sequenze poco chiare. Esaminarli aiuta il team di progetto a ripulire la rete logica prima che tali punti deboli diventino problemi di reporting.
 ## Contenuti correlati
-- [Attività con i predecessori di SF in Primavera P6 - Panoramica](01_overview_template.md)
 - [Attività con i predecessori di SF in Primavera P6 - Guida al miglioramento](02_guide_template.md)
 - [Cos'è un cronoprogramma](../../11b_blogs_it/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logica robusta](../../11b_blogs_it/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

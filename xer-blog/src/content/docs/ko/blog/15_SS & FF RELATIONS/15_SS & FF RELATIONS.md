@@ -1,11 +1,10 @@
 ---
 title: "SS 및 FF 관계"
-seo_title: "SS 및 FF 관계 - Primavera P6"
-meta_description: "Primavera P6에서 SS 및 FF 관계를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+seoTitle: "SS 및 FF 관계 - Primavera P6"
 description: "Primavera P6에서 SS 및 FF 관계를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "SS 및 FF 관계"
   - "Primavera P6 SS 및 FF 관계"
@@ -16,7 +15,7 @@ keywords:
   - "공정표 검토"
 slug: "ko/blog/ss-and-ff-relations-in-primavera-p6"
 language: "ko"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 공정표관리"
@@ -24,18 +23,17 @@ audience:
   - "계획 엔지니어"
   - "스케줄러"
   - "프로젝트 통제 팀"
-primary_search_intent: "Primavera P6에서 SS 및 FF 관계를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
-related_metrics:
-  - "10_metrics_ko/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6에서 SS 및 FF 관계를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+relatedMetrics:
+  - "10_metrics_ko/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "10b_blogs_ko/14_RESOURCES BALANCING IN P6/14_RESOURCES BALANCING IN P6.md"
   - "10b_blogs_ko/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
-translation_of: "01b_blogs_en/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# SS 및 FF 관계
 
 Start-to-Start(SS)와 Finish-to-Finish(FF)는 Primavera P6에서 유효한 논리 관계 유형입니다. 두 활동이 겹쳐서 수행될 때 단순한 Finish-to-Start 관계보다 더 현실적으로 중첩 작업을 표현할 수 있습니다.
 

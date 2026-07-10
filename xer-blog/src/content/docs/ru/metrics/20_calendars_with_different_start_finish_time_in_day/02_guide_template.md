@@ -1,10 +1,10 @@
 ---
 title: "Календари с разным временем начала и окончания в Primavera P6 - Руководство по улучшению"
-seo_title: "Календари с разным временем начала и окончания в Primavera P6 - Руководство по улучшению"
-meta_description: "Узнайте, как исправить Календари с разным временем начала и окончания в Primavera P6 с помощью проверки логики, валидации и повторной оценки."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Календари с разным временем начала и окончания в Primavera P6 - Руководство по улучшению"
+description: "Узнайте, как исправить Календари с разным временем начала и окончания в Primavera P6 с помощью проверки логики, валидации и повторной оценки."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Календари с разным временем начала и окончания в Primavera P6"
   - "Primavera P6 Календари с разным временем начала и окончания в Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "проектный контроль"
   - "CPM-логика"
   - "анализ графика"
-slug: "ru-improvement-guide-calendars-with-different-start-finish-time-in-day-primavera-p6"
+slug: "ru/metrics/calendars-with-different-start-finish-time-in-day-primavera-p6-improvement-guide"
 language: "ru"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "Планирование в Primavera P6"
 audience:
   - "Планировщики"
   - "Специалисты по графикам"
   - "Команды проектного контроля"
-primary_search_intent: "Узнайте, как исправить Календари с разным временем начала и окончания в Primavera P6 с помощью проверки логики, валидации и повторной оценки."
-related_metrics:
-  - "07_metrics_ru/20_calendars_with_different_start_finish_time_in_day/01_overview_template.md"
+primarySearchIntent: "Узнайте, как исправить Календари с разным временем начала и окончания в Primavera P6 с помощью проверки логики, валидации и повторной оценки."
+relatedMetrics:
   - "07_metrics_ru/20_calendars_with_different_start_finish_time_in_day/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "07b_blogs_ru/01_WHAT A SCHEDULE IS/01_blog.md"
   - "07b_blogs_ru/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/20_calendars_with_different_start_finish_time_in_day/02_guide_template.md"
-canonical_url: ""
-last_проверкуed: "2026-07-02"
+translationOf: "01_metrics_en/20_calendars_with_different_start_finish_time_in_day/02_guide_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Календари с разным временем начала и окончания в Primavera P6 - Руководство по улучшению
 
 ## Цель
 
@@ -172,7 +176,6 @@ flowchart TD
 - [ ] Оценка повторена
 - [ ] Следующие шаги задокументированы
 ## Связанные материалы
-- [Календари с разным временем начала и окончания в Primavera P6 - Обзор](01_overview_template.md)
 - [Календари с разным временем начала и окончания в Primavera P6](03_blog_template.md)
 - [Что такое график](../../07b_blogs_ru/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Надежная логика](../../07b_blogs_ru/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

@@ -5,6 +5,7 @@ import remarkMermaid from './src/plugins/remark-mermaid.mjs';
 
 // https://astro.build/config
 export default defineConfig({
+	site: process.env.SITE_URL,
 	// All locales (including English) live under a path prefix. The template
 	// homepage was removed, so until a real landing page exists at en/index,
 	// send the bare root to the metrics summary splash page.
@@ -15,6 +16,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Xer Blog',
+			routeMiddleware: './src/routeData.ts',
 			// Same locale set as xer-docs. English is the default locale. Spanish is
 			// human-maintained; the remaining locales are AI-translated and get an
 			// "AI Generated" banner (see src/components/Banner.astro).

@@ -1,11 +1,10 @@
 ---
 title: "Was für ein Terminplan ist"
-seo_title: "Was für ein Terminplan ist - Primavera P6"
-meta_description: "Lernen Sie Was für ein Terminplan ist in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+seoTitle: "Was für ein Terminplan ist - Primavera P6"
 description: "Lernen Sie Was für ein Terminplan ist in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Was für ein Terminplan ist"
   - "Primavera P6 Was für ein Terminplan ist"
@@ -16,7 +15,7 @@ keywords:
   - "Terminplanprüfung"
 slug: "de/blog/what-a-schedule-is-in-primavera-p6"
 language: "de"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Terminplanung in Primavera P6"
@@ -24,17 +23,16 @@ audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Lernen Sie Was für ein Terminplan ist in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
-related_metrics:
-  - "09_metrics_de/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Lernen Sie Was für ein Terminplan ist in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+relatedMetrics:
+  - "09_metrics_de/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "09b_blogs_de/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Was für ein Terminplan ist
 
 Ein Projektplan ist mehr als eine Liste von Terminen. Es handelt sich um eine grafische und logische Darstellung des Projektlieferplans. Es erklärt, wie das Projekt von Anfang bis Ende durchgeführt wird, wie Arbeitspakete zusammenhängen, wann wichtige Meilensteine ​​erreicht werden sollten und welche Informationen das Projektteam für seine Entscheidungen nutzen sollte.
 

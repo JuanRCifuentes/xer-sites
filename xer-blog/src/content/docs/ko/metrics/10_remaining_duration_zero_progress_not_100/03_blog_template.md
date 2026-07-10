@@ -1,10 +1,10 @@
 ---
 title: "잔여 기간이 0이고 진행률이 100%가 아닌 활동"
-seo_title: "잔여 기간이 0이고 진행률이 100%가 아닌 활동 - Primavera P6"
-meta_description: "잔여 기간이 0이고 진행률이 100%가 아닌 활동가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "잔여 기간이 0이고 진행률이 100%가 아닌 활동 - Primavera P6"
+description: "잔여 기간이 0이고 진행률이 100%가 아닌 활동가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "잔여 기간이 0이고 진행률이 100%가 아닌 활동"
   - "Primavera P6 잔여 기간이 0이고 진행률이 100%가 아닌 활동"
@@ -13,27 +13,31 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-blog-article-remaining-duration-zero-progress-not-100-primavera-p6"
+slug: "ko/blog/remaining-duration-zero-progress-not-100-primavera-p6"
 language: "ko"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "공정표 품질"
 audience:
   - "계획 엔지니어"
   - "스케줄러"
   - "프로젝트 통제 팀"
-primary_search_intent: "잔여 기간이 0이고 진행률이 100%가 아닌 활동가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
-related_metrics:
-  - "10_metrics_ko/10_remaining_duration_zero_progress_not_100/01_overview_template.md"
+primarySearchIntent: "잔여 기간이 0이고 진행률이 100%가 아닌 활동가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
+relatedMetrics:
   - "10_metrics_ko/10_remaining_duration_zero_progress_not_100/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "10b_blogs_ko/01_WHAT A SCHEDULE IS/01_blog.md"
   - "10b_blogs_ko/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/10_remaining_duration_zero_progress_not_100/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/10_remaining_duration_zero_progress_not_100/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# 잔여 기간이 0이고 진행률이 100%가 아닌 활동
 
 ## 제목
 
@@ -151,7 +155,6 @@ Primavera P6 공정표 업데이트는 정리 상태 정보에 따라 달라집�
 
 다음 공정표 업데이트 동안 잔여 기간 = 0이고 진행률이 100%가 아닌 활동을 검토하세요. 각 활동이 완료되었는지 확인한 다음 필요에 따라 실제 완료, 잔여 기간 또는 진행 상황을 수정합니다.
 ## 관련 콘텐츠
-- [잔여 기간이 0이고 진행률이 100%가 아닌 활동 - 개요](01_overview_template.md)
 - [잔여 기간이 0이고 진행률이 100%가 아닌 활동 - 개선 가이드](02_guide_template.md)
 - [일정이란 무엇입니까?](../../10b_blogs_ko/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [견고한 논리](../../10b_blogs_ko/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

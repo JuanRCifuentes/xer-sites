@@ -1,10 +1,10 @@
 ---
 title: "प्रिमावेरा पी6 में डेटा तिथि से पहले अपेक्षित समाप्ति"
-seo_title: "प्रिमावेरा पी6 में डेटा तिथि से पहले अपेक्षित समाप्ति - Primavera P6"
-meta_description: "समझें कि प्रिमावेरा पी6 में डेटा तिथि से पहले अपेक्षित समाप्ति Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "प्रिमावेरा पी6 में डेटा तिथि से पहले अपेक्षित समाप्ति - Primavera P6"
+description: "समझें कि प्रिमावेरा पी6 में डेटा तिथि से पहले अपेक्षित समाप्ति Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "प्रिमावेरा पी6 में डेटा तिथि से पहले अपेक्षित समाप्ति"
   - "Primavera P6 प्रिमावेरा पी6 में डेटा तिथि से पहले अपेक्षित समाप्ति"
@@ -13,27 +13,31 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-blog-article-expected-finish-less-than-data-date-primavera-p6"
+slug: "hi/blog/expected-finish-less-than-data-date-primavera-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "शेड्यूल गुणवत्ता"
 audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "समझें कि प्रिमावेरा पी6 में डेटा तिथि से पहले अपेक्षित समाप्ति Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-related_metrics:
-  - "05_metrics_hi/16_expected_finish_less_than_data_date/01_overview_template.md"
+primarySearchIntent: "समझें कि प्रिमावेरा पी6 में डेटा तिथि से पहले अपेक्षित समाप्ति Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+relatedMetrics:
   - "05_metrics_hi/16_expected_finish_less_than_data_date/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "05_blogs_hi/01_WHAT A SCHEDULE IS/01_blog.md"
   - "05_blogs_hi/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/16_expected_finish_less_than_data_date/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/16_expected_finish_less_than_data_date/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# प्रिमावेरा पी6 में डेटा तिथि से पहले अपेक्षित समाप्ति
 
 डेटा दिनांक क्या हो चुका है और क्या अभी भी पूर्वानुमानित है के बीच की रेखा है। एक स्वच्छ शेड्यूल अपडेट में, डेटा तिथि से पहले की स्थिति की जानकारी को वास्तविक प्रगति के रूप में हल किया जाना चाहिए, जबकि शेष कार्य का पूर्वानुमान डेटा तिथि से आगे लगाया जाना चाहिए। जब किसी गतिविधि का डेटा दिनांक से पहले अपेक्षित समापन होता है, तो वह सीमा धुंधली हो जाती है।
 
@@ -59,7 +63,6 @@ last_reviewed: "2026-07-02"
 
 इस मीट्रिक को साफ करने से शेड्यूल की विश्वसनीयता में सुधार होता है। यह टीम को एक स्पष्ट अद्यतन सीमा बनाए रखने, पूर्वानुमान कार्य से वास्तविक प्रदर्शन को अलग करने और भ्रामक लुकहेड या फ़्लोट परिणामों से बचने में मदद करता है। पीएमओ समीक्षाओं में, यह भी पता चलता है कि शेड्यूल अपडेट की न केवल गणना की गई थी, बल्कि वास्तव में स्थिति स्थिरता के लिए जाँच की गई थी।
 ## संबंधित सामग्री
-- [प्रिमावेरा पी6 में डेटा तिथि से पहले अपेक्षित समाप्ति - अवलोकन](01_overview_template.md)
 - [प्रिमावेरा पी6 में डेटा तिथि से पहले अपेक्षित समाप्ति - सुधार मार्गदर्शिका](02_guide_template.md)
 - [शेड्यूल क्या है](../../05_blogs_hi/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [मजबूत तर्क](../../05_blogs_hi/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

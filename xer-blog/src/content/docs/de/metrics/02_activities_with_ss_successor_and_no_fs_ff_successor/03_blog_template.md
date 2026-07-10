@@ -1,10 +1,10 @@
 ---
 title: "Aktivitäten mit SS-Nachfolgern und ohne FS- oder FF-Nachfolger"
-seo_title: "Aktivitäten mit SS-Nachfolgern und ohne FS- oder FF-Nachfolger - Primavera P6"
-meta_description: "Erklärt, warum Aktivitäten mit SS-Nachfolgern und ohne FS- oder FF-Nachfolger CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Aktivitäten mit SS-Nachfolgern und ohne FS- oder FF-Nachfolger - Primavera P6"
+description: "Erklärt, warum Aktivitäten mit SS-Nachfolgern und ohne FS- oder FF-Nachfolger CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Aktivitäten mit SS-Nachfolgern und ohne FS- oder FF-Nachfolger"
   - "Primavera P6 Aktivitäten mit SS-Nachfolgern und ohne FS- oder FF-Nachfolger"
@@ -13,27 +13,31 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-blog-article-activities-with-ss-successor-and-no-fs-ff-successor-primavera-p6"
+slug: "de/blog/activities-with-ss-successor-and-no-fs-ff-successor-primavera-p6"
 language: "de"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Terminplanqualität"
 audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Erklärt, warum Aktivitäten mit SS-Nachfolgern und ohne FS- oder FF-Nachfolger CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-related_metrics:
-  - "09_metrics_de/02_activities_with_ss_successor_and_no_fs_ff_successor/01_overview_template.md"
+primarySearchIntent: "Erklärt, warum Aktivitäten mit SS-Nachfolgern und ohne FS- oder FF-Nachfolger CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+relatedMetrics:
   - "09_metrics_de/02_activities_with_ss_successor_and_no_fs_ff_successor/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "09b_blogs_de/01_WHAT A SCHEDULE IS/01_blog.md"
   - "09b_blogs_de/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/02_activities_with_ss_successor_and_no_fs_ff_successor/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/02_activities_with_ss_successor_and_no_fs_ff_successor/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Aktivitäten mit SS-Nachfolgern und ohne FS- oder FF-Nachfolger
 
 ## Titel
 
@@ -146,7 +150,6 @@ Die Überprüfung dieser Metrik verbessert die CPM-Qualität, die Puffer-Zuverl�
 
 Überprüfen Sie Aktivitäten mit SS-Nachfolgern und ohne FS- oder FF-Nachfolger in Ihrem nächsten Primavera P6-Terminplan-Update. Fragen Sie für jede Aufgabe, ob das Ende der Aktivität die nachgelagerte Arbeit vorantreiben soll. Wenn dies der Fall sein sollte, fügen Sie eine gültige, auf dem Abschluss basierende Logik hinzu. Sollte dies nicht der Fall sein, dokumentieren Sie die Ausnahme.
 ## Verwandte Inhalte
-- [Aktivitäten mit SS-Nachfolgern und ohne FS- oder FF-Nachfolger - Überblick](01_overview_template.md)
 - [Aktivitäten mit SS-Nachfolgern und ohne FS- oder FF-Nachfolger - Verbesserungsleitfaden](02_guide_template.md)
 - [Was für ein Terminplan ist](../../09b_blogs_de/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robuste Logik](../../09b_blogs_de/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

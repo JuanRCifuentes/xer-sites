@@ -1,11 +1,10 @@
 ---
 title: "Wo die Kosten in P6 leben"
-seo_title: "Wo die Kosten in P6 leben - Primavera P6"
-meta_description: "Lernen Sie Wo die Kosten in P6 leben in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+seoTitle: "Wo die Kosten in P6 leben - Primavera P6"
 description: "Lernen Sie Wo die Kosten in P6 leben in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Wo die Kosten in P6 leben"
   - "Primavera P6 Wo die Kosten in P6 leben"
@@ -16,7 +15,7 @@ keywords:
   - "Terminplanprüfung"
 slug: "de/blog/where-costs-live-in-primavera-p6"
 language: "de"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Terminplanung in Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Lernen Sie Wo die Kosten in P6 leben in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
-related_metrics:
-  - "09_metrics_de/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Lernen Sie Wo die Kosten in P6 leben in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+relatedMetrics:
+  - "09_metrics_de/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "09b_blogs_de/10_PERCENT COMPLETION TYPES IN P6/10_PERCENT COMPLETION TYPES IN P6.md"
   - "09b_blogs_de/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
-translation_of: "01b_blogs_en/11_WHERE THE COST LIVE IN P6/11_WHERE THE COST LIVE IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/11_WHERE THE COST LIVE IN P6/11_WHERE THE COST LIVE IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Wo die Kosten in P6 leben
 
 Kosten in Primavera P6 können an mehreren Orten leben. Das ist nützlich, kann aber auch verwirrend sein. Ein Terminplan kann die budgetierten Kosten, die tatsächlichen Kosten, die verbleibenden Kosten, die Kosten bei Fertigstellung, die Ressourcenkosten, die Rollenkosten, die Ausgabenkosten, die Felder für den Earned Value und die Basiskosten anzeigen. Diese Werte hängen zusammen, bedeuten aber nicht alle dasselbe.
 

@@ -1,11 +1,10 @@
 ---
 title: "Matrice de criticité"
-seo_title: "Matrice de criticité - Primavera P6"
-meta_description: "Comprendre Matrice de criticité dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
+seoTitle: "Matrice de criticité - Primavera P6"
 description: "Comprendre Matrice de criticité dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Matrice de criticité"
   - "Primavera P6 Matrice de criticité"
@@ -16,7 +15,7 @@ keywords:
   - "revue de planning"
 slug: "fr/blog/criticality-matrix-in-primavera-p6"
 language: "fr"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Planification Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Planificateurs"
   - "Ordonnanceurs"
   - "Équipes de contrôle projet"
-primary_search_intent: "Comprendre Matrice de criticité dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
-related_metrics:
-  - "08_metrics_fr/09_cp_or_float_path_starting_with_constraint/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Comprendre Matrice de criticité dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
+relatedMetrics:
+  - "08_metrics_fr/09_cp_or_float_path_starting_with_constraint/02_guide_template.md"
+relatedBlogs:
   - "08b_blogs_fr/03_CRITICAL PATH/03_CRITICAL PATH.md"
   - "08b_blogs_fr/05_ACTIVITY TYPES IN P6/05_ACTIVITY TYPES IN P6.md"
-translation_of: "01b_blogs_en/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Matrice de criticité
 
 Une matrice de criticité est une méthode visuelle ou analytique utilisée pour classer et hiérarchiser les activités d'un projet en fonction de leur importance pour l'achèvement du projet. Dans un contexte Primavera P6, il aide les chefs de projet, les planificateurs et les réviseurs du PMO à identifier les activités qui créent le plus grand risque de calendrier.
 

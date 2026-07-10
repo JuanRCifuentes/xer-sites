@@ -1,11 +1,10 @@
 ---
 title: "중요도 매트릭스"
-seo_title: "중요도 매트릭스 - Primavera P6"
-meta_description: "Primavera P6에서 중요도 매트릭스를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+seoTitle: "중요도 매트릭스 - Primavera P6"
 description: "Primavera P6에서 중요도 매트릭스를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "중요도 매트릭스"
   - "Primavera P6 중요도 매트릭스"
@@ -16,7 +15,7 @@ keywords:
   - "공정표 검토"
 slug: "ko/blog/criticality-matrix-in-primavera-p6"
 language: "ko"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 공정표관리"
@@ -24,18 +23,17 @@ audience:
   - "계획 엔지니어"
   - "스케줄러"
   - "프로젝트 통제 팀"
-primary_search_intent: "Primavera P6에서 중요도 매트릭스를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
-related_metrics:
-  - "10_metrics_ko/09_cp_or_float_path_starting_with_constraint/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6에서 중요도 매트릭스를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+relatedMetrics:
+  - "10_metrics_ko/09_cp_or_float_path_starting_with_constraint/02_guide_template.md"
+relatedBlogs:
   - "10b_blogs_ko/03_CRITICAL PATH/03_CRITICAL PATH.md"
   - "10b_blogs_ko/05_ACTIVITY TYPES IN P6/05_ACTIVITY TYPES IN P6.md"
-translation_of: "01b_blogs_en/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# 중요도 매트릭스
 
 중요도 매트릭스는 프로젝트 완료에 얼마나 중요한지를 기준으로 프로젝트 활동을 분류하고 우선순위를 지정하는 데 사용되는 시각적 또는 분석적 방법입니다. Primavera P6 맥락에서 이는 프로젝트 관리자, 기획자 및 PMO 검토자가 어떤 활동이 가장 큰 일정 위험을 초래하는지 식별하는 데 도움이 됩니다.
 

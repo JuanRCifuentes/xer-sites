@@ -1,11 +1,10 @@
 ---
 title: "رموز النشاط"
-seo_title: "رموز النشاط - Primavera P6"
-meta_description: "تعرّف على رموز النشاط في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+seoTitle: "رموز النشاط - Primavera P6"
 description: "تعرّف على رموز النشاط في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "رموز النشاط"
   - "Primavera P6 رموز النشاط"
@@ -16,7 +15,7 @@ keywords:
   - "مراجعة الجدول"
 slug: "ar/blog/activity-codes-in-primavera-p6"
 language: "ar"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "الجدولة في Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "مهندسو التخطيط"
   - "المجدولون"
   - "فرق ضبط المشاريع"
-primary_search_intent: "تعرّف على رموز النشاط في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
-related_metrics:
-  - "04_metrics_ar/21_missing_dependencies/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "تعرّف على رموز النشاط في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+relatedMetrics:
+  - "04_metrics_ar/21_missing_dependencies/02_guide_template.md"
+relatedBlogs:
   - "04b_blogs_ar/17_DEVELOPE A PROJECT SCHEDULE/17_DEVELOPE A PROJECT SCHEDULE.md"
   - "04b_blogs_ar/19_SCHEDULE BASIS/19_SCHEDULE BASIS.md"
-translation_of: "01b_blogs_en/18_ACTIVITY CODES/18_ACTIVITY CODES.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/18_ACTIVITY CODES/18_ACTIVITY CODES.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# رموز النشاط
 
 رموز النشاط في Primavera P6 هي من أهم الأدوات التي تحول الجدول من قائمة أنشطة إلى قاعدة بيانات مفيدة لإدارة المشروع. فهي تسمح للفريق بتجميع الجدول، وتصفيته، وترتيبه، وإصدار التقارير، وتحليله من زوايا إدارية مختلفة.
 

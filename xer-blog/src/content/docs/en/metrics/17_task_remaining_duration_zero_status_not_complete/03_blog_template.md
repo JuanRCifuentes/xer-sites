@@ -1,10 +1,10 @@
 ---
 title: "Task Remaining Duration Zero and Status Not Complete - Blog Article"
-seo_title: "Task Remaining Duration Zero and Status Not Complete in Primavera P6"
-meta_description: "Learn why task remaining duration is zero while status is not complete affects Primavera P6 schedule credibility, CPM logic, float."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Task Remaining Duration Zero and Status Not Complete in Primavera P6"
+description: "Learn why task remaining duration is zero while status is not complete affects Primavera P6 schedule credibility, CPM logic, float."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Task Remaining Duration Zero and Status Not Complete"
   - "Primavera P6 Task Remaining Duration Zero and Status Not Complete"
@@ -12,27 +12,31 @@ keywords:
   - "project controls"
   - "CPM schedule logic"
   - "Primavera P6 blog"
-slug: "blog-article-task-remaining-duration-zero-status-not-complete-primavera-p6"
+slug: "en/blog/task-remaining-duration-zero-status-not-complete-primavera-p6"
 language: "en"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Schedule Quality"
 audience:
   - "Planning engineers"
   - "Project managers"
   - "PMO teams"
-primary_search_intent: "Explain this Primavera P6 schedule quality topic in a practical blog format."
-related_metrics:
-  - "01_metrics_en/17_task_remaining_duration_zero_status_not_complete/01_overview_template.md"
+primarySearchIntent: "Explain this Primavera P6 schedule quality topic in a practical blog format."
+relatedMetrics:
   - "01_metrics_en/17_task_remaining_duration_zero_status_not_complete/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
   - "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: ""
-canonical_url: ""
-last_reviewed: "2026-06-26"
+translationOf: ""
+canonicalUrl: ""
+lastReviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
-# Task Remaining Duration Is Zero While Status Is Not Complete
 
 Remaining Duration is one of the most important status fields in a Primavera P6 update. It tells the schedule how much time is still needed to finish the activity. When a normal task activity has Remaining Duration equal to 0, the message is simple: there is no time left to perform. If that same task is not marked Complete, the schedule is telling two different stories at once.
 
@@ -61,7 +65,6 @@ This metric also helps improve update discipline. If the same issue appears ever
 Cleaning up this metric makes the schedule easier to trust. It aligns remaining duration, activity status, actual finish dates, and progress values. More importantly, it helps the project team make better decisions about what work is truly complete and what work still needs attention.
 
 ## Related Content
-- [Overview](01_overview_template.md)
 - [Improvement Guide](02_guide_template.md)
 - [What A Schedule Is](../../01b_blogs_en/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robust Logic](../../01b_blogs_en/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

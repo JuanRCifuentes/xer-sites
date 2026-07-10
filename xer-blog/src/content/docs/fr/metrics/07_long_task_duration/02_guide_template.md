@@ -1,10 +1,10 @@
 ---
 title: "Longue durée de tâche dans les examens de planification Primavera P6 - Guide d’amélioration"
-seo_title: "Longue durée de tâche dans les examens de planification Primavera P6 - Guide d’amélioration"
-meta_description: "Apprenez à corriger Longue durée de tâche dans les examens de planification Primavera P6 dans Primavera P6 avec des contrôles de logique, de validation et de réévaluation."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Longue durée de tâche dans les examens de planification Primavera P6 - Guide d’amélioration"
+description: "Apprenez à corriger Longue durée de tâche dans les examens de planification Primavera P6 dans Primavera P6 avec des contrôles de logique, de validation et de réévaluation."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Longue durée de tâche dans les examens de planification Primavera P6"
   - "Primavera P6 Longue durée de tâche dans les examens de planification Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-improvement-guide-long-task-duration-primavera-p6"
+slug: "fr/metrics/long-task-duration-primavera-p6-improvement-guide"
 language: "fr"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "Qualité du planning"
 audience:
   - "Planificateurs"
   - "Ordonnanceurs"
   - "Équipes de contrôle projet"
-primary_search_intent: "Apprenez à corriger Longue durée de tâche dans les examens de planification Primavera P6 dans Primavera P6 avec des contrôles de logique, de validation et de réévaluation."
-related_metrics:
-  - "08_metrics_fr/07_long_task_duration/01_overview_template.md"
+primarySearchIntent: "Apprenez à corriger Longue durée de tâche dans les examens de planification Primavera P6 dans Primavera P6 avec des contrôles de logique, de validation et de réévaluation."
+relatedMetrics:
   - "08_metrics_fr/07_long_task_duration/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "08b_blogs_fr/01_WHAT A SCHEDULE IS/01_blog.md"
   - "08b_blogs_fr/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/07_long_task_duration/02_guide_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/07_long_task_duration/02_guide_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Longue durée de tâche dans les examens de planification Primavera P6 - Guide d’amélioration
 
 ## But
 
@@ -167,7 +171,6 @@ Examinez cette mesure lors de chaque mise à jour du calendrier, développement 
 - [ ] Évaluation répétée
 - [ ] Prochaines étapes documentées
 ## Contenu associé
-- [Longue durée de tâche dans les examens de planification Primavera P6 - Vue d’ensemble](01_overview_template.md)
 - [Modèle de blog](03_blog_template.md)
 - [Qu'est-ce qu'un horaire](../../08b_blogs_fr/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logique robuste](../../08b_blogs_fr/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

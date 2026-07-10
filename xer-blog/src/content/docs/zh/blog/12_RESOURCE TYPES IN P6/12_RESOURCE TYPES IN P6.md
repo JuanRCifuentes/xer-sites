@@ -1,11 +1,10 @@
 ---
 title: "P6 中的资源类型"
-seo_title: "P6 中的资源类型 - Primavera P6"
-meta_description: "了解 Primavera P6 中的“P6 中的资源类型”，重点关注进度计划、项目控制和进度质量。"
+seoTitle: "P6 中的资源类型 - Primavera P6"
 description: "了解 Primavera P6 中的“P6 中的资源类型”，重点关注进度计划、项目控制和进度质量。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "P6 中的资源类型"
   - "Primavera P6 P6 中的资源类型"
@@ -16,7 +15,7 @@ keywords:
   - "进度审查"
 slug: "zh/blog/资源-types-in-p6"
 language: "zh"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 进度计划"
@@ -24,18 +23,17 @@ audience:
   - "计划工程师"
   - "进度计划软件人员"
   - "项目控制团队"
-primary_search_intent: "了解 Primavera P6 中的“P6 中的资源类型”，重点关注进度计划、项目控制和进度质量。"
-related_metrics:
-  - "03_metrics_zh/13_活动_started_progress_zero/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "了解 Primavera P6 中的“P6 中的资源类型”，重点关注进度计划、项目控制和进度质量。"
+relatedMetrics:
+  - "03_metrics_zh/13_活动_started_progress_zero/02_guide_template.md"
+relatedBlogs:
   - "03b_blogs_zh/11_WHERE THE COST LIVE IN P6/11_WHERE THE COST LIVE IN P6.md"
   - "03b_blogs_zh/13_RESOURCES LIMITS IN P6/13_RESOURCES LIMITS IN P6.md"
-translation_of: "01b_blogs_en/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# P6 中的资源类型
 
 Primavera P6 中的资源代表执行工作所需的人员、设备和材料。他们将计划与一段时间内的产能、生产率、成本和资源需求联系起来。
 

@@ -1,11 +1,10 @@
 ---
 title: "P6 中的日历"
-seo_title: "P6 中的日历 - Primavera P6"
-meta_description: "了解 Primavera P6 中的“P6 中的日历”，重点关注进度计划、项目控制和进度质量。"
+seoTitle: "P6 中的日历 - Primavera P6"
 description: "了解 Primavera P6 中的“P6 中的日历”，重点关注进度计划、项目控制和进度质量。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "P6 中的日历"
   - "Primavera P6 P6 中的日历"
@@ -16,7 +15,7 @@ keywords:
   - "进度审查"
 slug: "zh/blog/calendars-in-p6"
 language: "zh"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 进度计划"
@@ -24,18 +23,17 @@ audience:
   - "计划工程师"
   - "进度计划软件人员"
   - "项目控制团队"
-primary_search_intent: "了解 Primavera P6 中的“P6 中的日历”，重点关注进度计划、项目控制和进度质量。"
-related_metrics:
-  - "03_metrics_zh/20_calendars_with_different_start_finish_time_in_day/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "了解 Primavera P6 中的“P6 中的日历”，重点关注进度计划、项目控制和进度质量。"
+relatedMetrics:
+  - "03_metrics_zh/20_calendars_with_different_start_finish_time_in_day/02_guide_template.md"
+relatedBlogs:
   - "03b_blogs_zh/07_DATES IN P6/07_DATES IN P6.md"
   - "03b_blogs_zh/09_DURATION IN P6/09_DURATION IN P6.md"
-translation_of: "01b_blogs_en/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# P6 中的日历
 
 日历是 Primavera P6 进度计划表的安静基础之一。他们定义了工作何时可以进行。他们告诉 P6 哪些天是工作日，哪些天是非工作日，一天有多少小时可用，以及一天中什么时间开始和结束工作。
 

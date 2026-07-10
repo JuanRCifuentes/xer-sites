@@ -1,10 +1,10 @@
 ---
 title: "状态未完成时任务剩余持续时间为零"
-seo_title: "状态未完成时任务剩余持续时间为零 - Primavera P6"
-meta_description: "说明“状态未完成时任务剩余持续时间为零”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "状态未完成时任务剩余持续时间为零 - Primavera P6"
+description: "说明“状态未完成时任务剩余持续时间为零”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "状态未完成时任务剩余持续时间为零"
   - "Primavera P6 状态未完成时任务剩余持续时间为零"
@@ -13,27 +13,31 @@ keywords:
   - "项目控制"
   - "CPM逻辑"
   - "进度审查"
-slug: "zh-blog-article-task-remaining-duration-zero-status-not-complete-primavera-p6"
+slug: "zh/blog/task-remaining-duration-zero-status-not-complete-primavera-p6"
 language: "zh"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "进度质量"
 audience:
   - "计划工程师"
   - "进度计划软件人员"
   - "项目控制团队"
-primary_search_intent: "说明“状态未完成时任务剩余持续时间为零”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
-related_metrics:
-  - "03_metrics_zh/17_task_remaining_duration_zero_status_not_complete/01_overview_template.md"
+primarySearchIntent: "说明“状态未完成时任务剩余持续时间为零”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
+relatedMetrics:
   - "03_metrics_zh/17_task_remaining_duration_zero_status_not_complete/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "03b_blogs_zh/01_WHAT A SCHEDULE IS/01_blog.md"
   - "03b_blogs_zh/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/17_task_remaining_duration_zero_status_not_complete/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/17_task_remaining_duration_zero_status_not_complete/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# 状态未完成时任务剩余持续时间为零
 
 剩余持续时间是 Primavera P6 更新中最重要的状态字段之一。它告诉进度计划还需要多少时间才能完成活动。当正常任务活动的剩余持续时间等于 0 时，消息很简单：没有时间可以执行。如果同一任务未标记为“完成”，则进度计划会同时讲述两个不同的故事。
 
@@ -61,7 +65,6 @@ last_reviewed: "2026-07-02"
 
 清理这个指标可以让计划更容易被信任。它调整剩余持续时间、活动状态、实际完成日期和进度值。更重要的是，它可以帮助项目团队更好地决定哪些工作真正完成，哪些工作仍需要关注。
 ## 相关内容
-- [状态未完成时任务剩余持续时间为零 - 概述](01_overview_template.md)
 - [状态未完成时任务剩余持续时间为零 - 改进指南](02_guide_template.md)
 - [什么是进度计划](../../03b_blogs_zh/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [强大的逻辑](../../03b_blogs_zh/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

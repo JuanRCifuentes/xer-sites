@@ -1,10 +1,10 @@
 ---
 title: "FF Lag Greater Than Successor Duration - Blog Article"
-seo_title: "FF Lag Greater Than Successor Duration in Primavera P6"
-meta_description: "Learn why finish-to-finish lag greater than successor duration affects Primavera P6 schedule credibility, CPM logic, float, and project controls reporting."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "FF Lag Greater Than Successor Duration in Primavera P6"
+description: "Learn why finish-to-finish lag greater than successor duration affects Primavera P6 schedule credibility, CPM logic, float, and project controls reporting."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "FF Lag Greater Than Successor Duration"
   - "Primavera P6 FF Lag Greater Than Successor Duration"
@@ -12,27 +12,31 @@ keywords:
   - "project controls"
   - "CPM schedule logic"
   - "Primavera P6 blog"
-slug: "blog-article-ff-lag-greater-than-successor-duration-primavera-p6"
+slug: "en/blog/ff-lag-greater-than-successor-duration-primavera-p6"
 language: "en"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Schedule Quality"
 audience:
   - "Planning engineers"
   - "Project managers"
   - "PMO teams"
-primary_search_intent: "Explain this Primavera P6 schedule quality topic in a practical blog format."
-related_metrics:
-  - "01_metrics_en/05_ff_lag_greater_than_successor_duration/01_overview_template.md"
+primarySearchIntent: "Explain this Primavera P6 schedule quality topic in a practical blog format."
+relatedMetrics:
   - "01_metrics_en/05_ff_lag_greater_than_successor_duration/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
   - "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: ""
-canonical_url: ""
-last_reviewed: "2026-06-26"
+translationOf: ""
+canonicalUrl: ""
+lastReviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
-# FF Lag Greater Than Successor Duration
 ## Title
 
 FF Relationships with Lag Greater Than the Successor Duration
@@ -145,7 +149,6 @@ Reviewing this metric improves CPM clarity, float reliability, and confidence in
 Review FF relationships where lag is greater than successor duration in your next Primavera P6 schedule update. For each one, ask whether the relationship is truly finish-based. If it is not, replace it with clearer logic or model the waiting period directly.
 
 ## Related Content
-- [Overview](01_overview_template.md)
 - [Improvement Guide](02_guide_template.md)
 - [What A Schedule Is](../../01b_blogs_en/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robust Logic](../../01b_blogs_en/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

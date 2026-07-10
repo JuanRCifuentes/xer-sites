@@ -1,10 +1,10 @@
 ---
 title: "Primavera P6의 하드 제약조건"
-seo_title: "Primavera P6의 하드 제약조건"
-meta_description: "Primavera P6의 하드 제약조건가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Primavera P6의 하드 제약조건"
+description: "Primavera P6의 하드 제약조건가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Primavera P6의 하드 제약조건"
   - "Primavera P6의 하드 제약조건"
@@ -13,27 +13,31 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-blog-article-hard-제약조건-primavera-p6"
+slug: "ko/blog/hard-제약조건-primavera-p6"
 language: "ko"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "공정표 품질"
 audience:
   - "계획 엔지니어"
   - "스케줄러"
   - "프로젝트 통제 팀"
-primary_search_intent: "Primavera P6의 하드 제약조건가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
-related_metrics:
-  - "10_metrics_ko/19_hard_제약조건/01_overview_template.md"
+primarySearchIntent: "Primavera P6의 하드 제약조건가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
+relatedMetrics:
   - "10_metrics_ko/19_hard_제약조건/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "10b_blogs_ko/01_WHAT A SCHEDULE IS/01_blog.md"
   - "10b_blogs_ko/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/19_hard_제약조건/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/19_hard_제약조건/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Primavera P6의 하드 제약조건
 
 제약조건은 자동으로 잘못된 것이 아닙니다. 실제 프로젝트 공정표에서 일부 날짜는 계약, 허가, 액세스 기간, 종료 기간, 규제 요구 사항 또는 고객 결정에 따라 부과됩니다. 문제는 제약조건이 공정표 로직의 지름길이 될 때 시작됩니다.
 
@@ -59,7 +63,6 @@ last_reviewed: "2026-07-02"
 
 엄격한 제약조건을 정리하면 공정표 신뢰성이 향상됩니다. 이를 통해 CPM 네트워크가 작업을 수행하고, 여유시간 값을 더 쉽게 해석할 수 있으며, 프로젝트 팀이 실제로 작업을 주도하는 것이 무엇인지 더 명확하게 볼 수 있습니다. 설명할 수 없는 엄격한 제약이 적은 일정은 일반적으로 신뢰하기 쉽고, 검토하기 쉽고, 방어하기 쉽습니다.
 ## 관련 콘텐츠
-- [Primavera P6의 하드 제약조건 - 개요](01_overview_template.md)
 - [Primavera P6의 하드 제약조건 - 개선 가이드](02_guide_template.md)
 - [일정이란 무엇입니까?](../../10b_blogs_ko/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [견고한 논리](../../10b_blogs_ko/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

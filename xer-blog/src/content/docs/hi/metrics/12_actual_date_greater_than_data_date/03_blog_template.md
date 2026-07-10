@@ -1,10 +1,10 @@
 ---
 title: "वास्तविक तिथियाँ प्रिमावेरा पी6 में डेटा तिथि से बाद की हैं"
-seo_title: "वास्तविक तिथियाँ प्रिमावेरा पी6 में डेटा तिथि से बाद की हैं - Primavera P6"
-meta_description: "समझें कि वास्तविक तिथियाँ प्रिमावेरा पी6 में डेटा तिथि से बाद की हैं Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "वास्तविक तिथियाँ प्रिमावेरा पी6 में डेटा तिथि से बाद की हैं - Primavera P6"
+description: "समझें कि वास्तविक तिथियाँ प्रिमावेरा पी6 में डेटा तिथि से बाद की हैं Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "वास्तविक तिथियाँ प्रिमावेरा पी6 में डेटा तिथि से बाद की हैं"
   - "Primavera P6 वास्तविक तिथियाँ प्रिमावेरा पी6 में डेटा तिथि से बाद की हैं"
@@ -13,27 +13,31 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-blog-article-actual-date-greater-than-data-date-primavera-p6"
+slug: "hi/blog/actual-date-greater-than-data-date-primavera-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "शेड्यूल गुणवत्ता"
 audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "समझें कि वास्तविक तिथियाँ प्रिमावेरा पी6 में डेटा तिथि से बाद की हैं Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-related_metrics:
-  - "05_metrics_hi/12_actual_date_greater_than_data_date/01_overview_template.md"
+primarySearchIntent: "समझें कि वास्तविक तिथियाँ प्रिमावेरा पी6 में डेटा तिथि से बाद की हैं Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+relatedMetrics:
   - "05_metrics_hi/12_actual_date_greater_than_data_date/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "05_blogs_hi/01_WHAT A SCHEDULE IS/01_blog.md"
   - "05_blogs_hi/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/12_actual_date_greater_than_data_date/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/12_actual_date_greater_than_data_date/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# वास्तविक तिथियाँ प्रिमावेरा पी6 में डेटा तिथि से बाद की हैं
 
 ## शीर्षक
 
@@ -150,7 +154,6 @@ last_reviewed: "2026-07-02"
 
 अपना अगला शेड्यूल अपडेट जारी करने से पहले डेटा तिथि के बाद की सभी वास्तविक तिथियों की समीक्षा करें। दिनांक, स्थिति, या डेटा दिनांक स्रोत समस्या को ठीक करें ताकि शेड्यूल वास्तविक प्रदर्शन को पूर्वानुमान कार्य से स्पष्ट रूप से अलग कर दे।
 ## संबंधित सामग्री
-- [वास्तविक तिथियाँ प्रिमावेरा पी6 में डेटा तिथि से बाद की हैं - अवलोकन](01_overview_template.md)
 - [वास्तविक तिथियाँ प्रिमावेरा पी6 में डेटा तिथि से बाद की हैं - सुधार मार्गदर्शिका](02_guide_template.md)
 - [शेड्यूल क्या है](../../05_blogs_hi/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [मजबूत तर्क](../../05_blogs_hi/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

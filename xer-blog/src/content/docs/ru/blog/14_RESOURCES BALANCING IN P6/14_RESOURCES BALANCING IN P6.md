@@ -1,11 +1,10 @@
 ---
 title: "Балансировка ресурсов в P6"
-seo_title: "Балансировка ресурсов в P6 - Primavera P6"
-meta_description: "Изучите Балансировка ресурсов в P6 в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
+seoTitle: "Балансировка ресурсов в P6 - Primavera P6"
 description: "Изучите Балансировка ресурсов в P6 в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Балансировка ресурсов в P6"
   - "Primavera P6 Балансировка ресурсов в P6"
@@ -16,7 +15,7 @@ keywords:
   - "анализ графика"
 slug: "ru/blog/resource-balancing-in-primavera-p6"
 language: "ru"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Планирование в Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Планировщики"
   - "Специалисты по графикам"
   - "Команды проектного контроля"
-primary_search_intent: "Изучите Балансировка ресурсов в P6 в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
-related_metrics:
-  - "07_metrics_ru/13_activity_started_progress_zero/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Изучите Балансировка ресурсов в P6 в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
+relatedMetrics:
+  - "07_metrics_ru/13_activity_started_progress_zero/02_guide_template.md"
+relatedBlogs:
   - "07b_blogs_ru/13_RESOURCES LIMITS IN P6/13_RESOURCES LIMITS IN P6.md"
   - "07b_blogs_ru/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
-translation_of: "01b_blogs_en/14_RESOURCES BALANCING IN P6/14_RESOURCES BALANCING IN P6.md"
-canonical_url: ""
-last_проверкуed: "2026-07-02"
+translationOf: "01b_blogs_en/14_RESOURCES BALANCING IN P6/14_RESOURCES BALANCING IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Балансировка ресурсов в P6
 
 Балансировка ресурсов в Primavera P6 — это процесс сопоставления потребности в ресурсах с доступной мощностью и корректировки плана таким образом, чтобы работу можно было выполнить с использованием имеющихся ресурсов. Это помогает команде проекта понять, является ли график только логически правильным или практичным с точки зрения ресурсов.
 

@@ -1,10 +1,10 @@
 ---
 title: "Hard Constraints en Primavera P6"
-seo_title: "Hard Constraints en Primavera P6"
-meta_description: "Explica por qué Hard Constraints en Primavera P6 afecta la lógica CPM, la holgura y la confiabilidad del cronograma en Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Hard Constraints en Primavera P6"
+description: "Explica por qué Hard Constraints en Primavera P6 afecta la lógica CPM, la holgura y la confiabilidad del cronograma en Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Hard Constraints en Primavera P6"
   - "Primavera P6 Hard Constraints en Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "control de proyectos"
   - "lógica CPM"
   - "revisión del cronograma"
-slug: "es-blog-article-hard-restricciones-primavera-p6"
+slug: "es/blog/hard-restricciones-primavera-p6"
 language: "es"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Calidad del cronograma"
 audience:
   - "Planificadores"
   - "Schedulers"
   - "Equipos de control de proyectos"
-primary_search_intent: "Explica por qué Hard Constraints en Primavera P6 afecta la lógica CPM, la holgura y la confiabilidad del cronograma en Primavera P6."
-related_metrics:
-  - "02_metrics_es/19_hard_restricciones/01_overview_template.md"
+primarySearchIntent: "Explica por qué Hard Constraints en Primavera P6 afecta la lógica CPM, la holgura y la confiabilidad del cronograma en Primavera P6."
+relatedMetrics:
   - "02_metrics_es/19_hard_restricciones/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "02b_blogs_es/01_WHAT A SCHEDULE IS/01_blog.md"
   - "02b_blogs_es/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/19_hard_restricciones/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/19_hard_restricciones/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Hard Constraints en Primavera P6
 
 Los restricciones no son automaticamente incorrectos. En un cronograma real, algunas fechas son impuestas por contrato, permisos, ventanas de acceso, periodos de parada, requisitos regulatorios o decisiones del cliente. El problema aparece cuando los restricciones se convierten en un atajo para reemplazar la logica del cronograma.
 
@@ -59,7 +63,6 @@ El umbral objetivo para esta metrica debe ser cero hard restricciones sin explic
 
 Limpiar hard restricciones mejora la credibilidad del cronograma. Permite que la red CPM haga su trabajo, hace que los valores de float sean mas faciles de interpretar y da al equipo una vista mas clara de lo que realmente esta impulsando el trabajo. Un cronograma con menos hard restricciones sin explicacion normalmente es mas confiable, mas facil de revisar y mas facil de defender.
 ## Contenido relacionado
-- [Hard Constraints en Primavera P6 - Descripción general](01_overview_template.md)
 - [Hard Constraints en Primavera P6 - Guía de mejora](02_guide_template.md)
 - [Que Es Un Cronograma](../../02b_blogs_es/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logica Robusta](../../02b_blogs_es/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

@@ -1,10 +1,10 @@
 ---
 title: "데이터 날짜의 활동"
-seo_title: "데이터 날짜의 활동"
-meta_description: "Primavera P6에서 데이터 날짜의 활동이 공정표 업데이트 품질, CPM 로직, 일정 신뢰도에 미치는 영향을 설명합니다."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "데이터 날짜의 활동"
+description: "Primavera P6에서 데이터 날짜의 활동이 공정표 업데이트 품질, CPM 로직, 일정 신뢰도에 미치는 영향을 설명합니다."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "데이터 날짜의 활동"
   - "Primavera P6 데이터 날짜의 활동"
@@ -13,27 +13,31 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-blog-article-activities-on-the-data-date-primavera-p6"
+slug: "ko/blog/activities-on-the-data-date-primavera-p6"
 language: "ko"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "공정표 품질"
 audience:
   - "계획 엔지니어"
   - "스케줄러"
   - "프로젝트 통제 팀"
-primary_search_intent: "데이터 날짜의 활동: Primavera P6의 조기 시작 및 조기 완료 확인가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
-related_metrics:
-  - "10_metrics_ko/18_activities_in_data_date/01_overview_template.md"
+primarySearchIntent: "데이터 날짜의 활동: Primavera P6의 조기 시작 및 조기 완료 확인가 Primavera P6의 CPM 로직, 여유시간, 일정 신뢰도에 미치는 영향을 설명합니다."
+relatedMetrics:
   - "10_metrics_ko/18_activities_in_data_date/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "10b_blogs_ko/01_WHAT A SCHEDULE IS/01_blog.md"
   - "10b_blogs_ko/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/18_activities_in_data_date/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/18_activities_in_data_date/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# 데이터 날짜의 활동
 
 데이터 날짜는 Primavera P6 공정표에서 가장 중요한 날짜 중 하나입니다. 실제 성과와 미래 예측 사이의 경계를 표시합니다. 데이터 날짜 이전의 작업 상태를 알려야 합니다. 데이터 날짜 이후의 작업을 예측해야 합니다. 많은 활동이 데이터 날짜에 정확하게 조기 시작 또는 조기 종료되는 경우 일정을 자세히 살펴볼 가치가 있습니다.
 
@@ -61,7 +65,6 @@ last_reviewed: "2026-07-02"
 
 이 지표를 정리하면 단기 예측의 신뢰성이 향상됩니다. 이는 프로젝트 팀이 실제로 준비된 작업과 단순히 현재 업데이트 날짜로 이동한 작업을 구별하는 데 도움이 됩니다. PMO 및 클라이언트 보고의 경우 데이터 날짜가 파일을 다시 계산하는 데 사용된 날짜뿐만 아니라 실제 상태 경계로 처리되었음을 보여줍니다.
 ## 관련 콘텐츠
-- [데이터 날짜의 활동: Primavera P6의 조기 시작 및 조기 완료 확인 - 개요](01_overview_template.md)
 - [데이터 날짜의 활동: Primavera P6의 조기 시작 및 조기 완료 확인 - 개선 가이드](02_guide_template.md)
 - [일정이란 무엇입니까?](../../10b_blogs_ko/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [견고한 논리](../../10b_blogs_ko/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

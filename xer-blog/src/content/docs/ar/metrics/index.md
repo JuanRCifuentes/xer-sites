@@ -19,7 +19,7 @@ hero:
       </svg>
   actions:
     - text: استكشف المقياس الأول
-      link: /ar/metrics/data-date-no-driving-logic-overview/
+      link: /ar/metrics/activities-starting-on-the-data-date-with-no-logic-driving-primavera-p6-improvement-guide/
       icon: right-arrow
       variant: primary
     - text: اقرأ المدونة
@@ -28,12 +28,3 @@ hero:
 sidebar:
   order: 0
 ---
-
-## الأنشطة التي تبدأ عند تاريخ البيانات بدون منطق محرِّك
-
-يُحدّد هذا المقياس الأنشطة المفتوحة أو غير البادئة المقررة للبدء عند تاريخ البيانات دون منطق سابق صالح يحرك تلك البداية. الأنشطة المتجمعة عند حد تاريخ البيانات دون منطق تشوّه الفائض الزمني وتُعتّم أطول مسار وتجعل التوقع غير موثوق. العتبة المستهدفة هي 0 أنشطة.
-
-- [نظرة عامة](/ar/metrics/data-date-no-driving-logic-overview/) — ما يقيسه المقياس وعتبته ولماذا يهم لمصداقية الجدول الزمني.
-- [دليل التحسين](/ar/metrics/data-date-no-driving-logic-improvement-guide/) — كيف يحل المخططون وفرق ضبط المشاريع الأنشطة المُشار إليها خلال مراجعات الجودة ودورات التحديث.
-
-للنسخة السردية التي تشرح سبب أهمية هذا المقياس، اقرأ المقالة ذات الصلة: [الأنشطة التي تبدأ عند تاريخ البيانات بدون منطق محرِّك](/ar/blog/activities-starting-on-data-date-no-driving-logic/).

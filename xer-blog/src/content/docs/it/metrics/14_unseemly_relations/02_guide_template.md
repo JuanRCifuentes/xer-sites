@@ -1,10 +1,10 @@
 ---
 title: "Relazioni sconvenienti in Primavera P6 - Guida al miglioramento"
-seo_title: "Relazioni sconvenienti in Primavera P6 - Guida al miglioramento"
-meta_description: "Scopri come correggere Relazioni sconvenienti in Primavera P6"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Relazioni sconvenienti in Primavera P6 - Guida al miglioramento"
+description: "Scopri come correggere Relazioni sconvenienti in Primavera P6"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Relazioni sconvenienti in Primavera P6"
   - "Primavera P6 Relazioni sconvenienti in Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "controllo progetto"
   - "logica CPM"
   - "revisione del cronoprogramma"
-slug: "it-improvement-guide-unusual-relationships-primavera-p6"
+slug: "it/metrics/unusual-relationships-primavera-p6-improvement-guide"
 language: "it"
-content_type: "metric"
+contentType: "metric"
+metricPageType: "improvement-guide"
+draft: false
+sidebar:
+  label: "Improvement Guide"
+  order: 1
 version: "1.0"
 topic: "Qualità del cronoprogramma"
 audience:
   - "Pianificatori"
   - "Scheduler"
   - "Team di controllo progetto"
-primary_search_intent: "Scopri come correggere Relazioni sconvenienti in Primavera P6: pietre miliari, LOE e controlli del tipo di relazione in Primavera P6 con controlli di logica, validazione e rivalutazione."
-related_metrics:
-  - "11_metrics_it/14_unusual_relations/01_overview_template.md"
+primarySearchIntent: "Scopri come correggere Relazioni sconvenienti in Primavera P6: pietre miliari, LOE e controlli del tipo di relazione in Primavera P6 con controlli di logica, validazione e rivalutazione."
+relatedMetrics:
   - "11_metrics_it/14_unusual_relations/03_blog_template.md"
-related_blogs:
+relatedBlogs:
   - "11b_blogs_it/01_WHAT A SCHEDULE IS/01_blog.md"
   - "11b_blogs_it/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/14_unseemly_relations/02_guide_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/14_unseemly_relations/02_guide_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Relazioni sconvenienti in Primavera P6 - Guida al miglioramento
 
 ## Scopo
 
@@ -181,7 +185,6 @@ Esaminare questa metrica durante ogni ciclo di aggiornamento e prima dell'approv
 - [ ] Valutazione ripetuta
 - [ ] Passaggi successivi documentati
 ## Contenuti correlati
-- [01_overview_template](../14_unusual_relations/01_overview_template.md)
 - [03_blog_template](../14_unusual_relations/03_blog_template.md)
 - [Cos'è un cronoprogramma](../../11b_blogs_it/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logica robusta](../../11b_blogs_it/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

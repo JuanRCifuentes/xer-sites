@@ -1,10 +1,10 @@
 ---
 title: "Dates réelles postérieures à la date des données dans Primavera P6"
-seo_title: "Dates réelles postérieures à la date des données dans Primavera P6"
-meta_description: "Explique pourquoi Dates réelles postérieures à la date des données dans Primavera P6 influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Dates réelles postérieures à la date des données dans Primavera P6"
+description: "Explique pourquoi Dates réelles postérieures à la date des données dans Primavera P6 influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Dates réelles postérieures à la date des données dans Primavera P6"
   - "Primavera P6 Dates réelles postérieures à la date des données dans Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-blog-article-actual-date-greater-than-data-date-primavera-p6"
+slug: "fr/blog/actual-date-greater-than-data-date-primavera-p6"
 language: "fr"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Qualité du planning"
 audience:
   - "Planificateurs"
   - "Ordonnanceurs"
   - "Équipes de contrôle projet"
-primary_search_intent: "Explique pourquoi Dates réelles postérieures à la date des données dans Primavera P6 influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
-related_metrics:
-  - "08_metrics_fr/12_actual_date_greater_than_data_date/01_overview_template.md"
+primarySearchIntent: "Explique pourquoi Dates réelles postérieures à la date des données dans Primavera P6 influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
+relatedMetrics:
   - "08_metrics_fr/12_actual_date_greater_than_data_date/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "08b_blogs_fr/01_WHAT A SCHEDULE IS/01_blog.md"
   - "08b_blogs_fr/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/12_actual_date_greater_than_data_date/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/12_actual_date_greater_than_data_date/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Dates réelles postérieures à la date des données dans Primavera P6
 
 ## Titre
 
@@ -150,7 +154,6 @@ La gestion de cette métrique améliore la discipline de mise à jour, les rappo
 
 Passez en revue toutes les dates réelles après la date des données avant de publier votre prochaine mise à jour du calendrier. Corrigez le problème de date, de statut ou de source de date de données afin que le planning sépare clairement les performances réelles du travail prévu.
 ## Contenu associé
-- [Dates réelles postérieures à la date des données dans Primavera P6 - Vue d’ensemble](01_overview_template.md)
 - [Dates réelles postérieures à la date des données dans Primavera P6 - Guide d’amélioration](02_guide_template.md)
 - [Qu'est-ce qu'un horaire](../../08b_blogs_fr/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logique robuste](../../08b_blogs_fr/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

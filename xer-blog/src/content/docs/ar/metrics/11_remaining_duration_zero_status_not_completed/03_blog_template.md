@@ -1,10 +1,10 @@
 ---
 title: "الأنشطة ذات المدة المتبقية 0 والحالة غير مكتملة"
-seo_title: "الأنشطة ذات المدة المتبقية 0 والحالة غير مكتملة - Primavera P6"
-meta_description: "يوضح لماذا يؤثر الأنشطة ذات المدة المتبقية 0 والحالة غير مكتملة على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "الأنشطة ذات المدة المتبقية 0 والحالة غير مكتملة - Primavera P6"
+description: "يوضح لماذا يؤثر الأنشطة ذات المدة المتبقية 0 والحالة غير مكتملة على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "الأنشطة ذات المدة المتبقية 0 والحالة غير مكتملة"
   - "Primavera P6 الأنشطة ذات المدة المتبقية 0 والحالة غير مكتملة"
@@ -13,27 +13,31 @@ keywords:
   - "ضبط المشاريع"
   - "منطق CPM"
   - "مراجعة الجدول"
-slug: "ar-blog-article-remaining-duration-zero-status-not-completed-primavera-p6"
+slug: "ar/blog/remaining-duration-zero-status-not-completed-primavera-p6"
 language: "ar"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "جودة الجدول الزمني"
 audience:
   - "مهندسو التخطيط"
   - "المجدولون"
   - "فرق ضبط المشاريع"
-primary_search_intent: "يوضح لماذا يؤثر الأنشطة ذات المدة المتبقية 0 والحالة غير مكتملة على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
-related_metrics:
-  - "04_metrics_ar/11_remaining_duration_zero_status_not_completed/01_overview_template.md"
+primarySearchIntent: "يوضح لماذا يؤثر الأنشطة ذات المدة المتبقية 0 والحالة غير مكتملة على منطق CPM والهامش الزمني وموثوقية الجدول في Primavera P6."
+relatedMetrics:
   - "04_metrics_ar/11_remaining_duration_zero_status_not_completed/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "04b_blogs_ar/01_WHAT A SCHEDULE IS/01_blog.md"
   - "04b_blogs_ar/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/11_remaining_duration_zero_status_not_completed/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/11_remaining_duration_zero_status_not_completed/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# الأنشطة ذات المدة المتبقية 0 والحالة غير مكتملة
 
 ## عنوان
 
@@ -151,7 +155,6 @@ last_reviewed: "2026-07-02"
 
 قم بمراجعة الأنشطة ذات المدة المتبقية = 0 والحالة غير مكتملة أثناء تحديث الجدول الزمني التالي. تأكد من الحالة الحقيقية لكل نشاط، ثم قم بتصحيح الانتهاء الفعلي أو حالة النشاط أو المدة المتبقية قبل إصدار التقارير.
 ## محتوى ذو صلة
-- [الأنشطة ذات المدة المتبقية 0 والحالة غير مكتملة - نظرة عامة](01_overview_template.md)
 - [الأنشطة ذات المدة المتبقية 0 والحالة غير مكتملة - دليل التحسين](02_guide_template.md)
 - [ما هو الجدول الزمني](../../04b_blogs_ar/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [منطق قوي](../../04b_blogs_ar/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

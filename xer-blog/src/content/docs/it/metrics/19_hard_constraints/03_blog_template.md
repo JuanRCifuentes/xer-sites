@@ -1,10 +1,10 @@
 ---
 title: "Vincoli rigidi in Primavera P6"
-seo_title: "Vincoli rigidi in Primavera P6"
-meta_description: "Spiega perché Vincoli rigidi in Primavera P6 influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Vincoli rigidi in Primavera P6"
+description: "Spiega perché Vincoli rigidi in Primavera P6 influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Vincoli rigidi in Primavera P6"
   - "Primavera P6 Vincoli rigidi in Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "controllo progetto"
   - "logica CPM"
   - "revisione del cronoprogramma"
-slug: "it-blog-article-hard-vincoli-primavera-p6"
+slug: "it/blog/hard-vincoli-primavera-p6"
 language: "it"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Qualità del cronoprogramma"
 audience:
   - "Pianificatori"
   - "Scheduler"
   - "Team di controllo progetto"
-primary_search_intent: "Spiega perché Vincoli rigidi in Primavera P6 influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
-related_metrics:
-  - "11_metrics_it/19_hard_vincoli/01_overview_template.md"
+primarySearchIntent: "Spiega perché Vincoli rigidi in Primavera P6 influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
+relatedMetrics:
   - "11_metrics_it/19_hard_vincoli/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "11b_blogs_it/01_WHAT A SCHEDULE IS/01_blog.md"
   - "11b_blogs_it/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/19_hard_vincoli/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/19_hard_vincoli/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Vincoli rigidi in Primavera P6
 
 I vincoli non sono automaticamente sbagliati. In un cronoprogramma di progetto reale, alcune date sono imposte dal contratto, dai permessi, dalle finestre di accesso, dai periodi di chiusura, dai requisiti normativi o dalle decisioni del cliente. Il problema inizia quando i vincoli diventano una scorciatoia per la logica della pianificazione.
 
@@ -59,7 +63,6 @@ La soglia target per questo parametro dovrebbe essere pari a zero vincoli rigidi
 
 L'eliminazione dei vincoli rigidi migliora la credibilità della pianificazione. Consente alla rete CPM di svolgere il proprio lavoro, semplifica l'interpretazione dei valori margine e offre ai team di progetto una visione più chiara di ciò che sta realmente guidando il lavoro. Una pianificazione con meno vincoli rigidi inspiegabili è solitamente più facile da fidarsi, più facile da rivedere e più facile da difendere.
 ## Contenuti correlati
-- [Vincoli rigidi in Primavera P6 - Panoramica](01_overview_template.md)
 - [Vincoli rigidi in Primavera P6 - Guida al miglioramento](02_guide_template.md)
 - [Cos'è un cronoprogramma](../../11b_blogs_it/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logica robusta](../../11b_blogs_it/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

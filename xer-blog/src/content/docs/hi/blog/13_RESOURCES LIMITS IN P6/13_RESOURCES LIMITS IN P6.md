@@ -1,11 +1,10 @@
 ---
 title: "P6 में संसाधन सीमाएँ"
-seo_title: "P6 में संसाधन सीमाएँ - Primavera P6"
-meta_description: "Primavera P6 में P6 में संसाधन सीमाएँ को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+seoTitle: "P6 में संसाधन सीमाएँ - Primavera P6"
 description: "Primavera P6 में P6 में संसाधन सीमाएँ को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "P6 में संसाधन सीमाएँ"
   - "Primavera P6 P6 में संसाधन सीमाएँ"
@@ -16,7 +15,7 @@ keywords:
   - "शेड्यूल समीक्षा"
 slug: "hi/blog/resource-limits-in-primavera-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
@@ -24,18 +23,17 @@ audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "Primavera P6 में P6 में संसाधन सीमाएँ को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
-related_metrics:
-  - "05_metrics_hi/13_activity_started_progress_zero/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6 में P6 में संसाधन सीमाएँ को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+relatedMetrics:
+  - "05_metrics_hi/13_activity_started_progress_zero/02_guide_template.md"
+relatedBlogs:
   - "05_blogs_hi/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
   - "05_blogs_hi/14_RESOURCES BALANCING IN P6/14_RESOURCES BALANCING IN P6.md"
-translation_of: "01b_blogs_en/13_RESOURCES LIMITS IN P6/13_RESOURCES LIMITS IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/13_RESOURCES LIMITS IN P6/13_RESOURCES LIMITS IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# P6 में संसाधन सीमाएँ
 
 प्रिमावेरा पी6 में संसाधन सीमाएँ परिभाषित करती हैं कि किसी समयावधि के दौरान कितना संसाधन उपलब्ध है। उनका उपयोग गतिविधि असाइनमेंट द्वारा बनाई गई संसाधन मांग की तुलना परियोजना की वास्तविक क्षमता से करने के लिए किया जाता है।
 

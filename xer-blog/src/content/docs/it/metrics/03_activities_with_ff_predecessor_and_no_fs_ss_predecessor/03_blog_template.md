@@ -1,10 +1,10 @@
 ---
 title: "Attività con predecessori FF e senza predecessori FS o SS"
-seo_title: "Attività con predecessori FF e senza predecessori FS o SS - Primavera P6"
-meta_description: "Spiega perché Attività con predecessori FF e senza predecessori FS o SS influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Attività con predecessori FF e senza predecessori FS o SS - Primavera P6"
+description: "Spiega perché Attività con predecessori FF e senza predecessori FS o SS influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Attività con predecessori FF e senza predecessori FS o SS"
   - "Primavera P6 Attività con predecessori FF e senza predecessori FS o SS"
@@ -13,27 +13,31 @@ keywords:
   - "controllo progetto"
   - "logica CPM"
   - "revisione del cronoprogramma"
-slug: "it-blog-article-activities-with-ff-predecessor-and-no-fs-ss-predecessor-primavera-p6"
+slug: "it/blog/activities-with-ff-predecessor-and-no-fs-ss-predecessor-primavera-p6"
 language: "it"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Qualità del cronoprogramma"
 audience:
   - "Pianificatori"
   - "Scheduler"
   - "Team di controllo progetto"
-primary_search_intent: "Spiega perché Attività con predecessori FF e senza predecessori FS o SS influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
-related_metrics:
-  - "11_metrics_it/03_activities_with_ff_predecessor_and_no_fs_ss_predecessor/01_overview_template.md"
+primarySearchIntent: "Spiega perché Attività con predecessori FF e senza predecessori FS o SS influisce sulla logica CPM, sul margine e sull’affidabilità del cronoprogramma in Primavera P6."
+relatedMetrics:
   - "11_metrics_it/03_activities_with_ff_predecessor_and_no_fs_ss_predecessor/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "11b_blogs_it/01_WHAT A SCHEDULE IS/01_blog.md"
   - "11b_blogs_it/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/03_activities_with_ff_predecessor_and_no_fs_ss_predecessor/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/03_activities_with_ff_predecessor_and_no_fs_ss_predecessor/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Attività con predecessori FF e senza predecessori FS o SS
 
 ## Titolo
 
@@ -146,7 +150,6 @@ La revisione di questa metrica migliora la qualità del CPM, l'affidabilità del
 
 Rivedi le attività con i predecessori FF e nessun predecessore FS o SS nel tuo prossimo aggiornamento del cronoprogramma Primavera P6. Per ognuno, chiedere se l'inizio dell'attività dovrebbe essere guidato dal lavoro a monte. Se così fosse, aggiungi una valida logica di partenza-guida. In caso contrario, documentare l'eccezione.
 ## Contenuti correlati
-- [Attività con predecessori FF e senza predecessori FS o SS - Panoramica](01_overview_template.md)
 - [Attività con predecessori FF e senza predecessori FS o SS - Guida al miglioramento](02_guide_template.md)
 - [Cos'è un cronoprogramma](../../11b_blogs_it/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logica robusta](../../11b_blogs_it/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

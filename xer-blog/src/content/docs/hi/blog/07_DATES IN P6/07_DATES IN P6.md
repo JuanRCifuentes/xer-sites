@@ -1,11 +1,10 @@
 ---
 title: "पी6 में तिथियाँ"
-seo_title: "पी6 में तिथियाँ - Primavera P6"
-meta_description: "Primavera P6 में पी6 में तिथियाँ को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+seoTitle: "पी6 में तिथियाँ - Primavera P6"
 description: "Primavera P6 में पी6 में तिथियाँ को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "पी6 में तिथियाँ"
   - "Primavera P6 पी6 में तिथियाँ"
@@ -16,7 +15,7 @@ keywords:
   - "शेड्यूल समीक्षा"
 slug: "hi/blog/dates-in-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
@@ -24,18 +23,17 @@ audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "Primavera P6 में पी6 में तिथियाँ को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
-related_metrics:
-  - "05_metrics_hi/12_actual_date_greater_than_data_date/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6 में पी6 में तिथियाँ को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+relatedMetrics:
+  - "05_metrics_hi/12_actual_date_greater_than_data_date/02_guide_template.md"
+relatedBlogs:
   - "05_blogs_hi/06_DURATION TYPES IN P6/06_DURATION TYPES IN P6.md"
   - "05_blogs_hi/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
-translation_of: "01b_blogs_en/07_DATES IN P6/07_DATES IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/07_DATES IN P6/07_DATES IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# पी6 में तिथियाँ
 
 प्रिमावेरा पी6 में तारीखें भ्रमित करने वाली हो सकती हैं क्योंकि किसी गतिविधि में केवल एक आरंभ तिथि और एक समाप्ति तिथि नहीं होती है। इसमें लेआउट और प्रोजेक्ट सेटिंग्स के आधार पर योजनाबद्ध तिथियां, वर्तमान शेड्यूल तिथियां, प्रारंभिक तिथियां, देर तिथियां, वास्तविक तिथियां, आधारभूत तिथियां, बाधा तिथियां, अपेक्षित तिथियां और कभी-कभी बाहरी या पूर्वानुमान-संबंधित तिथियां हो सकती हैं।
 

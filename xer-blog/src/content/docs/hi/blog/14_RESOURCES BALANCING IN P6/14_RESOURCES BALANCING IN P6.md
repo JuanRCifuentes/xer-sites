@@ -1,11 +1,10 @@
 ---
 title: "पी6 में संसाधन संतुलन"
-seo_title: "पी6 में संसाधन संतुलन - Primavera P6"
-meta_description: "Primavera P6 में पी6 में संसाधन संतुलन को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+seoTitle: "पी6 में संसाधन संतुलन - Primavera P6"
 description: "Primavera P6 में पी6 में संसाधन संतुलन को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "पी6 में संसाधन संतुलन"
   - "Primavera P6 पी6 में संसाधन संतुलन"
@@ -16,7 +15,7 @@ keywords:
   - "शेड्यूल समीक्षा"
 slug: "hi/blog/resource-balancing-in-primavera-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
@@ -24,18 +23,17 @@ audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "Primavera P6 में पी6 में संसाधन संतुलन को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
-related_metrics:
-  - "05_metrics_hi/13_activity_started_progress_zero/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6 में पी6 में संसाधन संतुलन को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+relatedMetrics:
+  - "05_metrics_hi/13_activity_started_progress_zero/02_guide_template.md"
+relatedBlogs:
   - "05_blogs_hi/13_RESOURCES LIMITS IN P6/13_RESOURCES LIMITS IN P6.md"
   - "05_blogs_hi/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
-translation_of: "01b_blogs_en/14_RESOURCES BALANCING IN P6/14_RESOURCES BALANCING IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/14_RESOURCES BALANCING IN P6/14_RESOURCES BALANCING IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# पी6 में संसाधन संतुलन
 
 प्रिमावेरा पी6 में संसाधन संतुलन उपलब्ध क्षमता के विरुद्ध संसाधन की मांग की समीक्षा करने और योजना को समायोजित करने की प्रक्रिया है ताकि उपलब्ध संसाधनों के साथ कार्य निष्पादित किया जा सके। यह प्रोजेक्ट टीम को यह समझने में मदद करता है कि शेड्यूल केवल तार्किक रूप से सही है या संसाधन के दृष्टिकोण से व्यावहारिक भी है।
 

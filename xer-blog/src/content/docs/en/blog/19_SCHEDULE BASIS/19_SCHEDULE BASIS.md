@@ -1,11 +1,10 @@
 ---
 title: "Schedule Basis"
-seo_title: "Schedule Basis in Primavera P6"
-meta_description: "Learn schedule basis for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
+seoTitle: "Schedule Basis in Primavera P6"
 description: "Learn schedule basis for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Schedule Basis"
   - "Primavera P6 Schedule Basis"
@@ -15,7 +14,7 @@ keywords:
   - "Primavera P6 blog"
 slug: "en/blog/schedule-basis-in-primavera-p6"
 language: "en"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 Scheduling"
@@ -23,17 +22,16 @@ audience:
   - "Planning engineers"
   - "Project managers"
   - "PMO teams"
-primary_search_intent: "Understand schedule basis and how it supports Primavera P6 schedule quality and project controls decisions."
-related_metrics:
-  - "01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Understand schedule basis and how it supports Primavera P6 schedule quality and project controls decisions."
+relatedMetrics:
+  - "01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "01b_blogs_en/18_ACTIVITY CODES/18_ACTIVITY CODES.md"
-translation_of: ""
-canonical_url: ""
-last_reviewed: "2026-06-26"
+translationOf: ""
+canonicalUrl: ""
+lastReviewed: "2026-06-26"
 pubDate: "2026-06-26"
 ---
-# Schedule Basis
 
 A Schedule Basis, often called the Basis of Schedule, is the document that explains how a project schedule was built and what assumptions support it. It is the written companion to the Primavera P6 file.
 

@@ -1,10 +1,10 @@
 ---
 title: "Actividades con Remaining Duration 0 y Avance Distinto de 100%"
-seo_title: "Actividades con Remaining Duration 0 y Avance Distinto de 100% - Primavera P6"
-meta_description: "Explica por qué Actividades con Remaining Duration 0 y Avance Distinto de 100% afecta la lógica CPM, la holgura y la confiabilidad del cronograma en Primavera P6."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Actividades con Remaining Duration 0 y Avance Distinto de 100% - Primavera P6"
+description: "Explica por qué Actividades con Remaining Duration 0 y Avance Distinto de 100% afecta la lógica CPM, la holgura y la confiabilidad del cronograma en Primavera P6."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Actividades con Remaining Duration 0 y Avance Distinto de 100%"
   - "Primavera P6 Actividades con Remaining Duration 0 y Avance Distinto de 100%"
@@ -13,27 +13,31 @@ keywords:
   - "control de proyectos"
   - "lógica CPM"
   - "revisión del cronograma"
-slug: "es-blog-article-remaining-duration-zero-progress-not-100-primavera-p6"
+slug: "es/blog/remaining-duration-zero-progress-not-100-primavera-p6"
 language: "es"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Calidad del cronograma"
 audience:
   - "Planificadores"
   - "Schedulers"
   - "Equipos de control de proyectos"
-primary_search_intent: "Explica por qué Actividades con Remaining Duration 0 y Avance Distinto de 100% afecta la lógica CPM, la holgura y la confiabilidad del cronograma en Primavera P6."
-related_metrics:
-  - "02_metrics_es/10_remaining_duration_zero_progress_not_100/01_overview_template.md"
+primarySearchIntent: "Explica por qué Actividades con Remaining Duration 0 y Avance Distinto de 100% afecta la lógica CPM, la holgura y la confiabilidad del cronograma en Primavera P6."
+relatedMetrics:
   - "02_metrics_es/10_remaining_duration_zero_progress_not_100/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "02b_blogs_es/01_WHAT A SCHEDULE IS/01_blog.md"
   - "02b_blogs_es/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/10_remaining_duration_zero_progress_not_100/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/10_remaining_duration_zero_progress_not_100/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Actividades con Remaining Duration 0 y Avance Distinto de 100%
 
 ## Título
 
@@ -151,7 +155,6 @@ Gestionar esta métrica mantiene limpio el estado de actividades y hace que los 
 
 Revise actividades con Remaining Duration = 0 y avance distinto de 100% durante su próxima actualización. Confirme si cada actividad está completa y corrija Actual Finish, Remaining Duration o avance según corresponda.
 ## Contenido relacionado
-- [Actividades con Remaining Duration 0 y Avance Distinto de 100% - Descripción general](01_overview_template.md)
 - [Actividades con Remaining Duration 0 y Avance Distinto de 100% - Guía de mejora](02_guide_template.md)
 - [Que Es Un Cronograma](../../02b_blogs_es/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logica Robusta](../../02b_blogs_es/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

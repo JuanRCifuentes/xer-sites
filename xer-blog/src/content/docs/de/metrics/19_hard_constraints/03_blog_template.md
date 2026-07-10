@@ -1,10 +1,10 @@
 ---
 title: "Harte Einschränkungen in Primavera P6"
-seo_title: "Harte Einschränkungen in Primavera P6"
-meta_description: "Erklärt, warum Harte Einschränkungen in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Harte Einschränkungen in Primavera P6"
+description: "Erklärt, warum Harte Einschränkungen in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Harte Einschränkungen in Primavera P6"
   - "Primavera P6 Harte Einschränkungen in Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-blog-article-hard-Einschränkungen-primavera-p6"
+slug: "de/blog/hard-Einschränkungen-primavera-p6"
 language: "de"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Terminplanqualität"
 audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Erklärt, warum Harte Einschränkungen in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-related_metrics:
-  - "09_metrics_de/19_hard_Einschränkungen/01_overview_template.md"
+primarySearchIntent: "Erklärt, warum Harte Einschränkungen in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+relatedMetrics:
   - "09_metrics_de/19_hard_Einschränkungen/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "09b_blogs_de/01_WHAT A SCHEDULE IS/01_blog.md"
   - "09b_blogs_de/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/19_hard_Einschränkungen/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/19_hard_Einschränkungen/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Harte Einschränkungen in Primavera P6
 
 Einschränkungen sind nicht automatisch falsch. In einem realen Projektterminplan werden einige Termine durch Verträge, Genehmigungen, Zugangsfenster, Stillstandszeiten, behördliche Anforderungen oder Kundenentscheidungen vorgegeben. Das Problem beginnt, wenn Einschränkungen zu einer Abkürzung für die Terminplanlogik werden.
 
@@ -59,7 +63,6 @@ Der Zielschwellenwert für diese Metrik sollte bei null unerklärlichen harten E
 
 Durch die Beseitigung harter Einschränkungen wird die Glaubwürdigkeit des Terminplans verbessert. Es ermöglicht dem CPM-Netzwerk, seine Arbeit zu erledigen, erleichtert die Interpretation von Puffer-Werten und gibt Projektteams einen klareren Überblick darüber, was die Arbeit wirklich antreibt. Einem Terminplan mit weniger unerklärlichen harten Einschränkungen ist es in der Regel leichter zu vertrauen, leichter zu überprüfen und leichter zu verteidigen.
 ## Verwandte Inhalte
-- [Harte Einschränkungen in Primavera P6 - Überblick](01_overview_template.md)
 - [Harte Einschränkungen in Primavera P6 - Verbesserungsleitfaden](02_guide_template.md)
 - [Was für ein Terminplan ist](../../09b_blogs_de/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robuste Logik](../../09b_blogs_de/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

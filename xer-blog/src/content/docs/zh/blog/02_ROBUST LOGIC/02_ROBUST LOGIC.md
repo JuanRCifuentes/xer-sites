@@ -1,11 +1,10 @@
 ---
 title: "强大的逻辑"
-seo_title: "强大的逻辑 - Primavera P6"
-meta_description: "了解 Primavera P6 中的“强大的逻辑”，重点关注进度计划、项目控制和进度质量。"
+seoTitle: "强大的逻辑 - Primavera P6"
 description: "了解 Primavera P6 中的“强大的逻辑”，重点关注进度计划、项目控制和进度质量。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "强大的逻辑"
   - "Primavera P6 强大的逻辑"
@@ -16,7 +15,7 @@ keywords:
   - "进度审查"
 slug: "zh/blog/robust-logic-in-primavera-p6"
 language: "zh"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 进度计划"
@@ -24,19 +23,18 @@ audience:
   - "计划工程师"
   - "进度计划软件人员"
   - "项目控制团队"
-primary_search_intent: "了解 Primavera P6 中的“强大的逻辑”，重点关注进度计划、项目控制和进度质量。"
-related_metrics:
-  - "03_metrics_zh/21_missing_dependencies/01_overview_template.md"
-  - "03_metrics_zh/06_redundant_logic/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "了解 Primavera P6 中的“强大的逻辑”，重点关注进度计划、项目控制和进度质量。"
+relatedMetrics:
+  - "03_metrics_zh/21_missing_dependencies/02_guide_template.md"
+  - "03_metrics_zh/06_redundant_logic/02_guide_template.md"
+relatedBlogs:
   - "03b_blogs_zh/01_WHAT A SCHEDULE IS/01_blog.md"
   - "03b_blogs_zh/03_CRITICAL PATH/03_CRITICAL PATH.md"
-translation_of: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# 强大的逻辑
 
 逻辑是项目进度计划内顺序和依赖关系的数学表示。它解释了在什么之前必须发生什么、哪些活动可以同时发生，以及项目团队打算如何从第一个活动过渡到最终完成。
 

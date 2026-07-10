@@ -1,0 +1,52 @@
+---
+import { getCollection } from 'astro:content';
+
+interface Props {
+	locale: string;
+}
+
+const { locale } = Astro.props;
+const pageTypes = [
+	{ type: 'improvement-guide', heading: 'Improvement guides' },
+	{ type: 'narrative', heading: 'Related articles' },
+] as const;
+const pages = await getCollection(
+	'docs',
+	(entry) => entry.data.metricPageType !== undefined && entry.data.language === locale && entry.data.draft !== true,
+);
+---
+
+<div class="metric-library">
+	{
+		pageTypes.map(({ type, heading }) => {
+			const matchingPages = pages
+				.filter((page) => page.data.metricPageType === type)
+				.sort((a, b) => a.data.title.localeCompare(b.data.title, locale));
+			return (
+				<section>
+					<h2>{heading}</h2>
+					<ul>
+						{matchingPages.map((page) => (
+							<li><a href={`/${page.id}/`}>{page.data.title}</a></li>
+						))}
+					</ul>
+				</section>
+			);
+		})
+	}
+</div>
+
+<style>
+	.metric-library {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+		gap: 1.5rem;
+		margin-top: 2rem;
+	}
+	.metric-library section {
+		min-width: 0;
+	}
+	.metric-library h2 {
+		font-size: var(--sl-text-xl);
+	}
+</style>

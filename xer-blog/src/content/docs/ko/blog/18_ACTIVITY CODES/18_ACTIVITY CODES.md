@@ -1,11 +1,10 @@
 ---
 title: "활동 코드"
-seo_title: "활동 코드 - Primavera P6"
-meta_description: "Primavera P6에서 활동 코드를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+seoTitle: "활동 코드 - Primavera P6"
 description: "Primavera P6에서 활동 코드를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "활동 코드"
   - "Primavera P6 활동 코드"
@@ -16,7 +15,7 @@ keywords:
   - "공정표 검토"
 slug: "ko/blog/activity-codes-in-primavera-p6"
 language: "ko"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 공정표관리"
@@ -24,18 +23,17 @@ audience:
   - "계획 엔지니어"
   - "스케줄러"
   - "프로젝트 통제 팀"
-primary_search_intent: "Primavera P6에서 활동 코드를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
-related_metrics:
-  - "10_metrics_ko/21_missing_dependencies/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6에서 활동 코드를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+relatedMetrics:
+  - "10_metrics_ko/21_missing_dependencies/02_guide_template.md"
+relatedBlogs:
   - "10b_blogs_ko/17_DEVELOPE A PROJECT SCHEDULE/17_DEVELOPE A PROJECT SCHEDULE.md"
   - "10b_blogs_ko/19_SCHEDULE BASIS/19_SCHEDULE BASIS.md"
-translation_of: "01b_blogs_en/18_ACTIVITY CODES/18_ACTIVITY CODES.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/18_ACTIVITY CODES/18_ACTIVITY CODES.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# 활동 코드
 
 Primavera P6의 활동 코드는 일정을 활동 목록에서 프로젝트 통제 데이터베이스로 바꾸는 주요 도구 중 하나입니다. 이를 통해 프로젝트 팀은 일정을 다양한 관리 관점에서 group, filter, sort, report, analyze할 수 있습니다.
 

@@ -1,11 +1,10 @@
 ---
 title: "Tipos de Duracion en P6"
-seo_title: "Tipos de Duracion en P6 - Primavera P6"
-meta_description: "Aprende Tipos de Duracion en P6 en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
+seoTitle: "Tipos de Duracion en P6 - Primavera P6"
 description: "Aprende Tipos de Duracion en P6 en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Tipos de Duracion en P6"
   - "Primavera P6 Tipos de Duracion en P6"
@@ -16,7 +15,7 @@ keywords:
   - "revisión del cronograma"
 slug: "es/blog/duration-types-in-p6"
 language: "es"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Planificación en Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Planificadores"
   - "Schedulers"
   - "Equipos de control de proyectos"
-primary_search_intent: "Aprende Tipos de Duracion en P6 en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
-related_metrics:
-  - "02_metrics_es/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Aprende Tipos de Duracion en P6 en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
+relatedMetrics:
+  - "02_metrics_es/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "02b_blogs_es/05_ACTIVITY TYPES IN P6/05_ACTIVITY TYPES IN P6.md"
   - "02b_blogs_es/07_DATES IN P6/07_DATES IN P6.md"
-translation_of: "01b_blogs_en/06_DURATION TYPES IN P6/06_DURATION TYPES IN P6.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/06_DURATION TYPES IN P6/06_DURATION TYPES IN P6.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Tipos de Duracion en P6
 
 Duration Type es uno de los campos de Primavera P6 que controla como se comporta una actividad cuando cambian la duracion, las unidades y la productividad de recursos. Es facil pasarlo por alto, pero puede afectar fechas, carga de recursos, pronostico de costos, earned value y comportamiento durante actualizaciones.
 

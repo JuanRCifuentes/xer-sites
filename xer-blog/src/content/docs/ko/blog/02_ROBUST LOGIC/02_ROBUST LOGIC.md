@@ -1,11 +1,10 @@
 ---
 title: "견고한 논리"
-seo_title: "견고한 논리 - Primavera P6"
-meta_description: "Primavera P6에서 견고한 논리를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+seoTitle: "견고한 논리 - Primavera P6"
 description: "Primavera P6에서 견고한 논리를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "견고한 논리"
   - "Primavera P6 견고한 논리"
@@ -16,7 +15,7 @@ keywords:
   - "공정표 검토"
 slug: "ko/blog/robust-logic-in-primavera-p6"
 language: "ko"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 공정표관리"
@@ -24,19 +23,18 @@ audience:
   - "계획 엔지니어"
   - "스케줄러"
   - "프로젝트 통제 팀"
-primary_search_intent: "Primavera P6에서 견고한 논리를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
-related_metrics:
-  - "10_metrics_ko/21_missing_dependencies/01_overview_template.md"
-  - "10_metrics_ko/06_redundant_logic/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Primavera P6에서 견고한 논리를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+relatedMetrics:
+  - "10_metrics_ko/21_missing_dependencies/02_guide_template.md"
+  - "10_metrics_ko/06_redundant_logic/02_guide_template.md"
+relatedBlogs:
   - "10b_blogs_ko/01_WHAT A SCHEDULE IS/01_blog.md"
   - "10b_blogs_ko/03_CRITICAL PATH/03_CRITICAL PATH.md"
-translation_of: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# 견고한 논리
 
 논리는 프로젝트 공정표 내의 순서와 종속성을 수학적으로 표현한 것입니다. 무슨 일이 일어나기 전에 무슨 일이 일어나야 하는지, 어떤 활동이 동시에 일어날 수 있는지, 그리고 프로젝트 팀이 첫 번째 활동에서 최종 완료-시작 어떻게 이동할 것인지를 설명합니다.
 

@@ -1,11 +1,10 @@
 ---
 title: "Percorso critico"
-seo_title: "Percorso critico - Primavera P6"
-meta_description: "Approfondisci Percorso critico in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
+seoTitle: "Percorso critico - Primavera P6"
 description: "Approfondisci Percorso critico in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Percorso critico"
   - "Primavera P6 Percorso critico"
@@ -16,7 +15,7 @@ keywords:
   - "revisione del cronoprogramma"
 slug: "it/blog/critical-path-in-primavera-p6"
 language: "it"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Pianificazione in Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Pianificatori"
   - "Scheduler"
   - "Team di controllo progetto"
-primary_search_intent: "Approfondisci Percorso critico in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
-related_metrics:
-  - "11_metrics_it/09_cp_or_float_path_starting_with_constraint/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Approfondisci Percorso critico in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
+relatedMetrics:
+  - "11_metrics_it/09_cp_or_float_path_starting_with_constraint/02_guide_template.md"
+relatedBlogs:
   - "11b_blogs_it/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
   - "11b_blogs_it/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
-translation_of: "01b_blogs_en/03_CRITICAL PATH/03_CRITICAL PATH.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/03_CRITICAL PATH/03_CRITICAL PATH.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Percorso critico
 
 Il percorso critico è la sequenza più lunga di attività dipendenti in una pianificazione. Determina la durata più breve possibile del progetto e definisce direttamente la data di fine del progetto.
 

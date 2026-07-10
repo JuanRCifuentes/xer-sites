@@ -19,7 +19,7 @@ hero:
       </svg>
   actions:
     - text: Erste Metrik erkunden
-      link: /de/metrics/data-date-no-driving-logic-overview/
+      link: /de/metrics/activities-starting-on-the-data-date-with-no-logic-driving-primavera-p6-improvement-guide/
       icon: right-arrow
       variant: primary
     - text: Blog lesen
@@ -28,12 +28,3 @@ hero:
 sidebar:
   order: 0
 ---
-
-## Vorgänge, die am Stichtag ohne steuernde Logik beginnen
-
-Diese Metrik identifiziert offene oder nicht gestartete Vorgänge, die am Stichtag starten sollen, ohne dass gültige Vorgängerlogik diesen Start steuert. Vorgänge, die sich ohne Logik an der Stichtagsgrenze sammeln, verzerren den Puffer (Float), verschleiern den längsten Weg und machen die Prognose unzuverlässig. Der Zielgrenzwert liegt bei 0 Vorgängen.
-
-- [Übersicht](/de/metrics/data-date-no-driving-logic-overview/) — was die Metrik misst, ihren Grenzwert und warum sie für die Terminglaubwürdigkeit wichtig ist.
-- [Verbesserungsleitfaden](/de/metrics/data-date-no-driving-logic-improvement-guide/) — wie Terminplaner und Projektsteuerungsteams markierte Vorgänge bei Qualitätsprüfungen und Aktualisierungszyklen lösen.
-
-Für die narrative Version, warum diese Metrik wichtig ist, lesen Sie den verwandten Blogbeitrag: [Vorgänge, die am Stichtag ohne steuernde Logik beginnen](/de/blog/activities-starting-on-data-date-no-driving-logic/).

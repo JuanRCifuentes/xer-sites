@@ -1,11 +1,10 @@
 ---
 title: "Primavera P6 の計画とプロジェクト管理の用語集"
-seo_title: "Primavera P6 の計画とプロジェクト管理の用語集"
-meta_description: "Primavera P6、CPM スケジューリング、プロジェクト計画、およびプロジェクト管理の用語をプランナー、スケジューラ、プロジェクト マネージャー、および PMO チーム向けにまとめた実用的な用語集です。"
+seoTitle: "Primavera P6 の計画とプロジェクト管理の用語集"
 description: "Primavera P6、CPM スケジューリング、プロジェクト計画、およびプロジェクト管理の用語をプランナー、スケジューラ、プロジェクト マネージャー、および PMO チーム向けにまとめた実用的な用語集です。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "プリマベーラ P6 用語集"
   - "プロジェクト管理用語集"
@@ -17,7 +16,7 @@ keywords:
   - "クリティカル パス手法の用語集"
 slug: "ja/blog/primavera-p6-glossary"
 language: "ja"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 とプロジェクト コントロール"
@@ -27,17 +26,16 @@ audience:
   - "スケジューラ"
   - "プロジェクトマネージャー"
   - "PMO チーム"
-primary_search_intent: "Primavera P6、CPM のスケジューリング、計画、およびプロジェクト管理の一般的な用語を理解します。"
-related_metrics:
+primarySearchIntent: "Primavera P6、CPM のスケジューリング、計画、およびプロジェクト管理の一般的な用語を理解します。"
+relatedMetrics:
   - "12_metrics_jp"
-related_blogs:
+relatedBlogs:
   - "12b_blogs_jp"
-translation_of: "01b_blogs_en/00_GLOSSARY/00_glossary_en.md"
-canonical_url: ""
-last_reviewed: "2026-07-07"
+translationOf: "01b_blogs_en/00_GLOSSARY/00_glossary_en.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-07"
 pubDate: "2026-07-07"
 ---
-# Primavera P6 の計画とプロジェクト管理の用語集
 
 この用語集では、Primavera P6 のスケジュール開発、スケジュールの品質評価、PMO レビュー、およびプロジェクトのレポートで使用される一般的な計画、スケジューリング、およびプロジェクト管理の用語を定義します。この説明は、若手プランナーから経験豊富なプロジェクト管理の専門家まで、さまざまな経験を持つ読者を対象に書かれています。
 

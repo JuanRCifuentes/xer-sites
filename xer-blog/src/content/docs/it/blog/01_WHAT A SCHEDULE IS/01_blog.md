@@ -1,11 +1,10 @@
 ---
 title: "Cos'è un cronoprogramma"
-seo_title: "Cos'è un cronoprogramma - Primavera P6"
-meta_description: "Approfondisci Cos'è un cronoprogramma in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
+seoTitle: "Cos'è un cronoprogramma - Primavera P6"
 description: "Approfondisci Cos'è un cronoprogramma in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Cos'è un cronoprogramma"
   - "Primavera P6 Cos'è un cronoprogramma"
@@ -16,7 +15,7 @@ keywords:
   - "revisione del cronoprogramma"
 slug: "it/blog/what-a-schedule-is-in-primavera-p6"
 language: "it"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Pianificazione in Primavera P6"
@@ -24,17 +23,16 @@ audience:
   - "Pianificatori"
   - "Scheduler"
   - "Team di controllo progetto"
-primary_search_intent: "Approfondisci Cos'è un cronoprogramma in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
-related_metrics:
-  - "11_metrics_it/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Approfondisci Cos'è un cronoprogramma in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
+relatedMetrics:
+  - "11_metrics_it/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
+relatedBlogs:
   - "11b_blogs_it/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Cos'è un cronoprogramma
 
 La pianificazione di un progetto è più di un elenco di date. È una rappresentazione grafica e logica del piano di consegna del progetto. Spiega come verrà eseguito il progetto dall'inizio alla fine, come si collegano i pacchetti di lavoro, quando dovrebbero essere raggiunti i traguardi principali e quali informazioni il team di progetto dovrebbe utilizzare per prendere decisioni.
 

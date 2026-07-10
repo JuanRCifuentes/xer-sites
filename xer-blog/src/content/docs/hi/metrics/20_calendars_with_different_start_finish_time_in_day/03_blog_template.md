@@ -1,10 +1,10 @@
 ---
 title: "प्रिमावेरा पी6 में अलग-अलग प्रारंभ और समाप्ति समय वाले कैलेंडर"
-seo_title: "प्रिमावेरा पी6 में अलग-अलग प्रारंभ और समाप्ति समय वाले कैलेंडर - Primavera P6"
-meta_description: "समझें कि प्रिमावेरा पी6 में अलग-अलग प्रारंभ और समाप्ति समय वाले कैलेंडर Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "प्रिमावेरा पी6 में अलग-अलग प्रारंभ और समाप्ति समय वाले कैलेंडर - Primavera P6"
+description: "समझें कि प्रिमावेरा पी6 में अलग-अलग प्रारंभ और समाप्ति समय वाले कैलेंडर Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "प्रिमावेरा पी6 में अलग-अलग प्रारंभ और समाप्ति समय वाले कैलेंडर"
   - "Primavera P6 प्रिमावेरा पी6 में अलग-अलग प्रारंभ और समाप्ति समय वाले कैलेंडर"
@@ -13,27 +13,31 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-blog-article-calendars-with-different-start-finish-time-in-day-primavera-p6"
+slug: "hi/blog/calendars-with-different-start-finish-time-in-day-primavera-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "शेड्यूल गुणवत्ता"
 audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "समझें कि प्रिमावेरा पी6 में अलग-अलग प्रारंभ और समाप्ति समय वाले कैलेंडर Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
-related_metrics:
-  - "05_metrics_hi/20_calendars_with_different_start_finish_time_in_day/01_overview_template.md"
+primarySearchIntent: "समझें कि प्रिमावेरा पी6 में अलग-अलग प्रारंभ और समाप्ति समय वाले कैलेंडर Primavera P6 में CPM लॉजिक, float और शेड्यूल भरोसे को कैसे प्रभावित करता है।"
+relatedMetrics:
   - "05_metrics_hi/20_calendars_with_different_start_finish_time_in_day/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "05_blogs_hi/01_WHAT A SCHEDULE IS/01_blog.md"
   - "05_blogs_hi/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/20_calendars_with_different_start_finish_time_in_day/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/20_calendars_with_different_start_finish_time_in_day/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# प्रिमावेरा पी6 में अलग-अलग प्रारंभ और समाप्ति समय वाले कैलेंडर
 
 कैलेंडर्स प्रिमावेरा पी6 शेड्यूल के शांत चालकों में से एक हैं। वे परिभाषित करते हैं कि काम कब हो सकता है, अवधि कैसे तारीखों में बदलती है, और रिश्ते समय के माध्यम से गतिविधियों को कैसे आगे बढ़ाते हैं। क्योंकि कैलेंडर अक्सर पर्दे के पीछे रहते हैं, दैनिक प्रारंभ और समाप्ति समय में छोटे अंतर से शेड्यूल व्यवहार बन सकता है जिसे सामान्य लेआउट में देखना मुश्किल होता है।
 
@@ -59,7 +63,6 @@ last_reviewed: "2026-07-02"
 
 इस मीट्रिक को साफ करने से शेड्यूल पारदर्शिता में सुधार होता है। यह टीमों को छिपे हुए आंशिक-दिन के प्रभावों, भ्रामक फ़्लोट और अस्पष्ट तिथि संचलन से बचने में मदद करता है। इससे शेड्यूल को ऑडिट करना भी आसान हो जाता है क्योंकि कैलेंडर धारणाएँ अब फ़ाइल के अंदर दबी नहीं रहती हैं। परियोजना नियंत्रण टीमों के लिए, यह एक बड़ी अदायगी के साथ एक छोटी समीक्षा है।
 ## संबंधित सामग्री
-- [प्रिमावेरा पी6 में अलग-अलग प्रारंभ और समाप्ति समय वाले कैलेंडर - अवलोकन](01_overview_template.md)
 - [प्रिमावेरा पी6 में अलग-अलग प्रारंभ और समाप्ति समय वाले कैलेंडर - सुधार मार्गदर्शिका](02_guide_template.md)
 - [शेड्यूल क्या है](../../05_blogs_hi/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [मजबूत तर्क](../../05_blogs_hi/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

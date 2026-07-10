@@ -1,11 +1,10 @@
 ---
 title: "关键度矩阵"
-seo_title: "关键度矩阵 - Primavera P6"
-meta_description: "了解 Primavera P6 中的“关键度矩阵”，重点关注进度计划、项目控制和进度质量。"
+seoTitle: "关键度矩阵 - Primavera P6"
 description: "了解 Primavera P6 中的“关键度矩阵”，重点关注进度计划、项目控制和进度质量。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "关键度矩阵"
   - "Primavera P6 关键度矩阵"
@@ -16,7 +15,7 @@ keywords:
   - "进度审查"
 slug: "zh/blog/criticality-matrix-in-primavera-p6"
 language: "zh"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 进度计划"
@@ -24,18 +23,17 @@ audience:
   - "计划工程师"
   - "进度计划软件人员"
   - "项目控制团队"
-primary_search_intent: "了解 Primavera P6 中的“关键度矩阵”，重点关注进度计划、项目控制和进度质量。"
-related_metrics:
-  - "03_metrics_zh/09_cp_or_浮时_path_starting_with_constraint/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "了解 Primavera P6 中的“关键度矩阵”，重点关注进度计划、项目控制和进度质量。"
+relatedMetrics:
+  - "03_metrics_zh/09_cp_or_浮时_path_starting_with_constraint/02_guide_template.md"
+relatedBlogs:
   - "03b_blogs_zh/03_CRITICAL PATH/03_CRITICAL PATH.md"
   - "03b_blogs_zh/05_ACTIVITY TYPES IN P6/05_ACTIVITY TYPES IN P6.md"
-translation_of: "01b_blogs_en/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# 关键度矩阵
 
 关键性矩阵是一种可视化或分析方法，用于根据项目活动对项目完成的重要性对项目活动进行分类和优先排序。在 Primavera P6 环境中，它可以帮助项目经理、计划人员和 PMO 审核人员确定哪些活动会产生最大的进度风险。
 

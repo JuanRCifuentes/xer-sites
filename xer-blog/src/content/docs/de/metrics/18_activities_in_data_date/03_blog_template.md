@@ -1,10 +1,10 @@
 ---
 title: "Aktivitäten am Datenstichtag"
-seo_title: "Aktivitäten am Datenstichtag"
-meta_description: "Erklärt, warum Aktivitäten am Datenstichtag"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Aktivitäten am Datenstichtag"
+description: "Erklärt, warum Aktivitäten am Datenstichtag"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Aktivitäten am Datenstichtag"
   - "Primavera P6 Aktivitäten am Datenstichtag"
@@ -13,27 +13,31 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-blog-article-activities-on-the-data-date-primavera-p6"
+slug: "de/blog/activities-on-the-data-date-primavera-p6"
 language: "de"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Terminplanqualität"
 audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Erklärt, warum Aktivitäten am Datenstichtag: Frühstart- und Frühendprüfungen in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-related_metrics:
-  - "09_metrics_de/18_activities_in_data_date/01_overview_template.md"
+primarySearchIntent: "Erklärt, warum Aktivitäten am Datenstichtag: Frühstart- und Frühendprüfungen in Primavera P6 CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+relatedMetrics:
   - "09_metrics_de/18_activities_in_data_date/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "09b_blogs_de/01_WHAT A SCHEDULE IS/01_blog.md"
   - "09b_blogs_de/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/18_activities_in_data_date/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/18_activities_in_data_date/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Aktivitäten am Datenstichtag
 
 Der Datentermin ist einer der wichtigsten Termine in einem Primavera P6-Terminplan. Es markiert die Grenze zwischen tatsächlicher Leistung und Zukunftsprognose. Arbeiten vor dem Datenstichtag sollten mit einem Status versehen werden. Arbeiten nach dem Datenstichtag sollten prognostiziert werden. Wenn viele Aktivitäten genau am Datenstichtag einen frühen Start oder ein frühes Ende haben, verdient der Terminplan einen genaueren Blick.
 
@@ -61,7 +65,6 @@ Diese Metrik ist besonders bei Update-Überprüfungen nützlich. Nachdem der Dat
 
 Durch die Bereinigung dieser Kennzahl wird die Glaubwürdigkeit der kurzfristigen Prognose verbessert. Es hilft Projektteams dabei, Arbeit, die wirklich fertig ist, von Arbeit zu unterscheiden, die einfach auf das aktuelle Aktualisierungsdatum verschoben ist. Für PMO- und Kundenberichte zeigt es außerdem, dass der Datenstichtag als tatsächliche Statusgrenze und nicht nur als Datum zur Neuberechnung der Datei behandelt wurde.
 ## Verwandte Inhalte
-- [Aktivitäten am Datenstichtag: Frühstart- und Frühendprüfungen in Primavera P6 - Überblick](01_overview_template.md)
 - [Aktivitäten am Datenstichtag: Frühstart- und Frühendprüfungen in Primavera P6 - Verbesserungsleitfaden](02_guide_template.md)
 - [Was für ein Terminplan ist](../../09b_blogs_de/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robuste Logik](../../09b_blogs_de/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

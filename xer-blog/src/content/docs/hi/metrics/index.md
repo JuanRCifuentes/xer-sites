@@ -19,7 +19,7 @@ hero:
       </svg>
   actions:
     - text: पहली metric देखें
-      link: /hi/metrics/data-date-no-driving-logic-overview/
+      link: /hi/metrics/activities-starting-on-the-data-date-with-no-logic-driving-primavera-p6-improvement-guide/
       icon: right-arrow
       variant: primary
     - text: ब्लॉग पढ़ें
@@ -28,12 +28,3 @@ hero:
 sidebar:
   order: 0
 ---
-
-## Data Date पर बिना Driving Logic के शुरू होने वाली Activities
-
-यह metric उन open या not-started activities को identify करती है जो Data Date पर शुरू होने के लिए scheduled हैं बिना valid predecessor logic के जो उस start को drive करे। Activities जो बिना logic के Data Date boundary पर collect होती हैं, float को distort करती हैं, longest path को obscure करती हैं, और forecast को unreliable बनाती हैं। Target threshold है 0 activities।
-
-- [Overview](/hi/metrics/data-date-no-driving-logic-overview/) — metric क्या measure करती है, उसकी threshold, और schedule credibility के लिए यह क्यों matter करती है।
-- [Improvement Guide](/hi/metrics/data-date-no-driving-logic-improvement-guide/) — schedulers और project controls teams quality reviews और update cycles के दौरान flagged activities को कैसे resolve करती हैं।
-
-इस metric के matter करने के narrative version के लिए, related blog post पढ़ें: [Data Date पर बिना Driving Logic के शुरू होने वाली Activities](/hi/blog/activities-starting-on-data-date-no-driving-logic/)।

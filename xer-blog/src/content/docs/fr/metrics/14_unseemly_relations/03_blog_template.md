@@ -1,10 +1,10 @@
 ---
 title: "Relations inconvenantes dans Primavera P6"
-seo_title: "Relations inconvenantes dans Primavera P6"
-meta_description: "Explique pourquoi Relations inconvenantes dans Primavera P6"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Relations inconvenantes dans Primavera P6"
+description: "Explique pourquoi Relations inconvenantes dans Primavera P6"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Relations inconvenantes dans Primavera P6"
   - "Primavera P6 Relations inconvenantes dans Primavera P6"
@@ -13,27 +13,31 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-blog-article-unusual-relationships-primavera-p6"
+slug: "fr/blog/unusual-relationships-primavera-p6"
 language: "fr"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Qualité du planning"
 audience:
   - "Planificateurs"
   - "Ordonnanceurs"
   - "Équipes de contrôle projet"
-primary_search_intent: "Explique pourquoi Relations inconvenantes dans Primavera P6 : jalons, LOE et vérifications du type de relation influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
-related_metrics:
-  - "08_metrics_fr/14_unusual_relations/01_overview_template.md"
+primarySearchIntent: "Explique pourquoi Relations inconvenantes dans Primavera P6 : jalons, LOE et vérifications du type de relation influence la logique CPM, la marge et la fiabilité du planning dans Primavera P6."
+relatedMetrics:
   - "08_metrics_fr/14_unusual_relations/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "08b_blogs_fr/01_WHAT A SCHEDULE IS/01_blog.md"
   - "08b_blogs_fr/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/14_unseemly_relations/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/14_unseemly_relations/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Relations inconvenantes dans Primavera P6
 
 La logique relationnelle est l’une des parties d’un planning les plus faciles à copier rapidement et l’une des parties les plus difficiles à défendre plus tard. Une relation peut paraître inoffensive dans un tableau P6, mais le type d’activité de chaque côté compte. Une relation qui a du sens entre deux activités de tâche normales peut être gênante ou trompeuse lorsqu'une des parties est une activité de jalon de début, de jalon de fin ou de niveau d'effort.
 
@@ -59,7 +63,6 @@ Un bon objectif pour cette métrique est zéro relation non résolue. Le mot imp
 
 Les relations inconvenantes sont souvent de petits symptômes de problèmes de qualité de calendrier plus importants : logique copiée, définitions d'étapes peu claires, utilisation abusive des activités LOE ou habitude de forcer les dates à travers les types de relations. Les nettoyer améliore plus qu’un score métrique. Cela rend le calendrier plus facile à examiner, plus facile à expliquer et plus fiable pour la gouvernance du PMO et la prise de décision en matière de projet.
 ## Contenu associé
-- [01_overview_template](../14_unusual_relations/01_overview_template.md)
 - [02_guide_template](../14_unusual_relations/02_guide_template.md)
 - [Qu'est-ce qu'un horaire](../../08b_blogs_fr/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Logique robuste](../../08b_blogs_fr/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

@@ -1,10 +1,10 @@
 ---
 title: "Aktivitäten mit Restdauer 0 und Fortschritt nicht 100 %"
-seo_title: "Aktivitäten mit Restdauer 0 und Fortschritt nicht 100 % - Primavera P6"
-meta_description: "Erklärt, warum Aktivitäten mit Restdauer 0 und Fortschritt nicht 100 % CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Aktivitäten mit Restdauer 0 und Fortschritt nicht 100 % - Primavera P6"
+description: "Erklärt, warum Aktivitäten mit Restdauer 0 und Fortschritt nicht 100 % CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Aktivitäten mit Restdauer 0 und Fortschritt nicht 100 %"
   - "Primavera P6 Aktivitäten mit Restdauer 0 und Fortschritt nicht 100 %"
@@ -13,27 +13,31 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-blog-article-remaining-duration-zero-progress-not-100-primavera-p6"
+slug: "de/blog/remaining-duration-zero-progress-not-100-primavera-p6"
 language: "de"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Terminplanqualität"
 audience:
   - "Terminplaner"
   - "Scheduler"
   - "Projektcontrolling-Teams"
-primary_search_intent: "Erklärt, warum Aktivitäten mit Restdauer 0 und Fortschritt nicht 100 % CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
-related_metrics:
-  - "09_metrics_de/10_remaining_duration_zero_progress_not_100/01_overview_template.md"
+primarySearchIntent: "Erklärt, warum Aktivitäten mit Restdauer 0 und Fortschritt nicht 100 % CPM-Logik, Puffer und die Belastbarkeit des Terminplans in Primavera P6 beeinflusst."
+relatedMetrics:
   - "09_metrics_de/10_remaining_duration_zero_progress_not_100/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "09b_blogs_de/01_WHAT A SCHEDULE IS/01_blog.md"
   - "09b_blogs_de/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/10_remaining_duration_zero_progress_not_100/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/10_remaining_duration_zero_progress_not_100/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Aktivitäten mit Restdauer 0 und Fortschritt nicht 100 %
 
 ## Titel
 
@@ -151,7 +155,6 @@ Durch die Verwaltung dieser Metrik bleibt der Aktivitätsstatus sauber und die P
 
 Überprüfen Sie Aktivitäten mit einer verbleibenden Dauer = 0 und einem Fortschritt ungleich 100 % bei Ihrer nächsten Terminplanaktualisierung. Bestätigen Sie, ob jede Aktivität abgeschlossen ist, und korrigieren Sie dann das tatsächliche Ende, die verbleibende Dauer oder den Fortschritt nach Bedarf.
 ## Verwandte Inhalte
-- [Aktivitäten mit Restdauer 0 und Fortschritt nicht 100 % - Überblick](01_overview_template.md)
 - [Aktivitäten mit Restdauer 0 und Fortschritt nicht 100 % - Verbesserungsleitfaden](02_guide_template.md)
 - [Was für ein Terminplan ist](../../09b_blogs_de/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robuste Logik](../../09b_blogs_de/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

@@ -1,10 +1,10 @@
 ---
 title: "与 FF 前辈一起活动，没有 FS 或 SS 前辈的活动"
-seo_title: "与 FF 前辈一起活动，没有 FS 或 SS 前辈的活动 - Primavera P6"
-meta_description: "说明“与 FF 前辈一起活动，没有 FS 或 SS 前辈的活动”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "与 FF 前辈一起活动，没有 FS 或 SS 前辈的活动 - Primavera P6"
+description: "说明“与 FF 前辈一起活动，没有 FS 或 SS 前辈的活动”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "与 FF 前辈一起活动，没有 FS 或 SS 前辈的活动"
   - "Primavera P6 与 FF 前辈一起活动，没有 FS 或 SS 前辈的活动"
@@ -13,27 +13,31 @@ keywords:
   - "项目控制"
   - "CPM逻辑"
   - "进度审查"
-slug: "zh-blog-article-activities-with-ff-predecessor-and-no-fs-ss-predecessor-primavera-p6"
+slug: "zh/blog/activities-with-ff-predecessor-and-no-fs-ss-predecessor-primavera-p6"
 language: "zh"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "进度质量"
 audience:
   - "计划工程师"
   - "进度计划软件人员"
   - "项目控制团队"
-primary_search_intent: "说明“与 FF 前辈一起活动，没有 FS 或 SS 前辈的活动”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
-related_metrics:
-  - "03_metrics_zh/03_activities_with_ff_predecessor_and_no_fs_ss_predecessor/01_overview_template.md"
+primarySearchIntent: "说明“与 FF 前辈一起活动，没有 FS 或 SS 前辈的活动”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
+relatedMetrics:
   - "03_metrics_zh/03_activities_with_ff_predecessor_and_no_fs_ss_predecessor/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "03b_blogs_zh/01_WHAT A SCHEDULE IS/01_blog.md"
   - "03b_blogs_zh/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/03_activities_with_ff_predecessor_and_no_fs_ss_predecessor/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/03_activities_with_ff_predecessor_and_no_fs_ss_predecessor/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# 与 FF 前辈一起活动，没有 FS 或 SS 前辈的活动
 
 ## 标题
 
@@ -146,7 +150,6 @@ last_reviewed: "2026-07-02"
 
 在下一次 Primavera P6 进度计划更新中查看有 FF 前置活动的活动，但没有 FS 或 SS 前置活动的活动。对于每一项，询问活动开始是否应该由上游工作驱动。如果应该，添加有效的启动驱动逻辑。如果不应该，请记录异常情况。
 ## 相关内容
-- [与 FF 前辈一起活动，没有 FS 或 SS 前辈的活动 - 概述](01_overview_template.md)
 - [与 FF 前辈一起活动，没有 FS 或 SS 前辈的活动 - 改进指南](02_guide_template.md)
 - [什么是进度计划](../../03b_blogs_zh/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [强大的逻辑](../../03b_blogs_zh/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

@@ -1,11 +1,10 @@
 ---
 title: "Primavera P6에 대한 계획 및 프로젝트 통제 용어집"
-seo_title: "Primavera P6에 대한 계획 및 프로젝트 통제 용어집"
-meta_description: "기획자, 스케줄러, 프로젝트 관리자 및 PMO 팀을 위한 Primavera P6, CPM 공정표, 프로젝트 계획 및 프로젝트 통제 용어에 대한 실용적인 용어집입니다."
+seoTitle: "Primavera P6에 대한 계획 및 프로젝트 통제 용어집"
 description: "기획자, 스케줄러, 프로젝트 관리자 및 PMO 팀을 위한 Primavera P6, CPM 공정표, 프로젝트 계획 및 프로젝트 통제 용어에 대한 실용적인 용어집입니다."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "프리마베라 P6 용어집"
   - "프로젝트 통제 용어집"
@@ -17,7 +16,7 @@ keywords:
   - "임계 경로 방법 용어집"
 slug: "ko/blog/primavera-p6-glossary"
 language: "ko"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 및 프로젝트 통제"
@@ -27,17 +26,16 @@ audience:
   - "스케줄러"
   - "프로젝트 관리자"
   - "PMO 팀"
-primary_search_intent: "일반적인 Primavera P6, CPM 공정관리, 계획 및 프로젝트 통제 용어를 이해합니다."
-related_metrics:
+primarySearchIntent: "일반적인 Primavera P6, CPM 공정관리, 계획 및 프로젝트 통제 용어를 이해합니다."
+relatedMetrics:
   - "10_metrics_ko"
-related_blogs:
+relatedBlogs:
   - "10b_blogs_ko"
-translation_of: "01b_blogs_en/00_GLOSSARY/00_glossary_en.md"
-canonical_url: ""
-last_reviewed: "2026-07-07"
+translationOf: "01b_blogs_en/00_GLOSSARY/00_glossary_en.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-07"
 pubDate: "2026-07-07"
 ---
-# Primavera P6 계획 및 프로젝트 통제 용어집
 
 이 용어집은 Primavera P6 공정표 개발, 공정표 품질 평가, PMO 검토 및 프로젝트 보고에 사용되는 일반적인 계획, 일정 및 프로젝트 통제 용어를 정의합니다. 설명은 주니어 기획자부터 숙련된 프로젝트 통제 전문가까지 다양한 경험을 가진 독자를 위해 작성되었습니다.
 

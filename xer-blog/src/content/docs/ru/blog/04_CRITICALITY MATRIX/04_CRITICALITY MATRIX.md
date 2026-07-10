@@ -1,11 +1,10 @@
 ---
 title: "Матрица критичности"
-seo_title: "Матрица критичности - Primavera P6"
-meta_description: "Изучите Матрица критичности в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
+seoTitle: "Матрица критичности - Primavera P6"
 description: "Изучите Матрица критичности в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Матрица критичности"
   - "Primavera P6 Матрица критичности"
@@ -16,7 +15,7 @@ keywords:
   - "анализ графика"
 slug: "ru/blog/criticality-matrix-in-primavera-p6"
 language: "ru"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Планирование в Primavera P6"
@@ -24,18 +23,17 @@ audience:
   - "Планировщики"
   - "Специалисты по графикам"
   - "Команды проектного контроля"
-primary_search_intent: "Изучите Матрица критичности в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
-related_metrics:
-  - "07_metrics_ru/09_cp_or_float_path_starting_with_constraint/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Изучите Матрица критичности в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
+relatedMetrics:
+  - "07_metrics_ru/09_cp_or_float_path_starting_with_constraint/02_guide_template.md"
+relatedBlogs:
   - "07b_blogs_ru/03_CRITICAL PATH/03_CRITICAL PATH.md"
   - "07b_blogs_ru/05_ACTIVITY TYPES IN P6/05_ACTIVITY TYPES IN P6.md"
-translation_of: "01b_blogs_en/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
-canonical_url: ""
-last_проверкуed: "2026-07-02"
+translationOf: "01b_blogs_en/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# Матрица критичности
 
 Матрица критичности — это визуальный или аналитический метод, используемый для классификации и определения приоритетности действий проекта в зависимости от того, насколько они важны для завершения проекта. В контексте Primavera P6 это помогает менеджерам проектов, планировщикам и проверяющим PMO определить, какие действия создают наибольший риск графика.
 

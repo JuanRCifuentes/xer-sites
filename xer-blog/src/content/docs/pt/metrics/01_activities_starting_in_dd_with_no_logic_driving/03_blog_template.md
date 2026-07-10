@@ -1,10 +1,10 @@
 ---
 title: "Atividades começando na data dos dados sem nenhuma lógica direcionadora"
-seo_title: "Atividades começando na data dos dados sem nenhuma lógica direcionadora - Primavera P6"
-meta_description: "Veja por que Atividades começando na data dos dados sem nenhuma lógica direcionadora"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Atividades começando na data dos dados sem nenhuma lógica direcionadora - Primavera P6"
+description: "Veja por que Atividades começando na data dos dados sem nenhuma lógica direcionadora"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Atividades começando na data dos dados sem nenhuma lógica direcionadora"
   - "Primavera P6 Atividades começando na data dos dados sem nenhuma lógica direcionadora"
@@ -13,27 +13,31 @@ keywords:
   - "controles de projeto"
   - "lógica CPM"
   - "revisão do cronograma"
-slug: "pt-blog-article-activities-starting-on-the-data-date-with-no-logic-driving-primavera-p6"
+slug: "pt/blog/activities-starting-on-the-data-date-with-no-logic-driving-primavera-p6"
 language: "pt"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Qualidade do cronograma"
 audience:
   - "Planejadores"
   - "Schedulers"
   - "Equipes de controles de projeto"
-primary_search_intent: "Veja por que Atividades começando na data dos dados sem nenhuma lógica direcionadora: por que essa métrica de cronograma é importante afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
-related_metrics:
-  - "06_metrics_pt/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md"
+primarySearchIntent: "Veja por que Atividades começando na data dos dados sem nenhuma lógica direcionadora: por que essa métrica de cronograma é importante afeta a lógica CPM, a folga e a confiabilidade do cronograma no Primavera P6."
+relatedMetrics:
   - "06_metrics_pt/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "06b_blogs_pt/01_WHAT A SCHEDULE IS/01_blog.md"
   - "06b_blogs_pt/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Atividades começando na data dos dados sem nenhuma lógica direcionadora
 
 ## Título
 
@@ -173,7 +177,6 @@ Melhorar o resultado requer revisão disciplinada do cronograma: identificar as 
 
 Revise sua última atualização de cronograma do Primavera P6 e filtre as atividades abertas ou não iniciadas começando na Data Date. Para cada um, faça uma pergunta simples: o que está motivando esse início? Se a resposta não for clara, corrija a lógica ou documente a exceção antes que o agendamento seja emitido.
 ## Conteúdo relacionado
-- [Atividades começando na data dos dados sem nenhuma lógica direcionadora: por que essa métrica de cronograma é importante - Visão geral](01_overview_template.md)
 - [Atividades começando na data dos dados sem nenhuma lógica direcionadora: por que essa métrica de cronograma é importante - Guia de melhoria](02_guide_template.md)
 - [O que é um cronograma](../../06b_blogs_pt/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Lógica Robusta](../../06b_blogs_pt/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

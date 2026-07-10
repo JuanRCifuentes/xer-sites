@@ -1,11 +1,10 @@
 ---
 title: "CPM (क्रिटिकल पाथ मेथड)"
-seo_title: "Primavera P6 में CPM (क्रिटिकल पाथ मेथड)"
-meta_description: "Primavera P6 में CPM, क्रिटिकल पाथ, फ्लोट, शेड्यूल तर्क और प्रोजेक्ट नियंत्रण निर्णयों को व्यावहारिक रूप से समझें।"
+seoTitle: "Primavera P6 में CPM (क्रिटिकल पाथ मेथड)"
 description: "Primavera P6 में CPM, क्रिटिकल पाथ, फ्लोट, शेड्यूल तर्क और प्रोजेक्ट नियंत्रण निर्णयों को व्यावहारिक रूप से समझें।"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "CPM क्रिटिकल पाथ मेथड"
   - "Primavera P6 CPM"
@@ -14,7 +13,7 @@ keywords:
   - "प्रोजेक्ट नियंत्रण"
 slug: "hi/blog/critical-path-method-cpm-primavera-p6"
 language: "hi"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "क्रिटिकल पाथ मेथड"
@@ -22,18 +21,17 @@ audience:
   - "Planning engineers"
   - "Schedulers"
   - "Project controls teams"
-primary_search_intent: "CPM को समझना और यह जानना कि यह Primavera P6 शेड्यूल गुणवत्ता और प्रोजेक्ट नियंत्रण निर्णयों में कैसे मदद करता है।"
-related_metrics:
-  - "05_metrics_hi/09_cp_or_float_path_starting_with_constraint/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "CPM को समझना और यह जानना कि यह Primavera P6 शेड्यूल गुणवत्ता और प्रोजेक्ट नियंत्रण निर्णयों में कैसे मदद करता है।"
+relatedMetrics:
+  - "05_metrics_hi/09_cp_or_float_path_starting_with_constraint/02_guide_template.md"
+relatedBlogs:
   - "05_blogs_hi/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
   - "05_blogs_hi/17_DEVELOPE A PROJECT SCHEDULE/17_DEVELOPE A PROJECT SCHEDULE.md"
-translation_of: "01b_blogs_en/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01b_blogs_en/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
 pubDate: "2026-07-02"
 ---
-# CPM (क्रिटिकल पाथ मेथड)
 
 क्रिटिकल पाथ मेथड, या CPM, गंभीर प्रोजेक्ट शेड्यूल के पीछे की मुख्य गणना विधि है। यह गतिविधियों की सूची को तर्क-संचालित मॉडल में बदलता है, ताकि टीम समझ सके कि प्रोजेक्ट कब समाप्त हो सकता है, कौन सी गतिविधियाँ समाप्ति को नियंत्रित करती हैं और शेड्यूल में लचीलापन कहाँ है।
 

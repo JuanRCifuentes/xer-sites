@@ -1,11 +1,10 @@
 ---
 title: "Activity Codes"
-seo_title: "Activity Codes in Primavera P6"
-meta_description: "Learn activity codes for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
+seoTitle: "Activity Codes in Primavera P6"
 description: "Learn activity codes for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Activity Codes"
   - "Primavera P6 Activity Codes"
@@ -15,7 +14,7 @@ keywords:
   - "Primavera P6 blog"
 slug: "en/blog/activity-codes-in-primavera-p6"
 language: "en"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 Scheduling"
@@ -23,18 +22,17 @@ audience:
   - "Planning engineers"
   - "Project managers"
   - "PMO teams"
-primary_search_intent: "Understand activity codes and how it supports Primavera P6 schedule quality and project controls decisions."
-related_metrics:
-  - "01_metrics_en/21_missing_dependencies/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Understand activity codes and how it supports Primavera P6 schedule quality and project controls decisions."
+relatedMetrics:
+  - "01_metrics_en/21_missing_dependencies/02_guide_template.md"
+relatedBlogs:
   - "01b_blogs_en/17_DEVELOPE A PROJECT SCHEDULE/17_DEVELOPE A PROJECT SCHEDULE.md"
   - "01b_blogs_en/19_SCHEDULE BASIS/19_SCHEDULE BASIS.md"
-translation_of: ""
-canonical_url: ""
-last_reviewed: "2026-06-26"
+translationOf: ""
+canonicalUrl: ""
+lastReviewed: "2026-06-26"
 pubDate: "2026-06-26"
 ---
-# Activity Codes
 
 Activity Codes in Primavera P6 are one of the main tools that turn a schedule from a list of activities into a useful project controls database. They allow the project team to group, filter, sort, report, and analyze the schedule from different management perspectives.
 

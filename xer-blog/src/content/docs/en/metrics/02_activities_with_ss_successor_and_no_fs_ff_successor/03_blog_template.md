@@ -1,10 +1,10 @@
 ---
 title: "Activities with SS Successor and No FS/FF Successor - Blog Article"
-seo_title: "Activities with SS Successor and No FS/FF Successor in Primavera P6"
-meta_description: "Learn why SS-successor activities with no FS/FF successor weaken Primavera P6 logic, float, and project controls reporting."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Activities with SS Successor and No FS/FF Successor in Primavera P6"
+description: "Learn why SS-successor activities with no FS/FF successor weaken Primavera P6 logic, float, and project controls reporting."
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Activities with SS Successor and No FS/FF Successor"
   - "Primavera P6 Activities with SS Successor and No FS/FF Successor"
@@ -12,27 +12,31 @@ keywords:
   - "project controls"
   - "CPM schedule logic"
   - "Primavera P6 blog"
-slug: "blog-article-activities-with-ss-successor-and-no-fs-ff-successor-primavera-p6"
+slug: "en/blog/activities-with-ss-successor-and-no-fs-ff-successor-primavera-p6"
 language: "en"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "Schedule Quality"
 audience:
   - "Planning engineers"
   - "Project managers"
   - "PMO teams"
-primary_search_intent: "Explain this Primavera P6 schedule quality topic in a practical blog format."
-related_metrics:
-  - "01_metrics_en/02_activities_with_ss_successor_and_no_fs_ff_successor/01_overview_template.md"
+primarySearchIntent: "Explain this Primavera P6 schedule quality topic in a practical blog format."
+relatedMetrics:
   - "01_metrics_en/02_activities_with_ss_successor_and_no_fs_ff_successor/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
   - "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: ""
-canonical_url: ""
-last_reviewed: "2026-06-26"
+translationOf: ""
+canonicalUrl: ""
+lastReviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
-# Activities with SS Successor and No FS/FF Successor
 ## Title
 
 Activities with SS Successors and No FS or FF Successors
@@ -145,7 +149,6 @@ Reviewing this metric improves CPM quality, float reliability, and confidence in
 Review activities with SS successors and no FS or FF successors in your next Primavera P6 schedule update. For each one, ask whether the activity finish should drive downstream work. If it should, add valid finish-based logic. If it should not, document the exception.
 
 ## Related Content
-- [Overview](01_overview_template.md)
 - [Improvement Guide](02_guide_template.md)
 - [What A Schedule Is](../../01b_blogs_en/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Robust Logic](../../01b_blogs_en/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

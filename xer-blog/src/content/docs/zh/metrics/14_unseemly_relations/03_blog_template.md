@@ -1,10 +1,10 @@
 ---
 title: "Primavera P6 中不恰当的关系"
-seo_title: "Primavera P6 中不恰当的关系"
-meta_description: "说明“Primavera P6 中不恰当的关系"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "Primavera P6 中不恰当的关系"
+description: "说明“Primavera P6 中不恰当的关系"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Primavera P6 中不恰当的关系"
   - "Primavera P6 中不恰当的关系"
@@ -13,27 +13,31 @@ keywords:
   - "项目控制"
   - "CPM逻辑"
   - "进度审查"
-slug: "zh-blog-article-unusual-relationships-primavera-p6"
+slug: "zh/blog/unusual-relationships-primavera-p6"
 language: "zh"
-content_type: "blog"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "进度质量"
 audience:
   - "计划工程师"
   - "进度计划软件人员"
   - "项目控制团队"
-primary_search_intent: "说明“Primavera P6 中不恰当的关系：里程碑、LOE 和逻辑关系类型检查”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
-related_metrics:
-  - "03_metrics_zh/14_unusual_relations/01_overview_template.md"
+primarySearchIntent: "说明“Primavera P6 中不恰当的关系：里程碑、LOE 和逻辑关系类型检查”为什么会影响 Primavera P6 的 CPM 逻辑、浮时和进度可信度。"
+relatedMetrics:
   - "03_metrics_zh/14_unusual_relations/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "03b_blogs_zh/01_WHAT A SCHEDULE IS/01_blog.md"
   - "03b_blogs_zh/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/14_unseemly_relations/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/14_unseemly_relations/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# Primavera P6 中不恰当的关系
 
 关系逻辑是进度计划表中最容易快速复制的部分之一，也是以后最难捍卫的部分之一。在 P6 表中，关系可能看起来无害，但双方的活动类型都很重要。当一项是开始里程碑、完成里程碑或努力级别活动时，两项正常任务活动之间有意义的关系可能会显得尴尬或具有误导性。
 
@@ -59,7 +63,6 @@ last_reviewed: "2026-07-02"
 
 不合时宜的关系通常是较大进度质量问题的小症状：复制逻辑、不清楚的里程碑定义、误用 LOE 活动或通过逻辑关系类型强制确定日期的习惯。清理它们提高的不仅仅是指标分数。它使进度计划更容易审查、更容易解释，并且对于 PMO 治理和项目决策来说更可靠。
 ## 相关内容
-- [01_overview_template](../14_unusual_relations/01_overview_template.md)
 - [02_guide_template](../14_unusual_relations/02_guide_template.md)
 - [什么是进度计划](../../03b_blogs_zh/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [强大的逻辑](../../03b_blogs_zh/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

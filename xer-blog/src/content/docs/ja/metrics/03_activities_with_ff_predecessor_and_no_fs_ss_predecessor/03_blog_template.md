@@ -1,10 +1,10 @@
 ---
 title: "FF 先行者が存在し、FS または SS 先行者が存在しないアクティビティ"
-seo_title: "FF 先行者が存在し、FS または SS 先行者が存在しないアクティビティ - Primavera P6"
-meta_description: "「FF 先行者が存在し、FS または SS 先行者が存在しないアクティビティ」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+seoTitle: "FF 先行者が存在し、FS または SS 先行者が存在しないアクティビティ - Primavera P6"
+description: "「FF 先行者が存在し、FS または SS 先行者が存在しないアクティビティ」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "FF 先行者が存在し、FS または SS 先行者が存在しないアクティビティ"
   - "Primavera P6 FF 先行者が存在し、FS または SS 先行者が存在しないアクティビティ"
@@ -13,27 +13,31 @@ keywords:
   - "プロジェクトコントロール"
   - "CPMロジック"
   - "スケジュールレビュー"
-slug: "jp-blog-article-activities-with-ff-predecessor-and-no-fs-ss-predecessor-primavera-p6"
-language: "jp"
-content_type: "blog"
+slug: "ja/blog/activities-with-ff-predecessor-and-no-fs-ss-predecessor-primavera-p6"
+language: "ja"
+contentType: "blog"
+metricPageType: "narrative"
+draft: false
+sidebar:
+  label: "Blog"
+  order: 2
 version: "1.0"
 topic: "スケジュール品質"
 audience:
   - "計画エンジニア"
   - "スケジューラー"
   - "プロジェクトコントロールチーム"
-primary_search_intent: "「FF 先行者が存在し、FS または SS 先行者が存在しないアクティビティ」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
-related_metrics:
-  - "12_metrics_jp/03_activities_with_ff_predecessor_and_no_fs_ss_predecessor/01_overview_template.md"
+primarySearchIntent: "「FF 先行者が存在し、FS または SS 先行者が存在しないアクティビティ」がPrimavera P6のCPMロジック、フロート、スケジュール信頼性に与える影響を解説します。"
+relatedMetrics:
   - "12_metrics_jp/03_activities_with_ff_predecessor_and_no_fs_ss_predecessor/02_guide_template.md"
-related_blogs:
+relatedBlogs:
   - "12b_blogs_jp/01_WHAT A SCHEDULE IS/01_blog.md"
   - "12b_blogs_jp/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
-translation_of: "01_metrics_en/03_activities_with_ff_predecessor_and_no_fs_ss_predecessor/03_blog_template.md"
-canonical_url: ""
-last_reviewed: "2026-07-02"
+translationOf: "01_metrics_en/03_activities_with_ff_predecessor_and_no_fs_ss_predecessor/03_blog_template.md"
+canonicalUrl: ""
+lastReviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
-# FF 先行者が存在し、FS または SS 先行者が存在しないアクティビティ
 
 ## タイトル
 
@@ -146,7 +150,6 @@ FF 先行操作を持ち、FS または SS 先行操作を持たないアクテ�
 
 次回の Primavera P6 スケジュール更新で、FF 先行タスクを使用し、FS または SS 先行タスクを含まないアクティビティを確認します。それぞれについて、アクティビティの開始が上流の作業によって推進されるべきかどうかを尋ねます。必要に応じて、有効な開始駆動ロジックを追加してください。そうすべきではない場合は、例外を文書化してください。
 ## 関連コンテンツ
-- [FF 先行者が存在し、FS または SS 先行者が存在しないアクティビティ - 概要](01_overview_template.md)
 - [FF 先行者が存在し、FS または SS 先行者が存在しないアクティビティ - 改善ガイド](02_guide_template.md)
 - [スケジュールとは](../../12b_blogs_jp/01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [堅牢なロジック](../../12b_blogs_jp/02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

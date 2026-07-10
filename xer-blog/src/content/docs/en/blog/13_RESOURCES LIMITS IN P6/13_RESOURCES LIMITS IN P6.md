@@ -1,11 +1,10 @@
 ---
 title: "Resource Limits in P6"
-seo_title: "Resource Limits in P6"
-meta_description: "Learn resource limits in p6 for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
+seoTitle: "Resource Limits in P6"
 description: "Learn resource limits in p6 for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
-author_name: "Juan D Vargas"
-author_description: "Project control manager, 30+ years of experience in Project Control"
-author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
+authorName: "Juan D Vargas"
+authorDescription: "Project control manager, 30+ years of experience in Project Control"
+authorUrl: "https://www.linkedin.com/in/juan-d-vargas-v/"
 keywords:
   - "Resource Limits in P6"
   - "Primavera P6 Resource Limits in P6"
@@ -16,7 +15,7 @@ keywords:
   - "Primavera P6 blog"
 slug: "en/blog/resource-limits-in-primavera-p6"
 language: "en"
-content_type: "blog"
+contentType: "blog"
 draft: false
 version: "1.0"
 topic: "Primavera P6 Resources"
@@ -24,18 +23,17 @@ audience:
   - "Planning engineers"
   - "Project managers"
   - "PMO teams"
-primary_search_intent: "Understand resource limits in P6 and how it supports Primavera P6 schedule quality and project controls decisions."
-related_metrics:
-  - "01_metrics_en/13_activity_started_progress_zero/01_overview_template.md"
-related_blogs:
+primarySearchIntent: "Understand resource limits in P6 and how it supports Primavera P6 schedule quality and project controls decisions."
+relatedMetrics:
+  - "01_metrics_en/13_activity_started_progress_zero/02_guide_template.md"
+relatedBlogs:
   - "01b_blogs_en/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
   - "01b_blogs_en/14_RESOURCES BALANCING IN P6/14_RESOURCES BALANCING IN P6.md"
-translation_of: ""
-canonical_url: ""
-last_reviewed: "2026-06-26"
+translationOf: ""
+canonicalUrl: ""
+lastReviewed: "2026-06-26"
 pubDate: "2026-06-26"
 ---
-# Resource Limits in P6
 
 Resource limits in Primavera P6 define how much of a resource is available during a period of time. They are used to compare the resource demand created by activity assignments against the capacity that the project actually has.
 
