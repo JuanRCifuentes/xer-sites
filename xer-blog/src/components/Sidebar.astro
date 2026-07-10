@@ -9,10 +9,34 @@ const flattenArticleFolders = (entries: SidebarEntry[]) =>
 		entry.type === 'group' ? flattenArticleFolders(entry.entries) : [entry],
 	);
 
+const acronyms = new Set(['dd', 'ss', 'ff', 'fs', 'sf', 'cp', 'cpm', 'p6']);
+
+const friendlyMetricLabel = (label: string) => {
+	const words = label.replace(/^\d+_/, '').split('_');
+	return words
+		.map((word, index) => {
+			const normalized = word.toLowerCase();
+			if (acronyms.has(normalized)) return normalized.toUpperCase();
+			return index === 0
+				? normalized.charAt(0).toUpperCase() + normalized.slice(1)
+				: normalized;
+		})
+		.join(' ');
+};
+
+const labelMetricFolders = (entries: SidebarEntry[]): SidebarEntry[] =>
+	entries.map((entry) =>
+		entry.type === 'group'
+			? { ...entry, label: friendlyMetricLabel(entry.label), entries: labelMetricFolders(entry.entries) }
+			: entry,
+	);
+
 const sidebar = Astro.locals.starlightRoute.sidebar.map((entry, index) =>
 	index === 0 && entry.type === 'group'
 		? { ...entry, entries: flattenArticleFolders(entry.entries) }
-		: entry,
+		: index === 1 && entry.type === 'group'
+			? { ...entry, entries: labelMetricFolders(entry.entries) }
+			: entry,
 );
 ---
 
