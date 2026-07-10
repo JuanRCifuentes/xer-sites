@@ -1,31 +1,33 @@
 ---
 // Renders blog posts as a responsive card grid. The blog index
-// (en/blog/index.mdx) shows the latest posts plus a "See all posts" card;
+// (each locale blog index) shows the latest posts plus a "See all posts" card;
 // the archive (en/blog/all-posts.mdx) shows every post. Posts come from the
-// docs collection under en/blog/, ordered by pubDate descending; posts
+// docs collection under the selected locale blog/, ordered by pubDate descending; posts
 // without a pubDate sort last.
 import { getCollection } from 'astro:content';
 import { Icon } from '@astrojs/starlight/components';
 
 interface Props {
+	locale: string;
 	/** Maximum number of post cards to show. Omit to show every post. */
 	count?: number;
 	/** When set, appends a "See all posts" card linking to this page. */
 	seeAllHref?: string;
 }
 
-const { count, seeAllHref } = Astro.props;
+const { locale, count, seeAllHref } = Astro.props;
+const prefix = `${locale}/blog/`;
 
 const posts = (
 	await getCollection(
 		'docs',
-		(entry) => entry.id.startsWith('en/blog/') && entry.id !== 'en/blog/all-posts',
+		(entry) => entry.id.startsWith(prefix) && entry.id !== locale + '/blog/all-posts' && entry.data.draft !== true,
 	)
 )
 	.sort((a, b) => (b.data.pubDate?.getTime() ?? 0) - (a.data.pubDate?.getTime() ?? 0))
 	.slice(0, count);
 
-const formatter = new Intl.DateTimeFormat('en', { dateStyle: 'medium' });
+const formatter = new Intl.DateTimeFormat(locale, { dateStyle: 'medium' });
 
 // pubDate strings like 'Jun 8 2026' parse as local-time midnight, and the
 // formatter above also renders in local time. Build the datetime attribute

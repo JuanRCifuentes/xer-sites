@@ -2,6 +2,7 @@
 title: "クリティカル パス"
 seo_title: "クリティカル パス - Primavera P6"
 meta_description: "Primavera P6における「クリティカル パス」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+description: "Primavera P6における「クリティカル パス」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "プロジェクトコントロール"
   - "CPMロジック"
   - "スケジュールレビュー"
-slug: "jp-critical-path-in-primavera-p6"
-language: "jp"
+slug: "ja/blog/critical-path-in-primavera-p6"
+language: "ja"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 スケジューリング"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/03_CRITICAL PATH/03_CRITICAL PATH.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # クリティカル パス
 
@@ -165,6 +168,6 @@ Primavera P6 は重要なアクティビティを特定できますが、ソフ�
 
 このストーリーが理にかなっている場合、クリティカル パスはプロジェクト管理において最も強力なツールの 1 つになります。そうでない場合は、予測を信頼する前にスケジュールをさらに検討する必要があるという警告です。
 ## 関連コンテンツ
-- [制約で始まるクリティカル パスまたはフロート パス - 概要](../../12_metrics_jp/09_cp_or_float_path_starting_with_constraint/01_overview_template.md)
+- [制約で始まるクリティカル パスまたはフロート パス - 概要](../../metrics/09_cp_or_float_path_starting_with_constraint/02_guide_template.md)
 - [堅牢なロジック](../02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)
 - [重要度マトリックス](../04_CRITICALITY%20MATRIX/04_CRITICALITY%20MATRIX.md)

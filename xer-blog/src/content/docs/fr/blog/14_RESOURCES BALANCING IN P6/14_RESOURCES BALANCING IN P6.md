@@ -2,6 +2,7 @@
 title: "Équilibrage des ressources dans P6"
 seo_title: "Équilibrage des ressources dans P6 - Primavera P6"
 meta_description: "Comprendre Équilibrage des ressources dans P6 dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
+description: "Comprendre Équilibrage des ressources dans P6 dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-resource-balancing-in-primavera-p6"
+slug: "fr/blog/resource-balancing-in-primavera-p6"
 language: "fr"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planification Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/14_RESOURCES BALANCING IN P6/14_RESOURCES BALANCING IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Équilibrage des ressources dans P6
 
@@ -224,6 +227,6 @@ Le nivellement des ressources P6 peut prendre en charge cet examen en déplaçan
 
 Un emploi du temps équilibré n’est pas nécessairement un emploi du temps parfaitement fluide. Il s'agit d'un calendrier dans lequel la demande de ressources est visible, réaliste et alignée sur la manière dont le projet sera réellement réalisé.
 ## Contenu associé
-- [Activités démarrées avec 0 % de progression dans Primavera P6 - Vue d’ensemble](../../08_metrics_fr/13_activity_started_progress_zero/01_overview_template.md)
+- [Activités démarrées avec 0 % de progression dans Primavera P6 - Vue d’ensemble](../../metrics/13_activity_started_progress_zero/02_guide_template.md)
 - [Limites de ressources dans P6](../13_RESOURCES%20LIMITS%20IN%20P6/13_RESOURCES%20LIMITS%20IN%20P6.md)
 - [Relations SS et FF](../15_SS%20&%20FF%20RELATIONS/15_SS%20&%20FF%20RELATIONS.md)

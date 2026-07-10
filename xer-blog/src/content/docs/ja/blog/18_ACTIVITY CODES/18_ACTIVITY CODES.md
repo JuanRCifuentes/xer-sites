@@ -2,6 +2,7 @@
 title: "Activity Codes"
 seo_title: "Activity Codes - Primavera P6"
 meta_description: "Primavera P6における「Activity Codes」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+description: "Primavera P6における「Activity Codes」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "プロジェクトコントロール"
   - "CPMロジック"
   - "スケジュールレビュー"
-slug: "jp-activity-codes-in-primavera-p6"
-language: "jp"
+slug: "ja/blog/activity-codes-in-primavera-p6"
+language: "ja"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 スケジューリング"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/18_ACTIVITY CODES/18_ACTIVITY CODES.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Activity Codes
 
@@ -178,6 +181,6 @@ Activity Codes は単なる administrative labels ではありません。Primav
 
 Bar chart は時間を示します。Coding structure は、スケジュールをどう読み、分け、使うかを説明します。
 ## 関連コンテンツ
-- [Primavera P6 で不足している依存関係 - 概要](../../12_metrics_jp/21_missing_dependencies/01_overview_template.md)
+- [Primavera P6 で不足している依存関係 - 概要](../../metrics/21_missing_dependencies/02_guide_template.md)
 - [プロジェクトスケジュールを作成する](../17_DEVELOPE%20A%20PROJECT%20SCHEDULE/17_DEVELOPE%20A%20PROJECT%20SCHEDULE.md)
 - [Schedule Basis](../19_SCHEDULE%20BASIS/19_SCHEDULE%20BASIS.md)

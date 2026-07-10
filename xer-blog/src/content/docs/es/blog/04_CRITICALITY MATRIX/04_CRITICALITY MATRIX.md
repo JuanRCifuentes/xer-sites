@@ -2,6 +2,7 @@
 title: "Matriz de Criticidad"
 seo_title: "Matriz de Criticidad - Primavera P6"
 meta_description: "Aprende Matriz de Criticidad en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
+description: "Aprende Matriz de Criticidad en Primavera P6 con enfoque práctico en planificación, control de proyectos y calidad del cronograma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "control de proyectos"
   - "lógica CPM"
   - "revisión del cronograma"
-slug: "es-criticality-matrix-in-primavera-p6"
+slug: "es/blog/criticality-matrix-in-primavera-p6"
 language: "es"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planificación en Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Matriz de Criticidad
 
@@ -184,6 +187,6 @@ Para project managers y revisores PMO, la matriz convierte el riesgo de cronogra
 
 Usada correctamente, una matriz de criticidad ayuda al equipo del proyecto a pasar de reporte reactivo a control proactivo del cronograma.
 ## Contenido relacionado
-- [Ruta Crítica o Ruta de Holgura que Inicia con una Restricción - Descripción general](../../02_metrics_es/09_cp_or_float_path_starting_with_restriccion/01_overview_template.md)
+- [Ruta Crítica o Ruta de Holgura que Inicia con una Restricción - Descripción general](../../metrics/09_cp_or_float_path_starting_with_restriccion/02_guide_template.md)
 - [Ruta Critica](../03_CRITICAL%20PATH/03_CRITICAL%20PATH.md)
 - [Tipos de Actividad en P6](../05_ACTIVITY%20TYPES%20IN%20P6/05_ACTIVITY%20TYPES%20IN%20P6.md)

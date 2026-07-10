@@ -2,6 +2,7 @@
 title: "Dates in P6"
 seo_title: "Dates in P6"
 meta_description: "Learn dates in p6 for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
+description: "Learn dates in p6 for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -12,9 +13,10 @@ keywords:
   - "project controls"
   - "CPM schedule logic"
   - "Primavera P6 blog"
-slug: "dates-in-p6"
+slug: "en/blog/dates-in-p6"
 language: "en"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 Scheduling"
 audience:
@@ -30,6 +32,7 @@ related_blogs:
 translation_of: ""
 canonical_url: ""
 last_reviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
 # Dates in P6
 
@@ -191,6 +194,6 @@ A strong schedule review does not ask only "what is the date?" It asks "what kin
 When the project team understands the meaning of each date field, the schedule becomes easier to explain, easier to audit, and more reliable for project control.
 
 ## Related Content
-- [Actual Date Greater Than Data Date](../../01_metrics_en/12_actual_date_greater_than_data_date/01_overview_template.md)
+- [Actual Date Greater Than Data Date](../../metrics/12_actual_date_greater_than_data_date/02_guide_template.md)
 - [Duration Types in P6](../06_DURATION%20TYPES%20IN%20P6/06_DURATION%20TYPES%20IN%20P6.md)
 - [Calendars in P6](../08_CALENDARS%20IN%20P6/08_CALENDARS%20IN%20P6.md)

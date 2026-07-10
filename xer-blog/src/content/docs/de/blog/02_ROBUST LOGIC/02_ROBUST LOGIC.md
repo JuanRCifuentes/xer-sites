@@ -2,6 +2,7 @@
 title: "Robuste Logik"
 seo_title: "Robuste Logik - Primavera P6"
 meta_description: "Lernen Sie Robuste Logik in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+description: "Lernen Sie Robuste Logik in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-robust-logic-in-primavera-p6"
+slug: "de/blog/robust-logic-in-primavera-p6"
 language: "de"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Terminplanung in Primavera P6"
 audience:
@@ -32,6 +34,7 @@ related_blogs:
 translation_of: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Robuste Logik
 
@@ -161,7 +164,7 @@ Wenn Aktivitäten am Datenstichtag ohne steuernde Logik beginnen, deckt der Term
 
 Ein verlässlicher Terminplan sollte diese Frage klar beantworten. Was ermöglicht den Beginn dieser Arbeit? Was wird als nächstes aktiviert? Wenn der Terminplan beides beantworten kann, wird die Logik robust. Wenn dies nicht möglich ist, muss das Projektteam weitere Sequenzierungsarbeiten durchführen, bevor der Prognose vertraut werden kann.
 ## Verwandte Inhalte
-- [Fehlende Abhängigkeiten in Primavera P6 - Überblick](../../09_metrics_de/21_missing_dependencies/01_overview_template.md)
-- [Redundante Logik in Primavera P6-Terminplänen - Überblick](../../09_metrics_de/06_redundant_logic/01_overview_template.md)
+- [Fehlende Abhängigkeiten in Primavera P6 - Überblick](../../metrics/21_missing_dependencies/02_guide_template.md)
+- [Redundante Logik in Primavera P6-Terminplänen - Überblick](../../metrics/06_redundant_logic/02_guide_template.md)
 - [Was für ein Terminplan ist](../01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Kritischer Pfad](../03_CRITICAL%20PATH/03_CRITICAL%20PATH.md)

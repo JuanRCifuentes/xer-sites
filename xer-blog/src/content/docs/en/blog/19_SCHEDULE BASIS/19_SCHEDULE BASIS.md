@@ -2,6 +2,7 @@
 title: "Schedule Basis"
 seo_title: "Schedule Basis in Primavera P6"
 meta_description: "Learn schedule basis for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
+description: "Learn schedule basis for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -12,9 +13,10 @@ keywords:
   - "project controls"
   - "CPM schedule logic"
   - "Primavera P6 blog"
-slug: "schedule-basis-in-primavera-p6"
+slug: "en/blog/schedule-basis-in-primavera-p6"
 language: "en"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 Scheduling"
 audience:
@@ -29,6 +31,7 @@ related_blogs:
 translation_of: ""
 canonical_url: ""
 last_reviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
 # Schedule Basis
 
@@ -133,5 +136,5 @@ The Schedule Basis is the explanation behind the schedule. It tells the project 
 A strong Basis of Schedule makes the P6 file easier to review, defend, update, and trust.
 
 ## Related Content
-- [Activities Starting in Data Date with No Logic Driving](../../01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Activities Starting in Data Date with No Logic Driving](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Activity Codes](../18_ACTIVITY%20CODES/18_ACTIVITY%20CODES.md)

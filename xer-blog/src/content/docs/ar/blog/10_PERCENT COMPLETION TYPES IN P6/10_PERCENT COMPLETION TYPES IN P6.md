@@ -2,6 +2,7 @@
 title: "النسبة المئوية للأنواع الكاملة في P6"
 seo_title: "النسبة المئوية للأنواع الكاملة في P6 - Primavera P6"
 meta_description: "تعرّف على النسبة المئوية للأنواع الكاملة في P6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+description: "تعرّف على النسبة المئوية للأنواع الكاملة في P6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "ضبط المشاريع"
   - "منطق CPM"
   - "مراجعة الجدول"
-slug: "ar-percent-complete-types-in-p6"
+slug: "ar/blog/percent-complete-types-in-p6"
 language: "ar"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "الجدولة في Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/10_PERCENT COMPLETION TYPES IN P6/10_PERCENT COMPLETION TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # النسبة المئوية للأنواع الكاملة في P6
 
@@ -191,6 +194,6 @@ flowchart TD
 
 يستخدم الجدول الزمني القوي أنواع النسبة المئوية الكاملة عن قصد. عندما تتطابق الطريقة مع العمل، تصبح تحديثات التقدم أكثر وضوحًا، وتصبح المدة المتبقية أكثر موثوقية، ويصبح الدفاع عن تقارير المشروع أسهل.
 ## محتوى ذو صلة
-- [الأنشطة التي تبدأ في تاريخ البيانات بدون المنطق المحرك: لماذا يهم مقياس الجدول هذا - نظرة عامة](../../04_metrics_ar/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [الأنشطة التي تبدأ في تاريخ البيانات بدون المنطق المحرك: لماذا يهم مقياس الجدول هذا - نظرة عامة](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [المدة في P6](../09_DURATION%20IN%20P6/09_DURATION%20IN%20P6.md)
 - [أين تعيش التكلفة في P6](../11_WHERE%20THE%20COST%20LIVE%20IN%20P6/11_WHERE%20THE%20COST%20LIVE%20IN%20P6.md)

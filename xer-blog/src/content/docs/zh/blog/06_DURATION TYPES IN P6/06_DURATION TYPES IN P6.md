@@ -2,6 +2,7 @@
 title: "P6 中的持续时间类型"
 seo_title: "P6 中的持续时间类型 - Primavera P6"
 meta_description: "了解 Primavera P6 中的“P6 中的持续时间类型”，重点关注进度计划、项目控制和进度质量。"
+description: "了解 Primavera P6 中的“P6 中的持续时间类型”，重点关注进度计划、项目控制和进度质量。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "项目控制"
   - "CPM逻辑"
   - "进度审查"
-slug: "zh-duration-types-in-p6"
+slug: "zh/blog/duration-types-in-p6"
 language: "zh"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 进度计划"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/06_DURATION TYPES IN P6/06_DURATION TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6 中的持续时间类型
 
@@ -206,6 +209,6 @@ P6 中的持续时间类型定义了当持续时间、总单位数和资源比�
 
 选择正确的工期类型有助于以符合项目计划的方式计算进度计划。它还使资源加载、进度更新、成本预测和进度报告更易于理解和维护。
 ## 相关内容
-- [从数据日期开始且没有驱动逻辑的活动：为什么此计划指标很重要 - 概述](../../03_metrics_zh/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [从数据日期开始且没有驱动逻辑的活动：为什么此计划指标很重要 - 概述](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [P6 中的活动类型](../05_ACTIVITY%20TYPES%20IN%20P6/05_ACTIVITY%20TYPES%20IN%20P6.md)
 - [P6 中的日期](../07_DATES%20IN%20P6/07_DATES%20IN%20P6.md)

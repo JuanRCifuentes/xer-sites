@@ -2,6 +2,7 @@
 title: "Relações SS e FF"
 seo_title: "Relações SS e FF - Primavera P6"
 meta_description: "Aprenda Relações SS e FF no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+description: "Aprenda Relações SS e FF no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "controles de projeto"
   - "lógica CPM"
   - "revisão do cronograma"
-slug: "pt-ss-and-ff-relations-in-primavera-p6"
+slug: "pt/blog/ss-and-ff-relations-in-primavera-p6"
 language: "pt"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planejamento em Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Relações SS e FF
 
@@ -122,6 +125,6 @@ SS e FF são ferramentas úteis no P6, mas exigem disciplina. Usadas sozinhas, p
 
 Um cronograma CPM confiável deve explicar por que o trabalho pode iniciar e o que controla seu término. Quando SS e FF ajudam a responder essas perguntas, fortalecem o cronograma. Quando deixam um extremo aberto, criam lógica fraca que deve ser revisada.
 ## Conteúdo relacionado
-- [Atividades começando na data dos dados sem nenhuma lógica direcionadora: por que essa métrica de cronograma é importante - Visão geral](../../06_metrics_pt/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Atividades começando na data dos dados sem nenhuma lógica direcionadora: por que essa métrica de cronograma é importante - Visão geral](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Balanceamento de recursos no P6](../14_RESOURCES%20BALANCING%20IN%20P6/14_RESOURCES%20BALANCING%20IN%20P6.md)
 - [CPM (Critical Path Method)](../16_CPM%20(CRITICAL%20PATH%20METHOD)/16_CPM%20(CRITICAL%20PATH%20METHOD).md)

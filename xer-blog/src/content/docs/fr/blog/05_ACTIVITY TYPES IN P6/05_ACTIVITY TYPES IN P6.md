@@ -2,6 +2,7 @@
 title: "Types d'activités dans P6"
 seo_title: "Types d'activités dans P6 - Primavera P6"
 meta_description: "Comprendre Types d'activités dans P6 dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
+description: "Comprendre Types d'activités dans P6 dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-activity-types-in-p6"
+slug: "fr/blog/activity-types-in-p6"
 language: "fr"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planification Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/05_ACTIVITY TYPES IN P6/05_ACTIVITY TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Types d'activités dans P6
 
@@ -204,6 +207,6 @@ Les activités dépendant de la tâche représentent la plupart du travail norma
 
 Choisir le bon type d'activité rend le calendrier plus facile à examiner, plus facile à expliquer et plus fiable pour les contrôles du projet. Un emploi du temps solide n’a pas seulement de bonnes dates et une bonne logique. Il utilise également le type d’activité approprié pour l’œuvre représentée.
 ## Contenu associé
-- [Activités commençant à la date des données sans logique pilotante : pourquoi cette mesure de planification est importante - Vue d’ensemble](../../08_metrics_fr/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Activités commençant à la date des données sans logique pilotante : pourquoi cette mesure de planification est importante - Vue d’ensemble](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Matrice de criticité](../04_CRITICALITY%20MATRIX/04_CRITICALITY%20MATRIX.md)
 - [Types de durée dans P6](../06_DURATION%20TYPES%20IN%20P6/06_DURATION%20TYPES%20IN%20P6.md)

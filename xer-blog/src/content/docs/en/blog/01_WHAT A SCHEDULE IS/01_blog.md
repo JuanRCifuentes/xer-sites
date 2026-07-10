@@ -2,6 +2,7 @@
 title: "What a Schedule Is"
 seo_title: "What a Schedule Is in Primavera P6"
 meta_description: "Learn what a schedule is for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
+description: "Learn what a schedule is for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -12,9 +13,10 @@ keywords:
   - "project controls"
   - "CPM schedule logic"
   - "Primavera P6 blog"
-slug: "what-a-schedule-is-in-primavera-p6"
+slug: "en/blog/what-a-schedule-is-in-primavera-p6"
 language: "en"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 Scheduling"
 audience:
@@ -29,6 +31,7 @@ related_blogs:
 translation_of: ""
 canonical_url: ""
 last_reviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
 
 # What a Schedule Is
@@ -126,5 +129,5 @@ When built well, it tells the project team what needs to happen, when it needs t
 For that reason, schedule quality reviews should always ask a simple question: does the schedule explain why the work starts when it starts? If the answer is yes, the schedule is doing its job. If the answer is no, the roadmap needs more logic before it can be trusted.
 
 ## Related Content
-- [Activities Starting in Data Date with No Logic Driving](../../01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Activities Starting in Data Date with No Logic Driving](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Robust Logic](../02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

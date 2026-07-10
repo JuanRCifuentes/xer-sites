@@ -2,6 +2,7 @@
 title: "P6 中的资源类型"
 seo_title: "P6 中的资源类型 - Primavera P6"
 meta_description: "了解 Primavera P6 中的“P6 中的资源类型”，重点关注进度计划、项目控制和进度质量。"
+description: "了解 Primavera P6 中的“P6 中的资源类型”，重点关注进度计划、项目控制和进度质量。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "项目控制"
   - "CPM逻辑"
   - "进度审查"
-slug: "zh-资源-types-in-p6"
+slug: "zh/blog/资源-types-in-p6"
 language: "zh"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 进度计划"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6 中的资源类型
 
@@ -217,6 +220,6 @@ P6 中的资源类型有助于定义执行工作所需的资源。劳动力资�
 
 一个好的资源加载进度计划不仅仅是附有资源的进度计划。这是一个进度计划，其中每种资源类型都被有意使用并在项目的整个生命周期中得到维护。
 ## 相关内容
-- [活动开始，Primavera P6 进度为 0% - 概述](../../03_metrics_zh/13_活动_started_progress_zero/01_overview_template.md)
+- [活动开始，Primavera P6 进度为 0% - 概述](../../metrics/13_活动_started_progress_zero/02_guide_template.md)
 - [P6 的成本在哪里](../11_WHERE%20THE%20COST%20LIVE%20IN%20P6/11_WHERE%20THE%20COST%20LIVE%20IN%20P6.md)
 - [P6 中的资源限制](../13_RESOURCES%20LIMITS%20IN%20P6/13_RESOURCES%20LIMITS%20IN%20P6.md)

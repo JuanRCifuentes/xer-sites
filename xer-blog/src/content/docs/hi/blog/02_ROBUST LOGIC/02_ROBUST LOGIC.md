@@ -2,6 +2,7 @@
 title: "मजबूत तर्क"
 seo_title: "मजबूत तर्क - Primavera P6"
 meta_description: "Primavera P6 में मजबूत तर्क को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+description: "Primavera P6 में मजबूत तर्क को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-robust-logic-in-primavera-p6"
+slug: "hi/blog/robust-logic-in-primavera-p6"
 language: "hi"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
 audience:
@@ -32,6 +34,7 @@ related_blogs:
 translation_of: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # मजबूत तर्क
 
@@ -161,7 +164,7 @@ P6 में, उपयोगी समीक्षा कॉलम में �
 
 एक विश्वसनीय शेड्यूल को उस प्रश्न का स्पष्ट उत्तर देना चाहिए। इस कार्य को प्रारंभ करने की क्या अनुमति है? यह आगे क्या सक्षम करता है? यदि अनुसूची दोनों का उत्तर दे सकती है, तो तर्क मजबूत होता जा रहा है। यदि ऐसा नहीं हो सकता है, तो पूर्वानुमान पर भरोसा करने से पहले प्रोजेक्ट टीम को अधिक अनुक्रमण कार्य करना होगा।
 ## संबंधित सामग्री
-- [प्रिमावेरा पी6 में गुम निर्भरताएँ - अवलोकन](../../05_metrics_hi/21_missing_dependencies/01_overview_template.md)
-- [प्रिमावेरा पी6 अनुसूचियों में निरर्थक तर्क - अवलोकन](../../05_metrics_hi/06_redundant_logic/01_overview_template.md)
+- [प्रिमावेरा पी6 में गुम निर्भरताएँ - अवलोकन](../../metrics/21_missing_dependencies/02_guide_template.md)
+- [प्रिमावेरा पी6 अनुसूचियों में निरर्थक तर्क - अवलोकन](../../metrics/06_redundant_logic/02_guide_template.md)
 - [शेड्यूल क्या है](../01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [गंभीर पथ](../03_CRITICAL%20PATH/03_CRITICAL%20PATH.md)

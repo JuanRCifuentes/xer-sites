@@ -2,6 +2,7 @@
 title: "重要度マトリックス"
 seo_title: "重要度マトリックス - Primavera P6"
 meta_description: "Primavera P6における「重要度マトリックス」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+description: "Primavera P6における「重要度マトリックス」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "プロジェクトコントロール"
   - "CPMロジック"
   - "スケジュールレビュー"
-slug: "jp-criticality-matrix-in-primavera-p6"
-language: "jp"
+slug: "ja/blog/criticality-matrix-in-primavera-p6"
+language: "ja"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 スケジューリング"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # 重要度マトリックス
 
@@ -184,6 +187,6 @@ PMO レポートの場合、これはスケジュールの複雑さを意思決�
 
 重要度マトリックスをうまく活用すると、プロジェクト チームが事後的なレポート作成から事前的なスケジュール管理に移行するのに役立ちます。
 ## 関連コンテンツ
-- [制約で始まるクリティカル パスまたはフロート パス - 概要](../../12_metrics_jp/09_cp_or_float_path_starting_with_constraint/01_overview_template.md)
+- [制約で始まるクリティカル パスまたはフロート パス - 概要](../../metrics/09_cp_or_float_path_starting_with_constraint/02_guide_template.md)
 - [クリティカル パス](../03_CRITICAL%20PATH/03_CRITICAL%20PATH.md)
 - [P6 のアクティビティの種類](../05_ACTIVITY%20TYPES%20IN%20P6/05_ACTIVITY%20TYPES%20IN%20P6.md)

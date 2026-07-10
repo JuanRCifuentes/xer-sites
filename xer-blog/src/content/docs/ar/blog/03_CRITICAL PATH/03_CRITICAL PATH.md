@@ -2,6 +2,7 @@
 title: "المسار الحرج"
 seo_title: "المسار الحرج - Primavera P6"
 meta_description: "تعرّف على المسار الحرج في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+description: "تعرّف على المسار الحرج في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "ضبط المشاريع"
   - "منطق CPM"
   - "مراجعة الجدول"
-slug: "ar-critical-path-in-primavera-p6"
+slug: "ar/blog/critical-path-in-primavera-p6"
 language: "ar"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "الجدولة في Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/03_CRITICAL PATH/03_CRITICAL PATH.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # المسار الحرج
 
@@ -165,6 +168,6 @@ flowchart LR
 
 عندما تصبح هذه القصة منطقية، يصبح المسار الحرج أحد أقوى الأدوات في التحكم في المشروع. عندما لا يحدث ذلك، فهذا تحذير بأن الجدول يحتاج إلى مزيد من المراجعة قبل أن يمكن الوثوق بالتنبؤات.
 ## محتوى ذو صلة
-- [المسار الحرج أو مسار السماحية الزمنية الذي يبدأ بقيد - نظرة عامة](../../04_metrics_ar/09_cp_or_السماحية الزمنية_path_starting_with_constraint/01_overview_template.md)
+- [المسار الحرج أو مسار السماحية الزمنية الذي يبدأ بقيد - نظرة عامة](../../metrics/09_cp_or_السماحية الزمنية_path_starting_with_constraint/02_guide_template.md)
 - [منطق قوي](../02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)
 - [مصفوفة الأهمية](../04_CRITICALITY%20MATRIX/04_CRITICALITY%20MATRIX.md)

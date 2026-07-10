@@ -2,6 +2,7 @@
 title: "Planning and Project Controls Glossary for Primavera P6"
 seo_title: "Planning and Project Controls Glossary for Primavera P6"
 meta_description: "A practical glossary of Primavera P6, CPM scheduling, project planning, and project controls terms for planners, schedulers, project managers, and PMO teams."
+description: "A practical glossary of Primavera P6, CPM scheduling, project planning, and project controls terms for planners, schedulers, project managers, and PMO teams."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -14,9 +15,10 @@ keywords:
   - "schedule quality terms"
   - "PMO schedule review"
   - "critical path method glossary"
-slug: "primavera-p6-glossary"
+slug: "en/blog/primavera-p6-glossary"
 language: "en"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 and Project Controls"
 audience:
@@ -33,6 +35,7 @@ related_blogs:
 translation_of: ""
 canonical_url: ""
 last_reviewed: "2026-07-07"
+pubDate: "2026-07-07"
 ---
 
 # Planning and Project Controls Glossary for Primavera P6

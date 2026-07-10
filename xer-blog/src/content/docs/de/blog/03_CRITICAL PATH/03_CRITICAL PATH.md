@@ -2,6 +2,7 @@
 title: "Kritischer Pfad"
 seo_title: "Kritischer Pfad - Primavera P6"
 meta_description: "Lernen Sie Kritischer Pfad in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+description: "Lernen Sie Kritischer Pfad in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-critical-path-in-primavera-p6"
+slug: "de/blog/critical-path-in-primavera-p6"
 language: "de"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Terminplanung in Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/03_CRITICAL PATH/03_CRITICAL PATH.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Kritischer Pfad
 
@@ -165,6 +168,6 @@ In einem starken Terminplan erzählt der kritische Pfad eine klare Geschichte. E
 
 Wenn diese Geschichte Sinn ergibt, wird der kritische Pfad zu einem der mächtigsten Werkzeuge der Projektsteuerung. Wenn dies nicht der Fall ist, ist dies eine Warnung, dass der Terminplan noch einmal überprüft werden muss, bevor der Prognose vertraut werden kann.
 ## Verwandte Inhalte
-- [Kritischer Pfad oder Pufferpfad, beginnend mit einer Einschränkung - Überblick](../../09_metrics_de/09_cp_or_float_path_starting_with_constraint/01_overview_template.md)
+- [Kritischer Pfad oder Pufferpfad, beginnend mit einer Einschränkung - Überblick](../../metrics/09_cp_or_float_path_starting_with_constraint/02_guide_template.md)
 - [Robuste Logik](../02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)
 - [Kritikalitätsmatrix](../04_CRITICALITY%20MATRIX/04_CRITICALITY%20MATRIX.md)

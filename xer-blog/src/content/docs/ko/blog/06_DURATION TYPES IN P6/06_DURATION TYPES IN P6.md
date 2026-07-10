@@ -2,6 +2,7 @@
 title: "P6의 기간 유형"
 seo_title: "P6의 기간 유형 - Primavera P6"
 meta_description: "Primavera P6에서 P6의 기간 유형를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+description: "Primavera P6에서 P6의 기간 유형를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-duration-types-in-p6"
+slug: "ko/blog/duration-types-in-p6"
 language: "ko"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 공정표관리"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/06_DURATION TYPES IN P6/06_DURATION TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6의 기간 유형
 
@@ -206,6 +209,6 @@ P6의 기간 유형은 기간, 총 단위 및 자원 요율이 변경될 때 활
 
 올바른 기간 유형을 선택하면 프로젝트 계획과 일치하는 방식으로 일정을 계산하는 데 도움이 됩니다. 또한 리소스 로딩, 진행 상황 업데이트, 비용 예측, 일정 보고서를 더 쉽게 이해하고 방어할 수 있습니다.
 ## 관련 콘텐츠
-- [주도 로직 없이 데이터 날짜에 시작하는 활동: 이 일정 지표가 중요한 이유 - 개요](../../10_metrics_ko/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [주도 로직 없이 데이터 날짜에 시작하는 활동: 이 일정 지표가 중요한 이유 - 개요](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [P6의 활동 유형](../05_ACTIVITY%20TYPES%20IN%20P6/05_ACTIVITY%20TYPES%20IN%20P6.md)
 - [P6의 날짜](../07_DATES%20IN%20P6/07_DATES%20IN%20P6.md)

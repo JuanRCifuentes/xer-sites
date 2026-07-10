@@ -2,6 +2,7 @@
 title: "P6 में अवधि"
 seo_title: "P6 में अवधि - Primavera P6"
 meta_description: "Primavera P6 में P6 में अवधि को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+description: "Primavera P6 में P6 में अवधि को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-duration-in-p6"
+slug: "hi/blog/duration-in-p6"
 language: "hi"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/09_DURATION IN P6/09_DURATION IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6 में अवधि
 
@@ -201,6 +204,6 @@ P6 में अवधि की समीक्षा करते समय, �
 
 एक मजबूत अनुसूचक समझता है कि अवधि केवल एक इनपुट नहीं है। यह गणना इंजन का हिस्सा है. जब अवधि, कैलेंडर और प्राथमिकताएँ संरेखित हो जाती हैं, तो शेड्यूल को समझाना आसान हो जाता है और प्रोजेक्ट नियंत्रण के लिए अधिक विश्वसनीय हो जाता है।
 ## संबंधित सामग्री
-- [बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ: यह शेड्यूल मीट्रिक क्यों मायने रखता है - अवलोकन](../../05_metrics_hi/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ: यह शेड्यूल मीट्रिक क्यों मायने रखता है - अवलोकन](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [P6 में कैलेंडर](../08_CALENDARS%20IN%20P6/08_CALENDARS%20IN%20P6.md)
 - [P6 में प्रतिशत पूर्ण प्रकार](../10_PERCENT%20COMPLETION%20TYPES%20IN%20P6/10_PERCENT%20COMPLETION%20TYPES%20IN%20P6.md)

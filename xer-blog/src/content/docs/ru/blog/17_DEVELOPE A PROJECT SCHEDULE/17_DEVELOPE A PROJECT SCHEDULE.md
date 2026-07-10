@@ -2,6 +2,7 @@
 title: "Разработка Проектного Графика"
 seo_title: "Разработка Проектного Графика - Primavera P6"
 meta_description: "Изучите Разработка Проектного Графика в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
+description: "Изучите Разработка Проектного Графика в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "проектный контроль"
   - "CPM-логика"
   - "анализ графика"
-slug: "ru-develop-a-project-schedule-in-primavera-p6"
+slug: "ru/blog/develop-a-project-schedule-in-primavera-p6"
 language: "ru"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Планирование в Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/17_DEVELOPE A PROJECT SCHEDULE/17_DEVELOPE A PROJECT SCHEDULE.md"
 canonical_url: ""
 last_проверкуed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Разработка Проектного Графика
 
@@ -137,6 +140,6 @@ flowchart TD
 
 Лучшие графика не появляются от быстрого открытия P6. Они создаются через понимание работы, проверку предположений и модель, которой проектная команда может доверять.
 ## Связанные материалы
-- [Действия, начинающиеся с даты данных, без управляющей логики: почему этот показатель графика имеет значение - Обзор](../../07_metrics_ru/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Действия, начинающиеся с даты данных, без управляющей логики: почему этот показатель графика имеет значение - Обзор](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [CPM (Critical Path Method)](../16_CPM%20(CRITICAL%20PATH%20METHOD)/16_CPM%20(CRITICAL%20PATH%20METHOD).md)
 - [Коды операций](../18_ACTIVITY%20CODES/18_ACTIVITY%20CODES.md)

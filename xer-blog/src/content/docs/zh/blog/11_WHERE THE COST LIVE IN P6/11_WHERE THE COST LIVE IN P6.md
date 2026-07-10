@@ -2,6 +2,7 @@
 title: "P6 的成本在哪里"
 seo_title: "P6 的成本在哪里 - Primavera P6"
 meta_description: "了解 Primavera P6 中的“P6 的成本在哪里”，重点关注进度计划、项目控制和进度质量。"
+description: "了解 Primavera P6 中的“P6 的成本在哪里”，重点关注进度计划、项目控制和进度质量。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "项目控制"
   - "CPM逻辑"
   - "进度审查"
-slug: "zh-where-costs-live-in-primavera-p6"
+slug: "zh/blog/where-costs-live-in-primavera-p6"
 language: "zh"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 进度计划"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/11_WHERE THE COST LIVE IN P6/11_WHERE THE COST LIVE IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6 的成本在哪里
 
@@ -234,6 +237,6 @@ P6 中的成本可以存在于资源、角色、费用、基线和挣值字段�
 
 一个强大的成本负载计划并不是通过将数字放在合适的地方来建立的。它是通过确定每种类型的成本所属的位置并在每个更新周期中维护该结构来构建的。
 ## 相关内容
-- [从数据日期开始且没有驱动逻辑的活动：为什么此计划指标很重要 - 概述](../../03_metrics_zh/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [从数据日期开始且没有驱动逻辑的活动：为什么此计划指标很重要 - 概述](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [P6 中完整类型的百分比](../10_PERCENT%20COMPLETION%20TYPES%20IN%20P6/10_PERCENT%20COMPLETION%20TYPES%20IN%20P6.md)
 - [P6 中的资源类型](../12_RESOURCE%20TYPES%20IN%20P6/12_RESOURCE%20TYPES%20IN%20P6.md)

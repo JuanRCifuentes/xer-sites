@@ -2,6 +2,7 @@
 title: "P6 中的日历"
 seo_title: "P6 中的日历 - Primavera P6"
 meta_description: "了解 Primavera P6 中的“P6 中的日历”，重点关注进度计划、项目控制和进度质量。"
+description: "了解 Primavera P6 中的“P6 中的日历”，重点关注进度计划、项目控制和进度质量。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "项目控制"
   - "CPM逻辑"
   - "进度审查"
-slug: "zh-calendars-in-p6"
+slug: "zh/blog/calendars-in-p6"
 language: "zh"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 进度计划"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6 中的日历
 
@@ -205,6 +208,6 @@ P6 中的日历定义了工作可以进行的时间。它们影响活动日期�
 
 一个强有力的进度计划编制会有意地使用日历。每个日历都有一个目的，每个特殊日历都会被记录下来，并且在信任计划之前会审查活动和资源日历分配。
 ## 相关内容
-- [Primavera P6 中具有不同开始和结束时间的日历 - 概述](../../03_metrics_zh/20_calendars_with_different_start_finish_time_in_day/01_overview_template.md)
+- [Primavera P6 中具有不同开始和结束时间的日历 - 概述](../../metrics/20_calendars_with_different_start_finish_time_in_day/02_guide_template.md)
 - [P6 中的日期](../07_DATES%20IN%20P6/07_DATES%20IN%20P6.md)
 - [P6 的持续时间](../09_DURATION%20IN%20P6/09_DURATION%20IN%20P6.md)

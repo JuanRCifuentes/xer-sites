@@ -37,6 +37,7 @@ export default defineConfig({
 			// header, and override the Banner to surface the AI-translation warning.
 			components: {
 				SiteTitle: './src/components/SiteTitle.astro',
+				Sidebar: './src/components/Sidebar.astro',
 				Banner: './src/components/Banner.astro',
 				MarkdownContent: './src/components/MarkdownContent.astro',
 				// Shows an estimated reading time under blog post titles.

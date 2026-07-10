@@ -2,6 +2,7 @@
 title: "Resource Limits in P6"
 seo_title: "Resource Limits in P6"
 meta_description: "Learn resource limits in p6 for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
+description: "Learn resource limits in p6 for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "CPM schedule logic"
   - "Primavera P6 resources"
   - "Primavera P6 blog"
-slug: "resource-limits-in-primavera-p6"
+slug: "en/blog/resource-limits-in-primavera-p6"
 language: "en"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 Resources"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: ""
 canonical_url: ""
 last_reviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
 # Resource Limits in P6
 
@@ -179,6 +182,6 @@ Used well, resource limits help identify overloads, support manpower planning, c
 The best resource limits are simple, intentional, and connected to real project decisions. They help answer one practical question: can the project execute this plan with the resources it actually has?
 
 ## Related Content
-- [Activity Started with Zero Progress](../../01_metrics_en/13_activity_started_progress_zero/01_overview_template.md)
+- [Activity Started with Zero Progress](../../metrics/13_activity_started_progress_zero/02_guide_template.md)
 - [Resource Types in P6](../12_RESOURCE%20TYPES%20IN%20P6/12_RESOURCE%20TYPES%20IN%20P6.md)
 - [Resource Balancing in P6](../14_RESOURCES%20BALANCING%20IN%20P6/14_RESOURCES%20BALANCING%20IN%20P6.md)

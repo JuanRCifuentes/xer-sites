@@ -2,6 +2,7 @@
 title: "P6 の完了率タイプ"
 seo_title: "P6 の完了率タイプ - Primavera P6"
 meta_description: "Primavera P6における「P6 の完了率タイプ」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+description: "Primavera P6における「P6 の完了率タイプ」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "プロジェクトコントロール"
   - "CPMロジック"
   - "スケジュールレビュー"
-slug: "jp-percent-complete-types-in-p6"
-language: "jp"
+slug: "ja/blog/percent-complete-types-in-p6"
+language: "ja"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 スケジューリング"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/10_PERCENT COMPLETION TYPES IN P6/10_PERCENT COMPLETION TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6 の完了率タイプ
 
@@ -191,6 +194,6 @@ P6 の完了率タイプは、アクティビティの進捗状況を測定す�
 
 強力なスケジュールでは、完了率タイプを意図的に使用します。方法が作業に一致すると、進捗状況の更新がより明確になり、残り期間の信頼性が高まり、プロジェクトのレポートの防御が容易になります。
 ## 関連コンテンツ
-- [駆動ロジックなしでデータ日付に開始されるアクティビティ: このスケジュール指標が重要な理由 - 概要](../../12_metrics_jp/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [駆動ロジックなしでデータ日付に開始されるアクティビティ: このスケジュール指標が重要な理由 - 概要](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [P6 の持続時間](../09_DURATION%20IN%20P6/09_DURATION%20IN%20P6.md)
 - [P6 のコストのかかる場所](../11_WHERE%20THE%20COST%20LIVE%20IN%20P6/11_WHERE%20THE%20COST%20LIVE%20IN%20P6.md)

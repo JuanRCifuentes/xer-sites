@@ -2,6 +2,7 @@
 title: "Relazioni SS e FF"
 seo_title: "Relazioni SS e FF - Primavera P6"
 meta_description: "Approfondisci Relazioni SS e FF in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
+description: "Approfondisci Relazioni SS e FF in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "controllo progetto"
   - "logica CPM"
   - "revisione del cronoprogramma"
-slug: "it-ss-and-ff-relations-in-primavera-p6"
+slug: "it/blog/ss-and-ff-relations-in-primavera-p6"
 language: "it"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Pianificazione in Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Relazioni SS e FF
 
@@ -122,6 +125,6 @@ SS e FF sono strumenti utili in P6, ma richiedono disciplina. Usate da sole, pos
 
 Un cronoprogramma CPM affidabile deve spiegare perche il lavoro puo iniziare e cosa ne controlla la fine. Quando SS e FF aiutano a rispondere a queste domande, rafforzano il cronoprogramma. Quando lasciano aperta un'estremita, creano logica debole da revisionare.
 ## Contenuti correlati
-- [Attività che iniziano alla data di aggiornamento senza alcuna logica guida: perché questa metrica di pianificazione è importante - Panoramica](../../11_metrics_it/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Attività che iniziano alla data di aggiornamento senza alcuna logica guida: perché questa metrica di pianificazione è importante - Panoramica](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Bilanciamento delle risorse in P6](../14_RESOURCES%20BALANCING%20IN%20P6/14_RESOURCES%20BALANCING%20IN%20P6.md)
 - [CPM (Metodo del percorso critico)](../16_CPM%20(CRITICAL%20PATH%20METHOD)/16_CPM%20(CRITICAL%20PATH%20METHOD).md)

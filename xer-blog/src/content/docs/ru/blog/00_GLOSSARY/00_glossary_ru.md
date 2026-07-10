@@ -2,6 +2,7 @@
 title: "Глоссарий по планированию и управлению проектом для Primavera P6"
 seo_title: "Глоссарий по планированию и управлению проектом для Primavera P6"
 meta_description: "Практический глоссарий терминов Primavera P6, планирования CPM, планирования проектов и управления проектами для планировщиков, планировщиков, менеджеров проектов и команд PMO."
+description: "Практический глоссарий терминов Primavera P6, планирования CPM, планирования проектов и управления проектами для планировщиков, планировщиков, менеджеров проектов и команд PMO."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -14,9 +15,10 @@ keywords:
   - "график условий качества"
   - "Обзор графика PMO"
   - "глоссарий метода критического пути"
-slug: "ru-primavera-p6-glossary"
+slug: "ru/blog/primavera-p6-glossary"
 language: "ru"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 и элементы управления проектом"
 audience:
@@ -33,6 +35,7 @@ related_blogs:
 translation_of: "01b_blogs_en/00_GLOSSARY/00_glossary_en.md"
 canonical_url: ""
 last_проверкуed: "2026-07-07"
+pubDate: "2026-07-07"
 ---
 # Глоссарий по планированию и управлению проектом для Primavera P6
 

@@ -2,6 +2,7 @@
 title: "Date in P6"
 seo_title: "Date in P6 - Primavera P6"
 meta_description: "Approfondisci Date in P6 in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
+description: "Approfondisci Date in P6 in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "controllo progetto"
   - "logica CPM"
   - "revisione del cronoprogramma"
-slug: "it-dates-in-p6"
+slug: "it/blog/dates-in-p6"
 language: "it"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Pianificazione in Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/07_DATES IN P6/07_DATES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Date in P6
 
@@ -191,6 +194,6 @@ Una revisione approfondita del cronoprogramma non chiede solo "qual è la data?"
 
 Quando il team di progetto comprende il significato di ciascun campo data, la pianificazione diventa più facile da spiegare, più facile da controllare e più affidabile per il controllo di progetto.
 ## Contenuti correlati
-- [Date effettive successive alla data di aggiornamento in Primavera P6 - Panoramica](../../11_metrics_it/12_actual_date_greater_than_data_date/01_overview_template.md)
+- [Date effettive successive alla data di aggiornamento in Primavera P6 - Panoramica](../../metrics/12_actual_date_greater_than_data_date/02_guide_template.md)
 - [Tipi di durata in P6](../06_DURATION%20TYPES%20IN%20P6/06_DURATION%20TYPES%20IN%20P6.md)
 - [Calendari in P6](../08_CALENDARS%20IN%20P6/08_CALENDARS%20IN%20P6.md)

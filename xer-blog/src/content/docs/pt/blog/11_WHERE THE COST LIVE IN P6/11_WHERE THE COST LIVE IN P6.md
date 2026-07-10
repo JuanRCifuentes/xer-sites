@@ -2,6 +2,7 @@
 title: "Onde está o custo em P6"
 seo_title: "Onde está o custo em P6 - Primavera P6"
 meta_description: "Aprenda Onde está o custo em P6 no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+description: "Aprenda Onde está o custo em P6 no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "controles de projeto"
   - "lógica CPM"
   - "revisão do cronograma"
-slug: "pt-where-costs-live-in-primavera-p6"
+slug: "pt/blog/where-costs-live-in-primavera-p6"
 language: "pt"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planejamento em Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/11_WHERE THE COST LIVE IN P6/11_WHERE THE COST LIVE IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Onde está o custo em P6
 
@@ -234,6 +237,6 @@ Os custos de recursos conectam o custo à mão de obra e ao equipamento. Os cust
 
 Um cronograma forte e carregado de custos não é construído colocando números em qualquer lugar que caibam. Ele é construído decidindo aonde cada tipo de custo pertence e mantendo essa estrutura durante cada ciclo de atualização.
 ## Conteúdo relacionado
-- [Atividades começando na data dos dados sem nenhuma lógica direcionadora: por que essa métrica de cronograma é importante - Visão geral](../../06_metrics_pt/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Atividades começando na data dos dados sem nenhuma lógica direcionadora: por que essa métrica de cronograma é importante - Visão geral](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Porcentagem de tipos completos em P6](../10_PERCENT%20COMPLETION%20TYPES%20IN%20P6/10_PERCENT%20COMPLETION%20TYPES%20IN%20P6.md)
 - [Tipos de recursos em P6](../12_RESOURCE%20TYPES%20IN%20P6/12_RESOURCE%20TYPES%20IN%20P6.md)

@@ -2,6 +2,7 @@
 title: "base do cronograma"
 seo_title: "base do cronograma - Primavera P6"
 meta_description: "Aprenda a base do cronograma no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+description: "Aprenda a base do cronograma no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "controles de projeto"
   - "lógica CPM"
   - "revisão do cronograma"
-slug: "pt-schedule-basis-in-primavera-p6"
+slug: "pt/blog/schedule-basis-in-primavera-p6"
 language: "pt"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planejamento em Primavera P6"
 audience:
@@ -30,6 +32,7 @@ related_blogs:
 translation_of: "01b_blogs_en/19_SCHEDULE BASIS/19_SCHEDULE BASIS.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # base do cronograma
 
@@ -133,5 +136,5 @@ A base do cronograma é a explicação por trás do cronograma. Ela diz o que o 
 
 Uma boa base do cronograma torna o arquivo P6 mais fácil de revisar, defender, atualizar e confiar.
 ## Conteúdo relacionado
-- [Atividades começando na data dos dados sem nenhuma lógica direcionadora: por que essa métrica de cronograma é importante - Visão geral](../../06_metrics_pt/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Atividades começando na data dos dados sem nenhuma lógica direcionadora: por que essa métrica de cronograma é importante - Visão geral](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [códigos de atividade](../18_ACTIVITY%20CODES/18_ACTIVITY%20CODES.md)

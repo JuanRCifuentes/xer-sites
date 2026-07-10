@@ -2,6 +2,7 @@
 title: "Kalender in P6"
 seo_title: "Kalender in P6 - Primavera P6"
 meta_description: "Lernen Sie Kalender in P6 in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+description: "Lernen Sie Kalender in P6 in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-calendars-in-p6"
+slug: "de/blog/calendars-in-p6"
 language: "de"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Terminplanung in Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Kalender in P6
 
@@ -205,6 +208,6 @@ Das Hauptrisiko ist die Desynchronisation. Wenn Aktivitätskalender und Ressourc
 
 Ein starker Terminplan verwendet Kalender absichtlich. Jeder Kalender hat einen Zweck, jeder spezielle Kalender wird dokumentiert und Aktivitäts- und Ressourcenkalenderzuweisungen werden überprüft, bevor dem Terminplan vertraut wird.
 ## Verwandte Inhalte
-- [Kalender mit unterschiedlichen Start- und Endzeiten in Primavera P6 - Überblick](../../09_metrics_de/20_calendars_with_different_start_finish_time_in_day/01_overview_template.md)
+- [Kalender mit unterschiedlichen Start- und Endzeiten in Primavera P6 - Überblick](../../metrics/20_calendars_with_different_start_finish_time_in_day/02_guide_template.md)
 - [Termine in P6](../07_DATES%20IN%20P6/07_DATES%20IN%20P6.md)
 - [Dauer in P6](../09_DURATION%20IN%20P6/09_DURATION%20IN%20P6.md)

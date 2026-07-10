@@ -2,6 +2,7 @@
 title: "进度计划编制依据"
 seo_title: "进度计划编制依据 - Primavera P6"
 meta_description: "了解 Primavera P6 中的“进度计划编制依据”，重点关注进度计划、项目控制和进度质量。"
+description: "了解 Primavera P6 中的“进度计划编制依据”，重点关注进度计划、项目控制和进度质量。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "项目控制"
   - "CPM逻辑"
   - "进度审查"
-slug: "zh-schedule-basis-in-primavera-p6"
+slug: "zh/blog/schedule-basis-in-primavera-p6"
 language: "zh"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 进度计划"
 audience:
@@ -30,6 +32,7 @@ related_blogs:
 translation_of: "01b_blogs_en/19_SCHEDULE BASIS/19_SCHEDULE BASIS.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # 进度计划编制依据
 
@@ -133,5 +136,5 @@ flowchart TD
 
 强有力的 进度计划编制依据 让 P6 文件更容易审查、辩护、更新和信任。
 ## 相关内容
-- [从数据日期开始且没有驱动逻辑的活动：为什么此计划指标很重要 - 概述](../../03_metrics_zh/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [从数据日期开始且没有驱动逻辑的活动：为什么此计划指标很重要 - 概述](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [活动代码](../18_ACTIVITY%20CODES/18_ACTIVITY%20CODES.md)

@@ -2,6 +2,7 @@
 title: "P6 中的资源平衡"
 seo_title: "P6 中的资源平衡 - Primavera P6"
 meta_description: "了解 Primavera P6 中的“P6 中的资源平衡”，重点关注进度计划、项目控制和进度质量。"
+description: "了解 Primavera P6 中的“P6 中的资源平衡”，重点关注进度计划、项目控制和进度质量。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "项目控制"
   - "CPM逻辑"
   - "进度审查"
-slug: "zh-资源-balancing-in-primavera-p6"
+slug: "zh/blog/资源-balancing-in-primavera-p6"
 language: "zh"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 进度计划"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/14_RESOURCES BALANCING IN P6/14_RESOURCES BALANCING IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6 中的资源平衡
 
@@ -224,6 +227,6 @@ P6资源平衡可以通过根据资源可用性移动活动来支持这种审查
 
 平衡的进度计划不一定是完全顺利的进度计划。在这个进度计划中，资源需求是可见的、现实的，并且与项目的实际交付方式保持一致。
 ## 相关内容
-- [活动开始，Primavera P6 进度为 0% - 概述](../../03_metrics_zh/13_活动_started_progress_zero/01_overview_template.md)
+- [活动开始，Primavera P6 进度为 0% - 概述](../../metrics/13_活动_started_progress_zero/02_guide_template.md)
 - [P6 中的资源限制](../13_RESOURCES%20LIMITS%20IN%20P6/13_RESOURCES%20LIMITS%20IN%20P6.md)
 - [SS 与 FF 关系](../15_SS%20&%20FF%20RELATIONS/15_SS%20&%20FF%20RELATIONS.md)

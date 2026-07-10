@@ -2,6 +2,7 @@
 title: "堅牢なロジック"
 seo_title: "堅牢なロジック - Primavera P6"
 meta_description: "Primavera P6における「堅牢なロジック」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+description: "Primavera P6における「堅牢なロジック」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "プロジェクトコントロール"
   - "CPMロジック"
   - "スケジュールレビュー"
-slug: "jp-robust-logic-in-primavera-p6"
-language: "jp"
+slug: "ja/blog/robust-logic-in-primavera-p6"
+language: "ja"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 スケジューリング"
 audience:
@@ -32,6 +34,7 @@ related_blogs:
 translation_of: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # 堅牢なロジック
 
@@ -161,7 +164,7 @@ P6 では、便利なレビュー列には、アクティビティ ID、アク�
 
 信頼できるスケジュールは、その質問に明確に答える必要があります。この作業を開始できるのは何でしょうか?次に何が可能になるのでしょうか?スケジュールが両方に答えることができれば、ロジックは堅牢になります。それができない場合、予測を信頼できるようになるまでに、プロジェクト チームはさらに順序付け作業を行う必要があります。
 ## 関連コンテンツ
-- [Primavera P6 で不足している依存関係 - 概要](../../12_metrics_jp/21_missing_dependencies/01_overview_template.md)
-- [Primavera P6 スケジュールの冗長ロジック - 概要](../../12_metrics_jp/06_redundant_logic/01_overview_template.md)
+- [Primavera P6 で不足している依存関係 - 概要](../../metrics/21_missing_dependencies/02_guide_template.md)
+- [Primavera P6 スケジュールの冗長ロジック - 概要](../../metrics/06_redundant_logic/02_guide_template.md)
 - [スケジュールとは](../01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [クリティカル パス](../03_CRITICAL%20PATH/03_CRITICAL%20PATH.md)

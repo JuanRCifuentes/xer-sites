@@ -2,6 +2,7 @@
 title: "Logique robuste"
 seo_title: "Logique robuste - Primavera P6"
 meta_description: "Comprendre Logique robuste dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
+description: "Comprendre Logique robuste dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-robust-logic-in-primavera-p6"
+slug: "fr/blog/robust-logic-in-primavera-p6"
 language: "fr"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planification Primavera P6"
 audience:
@@ -32,6 +34,7 @@ related_blogs:
 translation_of: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Logique robuste
 
@@ -161,7 +164,7 @@ Lorsque les activités commencent à la date de données sans logique pilotante,
 
 Un calendrier fiable devrait répondre clairement à cette question. Qu’est-ce qui permet à ce travail de démarrer ? Que permet-il ensuite ? Si le planning peut répondre aux deux, la logique devient robuste. Si ce n’est pas le cas, l’équipe de projet doit effectuer un travail de séquençage supplémentaire avant de pouvoir faire confiance aux prévisions.
 ## Contenu associé
-- [Dépendances manquantes dans Primavera P6 - Vue d’ensemble](../../08_metrics_fr/21_missing_dependencies/01_overview_template.md)
-- [Logique redondante dans les planifications Primavera P6 - Vue d’ensemble](../../08_metrics_fr/06_redundant_logic/01_overview_template.md)
+- [Dépendances manquantes dans Primavera P6 - Vue d’ensemble](../../metrics/21_missing_dependencies/02_guide_template.md)
+- [Logique redondante dans les planifications Primavera P6 - Vue d’ensemble](../../metrics/06_redundant_logic/02_guide_template.md)
 - [Qu'est-ce qu'un horaire](../01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Chemin critique](../03_CRITICAL%20PATH/03_CRITICAL%20PATH.md)

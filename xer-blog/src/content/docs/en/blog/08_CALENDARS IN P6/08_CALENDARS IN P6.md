@@ -2,6 +2,7 @@
 title: "Calendars in P6"
 seo_title: "Calendars in P6"
 meta_description: "Learn calendars in p6 for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
+description: "Learn calendars in p6 for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "CPM schedule logic"
   - "Primavera P6 calendars"
   - "Primavera P6 blog"
-slug: "calendars-in-p6"
+slug: "en/blog/calendars-in-p6"
 language: "en"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 Calendars"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: ""
 canonical_url: ""
 last_reviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
 # Calendars in P6
 
@@ -206,6 +209,6 @@ The main risk is desynchronization. When activity calendars and resource calenda
 A strong schedule uses calendars intentionally. Each calendar has a purpose, each special calendar is documented, and activity and resource calendar assignments are reviewed before the schedule is trusted.
 
 ## Related Content
-- [Calendars with Different Start and Finish Times in the Day](../../01_metrics_en/20_calendars_with_different_start_finish_time_in_day/01_overview_template.md)
+- [Calendars with Different Start and Finish Times in the Day](../../metrics/20_calendars_with_different_start_finish_time_in_day/02_guide_template.md)
 - [Dates in P6](../07_DATES%20IN%20P6/07_DATES%20IN%20P6.md)
 - [Duration in P6](../09_DURATION%20IN%20P6/09_DURATION%20IN%20P6.md)

@@ -2,6 +2,7 @@
 title: "SS 与 FF 关系"
 seo_title: "SS 与 FF 关系 - Primavera P6"
 meta_description: "了解 Primavera P6 中的“SS 与 FF 关系”，重点关注进度计划、项目控制和进度质量。"
+description: "了解 Primavera P6 中的“SS 与 FF 关系”，重点关注进度计划、项目控制和进度质量。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "项目控制"
   - "CPM逻辑"
   - "进度审查"
-slug: "zh-ss-and-ff-relations-in-primavera-p6"
+slug: "zh/blog/ss-and-ff-relations-in-primavera-p6"
 language: "zh"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 进度计划"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # SS 与 FF 关系
 
@@ -122,6 +125,6 @@ SS 和 FF 是 P6 中有用的工具，但需要专业。单独使用时，它们
 
 可靠的 CPM 计划应说明工作为什么可以开始，以及什么控制其完成。当 SS 和 FF 能回答这些问题时，它们会加强计划。当它们让一端开放时，就形成了需要审查的弱逻辑。
 ## 相关内容
-- [从数据日期开始且没有驱动逻辑的活动：为什么此计划指标很重要 - 概述](../../03_metrics_zh/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [从数据日期开始且没有驱动逻辑的活动：为什么此计划指标很重要 - 概述](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [P6 中的资源平衡](../14_RESOURCES%20BALANCING%20IN%20P6/14_RESOURCES%20BALANCING%20IN%20P6.md)
 - [CPM（关键路径法）](../16_CPM%20(CRITICAL%20PATH%20METHOD)/16_CPM%20(CRITICAL%20PATH%20METHOD).md)

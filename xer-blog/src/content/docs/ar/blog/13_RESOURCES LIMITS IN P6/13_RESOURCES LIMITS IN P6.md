@@ -2,6 +2,7 @@
 title: "حدود الموارد في P6"
 seo_title: "حدود الموارد في P6 - Primavera P6"
 meta_description: "تعرّف على حدود الموارد في P6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+description: "تعرّف على حدود الموارد في P6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "ضبط المشاريع"
   - "منطق CPM"
   - "مراجعة الجدول"
-slug: "ar-resource-limits-in-primavera-p6"
+slug: "ar/blog/resource-limits-in-primavera-p6"
 language: "ar"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "الجدولة في Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/13_RESOURCES LIMITS IN P6/13_RESOURCES LIMITS IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # حدود الموارد في P6
 
@@ -178,6 +181,6 @@ flowchart LR
 
 إن أفضل حدود الموارد تكون بسيطة ومتعمدة ومرتبطة بقرارات المشروع الحقيقية. إنها تساعد في الإجابة على سؤال عملي واحد: هل يستطيع المشروع تنفيذ هذه الخطة بالموارد المتوفرة لديه بالفعل؟
 ## محتوى ذو صلة
-- [بدأت الأنشطة بتقدم 0% في برنامج بريمافيرا P6 - نظرة عامة](../../04_metrics_ar/13_activity_started_progress_zero/01_overview_template.md)
+- [بدأت الأنشطة بتقدم 0% في برنامج بريمافيرا P6 - نظرة عامة](../../metrics/13_activity_started_progress_zero/02_guide_template.md)
 - [أنواع الموارد في ص6](../12_RESOURCE%20TYPES%20IN%20P6/12_RESOURCE%20TYPES%20IN%20P6.md)
 - [موازنة الموارد في ص6](../14_RESOURCES%20BALANCING%20IN%20P6/14_RESOURCES%20BALANCING%20IN%20P6.md)

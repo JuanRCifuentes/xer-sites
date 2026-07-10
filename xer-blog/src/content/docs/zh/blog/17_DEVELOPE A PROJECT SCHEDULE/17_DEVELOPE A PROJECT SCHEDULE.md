@@ -2,6 +2,7 @@
 title: "制定项目进度计划"
 seo_title: "制定项目进度计划 - Primavera P6"
 meta_description: "了解 Primavera P6 中的“制定项目进度计划”，重点关注进度计划、项目控制和进度质量。"
+description: "了解 Primavera P6 中的“制定项目进度计划”，重点关注进度计划、项目控制和进度质量。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "项目控制"
   - "CPM逻辑"
   - "进度审查"
-slug: "zh-develop-a-project-schedule-in-primavera-p6"
+slug: "zh/blog/develop-a-project-schedule-in-primavera-p6"
 language: "zh"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 进度计划"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/17_DEVELOPE A PROJECT SCHEDULE/17_DEVELOPE A PROJECT SCHEDULE.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # 制定项目进度计划
 
@@ -137,6 +140,6 @@ WBS 可以按阶段、区域、系统、专业、交付物、合同包或组合�
 
 最好的计划不是急着打开 P6 做出来的。它来自对工作的理解、对假设的挑战，以及一个项目团队可以信任的模型。
 ## 相关内容
-- [从数据日期开始且没有驱动逻辑的活动：为什么此计划指标很重要 - 概述](../../03_metrics_zh/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [从数据日期开始且没有驱动逻辑的活动：为什么此计划指标很重要 - 概述](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [CPM（关键路径法）](../16_CPM%20(CRITICAL%20PATH%20METHOD)/16_CPM%20(CRITICAL%20PATH%20METHOD).md)
 - [Activity 代码](../18_ACTIVITY%20CODES/18_ACTIVITY%20CODES.md)

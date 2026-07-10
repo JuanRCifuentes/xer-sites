@@ -2,6 +2,7 @@
 title: "Даты в P6"
 seo_title: "Даты в P6 - Primavera P6"
 meta_description: "Изучите Даты в P6 в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
+description: "Изучите Даты в P6 в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "проектный контроль"
   - "CPM-логика"
   - "анализ графика"
-slug: "ru-dates-in-p6"
+slug: "ru/blog/dates-in-p6"
 language: "ru"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Планирование в Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/07_DATES IN P6/07_DATES IN P6.md"
 canonical_url: ""
 last_проверкуed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Даты в P6
 
@@ -191,6 +194,6 @@ P6 может содержать более одного условия огра
 
 Когда команда проекта понимает значение каждого поля даты, график становится легче объяснять, его легче проверять и он становится более надежным для управления проектом.
 ## Связанные материалы
-- [Фактические даты позже даты данных в Primavera P6 - Обзор](../../07_metrics_ru/12_actual_date_greater_than_data_date/01_overview_template.md)
+- [Фактические даты позже даты данных в Primavera P6 - Обзор](../../metrics/12_actual_date_greater_than_data_date/02_guide_template.md)
 - [Типы длительности в P6](../06_DURATION%20TYPES%20IN%20P6/06_DURATION%20TYPES%20IN%20P6.md)
 - [Календари в P6](../08_CALENDARS%20IN%20P6/08_CALENDARS%20IN%20P6.md)

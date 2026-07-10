@@ -2,6 +2,7 @@
 title: "O que é um cronograma"
 seo_title: "O que é um cronograma - Primavera P6"
 meta_description: "Aprenda O que é um cronograma no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
+description: "Aprenda O que é um cronograma no Primavera P6 com foco prático em planejamento, controles de projeto e qualidade do cronograma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "controles de projeto"
   - "lógica CPM"
   - "revisão do cronograma"
-slug: "pt-what-a-schedule-is-in-primavera-p6"
+slug: "pt/blog/what-a-schedule-is-in-primavera-p6"
 language: "pt"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planejamento em Primavera P6"
 audience:
@@ -30,6 +32,7 @@ related_blogs:
 translation_of: "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # O que é um cronograma
 
@@ -125,5 +128,5 @@ Quando bem construído, informa à equipe do projeto o que precisa acontecer, qu
 
 Por esse motivo, as revisões da qualidade do cronograma devem sempre fazer uma pergunta simples: o cronograma explica por que o trabalho começa quando começa? Se a resposta for sim, o cronograma está fazendo seu trabalho. Se a resposta for não, o roteiro precisa de mais lógica antes de ser confiável.
 ## Conteúdo relacionado
-- [Atividades começando na data dos dados sem nenhuma lógica direcionadora: por que essa métrica de cronograma é importante - Visão geral](../../06_metrics_pt/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Atividades começando na data dos dados sem nenhuma lógica direcionadora: por que essa métrica de cronograma é importante - Visão geral](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Lógica Robusta](../02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

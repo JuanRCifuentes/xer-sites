@@ -2,6 +2,7 @@
 title: "CPM (Critical Path Method)"
 seo_title: "CPM (Critical Path Method) - Primavera P6"
 meta_description: "Comprendre CPM (Critical Path Method) dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
+description: "Comprendre CPM (Critical Path Method) dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-critical-path-method-cpm-primavera-p6"
+slug: "fr/blog/critical-path-method-cpm-primavera-p6"
 language: "fr"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planification Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # CPM (Critical Path Method)
 
@@ -144,6 +147,6 @@ Mais le CPM est aussi fiable que le planning qu'il calcule. Des activites bien d
 
 La valeur du CPM n'est pas seulement de montrer une date finale. Sa vraie valeur est d'expliquer pourquoi cette date est controlee, ou se trouve la flexibilite et ou l'attention du gestion doit se concentrer.
 ## Contenu associé
-- [Chemin critique ou chemin de marge commençant par une contrainte - Vue d’ensemble](../../08_metrics_fr/09_cp_or_float_path_starting_with_constraint/01_overview_template.md)
+- [Chemin critique ou chemin de marge commençant par une contrainte - Vue d’ensemble](../../metrics/09_cp_or_float_path_starting_with_constraint/02_guide_template.md)
 - [Relations SS et FF](../15_SS%20&%20FF%20RELATIONS/15_SS%20&%20FF%20RELATIONS.md)
 - [Developper un Planning Projet](../17_DEVELOPE%20A%20PROJECT%20SCHEDULE/17_DEVELOPE%20A%20PROJECT%20SCHEDULE.md)

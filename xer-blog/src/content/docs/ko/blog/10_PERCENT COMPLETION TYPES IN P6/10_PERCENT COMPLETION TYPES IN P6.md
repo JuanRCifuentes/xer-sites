@@ -2,6 +2,7 @@
 title: "P6의 완료율 유형"
 seo_title: "P6의 완료율 유형 - Primavera P6"
 meta_description: "Primavera P6에서 P6의 완료율 유형를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+description: "Primavera P6에서 P6의 완료율 유형를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-percent-complete-types-in-p6"
+slug: "ko/blog/percent-complete-types-in-p6"
 language: "ko"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 공정표관리"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/10_PERCENT COMPLETION TYPES IN P6/10_PERCENT COMPLETION TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6의 완료율 유형
 
@@ -191,6 +194,6 @@ P6의 완료율 유형은 활동 진행률을 측정하는 방법을 정의합�
 
 강력한 일정은 의도적으로 완료율 유형을 사용합니다. 방법이 작업과 일치하면 진행 상황 업데이트가 더 명확해지고 잔여 기간이 더 안정적이 되며 프로젝트 보고를 방어하기가 더 쉬워집니다.
 ## 관련 콘텐츠
-- [주도 로직 없이 데이터 날짜에 시작하는 활동: 이 일정 지표가 중요한 이유 - 개요](../../10_metrics_ko/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [주도 로직 없이 데이터 날짜에 시작하는 활동: 이 일정 지표가 중요한 이유 - 개요](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [P6의 지속 시간](../09_DURATION%20IN%20P6/09_DURATION%20IN%20P6.md)
 - [P6에서 비용이 발생하는 곳](../11_WHERE%20THE%20COST%20LIVE%20IN%20P6/11_WHERE%20THE%20COST%20LIVE%20IN%20P6.md)

@@ -2,6 +2,7 @@
 title: "Schedule Basis"
 seo_title: "Schedule Basis - Primavera P6"
 meta_description: "Lernen Sie Schedule Basis in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+description: "Lernen Sie Schedule Basis in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-schedule-basis-in-primavera-p6"
+slug: "de/blog/schedule-basis-in-primavera-p6"
 language: "de"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Terminplanung in Primavera P6"
 audience:
@@ -30,6 +32,7 @@ related_blogs:
 translation_of: "01b_blogs_en/19_SCHEDULE BASIS/19_SCHEDULE BASIS.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Schedule Basis
 
@@ -133,5 +136,5 @@ Die Schedule Basis ist die Erklaerung hinter dem Terminplan. Sie beschreibt, was
 
 Eine starke Basis of Schedule macht die P6 Datei leichter zu pruefen, zu verteidigen, zu aktualisieren und zu vertrauen.
 ## Verwandte Inhalte
-- [Aktivitäten, die am Datenstichtag ohne steuernde Logik beginnen: Warum diese Terminplanmetrik wichtig ist - Überblick](../../09_metrics_de/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Aktivitäten, die am Datenstichtag ohne steuernde Logik beginnen: Warum diese Terminplanmetrik wichtig ist - Überblick](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Aktivitätscodes](../18_ACTIVITY%20CODES/18_ACTIVITY%20CODES.md)

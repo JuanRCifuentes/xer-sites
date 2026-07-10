@@ -2,6 +2,7 @@
 title: "P6 में संसाधन सीमाएँ"
 seo_title: "P6 में संसाधन सीमाएँ - Primavera P6"
 meta_description: "Primavera P6 में P6 में संसाधन सीमाएँ को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+description: "Primavera P6 में P6 में संसाधन सीमाएँ को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-resource-limits-in-primavera-p6"
+slug: "hi/blog/resource-limits-in-primavera-p6"
 language: "hi"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/13_RESOURCES LIMITS IN P6/13_RESOURCES LIMITS IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6 में संसाधन सीमाएँ
 
@@ -178,6 +181,6 @@ P6 में संसाधन सीमाएँ उपलब्ध क्ष�
 
 सर्वोत्तम संसाधन सीमाएँ सरल, जानबूझकर और वास्तविक परियोजना निर्णयों से जुड़ी होती हैं। वे एक व्यावहारिक प्रश्न का उत्तर देने में मदद करते हैं: क्या परियोजना इस योजना को उन संसाधनों के साथ क्रियान्वित कर सकती है जो उसके पास वास्तव में हैं?
 ## संबंधित सामग्री
-- [प्रिमावेरा पी6 में 0% प्रगति के साथ गतिविधियाँ शुरू हुईं - अवलोकन](../../05_metrics_hi/13_activity_started_progress_zero/01_overview_template.md)
+- [प्रिमावेरा पी6 में 0% प्रगति के साथ गतिविधियाँ शुरू हुईं - अवलोकन](../../metrics/13_activity_started_progress_zero/02_guide_template.md)
 - [P6 में संसाधन प्रकार](../12_RESOURCE%20TYPES%20IN%20P6/12_RESOURCE%20TYPES%20IN%20P6.md)
 - [पी6 में संसाधन संतुलन](../14_RESOURCES%20BALANCING%20IN%20P6/14_RESOURCES%20BALANCING%20IN%20P6.md)

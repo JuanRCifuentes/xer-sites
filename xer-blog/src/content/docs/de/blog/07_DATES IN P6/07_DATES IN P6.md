@@ -2,6 +2,7 @@
 title: "Termine in P6"
 seo_title: "Termine in P6 - Primavera P6"
 meta_description: "Lernen Sie Termine in P6 in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+description: "Lernen Sie Termine in P6 in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-dates-in-p6"
+slug: "de/blog/dates-in-p6"
 language: "de"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Terminplanung in Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/07_DATES IN P6/07_DATES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Termine in P6
 
@@ -191,6 +194,6 @@ Bei einer gründlichen Überprüfung des Terminplans wird nicht nur gefragt: „
 
 Wenn das Projektteam die Bedeutung jedes Datumsfelds versteht, wird der Terminplan einfacher zu erklären, einfacher zu prüfen und zuverlässiger für die Projektsteuerung.
 ## Verwandte Inhalte
-- [Tatsächliche Daten liegen später als der Datenstichtag in Primavera P6 - Überblick](../../09_metrics_de/12_actual_date_greater_than_data_date/01_overview_template.md)
+- [Tatsächliche Daten liegen später als der Datenstichtag in Primavera P6 - Überblick](../../metrics/12_actual_date_greater_than_data_date/02_guide_template.md)
 - [Dauertypen in P6](../06_DURATION%20TYPES%20IN%20P6/06_DURATION%20TYPES%20IN%20P6.md)
 - [Kalender in P6](../08_CALENDARS%20IN%20P6/08_CALENDARS%20IN%20P6.md)

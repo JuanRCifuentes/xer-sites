@@ -2,6 +2,7 @@
 title: "Duration in P6"
 seo_title: "Duration in P6"
 meta_description: "Learn duration in p6 for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
+description: "Learn duration in p6 for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -12,9 +13,10 @@ keywords:
   - "project controls"
   - "CPM schedule logic"
   - "Primavera P6 blog"
-slug: "duration-in-p6"
+slug: "en/blog/duration-in-p6"
 language: "en"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 Scheduling"
 audience:
@@ -30,6 +32,7 @@ related_blogs:
 translation_of: ""
 canonical_url: ""
 last_reviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
 # Duration in P6
 
@@ -201,6 +204,6 @@ This means duration must be reviewed with context. A value shown as "5 days" dep
 A strong scheduler understands that duration is not only an input. It is part of the calculation engine. When duration, calendars, and preferences are aligned, the schedule becomes easier to explain and more reliable for project control.
 
 ## Related Content
-- [Activities Starting in Data Date with No Logic Driving](../../01_metrics_en/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Activities Starting in Data Date with No Logic Driving](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Calendars in P6](../08_CALENDARS%20IN%20P6/08_CALENDARS%20IN%20P6.md)
 - [Percent Completion Types in P6](../10_PERCENT%20COMPLETION%20TYPES%20IN%20P6/10_PERCENT%20COMPLETION%20TYPES%20IN%20P6.md)

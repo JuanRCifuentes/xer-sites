@@ -2,6 +2,7 @@
 title: "Glossar zur Planung und Projektsteuerung für Primavera P6"
 seo_title: "Glossar zur Planung und Projektsteuerung für Primavera P6"
 meta_description: "Ein praktisches Glossar mit Begriffen aus Primavera P6, CPM-Planung, Projektplanung und Projektsteuerung für Planer, Terminplaner, Projektmanager und PMO-Teams."
+description: "Ein praktisches Glossar mit Begriffen aus Primavera P6, CPM-Planung, Projektplanung und Projektsteuerung für Planer, Terminplaner, Projektmanager und PMO-Teams."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -14,9 +15,10 @@ keywords:
   - "Qualitätsbedingungen planen"
   - "Überprüfung des PMO-Terminplans"
   - "Glossar zur Methode des kritischen Pfades"
-slug: "de-primavera-p6-glossary"
+slug: "de/blog/primavera-p6-glossary"
 language: "de"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 und Projektsteuerung"
 audience:
@@ -33,6 +35,7 @@ related_blogs:
 translation_of: "01b_blogs_en/00_GLOSSARY/00_glossary_en.md"
 canonical_url: ""
 last_reviewed: "2026-07-07"
+pubDate: "2026-07-07"
 ---
 # Planungs- und Projektkontroll-Glossar für Primavera P6
 

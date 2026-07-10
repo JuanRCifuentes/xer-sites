@@ -2,6 +2,7 @@
 title: "Типы ресурсов в P6"
 seo_title: "Типы ресурсов в P6 - Primavera P6"
 meta_description: "Изучите Типы ресурсов в P6 в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
+description: "Изучите Типы ресурсов в P6 в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "проектный контроль"
   - "CPM-логика"
   - "анализ графика"
-slug: "ru-resource-types-in-p6"
+slug: "ru/blog/resource-types-in-p6"
 language: "ru"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Планирование в Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
 canonical_url: ""
 last_проверкуed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Типы ресурсов в P6
 
@@ -217,6 +220,6 @@ flowchart TD
 
 Хороший насыщенный ресурсами график — это не только график с прикрепленными ресурсами. Это график, в котором каждый тип ресурсов используется намеренно и поддерживается на протяжении всего срока действия проекта.
 ## Связанные материалы
-- [Действия начались с 0% прогресса в Primavera P6 - Обзор](../../07_metrics_ru/13_activity_started_progress_zero/01_overview_template.md)
+- [Действия начались с 0% прогресса в Primavera P6 - Обзор](../../metrics/13_activity_started_progress_zero/02_guide_template.md)
 - [Где стоимость жизни в P6](../11_WHERE%20THE%20COST%20LIVE%20IN%20P6/11_WHERE%20THE%20COST%20LIVE%20IN%20P6.md)
 - [Ограничения ресурсов в P6](../13_RESOURCES%20LIMITS%20IN%20P6/13_RESOURCES%20LIMITS%20IN%20P6.md)

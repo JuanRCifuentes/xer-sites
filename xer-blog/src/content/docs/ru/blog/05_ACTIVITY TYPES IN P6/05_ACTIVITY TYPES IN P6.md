@@ -2,6 +2,7 @@
 title: "Виды деятельности в P6"
 seo_title: "Виды деятельности в P6 - Primavera P6"
 meta_description: "Изучите Виды деятельности в P6 в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
+description: "Изучите Виды деятельности в P6 в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "проектный контроль"
   - "CPM-логика"
   - "анализ графика"
-slug: "ru-activity-types-in-p6"
+slug: "ru/blog/activity-types-in-p6"
 language: "ru"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Планирование в Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/05_ACTIVITY TYPES IN P6/05_ACTIVITY TYPES IN P6.md"
 canonical_url: ""
 last_проверкуed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Виды деятельности в P6
 
@@ -204,6 +207,6 @@ flowchart TD
 
 Выбор правильного типа деятельности упрощает просмотр и объяснение графика, а также делает его более надежным для контроля над проектом. В сильном графике есть не только хорошие даты и логика. Он также использует правильный вид деятельности для представляемого произведения.
 ## Связанные материалы
-- [Действия, начинающиеся с даты данных, без управляющей логики: почему этот показатель графика имеет значение - Обзор](../../07_metrics_ru/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Действия, начинающиеся с даты данных, без управляющей логики: почему этот показатель графика имеет значение - Обзор](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Матрица критичности](../04_CRITICALITY%20MATRIX/04_CRITICALITY%20MATRIX.md)
 - [Типы длительности в P6](../06_DURATION%20TYPES%20IN%20P6/06_DURATION%20TYPES%20IN%20P6.md)

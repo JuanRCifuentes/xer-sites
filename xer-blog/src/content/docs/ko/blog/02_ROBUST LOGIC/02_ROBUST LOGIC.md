@@ -2,6 +2,7 @@
 title: "견고한 논리"
 seo_title: "견고한 논리 - Primavera P6"
 meta_description: "Primavera P6에서 견고한 논리를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+description: "Primavera P6에서 견고한 논리를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-robust-logic-in-primavera-p6"
+slug: "ko/blog/robust-logic-in-primavera-p6"
 language: "ko"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 공정표관리"
 audience:
@@ -32,6 +34,7 @@ related_blogs:
 translation_of: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # 견고한 논리
 
@@ -161,7 +164,7 @@ P6의 유용한 검토 열에는 활동 ID, 활동 이름, WBS, 시작, 완료, 
 
 신뢰할 수 있는 일정은 이 질문에 명확하게 대답해야 합니다. 무엇이 이 작업을 시작하게 합니까? 다음에는 무엇을 가능하게 합니까? 일정이 두 가지 모두에 답할 수 있으면 논리가 견고해지고 있는 것입니다. 그렇지 않은 경우 프로젝트 팀은 예측을 신뢰할 수 있으려면 더 많은 순서 작업을 수행해야 합니다.
 ## 관련 콘텐츠
-- [Primavera P6에서 종속성 누락 - 개요](../../10_metrics_ko/21_missing_dependencies/01_overview_template.md)
-- [Primavera P6 공정표의 중복 논리 - 개요](../../10_metrics_ko/06_redundant_logic/01_overview_template.md)
+- [Primavera P6에서 종속성 누락 - 개요](../../metrics/21_missing_dependencies/02_guide_template.md)
+- [Primavera P6 공정표의 중복 논리 - 개요](../../metrics/06_redundant_logic/02_guide_template.md)
 - [일정이란 무엇입니까?](../01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [중요 경로](../03_CRITICAL%20PATH/03_CRITICAL%20PATH.md)

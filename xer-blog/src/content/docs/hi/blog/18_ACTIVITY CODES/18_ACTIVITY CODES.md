@@ -2,6 +2,7 @@
 title: "गतिविधि कोड"
 seo_title: "Primavera P6 में गतिविधि कोड"
 meta_description: "Primavera P6 में गतिविधि कोड का उपयोग शेड्यूल को समूहबद्ध, फ़िल्टर, रिपोर्ट और विश्लेषण करने के लिए कैसे करें।"
+description: "Primavera P6 में गतिविधि कोड का उपयोग शेड्यूल को समूहबद्ध, फ़िल्टर, रिपोर्ट और विश्लेषण करने के लिए कैसे करें।"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -11,9 +12,10 @@ keywords:
   - "शेड्यूल गुणवत्ता"
   - "प्रोजेक्ट नियंत्रण"
   - "रिपोर्टिंग"
-slug: "hi-activity-codes-in-primavera-p6"
+slug: "hi/blog/activity-codes-in-primavera-p6"
 language: "hi"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
 audience:
@@ -29,6 +31,7 @@ related_blogs:
 translation_of: "01b_blogs_en/18_ACTIVITY CODES/18_ACTIVITY CODES.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # गतिविधि कोड
 
@@ -177,6 +180,6 @@ P6 में ग्लोबल गतिविधि कोड और प्र
 बार चार्ट समय दिखाता है। कोडिंग संरचना बताती है कि शेड्यूल को कैसे पढ़ा, विभाजित और उपयोग किया जा सकता है।
 
 ## संबंधित सामग्री
-- [प्रिमावेरा पी6 में गुम निर्भरताएँ - अवलोकन](../../05_metrics_hi/21_missing_dependencies/01_overview_template.md)
+- [प्रिमावेरा पी6 में गुम निर्भरताएँ - अवलोकन](../../metrics/21_missing_dependencies/02_guide_template.md)
 - [प्रोजेक्ट शेड्यूल विकसित करें](../17_DEVELOPE%20A%20PROJECT%20SCHEDULE/17_DEVELOPE%20A%20PROJECT%20SCHEDULE.md)
 - [शेड्यूल आधार](../19_SCHEDULE%20BASIS/19_SCHEDULE%20BASIS.md)

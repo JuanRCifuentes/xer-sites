@@ -2,6 +2,7 @@
 title: "P6 中完整类型的百分比"
 seo_title: "P6 中完整类型的百分比 - Primavera P6"
 meta_description: "了解 Primavera P6 中的“P6 中完整类型的百分比”，重点关注进度计划、项目控制和进度质量。"
+description: "了解 Primavera P6 中的“P6 中完整类型的百分比”，重点关注进度计划、项目控制和进度质量。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "项目控制"
   - "CPM逻辑"
   - "进度审查"
-slug: "zh-percent-complete-types-in-p6"
+slug: "zh/blog/percent-complete-types-in-p6"
 language: "zh"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 进度计划"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/10_PERCENT COMPLETION TYPES IN P6/10_PERCENT COMPLETION TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6 中完整类型的百分比
 
@@ -191,6 +194,6 @@ P6 中的完成百分比类型定义了如何衡量活动进度。持续时间�
 
 强大的进度计划有意使用百分比完成类型。当方法与工作相匹配时，进度更新变得更加清晰，剩余工期变得更加可靠，项目报告变得更容易辩护。
 ## 相关内容
-- [从数据日期开始且没有驱动逻辑的活动：为什么此计划指标很重要 - 概述](../../03_metrics_zh/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [从数据日期开始且没有驱动逻辑的活动：为什么此计划指标很重要 - 概述](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [P6 的持续时间](../09_DURATION%20IN%20P6/09_DURATION%20IN%20P6.md)
 - [P6 的成本在哪里](../11_WHERE%20THE%20COST%20LIVE%20IN%20P6/11_WHERE%20THE%20COST%20LIVE%20IN%20P6.md)

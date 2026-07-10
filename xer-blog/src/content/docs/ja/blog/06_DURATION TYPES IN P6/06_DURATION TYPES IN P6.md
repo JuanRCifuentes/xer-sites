@@ -2,6 +2,7 @@
 title: "P6 の期間タイプ"
 seo_title: "P6 の期間タイプ - Primavera P6"
 meta_description: "Primavera P6における「P6 の期間タイプ」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+description: "Primavera P6における「P6 の期間タイプ」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "プロジェクトコントロール"
   - "CPMロジック"
   - "スケジュールレビュー"
-slug: "jp-duration-types-in-p6"
-language: "jp"
+slug: "ja/blog/duration-types-in-p6"
+language: "ja"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 スケジューリング"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/06_DURATION TYPES IN P6/06_DURATION TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6 の期間タイプ
 
@@ -206,6 +209,6 @@ P6 の期間タイプは、期間、合計ユニット、リソース レート�
 
 適切な期間タイプを選択すると、プロジェクト計画に一致する方法でスケジュールを計算することができます。また、リソースの読み込み、進捗状況の更新、コスト予測、スケジュール レポートの理解と防御が容易になります。
 ## 関連コンテンツ
-- [駆動ロジックなしでデータ日付に開始されるアクティビティ: このスケジュール指標が重要な理由 - 概要](../../12_metrics_jp/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [駆動ロジックなしでデータ日付に開始されるアクティビティ: このスケジュール指標が重要な理由 - 概要](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [P6 のアクティビティの種類](../05_ACTIVITY%20TYPES%20IN%20P6/05_ACTIVITY%20TYPES%20IN%20P6.md)
 - [P6の日付](../07_DATES%20IN%20P6/07_DATES%20IN%20P6.md)

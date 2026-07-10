@@ -2,6 +2,7 @@
 title: "पी6 में तिथियाँ"
 seo_title: "पी6 में तिथियाँ - Primavera P6"
 meta_description: "Primavera P6 में पी6 में तिथियाँ को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+description: "Primavera P6 में पी6 में तिथियाँ को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-dates-in-p6"
+slug: "hi/blog/dates-in-p6"
 language: "hi"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/07_DATES IN P6/07_DATES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # पी6 में तिथियाँ
 
@@ -191,6 +194,6 @@ P6 चयनित बाधा फ़ील्ड के आधार पर, �
 
 जब प्रोजेक्ट टीम प्रत्येक दिनांक फ़ील्ड का अर्थ समझती है, तो शेड्यूल को समझाना आसान हो जाता है, ऑडिट करना आसान हो जाता है और प्रोजेक्ट नियंत्रण के लिए अधिक विश्वसनीय हो जाता है।
 ## संबंधित सामग्री
-- [वास्तविक तिथियाँ प्रिमावेरा पी6 में डेटा तिथि से बाद की हैं - अवलोकन](../../05_metrics_hi/12_actual_date_greater_than_data_date/01_overview_template.md)
+- [वास्तविक तिथियाँ प्रिमावेरा पी6 में डेटा तिथि से बाद की हैं - अवलोकन](../../metrics/12_actual_date_greater_than_data_date/02_guide_template.md)
 - [पी6 में अवधि प्रकार](../06_DURATION%20TYPES%20IN%20P6/06_DURATION%20TYPES%20IN%20P6.md)
 - [P6 में कैलेंडर](../08_CALENDARS%20IN%20P6/08_CALENDARS%20IN%20P6.md)

@@ -2,6 +2,7 @@
 title: "शेड्यूल आधार"
 seo_title: "Primavera P6 में शेड्यूल आधार"
 meta_description: "Primavera P6 शेड्यूल आधार में धारणाएँ, कैलेंडर, तर्क, माइलस्टोन, संसाधन, क्रिटिकल पाथ और अद्यतन नियम कैसे दस्तावेज़ करें।"
+description: "Primavera P6 शेड्यूल आधार में धारणाएँ, कैलेंडर, तर्क, माइलस्टोन, संसाधन, क्रिटिकल पाथ और अद्यतन नियम कैसे दस्तावेज़ करें।"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -11,9 +12,10 @@ keywords:
   - "Basis of Schedule"
   - "शेड्यूल गुणवत्ता"
   - "प्रोजेक्ट नियंत्रण"
-slug: "hi-schedule-basis-in-primavera-p6"
+slug: "hi/blog/schedule-basis-in-primavera-p6"
 language: "hi"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
 audience:
@@ -28,6 +30,7 @@ related_blogs:
 translation_of: "01b_blogs_en/19_SCHEDULE BASIS/19_SCHEDULE BASIS.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # शेड्यूल आधार
 
@@ -132,5 +135,5 @@ flowchart TD
 मजबूत शेड्यूल आधार P6 फ़ाइल को समीक्षा, समर्थन, अद्यतन और भरोसा करना आसान बनाता है।
 
 ## संबंधित सामग्री
-- [बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ: यह शेड्यूल मीट्रिक क्यों मायने रखता है - अवलोकन](../../05_metrics_hi/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ: यह शेड्यूल मीट्रिक क्यों मायने रखता है - अवलोकन](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [गतिविधि कोड](../18_ACTIVITY%20CODES/18_ACTIVITY%20CODES.md)

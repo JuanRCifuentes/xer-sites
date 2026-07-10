@@ -2,6 +2,7 @@
 title: "पी6 में संसाधन संतुलन"
 seo_title: "पी6 में संसाधन संतुलन - Primavera P6"
 meta_description: "Primavera P6 में पी6 में संसाधन संतुलन को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
+description: "Primavera P6 में पी6 में संसाधन संतुलन को व्यावहारिक planning, project controls और schedule quality के संदर्भ में समझें।"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "project controls"
   - "CPM लॉजिक"
   - "शेड्यूल समीक्षा"
-slug: "hi-resource-balancing-in-primavera-p6"
+slug: "hi/blog/resource-balancing-in-primavera-p6"
 language: "hi"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/14_RESOURCES BALANCING IN P6/14_RESOURCES BALANCING IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # पी6 में संसाधन संतुलन
 
@@ -224,6 +227,6 @@ P6 संसाधन लेवलिंग संसाधन असाइन�
 
 एक संतुलित शेड्यूल जरूरी नहीं कि पूरी तरह से सुचारू शेड्यूल हो। यह एक शेड्यूल है जहां संसाधन की मांग दिखाई देती है, यथार्थवादी होती है और परियोजना को वास्तव में वितरित करने के तरीके के साथ संरेखित होती है।
 ## संबंधित सामग्री
-- [प्रिमावेरा पी6 में 0% प्रगति के साथ गतिविधियाँ शुरू हुईं - अवलोकन](../../05_metrics_hi/13_activity_started_progress_zero/01_overview_template.md)
+- [प्रिमावेरा पी6 में 0% प्रगति के साथ गतिविधियाँ शुरू हुईं - अवलोकन](../../metrics/13_activity_started_progress_zero/02_guide_template.md)
 - [P6 में संसाधन सीमाएँ](../13_RESOURCES%20LIMITS%20IN%20P6/13_RESOURCES%20LIMITS%20IN%20P6.md)
 - [SS और FF Relations](../15_SS%20&%20FF%20RELATIONS/15_SS%20&%20FF%20RELATIONS.md)

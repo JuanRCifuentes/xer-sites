@@ -2,6 +2,7 @@
 title: "SS और FF संबंध"
 seo_title: "Primavera P6 में SS और FF संबंध"
 meta_description: "Primavera P6 में Start-to-Start और Finish-to-Finish संबंधों को शेड्यूल गुणवत्ता, CPM तर्क और प्रोजेक्ट नियंत्रण के संदर्भ में समझें।"
+description: "Primavera P6 में Start-to-Start और Finish-to-Finish संबंधों को शेड्यूल गुणवत्ता, CPM तर्क और प्रोजेक्ट नियंत्रण के संदर्भ में समझें।"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -11,9 +12,10 @@ keywords:
   - "शेड्यूल गुणवत्ता"
   - "प्रोजेक्ट नियंत्रण"
   - "CPM शेड्यूल तर्क"
-slug: "hi-ss-and-ff-relations-in-primavera-p6"
+slug: "hi/blog/ss-and-ff-relations-in-primavera-p6"
 language: "hi"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 शेड्यूलिंग"
 audience:
@@ -29,6 +31,7 @@ related_blogs:
 translation_of: "01b_blogs_en/15_SS & FF RELATIONS/15_SS & FF RELATIONS.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # SS और FF संबंध
 
@@ -119,6 +122,6 @@ SS और FF P6 में उपयोगी उपकरण हैं, ले�
 विश्वसनीय CPM शेड्यूल को यह समझाना चाहिए कि काम क्यों शुरू हो सकता है और उसकी समाप्ति किससे नियंत्रित है। जब SS और FF इन प्रश्नों का उत्तर देते हैं, वे शेड्यूल को मजबूत बनाते हैं। जब वे एक सिरा खुला छोड़ते हैं, तो तर्क समीक्षा की जरूरत है।
 
 ## संबंधित सामग्री
-- [बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ: यह शेड्यूल मीट्रिक क्यों मायने रखता है - अवलोकन](../../05_metrics_hi/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [बिना किसी ड्राइविंग लॉजिक के डेटा तिथि पर शुरू होने वाली गतिविधियाँ: यह शेड्यूल मीट्रिक क्यों मायने रखता है - अवलोकन](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [पी6 में संसाधन संतुलन](../14_RESOURCES%20BALANCING%20IN%20P6/14_RESOURCES%20BALANCING%20IN%20P6.md)
 - [CPM (क्रिटिकल पाथ मेथड)](../16_CPM%20(CRITICAL%20PATH%20METHOD)/16_CPM%20(CRITICAL%20PATH%20METHOD).md)

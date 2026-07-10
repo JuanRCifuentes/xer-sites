@@ -2,6 +2,7 @@
 title: "P6の日付"
 seo_title: "P6の日付 - Primavera P6"
 meta_description: "Primavera P6における「P6の日付」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+description: "Primavera P6における「P6の日付」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "プロジェクトコントロール"
   - "CPMロジック"
   - "スケジュールレビュー"
-slug: "jp-dates-in-p6"
-language: "jp"
+slug: "ja/blog/dates-in-p6"
+language: "ja"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 スケジューリング"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/07_DATES IN P6/07_DATES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6の日付
 
@@ -191,6 +194,6 @@ P6 の日付は、スケジュールのストーリーのさまざまな部分�
 
 プロジェクト チームが各日付フィールドの意味を理解すると、スケジュールの説明と監査が容易になり、プロジェクト管理の信頼性が高まります。
 ## 関連コンテンツ
-- [Primavera P6 のデータ日付よりも後の実際の日付 - 概要](../../12_metrics_jp/12_actual_date_greater_than_data_date/01_overview_template.md)
+- [Primavera P6 のデータ日付よりも後の実際の日付 - 概要](../../metrics/12_actual_date_greater_than_data_date/02_guide_template.md)
 - [P6 の期間タイプ](../06_DURATION%20TYPES%20IN%20P6/06_DURATION%20TYPES%20IN%20P6.md)
 - [P6のカレンダー](../08_CALENDARS%20IN%20P6/08_CALENDARS%20IN%20P6.md)

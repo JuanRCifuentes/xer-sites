@@ -2,6 +2,7 @@
 title: "プロジェクトスケジュールを作成する"
 seo_title: "プロジェクトスケジュールを作成する - Primavera P6"
 meta_description: "Primavera P6における「プロジェクトスケジュールを作成する」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
+description: "Primavera P6における「プロジェクトスケジュールを作成する」を、計画、プロジェクトコントロール、スケジュール品質の観点から実務的に理解します。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "プロジェクトコントロール"
   - "CPMロジック"
   - "スケジュールレビュー"
-slug: "jp-develop-a-project-schedule-in-primavera-p6"
-language: "jp"
+slug: "ja/blog/develop-a-project-schedule-in-primavera-p6"
+language: "ja"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 スケジューリング"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/17_DEVELOPE A PROJECT SCHEDULE/17_DEVELOPE A PROJECT SCHEDULE.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # プロジェクトスケジュールを作成する
 
@@ -137,6 +140,6 @@ Baseline は正式に設定します。承認版を保存し、非管理変更�
 
 最良のスケジュールは P6 を急いで開くことから生まれません。作業を理解し、仮定を確認し、プロジェクトチームが信頼できるモデルを作ることから生まれます。
 ## 関連コンテンツ
-- [駆動ロジックなしでデータ日付に開始されるアクティビティ: このスケジュール指標が重要な理由 - 概要](../../12_metrics_jp/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [駆動ロジックなしでデータ日付に開始されるアクティビティ: このスケジュール指標が重要な理由 - 概要](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [CPM（Critical Path Method）](../16_CPM%20(CRITICAL%20PATH%20METHOD)/16_CPM%20(CRITICAL%20PATH%20METHOD).md)
 - [Activity Codes](../18_ACTIVITY%20CODES/18_ACTIVITY%20CODES.md)

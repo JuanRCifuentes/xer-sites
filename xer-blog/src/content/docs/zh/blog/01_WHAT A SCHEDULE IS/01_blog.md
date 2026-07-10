@@ -2,6 +2,7 @@
 title: "什么是进度计划"
 seo_title: "什么是进度计划 - Primavera P6"
 meta_description: "了解 Primavera P6 中的“什么是进度计划”，重点关注进度计划、项目控制和进度质量。"
+description: "了解 Primavera P6 中的“什么是进度计划”，重点关注进度计划、项目控制和进度质量。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "项目控制"
   - "CPM逻辑"
   - "进度审查"
-slug: "zh-what-a-schedule-is-in-primavera-p6"
+slug: "zh/blog/what-a-schedule-is-in-primavera-p6"
 language: "zh"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 进度计划"
 audience:
@@ -30,6 +32,7 @@ related_blogs:
 translation_of: "01b_blogs_en/01_WHAT A SCHEDULE IS/01_blog.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # 什么是进度计划
 
@@ -125,5 +128,5 @@ P6 中的数据日期是实际表现与预测之间的界限。数据日期之�
 
 因此，进度质量审核应始终提出一个简单的问题：进度计划是否解释了工作开始时的原因？如果答案是肯定的，那么进度计划就发挥了作用。如果答案是否定的，则路线图需要更多逻辑才能被信任。
 ## 相关内容
-- [从数据日期开始且没有驱动逻辑的活动：为什么此计划指标很重要 - 概述](../../03_metrics_zh/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [从数据日期开始且没有驱动逻辑的活动：为什么此计划指标很重要 - 概述](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [强大的逻辑](../02_ROBUST%20LOGIC/02_ROBUST%20LOGIC.md)

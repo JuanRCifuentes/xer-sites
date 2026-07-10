@@ -2,6 +2,7 @@
 title: "P6의 리소스 유형"
 seo_title: "P6의 리소스 유형 - Primavera P6"
 meta_description: "Primavera P6에서 P6의 리소스 유형를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+description: "Primavera P6에서 P6의 리소스 유형를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-resource-types-in-p6"
+slug: "ko/blog/resource-types-in-p6"
 language: "ko"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 공정표관리"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/12_RESOURCE TYPES IN P6/12_RESOURCE TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6의 리소스 유형
 
@@ -217,6 +220,6 @@ P6의 리소스 유형은 작업을 수행하는 데 필요한 것이 무엇인�
 
 좋은 리소스 탑재 일정은 리소스만 첨부된 일정이 아닙니다. 각 자원 유형을 의도적으로 사용하고 프로젝트 수명 동안 유지 관리하는 일정입니다.
 ## 관련 콘텐츠
-- [Primavera P6에서 0% 진행으로 시작된 활동 - 개요](../../10_metrics_ko/13_activity_started_progress_zero/01_overview_template.md)
+- [Primavera P6에서 0% 진행으로 시작된 활동 - 개요](../../metrics/13_activity_started_progress_zero/02_guide_template.md)
 - [P6에서 비용이 발생하는 곳](../11_WHERE%20THE%20COST%20LIVE%20IN%20P6/11_WHERE%20THE%20COST%20LIVE%20IN%20P6.md)
 - [P6의 리소스 제한](../13_RESOURCES%20LIMITS%20IN%20P6/13_RESOURCES%20LIMITS%20IN%20P6.md)

@@ -2,6 +2,7 @@
 title: "Tipi di completamento percentuale in P6"
 seo_title: "Tipi di completamento percentuale in P6 - Primavera P6"
 meta_description: "Approfondisci Tipi di completamento percentuale in P6 in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
+description: "Approfondisci Tipi di completamento percentuale in P6 in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "controllo progetto"
   - "logica CPM"
   - "revisione del cronoprogramma"
-slug: "it-percent-complete-types-in-p6"
+slug: "it/blog/percent-complete-types-in-p6"
 language: "it"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Pianificazione in Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/10_PERCENT COMPLETION TYPES IN P6/10_PERCENT COMPLETION TYPES IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Tipi di completamento percentuale in P6
 
@@ -191,6 +194,6 @@ Nessun singolo tipo è migliore per ogni attività. La scelta giusta dipende da 
 
 Una pianificazione efficace utilizza intenzionalmente i tipi di completamento percentuale. Quando il metodo corrisponde al lavoro, gli aggiornamenti sullo stato di avanzamento diventano più chiari, la durata rimanente diventa più affidabile e il reporting del progetto diventa più facile da difendere.
 ## Contenuti correlati
-- [Attività che iniziano alla data di aggiornamento senza alcuna logica guida: perché questa metrica di pianificazione è importante - Panoramica](../../11_metrics_it/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Attività che iniziano alla data di aggiornamento senza alcuna logica guida: perché questa metrica di pianificazione è importante - Panoramica](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Durata in P6](../09_DURATION%20IN%20P6/09_DURATION%20IN%20P6.md)
 - [Dove vivono i costi in P6](../11_WHERE%20THE%20COST%20LIVE%20IN%20P6/11_WHERE%20THE%20COST%20LIVE%20IN%20P6.md)

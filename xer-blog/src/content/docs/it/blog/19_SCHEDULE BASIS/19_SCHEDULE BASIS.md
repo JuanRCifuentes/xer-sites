@@ -2,6 +2,7 @@
 title: "Base del cronoprogramma"
 seo_title: "Base del cronoprogramma - Primavera P6"
 meta_description: "Approfondisci la base del cronoprogramma in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
+description: "Approfondisci la base del cronoprogramma in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "controllo progetto"
   - "logica CPM"
   - "revisione del cronoprogramma"
-slug: "it-schedule-basis-in-primavera-p6"
+slug: "it/blog/schedule-basis-in-primavera-p6"
 language: "it"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Pianificazione in Primavera P6"
 audience:
@@ -30,6 +32,7 @@ related_blogs:
 translation_of: "01b_blogs_en/19_SCHEDULE BASIS/19_SCHEDULE BASIS.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Base del cronoprogramma
 
@@ -133,5 +136,5 @@ La base del cronoprogramma è la spiegazione dietro il cronoprogramma. Dice cosa
 
 Una solida base del cronoprogramma rende il file P6 più facile da revisionare, difendere, aggiornare e considerare affidabile.
 ## Contenuti correlati
-- [Attività che iniziano alla data di aggiornamento senza alcuna logica guida: perché questa metrica di pianificazione è importante - Panoramica](../../11_metrics_it/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Attività che iniziano alla data di aggiornamento senza alcuna logica guida: perché questa metrica di pianificazione è importante - Panoramica](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [codici attività](../18_ACTIVITY%20CODES/18_ACTIVITY%20CODES.md)

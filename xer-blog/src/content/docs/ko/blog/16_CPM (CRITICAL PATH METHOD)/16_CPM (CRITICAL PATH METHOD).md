@@ -2,6 +2,7 @@
 title: "CPM (Critical Path Method)"
 seo_title: "CPM (Critical Path Method) - Primavera P6"
 meta_description: "Primavera P6에서 CPM (Critical Path Method)를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+description: "Primavera P6에서 CPM (Critical Path Method)를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-critical-path-method-cpm-primavera-p6"
+slug: "ko/blog/critical-path-method-cpm-primavera-p6"
 language: "ko"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 공정표관리"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/16_CPM (CRITICAL PATH METHOD)/16_CPM (CRITICAL PATH METHOD).md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # CPM (Critical Path Method)
 
@@ -140,6 +143,6 @@ CPM은 Primavera P6 공정표를 프로젝트 통제 도구로 바꾸는 엔진�
 
 CPM의 가치는 완료일을 보여주는 데서 끝나지 않습니다. 진짜 가치는 그 완료일이 왜 통제되는지, 어디에 유연성이 있는지, 관리 attention이 어디로 가야 하는지를 설명하는 데 있습니다.
 ## 관련 콘텐츠
-- [제약조건으로 시작하는 중요 경로 또는 부동 경로 - 개요](../../10_metrics_ko/09_cp_or_float_path_starting_with_constraint/01_overview_template.md)
+- [제약조건으로 시작하는 중요 경로 또는 부동 경로 - 개요](../../metrics/09_cp_or_float_path_starting_with_constraint/02_guide_template.md)
 - [SS 및 FF 관계](../15_SS%20&%20FF%20RELATIONS/15_SS%20&%20FF%20RELATIONS.md)
 - [프로젝트 공정표 개발](../17_DEVELOPE%20A%20PROJECT%20SCHEDULE/17_DEVELOPE%20A%20PROJECT%20SCHEDULE.md)

@@ -2,6 +2,7 @@
 title: "Primavera P6 の計画とプロジェクト管理の用語集"
 seo_title: "Primavera P6 の計画とプロジェクト管理の用語集"
 meta_description: "Primavera P6、CPM スケジューリング、プロジェクト計画、およびプロジェクト管理の用語をプランナー、スケジューラ、プロジェクト マネージャー、および PMO チーム向けにまとめた実用的な用語集です。"
+description: "Primavera P6、CPM スケジューリング、プロジェクト計画、およびプロジェクト管理の用語をプランナー、スケジューラ、プロジェクト マネージャー、および PMO チーム向けにまとめた実用的な用語集です。"
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -14,9 +15,10 @@ keywords:
   - "品質条件をスケジュールする"
   - "PMOスケジュールの見直し"
   - "クリティカル パス手法の用語集"
-slug: "jp-primavera-p6-glossary"
-language: "jp"
+slug: "ja/blog/primavera-p6-glossary"
+language: "ja"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 とプロジェクト コントロール"
 audience:
@@ -33,6 +35,7 @@ related_blogs:
 translation_of: "01b_blogs_en/00_GLOSSARY/00_glossary_en.md"
 canonical_url: ""
 last_reviewed: "2026-07-07"
+pubDate: "2026-07-07"
 ---
 # Primavera P6 の計画とプロジェクト管理の用語集
 

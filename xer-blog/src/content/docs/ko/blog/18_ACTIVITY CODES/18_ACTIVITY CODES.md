@@ -2,6 +2,7 @@
 title: "활동 코드"
 seo_title: "활동 코드 - Primavera P6"
 meta_description: "Primavera P6에서 활동 코드를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+description: "Primavera P6에서 활동 코드를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-activity-codes-in-primavera-p6"
+slug: "ko/blog/activity-codes-in-primavera-p6"
 language: "ko"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 공정표관리"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/18_ACTIVITY CODES/18_ACTIVITY CODES.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # 활동 코드
 
@@ -178,6 +181,6 @@ Code values는 일관되고 통제되어야 합니다. 중복과 불명확한 �
 
 Bar chart는 시간을 보여줍니다. Coding structure는 일정을 어떻게 읽고, 나누고, 사용할 수 있는지 설명합니다.
 ## 관련 콘텐츠
-- [Primavera P6에서 종속성 누락 - 개요](../../10_metrics_ko/21_missing_dependencies/01_overview_template.md)
+- [Primavera P6에서 종속성 누락 - 개요](../../metrics/21_missing_dependencies/02_guide_template.md)
 - [프로젝트 공정표 개발](../17_DEVELOPE%20A%20PROJECT%20SCHEDULE/17_DEVELOPE%20A%20PROJECT%20SCHEDULE.md)
 - [Schedule Basis](../19_SCHEDULE%20BASIS/19_SCHEDULE%20BASIS.md)

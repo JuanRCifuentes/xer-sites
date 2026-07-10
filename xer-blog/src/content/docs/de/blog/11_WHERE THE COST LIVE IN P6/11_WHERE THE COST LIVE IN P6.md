@@ -2,6 +2,7 @@
 title: "Wo die Kosten in P6 leben"
 seo_title: "Wo die Kosten in P6 leben - Primavera P6"
 meta_description: "Lernen Sie Wo die Kosten in P6 leben in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+description: "Lernen Sie Wo die Kosten in P6 leben in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-where-costs-live-in-primavera-p6"
+slug: "de/blog/where-costs-live-in-primavera-p6"
 language: "de"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Terminplanung in Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/11_WHERE THE COST LIVE IN P6/11_WHERE THE COST LIVE IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Wo die Kosten in P6 leben
 
@@ -234,6 +237,6 @@ Ressourcenkosten verbinden Kosten mit Arbeit und Ausrüstung. Rollenkosten unter
 
 Ein stark kostenintensiver Terminplan entsteht nicht dadurch, dass man die Zahlen überall hinbringt, wo sie hinpassen. Der Aufbau erfolgt durch die Entscheidung, wo die einzelnen Kostenarten hingehören, und durch die Beibehaltung dieser Struktur in jedem Aktualisierungszyklus.
 ## Verwandte Inhalte
-- [Aktivitäten, die am Datenstichtag ohne steuernde Logik beginnen: Warum diese Terminplanmetrik wichtig ist - Überblick](../../09_metrics_de/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [Aktivitäten, die am Datenstichtag ohne steuernde Logik beginnen: Warum diese Terminplanmetrik wichtig ist - Überblick](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [Prozent vollständige Typen in P6](../10_PERCENT%20COMPLETION%20TYPES%20IN%20P6/10_PERCENT%20COMPLETION%20TYPES%20IN%20P6.md)
 - [Ressourcentypen in P6](../12_RESOURCE%20TYPES%20IN%20P6/12_RESOURCE%20TYPES%20IN%20P6.md)

@@ -2,6 +2,7 @@
 title: "Calendriers dans P6"
 seo_title: "Calendriers dans P6 - Primavera P6"
 meta_description: "Comprendre Calendriers dans P6 dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
+description: "Comprendre Calendriers dans P6 dans Primavera P6 avec une approche pratique de la planification, du contrôle projet et de la qualité du planning."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "contrôle projet"
   - "logique CPM"
   - "revue de planning"
-slug: "fr-calendars-in-p6"
+slug: "fr/blog/calendars-in-p6"
 language: "fr"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Planification Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Calendriers dans P6
 
@@ -205,6 +208,6 @@ Le principal risque est la désynchronisation. Lorsque les calendriers d'activit
 
 Un emploi du temps chargé utilise intentionnellement les calendriers. Chaque calendrier a un objectif, chaque calendrier spécial est documenté et les affectations du calendrier des activités et des ressources sont examinées avant que le calendrier ne soit approuvé.
 ## Contenu associé
-- [Calendriers avec différentes heures de début et de fin dans Primavera P6 - Vue d’ensemble](../../08_metrics_fr/20_calendars_with_different_start_finish_time_in_day/01_overview_template.md)
+- [Calendriers avec différentes heures de début et de fin dans Primavera P6 - Vue d’ensemble](../../metrics/20_calendars_with_different_start_finish_time_in_day/02_guide_template.md)
 - [Dattes en P6](../07_DATES%20IN%20P6/07_DATES%20IN%20P6.md)
 - [Durée en P6](../09_DURATION%20IN%20P6/09_DURATION%20IN%20P6.md)

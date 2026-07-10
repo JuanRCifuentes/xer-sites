@@ -2,6 +2,7 @@
 title: "التقويمات ص6"
 seo_title: "التقويمات ص6 - Primavera P6"
 meta_description: "تعرّف على التقويمات ص6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
+description: "تعرّف على التقويمات ص6 في Primavera P6 مع تركيز عملي على التخطيط وضبط المشاريع وجودة الجدول."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "ضبط المشاريع"
   - "منطق CPM"
   - "مراجعة الجدول"
-slug: "ar-calendars-in-p6"
+slug: "ar/blog/calendars-in-p6"
 language: "ar"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "الجدولة في Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/08_CALENDARS IN P6/08_CALENDARS IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # التقويمات ص6
 
@@ -205,6 +208,6 @@ flowchart TD
 
 يستخدم الجدول الزمني القوي التقويمات عمدا. كل تقويم له غرض، ويتم توثيق كل تقويم خاص، وتتم مراجعة تعيينات تقويم النشاط والموارد قبل الوثوق بالجدول.
 ## محتوى ذو صلة
-- [تقاويم بأوقات بداية ونهاية مختلفة في بريمافيرا P6 - نظرة عامة](../../04_metrics_ar/20_calendars_with_different_start_finish_time_in_day/01_overview_template.md)
+- [تقاويم بأوقات بداية ونهاية مختلفة في بريمافيرا P6 - نظرة عامة](../../metrics/20_calendars_with_different_start_finish_time_in_day/02_guide_template.md)
 - [التواريخ في ص6](../07_DATES%20IN%20P6/07_DATES%20IN%20P6.md)
 - [المدة في P6](../09_DURATION%20IN%20P6/09_DURATION%20IN%20P6.md)

@@ -2,6 +2,7 @@
 title: "P6의 지속 시간"
 seo_title: "P6의 지속 시간 - Primavera P6"
 meta_description: "Primavera P6에서 P6의 지속 시간를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
+description: "Primavera P6에서 P6의 지속 시간를 일정관리, 프로젝트 통제, 공정표 품질 관점에서 실무적으로 이해합니다."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "프로젝트 통제"
   - "CPM 로직"
   - "공정표 검토"
-slug: "ko-duration-in-p6"
+slug: "ko/blog/duration-in-p6"
 language: "ko"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 공정표관리"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/09_DURATION IN P6/09_DURATION IN P6.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # P6의 지속 시간
 
@@ -201,6 +204,6 @@ P6의 기간은 단순히 경과된 달력 시간이 아닌 작업 시간입니�
 
 강력한 스케줄러는 기간이 단순한 입력이 아니라는 점을 이해합니다. 계산 엔진의 일부입니다. 기간, 달력 및 기본 설정이 조정되면 일정을 설명하기가 더 쉬워지고 프로젝트 통제가 더욱 안정적이 됩니다.
 ## 관련 콘텐츠
-- [주도 로직 없이 데이터 날짜에 시작하는 활동: 이 일정 지표가 중요한 이유 - 개요](../../10_metrics_ko/01_activities_starting_in_dd_with_no_logic_driving/01_overview_template.md)
+- [주도 로직 없이 데이터 날짜에 시작하는 활동: 이 일정 지표가 중요한 이유 - 개요](../../metrics/01_activities_starting_in_dd_with_no_logic_driving/02_guide_template.md)
 - [P6의 캘린더](../08_CALENDARS%20IN%20P6/08_CALENDARS%20IN%20P6.md)
 - [P6의 완료율 유형](../10_PERCENT%20COMPLETION%20TYPES%20IN%20P6/10_PERCENT%20COMPLETION%20TYPES%20IN%20P6.md)

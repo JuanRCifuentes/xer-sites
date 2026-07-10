@@ -2,6 +2,7 @@
 title: "Robust Logic"
 seo_title: "Robust Logic in Primavera P6"
 meta_description: "Learn robust logic for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
+description: "Learn robust logic for Primavera P6 planning, schedule quality, CPM logic, project controls, and PMO reporting."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -12,9 +13,10 @@ keywords:
   - "project controls"
   - "CPM schedule logic"
   - "Primavera P6 blog"
-slug: "robust-logic-in-primavera-p6"
+slug: "en/blog/robust-logic-in-primavera-p6"
 language: "en"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Primavera P6 Scheduling"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: ""
 canonical_url: ""
 last_reviewed: "2026-06-26"
+pubDate: "2026-06-26"
 ---
 # Robust Logic
 
@@ -161,7 +164,7 @@ When activities start on the Data Date with no driving logic, the schedule is ex
 A reliable schedule should answer that question clearly. What allows this work to start? What does it enable next? If the schedule can answer both, the logic is becoming robust. If it cannot, the project team has more sequencing work to do before the forecast can be trusted.
 
 ## Related Content
-- [Missing Dependencies](../../01_metrics_en/21_missing_dependencies/01_overview_template.md)
-- [Redundant Logic](../../01_metrics_en/06_redundant_logic/01_overview_template.md)
+- [Missing Dependencies](../../metrics/21_missing_dependencies/02_guide_template.md)
+- [Redundant Logic](../../metrics/06_redundant_logic/02_guide_template.md)
 - [What A Schedule Is](../01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Critical Path](../03_CRITICAL%20PATH/03_CRITICAL%20PATH.md)

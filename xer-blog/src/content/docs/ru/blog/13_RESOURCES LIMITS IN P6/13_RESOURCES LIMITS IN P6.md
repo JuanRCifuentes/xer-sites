@@ -2,6 +2,7 @@
 title: "Ограничения ресурсов в P6"
 seo_title: "Ограничения ресурсов в P6 - Primavera P6"
 meta_description: "Изучите Ограничения ресурсов в P6 в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
+description: "Изучите Ограничения ресурсов в P6 в Primavera P6 с практическим акцентом на планирование, проектный контроль и качество графика."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "проектный контроль"
   - "CPM-логика"
   - "анализ графика"
-slug: "ru-resource-limits-in-primavera-p6"
+slug: "ru/blog/resource-limits-in-primavera-p6"
 language: "ru"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Планирование в Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/13_RESOURCES LIMITS IN P6/13_RESOURCES LIMITS IN P6.md"
 canonical_url: ""
 last_проверкуed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Ограничения ресурсов в P6
 
@@ -178,6 +181,6 @@ P6 может использовать ограничения ресурсов �
 
 Лучшие ограничения ресурсов просты, целенаправленны и связаны с реальными проектными решениями. Они помогают ответить на один практический вопрос: сможет ли проект выполнить этот план с теми ресурсами, которые у него есть на самом деле?
 ## Связанные материалы
-- [Действия начались с 0% прогресса в Primavera P6 - Обзор](../../07_metrics_ru/13_activity_started_progress_zero/01_overview_template.md)
+- [Действия начались с 0% прогресса в Primavera P6 - Обзор](../../metrics/13_activity_started_progress_zero/02_guide_template.md)
 - [Типы ресурсов в P6](../12_RESOURCE%20TYPES%20IN%20P6/12_RESOURCE%20TYPES%20IN%20P6.md)
 - [Балансировка ресурсов в P6](../14_RESOURCES%20BALANCING%20IN%20P6/14_RESOURCES%20BALANCING%20IN%20P6.md)

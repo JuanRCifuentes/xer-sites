@@ -2,6 +2,7 @@
 title: "Kritikalitätsmatrix"
 seo_title: "Kritikalitätsmatrix - Primavera P6"
 meta_description: "Lernen Sie Kritikalitätsmatrix in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
+description: "Lernen Sie Kritikalitätsmatrix in Primavera P6 mit praktischem Fokus auf Terminplanung, Projektcontrolling und Terminplanqualität."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "Projektcontrolling"
   - "CPM-Logik"
   - "Terminplanprüfung"
-slug: "de-criticality-matrix-in-primavera-p6"
+slug: "de/blog/criticality-matrix-in-primavera-p6"
 language: "de"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Terminplanung in Primavera P6"
 audience:
@@ -31,6 +33,7 @@ related_blogs:
 translation_of: "01b_blogs_en/04_CRITICALITY MATRIX/04_CRITICALITY MATRIX.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Kritikalitätsmatrix
 
@@ -184,6 +187,6 @@ Für Projektmanager und PMO-Prüfer verwandelt die Matrix das Terminplanrisiko i
 
 Bei richtiger Anwendung hilft eine Kritikalitätsmatrix dem Projektteam, von der reaktiven Berichterstattung zur proaktiven Terminkontrolle überzugehen.
 ## Verwandte Inhalte
-- [Kritischer Pfad oder Pufferpfad, beginnend mit einer Einschränkung - Überblick](../../09_metrics_de/09_cp_or_float_path_starting_with_constraint/01_overview_template.md)
+- [Kritischer Pfad oder Pufferpfad, beginnend mit einer Einschränkung - Überblick](../../metrics/09_cp_or_float_path_starting_with_constraint/02_guide_template.md)
 - [Kritischer Pfad](../03_CRITICAL%20PATH/03_CRITICAL%20PATH.md)
 - [Aktivitätstypen in P6](../05_ACTIVITY%20TYPES%20IN%20P6/05_ACTIVITY%20TYPES%20IN%20P6.md)

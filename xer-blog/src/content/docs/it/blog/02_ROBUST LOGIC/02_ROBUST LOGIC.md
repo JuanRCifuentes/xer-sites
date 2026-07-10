@@ -2,6 +2,7 @@
 title: "Logica robusta"
 seo_title: "Logica robusta - Primavera P6"
 meta_description: "Approfondisci Logica robusta in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
+description: "Approfondisci Logica robusta in Primavera P6 con un taglio pratico su pianificazione, controllo progetto e qualità del cronoprogramma."
 author_name: "Juan D Vargas"
 author_description: "Project control manager, 30+ years of experience in Project Control"
 author_link: "[https://www.linkedin.com/in/juan-d-vargas-v/](https://www.linkedin.com/in/juan-d-vargas-v/)"
@@ -13,9 +14,10 @@ keywords:
   - "controllo progetto"
   - "logica CPM"
   - "revisione del cronoprogramma"
-slug: "it-robust-logic-in-primavera-p6"
+slug: "it/blog/robust-logic-in-primavera-p6"
 language: "it"
 content_type: "blog"
+draft: false
 version: "1.0"
 topic: "Pianificazione in Primavera P6"
 audience:
@@ -32,6 +34,7 @@ related_blogs:
 translation_of: "01b_blogs_en/02_ROBUST LOGIC/02_ROBUST LOGIC.md"
 canonical_url: ""
 last_reviewed: "2026-07-02"
+pubDate: "2026-07-02"
 ---
 # Logica robusta
 
@@ -161,7 +164,7 @@ Quando le attività iniziano alla Data Data senza alcuna logica guida, la pianif
 
 Un cronoprogramma affidabile dovrebbe rispondere chiaramente a questa domanda. Cosa consente l’avvio di questo lavoro? Cosa abilita dopo? Se il cronoprogramma può rispondere ad entrambi, la logica sta diventando solida. In caso contrario, il team di progetto avrà più lavoro di sequenziamento da svolgere prima che la previsione possa essere considerata attendibile.
 ## Contenuti correlati
-- [Dipendenze mancanti in Primavera P6 - Panoramica](../../11_metrics_it/21_missing_dependencies/01_overview_template.md)
-- [Logica ridondante negli orari Primavera P6 - Panoramica](../../11_metrics_it/06_redundant_logic/01_overview_template.md)
+- [Dipendenze mancanti in Primavera P6 - Panoramica](../../metrics/21_missing_dependencies/02_guide_template.md)
+- [Logica ridondante negli orari Primavera P6 - Panoramica](../../metrics/06_redundant_logic/02_guide_template.md)
 - [Cos'è un cronoprogramma](../01_WHAT%20A%20SCHEDULE%20IS/01_blog.md)
 - [Percorso critico](../03_CRITICAL%20PATH/03_CRITICAL%20PATH.md)
