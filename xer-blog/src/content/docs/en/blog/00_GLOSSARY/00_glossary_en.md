@@ -19,6 +19,8 @@ slug: "en/blog/primavera-p6-glossary"
 language: "en"
 content_type: "blog"
 draft: false
+sidebar:
+  hidden: true
 version: "1.0"
 topic: "Primavera P6 and Project Controls"
 audience:

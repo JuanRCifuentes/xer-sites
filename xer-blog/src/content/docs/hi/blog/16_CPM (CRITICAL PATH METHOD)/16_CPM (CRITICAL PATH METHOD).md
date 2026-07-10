@@ -16,6 +16,8 @@ slug: "hi/blog/critical-path-method-cpm-primavera-p6"
 language: "hi"
 content_type: "blog"
 draft: false
+sidebar:
+  hidden: true
 version: "1.0"
 topic: "क्रिटिकल पाथ मेथड"
 audience:

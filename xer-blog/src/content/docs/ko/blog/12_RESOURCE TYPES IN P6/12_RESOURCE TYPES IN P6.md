@@ -18,6 +18,8 @@ slug: "ko/blog/resource-types-in-p6"
 language: "ko"
 content_type: "blog"
 draft: false
+sidebar:
+  hidden: true
 version: "1.0"
 topic: "Primavera P6 공정표관리"
 audience:

@@ -19,6 +19,8 @@ slug: "it/blog/primavera-p6-glossary"
 language: "it"
 content_type: "blog"
 draft: false
+sidebar:
+  hidden: true
 version: "1.0"
 topic: "Primavera P6 e controlli di progetto"
 audience:

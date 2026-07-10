@@ -18,6 +18,8 @@ slug: "en/blog/critical-path-in-primavera-p6"
 language: "en"
 content_type: "blog"
 draft: false
+sidebar:
+  hidden: true
 version: "1.0"
 topic: "Critical Path Method"
 audience:

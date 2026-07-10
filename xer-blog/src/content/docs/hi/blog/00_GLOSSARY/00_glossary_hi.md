@@ -19,6 +19,8 @@ slug: "hi/blog/primavera-p6-glossary"
 language: "hi"
 content_type: "blog"
 draft: false
+sidebar:
+  hidden: true
 version: "1.0"
 topic: "प्रिमावेरा पी6 और परियोजना नियंत्रण"
 audience:

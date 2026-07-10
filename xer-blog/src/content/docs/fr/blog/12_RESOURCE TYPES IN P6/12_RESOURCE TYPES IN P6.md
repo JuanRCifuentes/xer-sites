@@ -18,6 +18,8 @@ slug: "fr/blog/resource-types-in-p6"
 language: "fr"
 content_type: "blog"
 draft: false
+sidebar:
+  hidden: true
 version: "1.0"
 topic: "Planification Primavera P6"
 audience:
