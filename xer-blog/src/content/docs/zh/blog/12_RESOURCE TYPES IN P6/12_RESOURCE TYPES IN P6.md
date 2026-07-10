@@ -18,8 +18,6 @@ slug: "zh/blog/资源-types-in-p6"
 language: "zh"
 content_type: "blog"
 draft: false
-sidebar:
-  hidden: true
 version: "1.0"
 topic: "Primavera P6 进度计划"
 audience:

@@ -19,8 +19,6 @@ slug: "ko/blog/primavera-p6-glossary"
 language: "ko"
 content_type: "blog"
 draft: false
-sidebar:
-  hidden: true
 version: "1.0"
 topic: "Primavera P6 및 프로젝트 통제"
 audience:

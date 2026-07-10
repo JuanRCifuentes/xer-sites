@@ -18,8 +18,6 @@ slug: "de/blog/calendars-in-p6"
 language: "de"
 content_type: "blog"
 draft: false
-sidebar:
-  hidden: true
 version: "1.0"
 topic: "Terminplanung in Primavera P6"
 audience:

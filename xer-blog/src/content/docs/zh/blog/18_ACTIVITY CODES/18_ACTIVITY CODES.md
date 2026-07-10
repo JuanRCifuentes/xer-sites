@@ -18,8 +18,6 @@ slug: "zh/blog/活动-代码-in-primavera-p6"
 language: "zh"
 content_type: "blog"
 draft: false
-sidebar:
-  hidden: true
 version: "1.0"
 topic: "Primavera P6 进度计划"
 audience:

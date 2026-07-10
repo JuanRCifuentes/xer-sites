@@ -19,8 +19,6 @@ slug: "ar/blog/primavera-p6-glossary"
 language: "ar"
 content_type: "blog"
 draft: false
-sidebar:
-  hidden: true
 version: "1.0"
 topic: "بريمافيرا P6 وضوابط المشروع"
 audience:

@@ -18,8 +18,6 @@ slug: "en/blog/calendars-in-p6"
 language: "en"
 content_type: "blog"
 draft: false
-sidebar:
-  hidden: true
 version: "1.0"
 topic: "Primavera P6 Calendars"
 audience:

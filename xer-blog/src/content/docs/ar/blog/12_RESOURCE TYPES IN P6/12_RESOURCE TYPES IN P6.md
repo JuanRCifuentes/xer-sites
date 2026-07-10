@@ -18,8 +18,6 @@ slug: "ar/blog/resource-types-in-p6"
 language: "ar"
 content_type: "blog"
 draft: false
-sidebar:
-  hidden: true
 version: "1.0"
 topic: "الجدولة في Primavera P6"
 audience:

@@ -1,0 +1,27 @@
+---
+import MobileMenuFooter from 'virtual:starlight/components/MobileMenuFooter';
+import SidebarPersister from '@astrojs/starlight/components/SidebarPersister.astro';
+import SidebarSublist from '@astrojs/starlight/components/SidebarSublist.astro';
+type SidebarEntry = (typeof Astro.locals.starlightRoute.sidebar)[number];
+
+const flattenArticleFolders = (entries: SidebarEntry[]) =>
+	entries.flatMap((entry) =>
+		entry.type === 'group' && entry.entries.every((child) => child.type === 'link')
+			? entry.entries
+			: [entry],
+	);
+
+const sidebar = Astro.locals.starlightRoute.sidebar.map((entry, index) =>
+	index === 0 && entry.type === 'group'
+		? { ...entry, entries: flattenArticleFolders(entry.entries) }
+		: entry,
+);
+---
+
+<SidebarPersister>
+	<SidebarSublist sublist={sidebar} />
+</SidebarPersister>
+
+<div class="md:sl-hidden">
+	<MobileMenuFooter />
+</div>

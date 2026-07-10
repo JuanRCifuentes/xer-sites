@@ -19,8 +19,6 @@ slug: "zh/blog/primavera-p6-glossary"
 language: "zh"
 content_type: "blog"
 draft: false
-sidebar:
-  hidden: true
 version: "1.0"
 topic: "Primavera P6 和项目控制"
 audience:

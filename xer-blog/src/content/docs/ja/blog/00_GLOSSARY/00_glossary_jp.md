@@ -19,8 +19,6 @@ slug: "ja/blog/primavera-p6-glossary"
 language: "ja"
 content_type: "blog"
 draft: false
-sidebar:
-  hidden: true
 version: "1.0"
 topic: "Primavera P6 とプロジェクト コントロール"
 audience:

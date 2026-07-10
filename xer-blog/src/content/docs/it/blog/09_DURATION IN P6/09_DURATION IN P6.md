@@ -18,8 +18,6 @@ slug: "it/blog/duration-in-p6"
 language: "it"
 content_type: "blog"
 draft: false
-sidebar:
-  hidden: true
 version: "1.0"
 topic: "Pianificazione in Primavera P6"
 audience:

@@ -18,8 +18,6 @@ slug: "pt/blog/where-costs-live-in-primavera-p6"
 language: "pt"
 content_type: "blog"
 draft: false
-sidebar:
-  hidden: true
 version: "1.0"
 topic: "Planejamento em Primavera P6"
 audience:
