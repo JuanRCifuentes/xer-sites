@@ -1,6 +1,7 @@
 ---
 import type { CollectionEntry } from "astro:content";
 import type { Lang } from "../../i18n";
+import { BRAND_MARK_URL } from "../../consts";
 import { resolveHref } from "../../lib/links";
 
 type Props = {
@@ -24,20 +25,15 @@ const { section, lang } = Astro.props;
 		<rect width="100%" height="100%" fill="url(#983e3e4c-de6d-4c3f-8d64-b9761d1534cc)" stroke-width="0" />
 	</svg>
 	<div aria-hidden="true" class="absolute top-10 left-[calc(50%-4rem)] -z-10 transform-gpu blur-3xl sm:left-[calc(50%-18rem)] lg:top-[calc(50%-30rem)] lg:left-48 xl:left-[calc(50%-24rem)]">
-		<div style="clip-path: polygon(73.6% 51.7%, 91.7% 11.8%, 100% 46.4%, 97.4% 82.2%, 92.5% 84.9%, 75.7% 64%, 55.3% 47.5%, 46.5% 49.4%, 45% 62.9%, 50.3% 87.2%, 21.3% 64.1%, 0.1% 100%, 5.4% 51.1%, 21.4% 63.9%, 58.9% 0.2%, 73.6% 51.7%)" class="aspect-1108/632 w-277 bg-linear-to-r from-[#80caff] to-[#4f46e5] opacity-20"></div>
+		<div style="clip-path: polygon(73.6% 51.7%, 91.7% 11.8%, 100% 46.4%, 97.4% 82.2%, 92.5% 84.9%, 75.7% 64%, 55.3% 47.5%, 46.5% 49.4%, 45% 62.9%, 50.3% 87.2%, 21.3% 64.1%, 0.1% 100%, 5.4% 51.1%, 21.4% 63.9%, 58.9% 0.2%, 73.6% 51.7%)" class="aspect-1108/632 w-277 bg-linear-to-r from-[#22D3EE] via-[#0EA5E9] to-[#2563EB] opacity-20"></div>
 	</div>
 	<div class="mx-auto max-w-7xl px-6 pt-10 pb-24 sm:pb-32 lg:flex lg:px-8 lg:py-40">
 		<div class="mx-auto max-w-2xl shrink-0 lg:mx-0 lg:pt-8">
-			{section.logo && (
-				<>
-					<img src={section.logo.light} alt={section.logo.alt} class="h-11 dark:hidden" />
-					<img src={section.logo.dark} alt={section.logo.alt} class="h-11 not-dark:hidden" />
-				</>
-			)}
+			<img src={BRAND_MARK_URL} alt="Xer" class="h-16 w-auto sm:h-20" />
 			{section.badge && (
 				<div class="mt-24 sm:mt-32 lg:mt-16">
 					<a href={resolveHref(section.badge, lang)} class="inline-flex space-x-6">
-						<span class="rounded-full bg-indigo-50 px-3 py-1 text-sm/6 font-semibold text-indigo-600 ring-1 ring-indigo-600/20 ring-inset dark:bg-indigo-500/10 dark:text-indigo-400 dark:ring-indigo-500/25">{section.badge.label}</span>
+						<span class="rounded-full bg-cyan-50 px-3 py-1 text-sm/6 font-semibold text-blue-600 ring-1 ring-blue-600/20 ring-inset dark:bg-blue-500/10 dark:text-cyan-300 dark:ring-cyan-400/25">{section.badge.label}</span>
 						<span class="inline-flex items-center space-x-2 text-sm/6 font-medium text-gray-600 dark:text-gray-300">
 							<span>{section.badge.text}</span>
 							<svg viewBox="0 0 20 20" fill="currentColor" data-slot="icon" aria-hidden="true" class="size-5 text-gray-400 dark:text-gray-500">
@@ -50,7 +46,7 @@ const { section, lang } = Astro.props;
 			<h1 class="mt-10 text-5xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-7xl dark:text-white">{section.title}</h1>
 			<p class="mt-8 text-lg font-medium text-pretty text-gray-500 sm:text-xl/8 dark:text-gray-400">{section.description}</p>
 			<div class="mt-10 flex items-center gap-x-6">
-				<a href={resolveHref(section.primaryCta, lang)} class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 dark:bg-indigo-500 dark:hover:bg-indigo-400 dark:focus-visible:outline-indigo-500">{section.primaryCta.label}</a>
+				<a href={resolveHref(section.primaryCta, lang)} class="rounded-md bg-blue-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-sky-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600 dark:bg-blue-500 dark:hover:bg-sky-400 dark:focus-visible:outline-sky-400">{section.primaryCta.label}</a>
 				<a href={resolveHref(section.secondaryCta, lang)} class="text-sm/6 font-semibold text-gray-900 dark:text-white">{section.secondaryCta.label} <span aria-hidden="true">→</span></a>
 			</div>
 		</div>

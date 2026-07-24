@@ -16,6 +16,8 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Xer Blog',
+			favicon: 'https://xer-assets.ankornova.com/xer-logo.svg',
+			customCss: ['./src/styles/brand.css'],
 			routeMiddleware: './src/routeData.ts',
 			// Same locale set as xer-docs. English is the default locale. Spanish is
 			// human-maintained; the remaining locales are AI-translated and get an

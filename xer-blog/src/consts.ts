@@ -3,6 +3,8 @@
 
 // Brand shown in the shared header across all Xer sites.
 export const BRAND_NAME = 'Xer';
+export const BRAND_MARK_URL = 'https://xer-assets.ankornova.com/xer-logo.svg';
+export const BRAND_LOGO_URL = 'https://xer-assets.ankornova.com/xer-logo-text.svg';
 
 // Cross-site URLs for the unified header. In production these come from the
 // PUBLIC_* build variables set in Cloudflare; in dev they fall back to the

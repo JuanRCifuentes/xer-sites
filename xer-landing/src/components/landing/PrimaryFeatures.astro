@@ -14,7 +14,7 @@ const { section, lang } = Astro.props;
 
 <div class="mx-auto mt-32 max-w-7xl px-6 sm:mt-56 lg:px-8">
 	<div class="mx-auto max-w-2xl lg:text-center">
-		<h2 class="text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">
+		<h2 class="text-base/7 font-semibold text-blue-600 dark:text-cyan-300">
 			{section.eyebrow}
 		</h2>
 		<p class="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl lg:text-balance dark:text-white">
@@ -29,7 +29,7 @@ const { section, lang } = Astro.props;
 			{section.features.map((feature) => (
 				<div class="flex flex-col">
 					<dt class="text-base/7 font-semibold text-gray-900 dark:text-white">
-						<div class="mb-6 flex size-10 items-center justify-center rounded-lg bg-indigo-600 dark:bg-indigo-500">
+						<div class="mb-6 flex size-10 items-center justify-center rounded-lg bg-blue-600 dark:bg-blue-500">
 							<Icon name={feature.icon} class="size-6 text-white" />
 						</div>
 						{feature.name}
@@ -38,7 +38,7 @@ const { section, lang } = Astro.props;
 						<p class="flex-auto">{feature.description}</p>
 						{feature.link && (
 							<p class="mt-6">
-								<a href={resolveHref(feature.link, lang)} class="text-sm/6 font-semibold text-indigo-600 hover:text-indigo-500 dark:text-indigo-400 dark:hover:text-indigo-300">
+								<a href={resolveHref(feature.link, lang)} class="text-sm/6 font-semibold text-blue-600 hover:text-sky-500 dark:text-cyan-300 dark:hover:text-cyan-200">
 									{feature.link.label} <span aria-hidden="true">→</span>
 								</a>
 							</p>

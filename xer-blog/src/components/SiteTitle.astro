@@ -3,7 +3,7 @@
 // the "Xer" brand links back to the landing site, and the cross-site links let
 // users move between Blog, Metrics, and Docs. Mirrors the SiteTitle override
 // used on the docs site.
-import { BRAND_NAME, SITE_LINKS } from '../consts';
+import { BRAND_LOGO_URL, SITE_LINKS } from '../consts';
 
 // Blog and Metrics both live on this site, so pick the current section from
 // the URL: any /<locale>/metrics/ page is Metrics, everything else is Blog.
@@ -19,7 +19,9 @@ const links = [
 ---
 
 <div class="xer-site-title sl-flex">
-	<a href={`${SITE_LINKS.landing}/${lang}/`} class="xer-brand">{BRAND_NAME}</a>
+	<a href={`${SITE_LINKS.landing}/${lang}/`} class="xer-brand">
+		<img src={BRAND_LOGO_URL} alt="Xer" />
+	</a>
 	<nav class="xer-nav sl-hidden md:sl-flex" aria-label="Cross-site navigation">
 		{
 			links.map((link) => (
@@ -42,11 +44,15 @@ const links = [
 		min-width: 0;
 	}
 	.xer-brand {
-		font-size: var(--sl-text-h4);
-		font-weight: 600;
-		color: var(--sl-color-text-accent);
+		display: flex;
+		align-items: center;
 		text-decoration: none;
 		white-space: nowrap;
+	}
+	.xer-brand img {
+		display: block;
+		height: 1.5rem;
+		width: auto;
 	}
 	.xer-nav {
 		align-items: center;

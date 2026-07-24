@@ -10,6 +10,8 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Xer Docs',
+			favicon: 'https://xer-assets.ankornova.com/xer-logo.svg',
+			customCss: ['./src/styles/brand.css'],
 			// English is the default locale. Spanish is human-maintained; the
 			// remaining locales are AI-translated and get an "AI Generated" banner
 			// (see src/components/Banner.astro).

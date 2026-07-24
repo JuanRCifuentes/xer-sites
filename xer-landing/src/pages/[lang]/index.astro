@@ -9,7 +9,7 @@ import SecondaryFeatures from '../../components/landing/SecondaryFeatures.astro'
 import Stats from '../../components/landing/Stats.astro';
 import CtaBanner from '../../components/landing/CtaBanner.astro';
 import Footer from '../../components/landing/Footer.astro';
-import { SITE_TITLE } from '../../consts';
+import { BRAND_MARK_URL, SITE_TITLE } from '../../consts';
 import { LOCALES, STRINGS, type Lang } from '../../i18n';
 import '../../styles/global.css';
 
@@ -45,7 +45,7 @@ const data = entry.data;
 				document.documentElement.dataset.theme = dark ? 'dark' : 'light';
 			})();
 		</script>
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="icon" type="image/svg+xml" href={BRAND_MARK_URL} />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
 		<title>{data.meta?.title ?? SITE_TITLE}</title>
