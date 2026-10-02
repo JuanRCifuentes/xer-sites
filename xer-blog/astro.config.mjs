@@ -1,5 +1,6 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
+import { unified } from '@astrojs/markdown-remark';
 import starlight from '@astrojs/starlight';
 import remarkMermaid from './src/plugins/remark-mermaid.mjs';
 
@@ -11,7 +12,7 @@ export default defineConfig({
 	// send the bare root to the metrics summary splash page.
 	redirects: { '/': '/en/metrics/', '/en/': '/en/metrics/' },
 	markdown: {
-		remarkPlugins: [remarkMermaid],
+		processor: unified({ remarkPlugins: [remarkMermaid] }),
 	},
 	integrations: [
 		starlight({

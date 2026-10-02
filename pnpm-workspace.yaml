@@ -9,17 +9,21 @@ allowBuilds:
   sharp: true
   workerd: true
 
+# Chevrotain pins this vulnerable patch; keep Mermaid's parser on the fixed release.
+overrides:
+  'lodash-es@4.17.23': 4.18.1
+
 minimumReleaseAgeExclude:
   - '@cloudflare/workerd-darwin-64@1.20260609.1'
   - '@cloudflare/workerd-darwin-arm64@1.20260609.1'
   - '@cloudflare/workerd-linux-64@1.20260609.1'
   - '@cloudflare/workerd-linux-arm64@1.20260609.1'
   - '@cloudflare/workerd-windows-64@1.20260609.1'
-  - miniflare@4.20260609.0
+  - miniflare@4.20260609.0 || 5.20261001.0-alpha
   - workerd@1.20260609.1
-  - wrangler@4.99.0
+  - wrangler@4.99.0 || 4.146.0
   - astro@6.4.5
-  - '@astrojs/starlight@0.40.0'
+  - '@astrojs/starlight@0.40.0 || 0.42.5'
   - '@expressive-code/core@0.43.1'
   - '@expressive-code/plugin-frames@0.43.1'
   - '@expressive-code/plugin-shiki@0.43.1'

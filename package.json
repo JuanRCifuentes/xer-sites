@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "packageManager": "pnpm@11.5.2",
+  "packageManager": "pnpm@12.8.1",
   "engines": {
     "node": ">=24",
-    "pnpm": "11.5.2"
+    "pnpm": "12.8.1"
   },
   "scripts": {
     "dev": "pnpm -r --parallel run dev",
@@ -19,6 +19,6 @@
     "build": "pnpm -r build"
   },
   "devDependencies": {
-    "wrangler": "^4.114.0"
+    "wrangler": "^4.146.0"
   }
 }
