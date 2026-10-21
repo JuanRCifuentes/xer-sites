@@ -3,10 +3,6 @@ meta:
   title: "Xer — جودة جدول Primavera P6، مقاسة"
   description: "يتحقق Xer من جداول Primavera P6 مقابل معايير الجودة المثبتة: صحة منطق CPM، انضباط تاريخ البيانات، القيود، والمسار الحرج الذي يمكنك الدفاع عنه."
 hero:
-  logo:
-    light: "https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=600"
-    dark: "https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=500"
-    alt: "Xer"
   badge:
     label: "ما هو الجديد"
     text: "أدلة معايير الجداول متاحة الآن"
@@ -28,24 +24,6 @@ hero:
     alt: "لقطة من تقييم جودة جدول Xer"
     width: 2432
     height: 1442
-logoCloud:
-  heading: "موثوق به من قبل فرق التخطيط والتحكم بالمشاريع في جميع أنحاء العالم"
-  logos:
-    - name: "Transistor"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg"
-    - name: "Reform"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg"
-    - name: "Tuple"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg"
-    - name: "SavvyCal"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg"
-    - name: "Statamic"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg"
 primaryFeatures:
   eyebrow: "جودة الجدول"
   title: "كل ما تحتاجه لتقييم جدول P6"
@@ -127,21 +105,6 @@ cta:
     site: "blog"
 footer:
   copyright: "© 2026 Xer, Inc. جميع الحقوق محفوظة."
-  social:
-    - name: "Facebook"
-      icon: "facebook"
-      href: "#"
-    - name: "Instagram"
-      icon: "instagram"
-      href: "#"
-    - name: "X"
-      icon: "x"
-      href: "#"
-    - name: "GitHub"
-      icon: "github"
-      href: "#"
-    - name: "YouTube"
-      icon: "youtube"
-      href: "#"
+  social: []
 ---
 AI-translated from en.md — edit freely.

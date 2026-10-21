@@ -10,7 +10,6 @@ const landing = defineCollection({
 	schema: z.object({
 		meta: z.object({ title: z.string(), description: z.string() }).optional(),
 		hero: z.object({
-			logo: z.object({ light: z.string(), dark: z.string(), alt: z.string() }).optional(),
 			badge: z.object({ label: z.string(), text: z.string(), href: z.string(), site: z.enum(["landing", "blog", "docs"]).optional() }).optional(),
 			title: z.string(),
 			description: z.string(),
@@ -18,10 +17,13 @@ const landing = defineCollection({
 			secondaryCta: link,
 			screenshot: image,
 		}),
-		logoCloud: z.object({
-			heading: z.string(),
-			logos: z.array(z.object({ name: z.string(), light: z.string(), dark: z.string() })),
-		}),
+		// Optional: only add customer logos you have permission to show.
+		logoCloud: z
+			.object({
+				heading: z.string(),
+				logos: z.array(z.object({ name: z.string(), light: z.string(), dark: z.string() })),
+			})
+			.optional(),
 		primaryFeatures: z.object({
 			eyebrow: z.string(),
 			title: z.string(),

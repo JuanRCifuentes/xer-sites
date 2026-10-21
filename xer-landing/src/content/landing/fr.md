@@ -3,10 +3,6 @@ meta:
   title: "Xer — Qualité du calendrier Primavera P6, mesurée"
   description: "Xer vérifie les calendriers Primavera P6 par rapport à des métriques de qualité éprouvées : santé de la logique CPM, discipline de la date de situation, contraintes, et un chemin critique que vous pouvez défendre."
 hero:
-  logo:
-    light: "https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=600"
-    dark: "https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=500"
-    alt: "Xer"
   badge:
     label: "Quoi de neuf"
     text: "Les guides des métriques de calendrier sont maintenant en direct"
@@ -28,24 +24,6 @@ hero:
     alt: "Capture d'écran d'une évaluation de qualité de calendrier Xer"
     width: 2432
     height: 1442
-logoCloud:
-  heading: "Approuvé par les planificateurs et les équipes de contrôle de projet du monde entier"
-  logos:
-    - name: "Transistor"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg"
-    - name: "Reform"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg"
-    - name: "Tuple"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg"
-    - name: "SavvyCal"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg"
-    - name: "Statamic"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg"
 primaryFeatures:
   eyebrow: "Qualité du calendrier"
   title: "Tout ce dont vous avez besoin pour évaluer un calendrier P6"
@@ -127,21 +105,6 @@ cta:
     site: "blog"
 footer:
   copyright: "© 2026 Xer, Inc. Tous droits réservés."
-  social:
-    - name: "Facebook"
-      icon: "facebook"
-      href: "#"
-    - name: "Instagram"
-      icon: "instagram"
-      href: "#"
-    - name: "X"
-      icon: "x"
-      href: "#"
-    - name: "GitHub"
-      icon: "github"
-      href: "#"
-    - name: "YouTube"
-      icon: "youtube"
-      href: "#"
+  social: []
 ---
 AI-translated from en.md — edit freely.

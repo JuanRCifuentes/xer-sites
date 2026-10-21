@@ -3,10 +3,6 @@ meta:
   title: "Xer — Primavera P6 进度计划质量测量"
   description: "Xer 根据经过验证的质量指标检查 Primavera P6 进度计划：CPM 逻辑健康性、数据日期规范性、约束条件审查和可辩护的关键路径。"
 hero:
-  logo:
-    light: "https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=600"
-    dark: "https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=500"
-    alt: "Xer"
   badge:
     label: "最新更新"
     text: "进度计划质量指标指南现已上线"
@@ -28,24 +24,6 @@ hero:
     alt: "Xer 进度计划质量评估截图"
     width: 2432
     height: 1442
-logoCloud:
-  heading: "受全球规划师和项目控制团队信任"
-  logos:
-    - name: "Transistor"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg"
-    - name: "Reform"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg"
-    - name: "Tuple"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg"
-    - name: "SavvyCal"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg"
-    - name: "Statamic"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg"
 primaryFeatures:
   eyebrow: "进度计划质量"
   title: "评估 P6 进度计划所需的一切"
@@ -127,22 +105,7 @@ cta:
     site: "blog"
 footer:
   copyright: "© 2026 Xer, Inc. 版权所有。"
-  social:
-    - name: "Facebook"
-      icon: "facebook"
-      href: "#"
-    - name: "Instagram"
-      icon: "instagram"
-      href: "#"
-    - name: "X"
-      icon: "x"
-      href: "#"
-    - name: "GitHub"
-      icon: "github"
-      href: "#"
-    - name: "YouTube"
-      icon: "youtube"
-      href: "#"
+  social: []
 ---
 
 AI-translated from en.md — edit freely.

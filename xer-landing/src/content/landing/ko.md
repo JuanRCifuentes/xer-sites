@@ -3,10 +3,6 @@ meta:
   title: "Xer — Primavera P6 진도계획 품질 측정"
   description: "Xer는 입증된 품질 메트릭 기준으로 Primavera P6 진도계획을 검사합니다: CPM 논리 정합성, 데이터 날짜 규범성, 제약조건 감시, 방어 가능한 중요경로."
 hero:
-  logo:
-    light: "https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=600"
-    dark: "https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=500"
-    alt: "Xer"
   badge:
     label: "새로운 소식"
     text: "진도계획 품질 메트릭 가이드가 출시됨"
@@ -28,24 +24,6 @@ hero:
     alt: "Xer 진도계획 품질 평가 스크린샷"
     width: 2432
     height: 1442
-logoCloud:
-  heading: "전 세계 계획 전문가 및 프로젝트 관리 팀의 신뢰"
-  logos:
-    - name: "Transistor"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg"
-    - name: "Reform"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg"
-    - name: "Tuple"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg"
-    - name: "SavvyCal"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg"
-    - name: "Statamic"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg"
 primaryFeatures:
   eyebrow: "진도계획 품질"
   title: "P6 진도계획 평가에 필요한 모든 것"
@@ -127,22 +105,7 @@ cta:
     site: "blog"
 footer:
   copyright: "© 2026 Xer, Inc. 모든 권리 보유."
-  social:
-    - name: "Facebook"
-      icon: "facebook"
-      href: "#"
-    - name: "Instagram"
-      icon: "instagram"
-      href: "#"
-    - name: "X"
-      icon: "x"
-      href: "#"
-    - name: "GitHub"
-      icon: "github"
-      href: "#"
-    - name: "YouTube"
-      icon: "youtube"
-      href: "#"
+  social: []
 ---
 
 AI-translated from en.md — edit freely.

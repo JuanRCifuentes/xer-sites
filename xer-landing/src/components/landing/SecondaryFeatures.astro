@@ -30,6 +30,8 @@ const { section } = Astro.props;
 				height={section.screenshot.height ?? 1442}
 				src={section.screenshot.light}
 				alt={section.screenshot.alt}
+				loading="lazy"
+				decoding="async"
 				class="mb-[-12%] rounded-xl shadow-2xl ring-1 ring-gray-900/10 dark:hidden dark:ring-white/10"
 			/>
 			<img
@@ -37,6 +39,8 @@ const { section } = Astro.props;
 				height={section.screenshot.height ?? 1442}
 				src={section.screenshot.dark}
 				alt={section.screenshot.alt}
+				loading="lazy"
+				decoding="async"
 				class="mb-[-12%] rounded-xl shadow-2xl ring-1 ring-gray-900/10 not-dark:hidden dark:ring-white/10"
 			/>
 			<div aria-hidden="true" class="relative">

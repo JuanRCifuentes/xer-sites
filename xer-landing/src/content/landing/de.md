@@ -3,10 +3,6 @@ meta:
   title: "Xer — Primavera P6 Terminplanqualität, gemessen"
   description: "Xer prüft Primavera P6-Terminpläne gegen bewährte Qualitätsmetriken: CPM-Logikintegrität, Data Date-Disziplin, Abhängigkeiten und einen Kritischen Pfad, den Sie verteidigen können."
 hero:
-  logo:
-    light: "https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=600"
-    dark: "https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=500"
-    alt: "Xer"
   badge:
     label: "Neuerungen"
     text: "Guides zu Terminplanmetriken sind live"
@@ -28,24 +24,6 @@ hero:
     alt: "Screenshot einer Xer-Terminplanqualitätsbewertung"
     width: 2432
     height: 1442
-logoCloud:
-  heading: "Vertraut von Planern und Projektmanagement-Teams weltweit"
-  logos:
-    - name: "Transistor"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg"
-    - name: "Reform"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg"
-    - name: "Tuple"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg"
-    - name: "SavvyCal"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg"
-    - name: "Statamic"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg"
 primaryFeatures:
   eyebrow: "Terminplanqualität"
   title: "Alles, was Sie zur Bewertung eines P6-Terminplans benötigen"
@@ -127,21 +105,6 @@ cta:
     site: "blog"
 footer:
   copyright: "© 2026 Xer, Inc. Alle Rechte vorbehalten."
-  social:
-    - name: "Facebook"
-      icon: "facebook"
-      href: "#"
-    - name: "Instagram"
-      icon: "instagram"
-      href: "#"
-    - name: "X"
-      icon: "x"
-      href: "#"
-    - name: "GitHub"
-      icon: "github"
-      href: "#"
-    - name: "YouTube"
-      icon: "youtube"
-      href: "#"
+  social: []
 ---
 AI-translated from en.md — edit freely.

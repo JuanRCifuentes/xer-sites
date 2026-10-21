@@ -57,7 +57,7 @@ const data = entry.data;
 		<div class="bg-white dark:bg-gray-900">
 			<main>
 				<Hero section={data.hero} lang={lang} />
-				<LogoCloud section={data.logoCloud} />
+				{data.logoCloud && <LogoCloud section={data.logoCloud} />}
 				<PrimaryFeatures section={data.primaryFeatures} lang={lang} />
 				<SecondaryFeatures section={data.secondaryFeatures} />
 				<Stats section={data.stats} />
