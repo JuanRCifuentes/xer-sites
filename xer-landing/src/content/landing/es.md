@@ -105,6 +105,5 @@ cta:
     site: "blog"
 footer:
   copyright: "© 2026 Xer, Inc. Todos los derechos reservados."
-  social: []
 ---
 Contenido en español mantenido junto al inglés — el texto vive en el frontmatter.

@@ -29,5 +29,5 @@ export const GET: APIRoute = async ({ site }) => {
 		...list((page) => page.data.contentType === 'blog'),
 		'',
 	].join('\n');
-	return new Response(body, { headers: { 'Content-Type': 'text/markdown; charset=utf-8' } });
+	return new Response(body);
 };

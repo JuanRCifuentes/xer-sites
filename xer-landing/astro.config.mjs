@@ -2,9 +2,9 @@
 import sitemap from '@astrojs/sitemap';
 import tailwindcss from '@tailwindcss/vite';
 import { defineConfig } from 'astro/config';
+import { DEFAULT_LANG, LOCALES } from './src/i18n.ts';
 
-// Keep in sync with src/i18n.ts and the Starlight sites' locale config.
-const locales = ['en', 'zh', 'ar', 'hi', 'es', 'pt', 'ru', 'fr', 'de', 'ko', 'ja', 'it'];
+const locales = Object.keys(LOCALES);
 
 // https://astro.build/config
 export default defineConfig({
@@ -15,7 +15,7 @@ export default defineConfig({
 	// blog and docs sites, so send the bare root to the default locale.
 	redirects: { '/': '/en/' },
 	i18n: {
-		defaultLocale: 'en',
+		defaultLocale: DEFAULT_LANG,
 		locales,
 		routing: {
 			prefixDefaultLocale: true,
@@ -24,7 +24,7 @@ export default defineConfig({
 	},
 	integrations: [
 		sitemap({
-			i18n: { defaultLocale: 'en', locales: Object.fromEntries(locales.map((code) => [code, code])) },
+			i18n: { defaultLocale: DEFAULT_LANG, locales: Object.fromEntries(locales.map((code) => [code, code])) },
 		}),
 	],
 	vite: {

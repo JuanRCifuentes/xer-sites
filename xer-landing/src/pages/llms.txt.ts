@@ -27,5 +27,5 @@ export const GET: APIRoute = async () => {
 		`- [Documentation](${SITE_LINKS.docs}/en/)`,
 		'',
 	].join('\n');
-	return new Response(body, { headers: { 'Content-Type': 'text/markdown; charset=utf-8' } });
+	return new Response(body);
 };

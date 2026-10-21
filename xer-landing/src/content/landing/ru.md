@@ -105,6 +105,5 @@ cta:
     site: "blog"
 footer:
   copyright: "© 2026 Xer, Inc. Все права защищены."
-  social: []
 ---
 AI-translated from en.md — edit freely.

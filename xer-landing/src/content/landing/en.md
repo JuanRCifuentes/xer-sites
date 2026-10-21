@@ -105,6 +105,5 @@ cta:
     site: "blog"
 footer:
   copyright: "© 2026 Xer, Inc. All rights reserved."
-  social: []
 ---
 All landing-page copy lives in the frontmatter above. Edit it there; the page renders it through the components in src/components/landing/.

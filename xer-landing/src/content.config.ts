@@ -51,7 +51,7 @@ const landing = defineCollection({
 		}),
 		footer: z.object({
 			copyright: z.string(),
-			social: z.array(z.object({ name: z.string(), icon: z.string(), href: z.string() })),
+			social: z.array(z.object({ name: z.string(), icon: z.string(), href: z.string() })).optional(),
 		}),
 	}),
 });

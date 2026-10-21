@@ -11,7 +11,7 @@ const { section } = Astro.props;
 
 <footer class="mx-auto max-w-7xl px-6 lg:px-8">
 	<div class="border-t border-gray-200 py-12 md:flex md:items-center md:justify-between dark:border-white/10">
-		{section.social.length > 0 && (
+		{section.social && section.social.length > 0 && (
 			<div class="mb-8 flex justify-center gap-x-6 md:order-2 md:mb-0">
 				{section.social.map((item) => (
 					<a href={item.href} rel="me" class="text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-white">
