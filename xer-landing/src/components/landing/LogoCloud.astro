@@ -2,7 +2,7 @@
 import type { CollectionEntry } from "astro:content";
 
 type Props = {
-	section: CollectionEntry<"landing">["data"]["logoCloud"];
+	section: NonNullable<CollectionEntry<"landing">["data"]["logoCloud"]>;
 };
 
 const { section } = Astro.props;
@@ -20,6 +20,8 @@ const positional = ["", "", "", "sm:col-start-2", "col-start-2 sm:col-start-auto
 					height="48"
 					src={logo.light}
 					alt={logo.name}
+					loading="lazy"
+					decoding="async"
 					class:list={["col-span-2 max-h-12 w-full object-contain lg:col-span-1 dark:hidden", positional[i] ?? ""]}
 				/>
 				<img
@@ -27,6 +29,8 @@ const positional = ["", "", "", "sm:col-start-2", "col-start-2 sm:col-start-auto
 					height="48"
 					src={logo.dark}
 					alt={logo.name}
+					loading="lazy"
+					decoding="async"
 					class:list={["col-span-2 max-h-12 w-full object-contain not-dark:hidden lg:col-span-1", positional[i] ?? ""]}
 				/>
 			</>

@@ -9,6 +9,7 @@ import SecondaryFeatures from '../../components/landing/SecondaryFeatures.astro'
 import Stats from '../../components/landing/Stats.astro';
 import CtaBanner from '../../components/landing/CtaBanner.astro';
 import Footer from '../../components/landing/Footer.astro';
+import SeoHead from '../../components/SeoHead.astro';
 import { BRAND_MARK_URL, SITE_TITLE } from '../../consts';
 import { LOCALES, STRINGS, type Lang } from '../../i18n';
 import '../../styles/global.css';
@@ -46,10 +47,9 @@ const data = entry.data;
 			})();
 		</script>
 		<link rel="icon" type="image/svg+xml" href={BRAND_MARK_URL} />
-		<meta name="viewport" content="width=device-width" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="generator" content={Astro.generator} />
-		<title>{data.meta?.title ?? SITE_TITLE}</title>
-		<meta name="description" content={data.meta?.description ?? t.description} />
+		<SeoHead lang={lang} title={data.meta?.title ?? SITE_TITLE} description={data.meta?.description ?? t.description} />
 	</head>
 	<body class="bg-white dark:bg-gray-900">
 		<Header lang={lang} />
@@ -57,7 +57,7 @@ const data = entry.data;
 		<div class="bg-white dark:bg-gray-900">
 			<main>
 				<Hero section={data.hero} lang={lang} />
-				<LogoCloud section={data.logoCloud} />
+				{data.logoCloud && <LogoCloud section={data.logoCloud} />}
 				<PrimaryFeatures section={data.primaryFeatures} lang={lang} />
 				<SecondaryFeatures section={data.secondaryFeatures} />
 				<Stats section={data.stats} />

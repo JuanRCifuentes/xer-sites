@@ -3,10 +3,6 @@ meta:
   title: "Xer — Qualità del cronogramma Primavera P6, misurata"
   description: "Xer controlla i cronogrammi Primavera P6 rispetto a metriche di qualità collaudate: integrità della logica CPM, disciplina della Data Date, vincoli e un percorso critico che puoi difendere."
 hero:
-  logo:
-    light: "https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=600"
-    dark: "https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=500"
-    alt: "Xer"
   badge:
     label: "Novità"
     text: "Guide alle metriche del cronogramma sono live"
@@ -28,24 +24,6 @@ hero:
     alt: "Screenshot di una valutazione della qualità del cronogramma di Xer"
     width: 2432
     height: 1442
-logoCloud:
-  heading: "Affidato da planner e team di project controls in tutto il mondo"
-  logos:
-    - name: "Transistor"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg"
-    - name: "Reform"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg"
-    - name: "Tuple"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg"
-    - name: "SavvyCal"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg"
-    - name: "Statamic"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg"
 primaryFeatures:
   eyebrow: "Qualità del cronogramma"
   title: "Tutto ciò di cui hai bisogno per valutare un cronogramma P6"
@@ -127,21 +105,5 @@ cta:
     site: "blog"
 footer:
   copyright: "© 2026 Xer, Inc. Tutti i diritti riservati."
-  social:
-    - name: "Facebook"
-      icon: "facebook"
-      href: "#"
-    - name: "Instagram"
-      icon: "instagram"
-      href: "#"
-    - name: "X"
-      icon: "x"
-      href: "#"
-    - name: "GitHub"
-      icon: "github"
-      href: "#"
-    - name: "YouTube"
-      icon: "youtube"
-      href: "#"
 ---
 AI-translated from en.md — edit freely.

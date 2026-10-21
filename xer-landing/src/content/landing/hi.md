@@ -3,10 +3,6 @@ meta:
   title: "Xer — Primavera P6 शेड्यूल की गुणवत्ता, मापी गई"
   description: "Xer Primavera P6 शेड्यूल को सिद्ध गुणवत्ता मेट्रिक्स के विरुद्ध जांचता है: CPM लॉजिक स्वास्थ्य, डेटा डेट अनुशासन, बाधाएं, और एक महत्वपूर्ण पथ जिसका आप बचाव कर सकते हैं।"
 hero:
-  logo:
-    light: "https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=600"
-    dark: "https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=500"
-    alt: "Xer"
   badge:
     label: "नया क्या है"
     text: "शेड्यूल मेट्रिक्स गाइड अब लाइव हैं"
@@ -28,24 +24,6 @@ hero:
     alt: "Xer शेड्यूल गुणवत्ता मूल्यांकन का स्क्रीनशॉट"
     width: 2432
     height: 1442
-logoCloud:
-  heading: "दुनिया भर के योजनाकार और प्रोजेक्ट नियंत्रण टीमों द्वारा विश्वस्त"
-  logos:
-    - name: "Transistor"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg"
-    - name: "Reform"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg"
-    - name: "Tuple"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg"
-    - name: "SavvyCal"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg"
-    - name: "Statamic"
-      light: "https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-gray-900.svg"
-      dark: "https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg"
 primaryFeatures:
   eyebrow: "शेड्यूल गुणवत्ता"
   title: "P6 शेड्यूल का मूल्यांकन करने के लिए आपको सभी कुछ चाहिए"
@@ -127,21 +105,5 @@ cta:
     site: "blog"
 footer:
   copyright: "© 2026 Xer, Inc. सर्वाधिकार सुरक्षित।"
-  social:
-    - name: "Facebook"
-      icon: "facebook"
-      href: "#"
-    - name: "Instagram"
-      icon: "instagram"
-      href: "#"
-    - name: "X"
-      icon: "x"
-      href: "#"
-    - name: "GitHub"
-      icon: "github"
-      href: "#"
-    - name: "YouTube"
-      icon: "youtube"
-      href: "#"
 ---
 AI-translated from en.md — edit freely.
