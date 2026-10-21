@@ -38,7 +38,6 @@ function withoutManagedSeo(head: HeadEntry[]) {
 	return head.filter((entry) => {
 		if (entry.tag === 'title') return false;
 		if (entry.tag === 'link' && entry.attrs?.rel === 'canonical') return false;
-		if (entry.tag === 'link' && entry.attrs?.rel === 'alternate') return false;
 		if (entry.tag === 'script' && entry.attrs?.id === 'article-structured-data') return false;
 		if (entry.tag !== 'meta') return true;
 		const name = entry.attrs?.name;

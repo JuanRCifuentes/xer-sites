@@ -4,6 +4,9 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	// The production origin, already set in Cloudflare for the cross-site header
+	// links. It drives canonical URLs, hreflang alternates, and the sitemap.
+	site: process.env.PUBLIC_DOCS_URL,
 	// All locales (including English) live under a path prefix, so send the
 	// bare root to the default locale.
 	redirects: { '/': '/en/' },
@@ -34,7 +37,6 @@ export default defineConfig({
 				SiteTitle: './src/components/SiteTitle.astro',
 				Banner: './src/components/Banner.astro',
 			},
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
 				{
 					label: 'Guides',

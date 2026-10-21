@@ -6,7 +6,9 @@ import remarkMermaid from './src/plugins/remark-mermaid.mjs';
 
 // https://astro.build/config
 export default defineConfig({
-	site: process.env.SITE_URL,
+	// The production origin drives canonical URLs, hreflang alternates, and the
+	// sitemap. PUBLIC_BLOG_URL is already set in Cloudflare for the header links.
+	site: process.env.SITE_URL ?? process.env.PUBLIC_BLOG_URL,
 	// All locales (including English) live under a path prefix. The template
 	// homepage was removed, so until a real landing page exists at en/index,
 	// send the bare root to the metrics summary splash page.
@@ -48,7 +50,6 @@ export default defineConfig({
 				// Shows an estimated reading time under blog post titles.
 				PageTitle: './src/components/PageTitle.astro',
 			},
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
 				{
 					label: 'Blog',

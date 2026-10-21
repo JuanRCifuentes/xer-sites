@@ -1,0 +1,68 @@
+---
+// Search and social metadata for a localized landing page: canonical URL,
+// hreflang alternates for every locale, Open Graph / Twitter tags, and
+// Organization + WebSite structured data. URL-based tags need `site`
+// (PUBLIC_LANDING_URL), so they are skipped in local dev.
+import { BRAND_MARK_URL, BRAND_NAME } from '../consts';
+import { DEFAULT_LANG, LOCALES, type Lang } from '../i18n';
+
+interface Props {
+	lang: Lang;
+	title: string;
+	description: string;
+}
+
+const { lang, title, description } = Astro.props;
+const { site } = Astro;
+const localeUrl = (code: Lang) => (site ? new URL(`/${code}/`, site).href : undefined);
+const canonical = localeUrl(lang);
+
+const organizationId = site && new URL('/#organization', site).href;
+const structuredData = site && {
+	'@context': 'https://schema.org',
+	'@graph': [
+		{
+			'@type': 'Organization',
+			'@id': organizationId,
+			name: BRAND_NAME,
+			url: site.href,
+			logo: BRAND_MARK_URL,
+		},
+		{
+			'@type': 'WebSite',
+			name: BRAND_NAME,
+			url: canonical,
+			description,
+			inLanguage: lang,
+			publisher: { '@id': organizationId },
+		},
+	],
+};
+---
+
+<title>{title}</title>
+<meta name="description" content={description} />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content={BRAND_NAME} />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:locale" content={lang} />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={description} />
+<link rel="sitemap" href="/sitemap-index.xml" />
+<link rel="alternate" type="text/markdown" title="llms.txt" href="/llms.txt" />
+<link rel="preconnect" href={new URL(BRAND_MARK_URL).origin} />
+{
+	canonical && (
+		<>
+			<link rel="canonical" href={canonical} />
+			<meta property="og:url" content={canonical} />
+			{(Object.keys(LOCALES) as Lang[]).map((code) => (
+				<link rel="alternate" hreflang={code} href={localeUrl(code)} />
+			))}
+			<link rel="alternate" hreflang="x-default" href={localeUrl(DEFAULT_LANG)} />
+			<script type="application/ld+json" set:html={JSON.stringify(structuredData).replace(/</g, '\\u003c')} />
+		</>
+	)
+}
